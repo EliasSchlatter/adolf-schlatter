@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Werner Neuer - Adolf Schlatter Preis</title>
+    <meta name="description" content="Preisträger des Adolf-Schlatter-Preises 2005: Dr. Werner Neuer, Evangelischer Pfarrer und ehem. Dozent am Theologischen Seminar St. Chrischona">
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    
+    <style>
+        ::-webkit-scrollbar { display: none;}
+        .font-headline { font-family: 'Merriweather', serif; }
+        .font-body { font-family: 'Inter', sans-serif; }
+        .font-highlight { font-family: 'Playfair Display', serif; }
+    </style>
+    <script>tailwind.config = {
+  "theme": {
+    "extend": {
+      "colors": {
+        "primary": "#1a365d",
+        "secondary": "#2d5a87",
+        "accent": "#f7fafc",
+        "text-primary": "#2d3748",
+        "text-secondary": "#4a5568",
+        "bg-dark": "#1a202c"
+      }
+    }
+  }
+};</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap">
+</head>
+<body class="bg-white font-custom">
+<script>
+// Preisträger Data
+const preistraegerData = {
+    name: "Dr. Werner Neuer",
+    location: "Schallbach (bei Lörrach), Deutschland",
+    description: "Evangelischer Pfarrer; 2000–2016 Dozent für Systematische Theologie am Theologischen Seminar St. Chrischona; Profilthema: Adolf Schlatter.",
+    image: "../preisträgerImages/dr-werner-neuer.jpg",
+    tags: [
+        "Systematische Theologie",
+        "Dogmatik",
+        "Ethik",
+        "Ökumenische Theologie",
+        "Theologie der Religionen",
+        "Adolf-Schlatter-Forschung"
+    ],
+    biography: "Geboren am 6. Mai 1951. Studium 1970–1972 (Geschichte, Politik, Geographie) in Heidelberg; 1973–1977 Evangelische Theologie in Heidelberg und Tübingen. 1985 Promotion (Systematische Theologie) in Marburg bei C. H. Ratschow. 1990–1997 Wiss. Assistent (Missionswissenschaft/Ökumene) in Tübingen; danach Theologischer Referent der Württembergischen Landeskirche. 2000–2016 Dozent am Theologischen Seminar St. Chrischona; Gastdozenturen u. a. an der Gustav-Siewerth-Akademie und der STH Basel. Seit 2010 Vorsitzender der Theologischen Kommission der IKBG; seit 2004 ständiger Gast im Schülerkreis Benedikt XVI. Verheiratet, sieben Kinder; wohnhaft in Schallbach.",
+    career: [
+        {
+            title: "Dozent (Dogmatik, Ethik, Ökumene, Religionskunde, Theologie der Religionen)",
+            description: "Theologisches Seminar St. Chrischona (TSC) • 2000–2016",
+            icon: "fas fa-university"
+        },
+        {
+            title: "Wissenschaftlicher Assistent",
+            description: "Universität Tübingen, Institut für Missionswissenschaft & Ökumenische Theologie • 1990–1997",
+            icon: "fas fa-flask"
+        },
+        {
+            title: "Theologischer Referent",
+            description: "Evangelische Landeskirche in Württemberg • ab 1997 (nach der Assistentur)",
+            icon: "fas fa-church"
+        }
+    ],
+    specializations: [
+        "Dogmatik & Ethik",
+        "Ökumenische Theologie",
+        "Religionstheologie",
+        "Adolf Schlatter (Leben und Werk)"
+    ],
+    contact: {
+        address: null,
+        phone: null,
+        emails: [],
+        websites: []
+    },
+    awards: [
+        {
+            title: "Adolf-Schlatter-Preis",
+            description: "Auszeichnung 2005"
+        }
+    ],
+    academic: [
+        {
+            title: "Studium (Geschichte/Politik/Geographie)",
+            description: "Universität Heidelberg • 1970–1972",
+            icon: "fas fa-book"
+        },
+        {
+            title: "Studium Evangelische Theologie",
+            description: "Universitäten Heidelberg und Tübingen • 1973–1977",
+            icon: "fas fa-cross"
+        },
+        {
+            title: "Promotion (Dr. theol., Systematische Theologie)",
+            description: "Universität Marburg (bei C. H. Ratschow) • 1985",
+            icon: "fas fa-graduation-cap"
+        }
+    ],
+    publications: [
+        {
+            title: "Adolf Schlatter – Ein Leben für Theologie und Kirche",
+            description: "Monografie, Stuttgart 1996",
+            tags: ["Biographie", "Adolf Schlatter"]
+        },
+        {
+            title: "Mann und Frau in christlicher Sicht",
+            description: "5. Auflage, Gießen/Basel 1993",
+            tags: ["Ethik", "Anthropologie"]
+        },
+        {
+            title: "Heil in allen Weltreligionen?",
+            description: "Zum Offenbarungs- und Heilsverständnis bei John Hick, Gießen 2009",
+            tags: ["Religionstheologie", "Pluralismusdebatte"]
+        },
+        {
+            title: "Der Zusammenhang von Dogmatik und Ethik bei Adolf Schlatter",
+            description: "Dissertation, Brunnen 1988",
+            tags: ["Dogmatik", "Ethik", "Schlatter"]
+        },
+        {
+            title: "Herausgaben/Mitwirkung (Auswahl)",
+            description: "u. a. „Realistische Theologie. Eine Hinführung zu Adolf Schlatter“ (Hrsg., 2006); Sammelbände zu Schlatter (2002).",
+            tags: ["Herausgeberschaft"]
+        }
+    ],
+    researchAreas: [
+        {
+            title: "Adolf-Schlatter-Forschung",
+            description: "Biographie, Hermeneutik und Rezeption Schlatters",
+            icon: "fas fa-scroll"
+        },
+        {
+            title: "Theologie & Ethik",
+            description: "Verhältnis von Dogmatik und Ethik; Ehe- und Sexualethik",
+            icon: "fas fa-scale-balanced"
+        },
+        {
+            title: "Religionstheologie",
+            description: "Christlicher Wahrheitsanspruch im Gespräch mit pluralistischer Theologie",
+            icon: "fas fa-globe"
+        }
+    ]
+};
+</script>
+
+<script src="utils.js"></script>
+<script>
+// Generate page content after utils.js is loaded
+document.addEventListener('DOMContentLoaded', function() {
+    const builder = new PreistraegerPageBuilder(preistraegerData);
+    document.body.innerHTML = builder.generatePage();
+    
+    // Add accordion functionality after page is generated
+    window.toggleAccordion = function(accordionId) {
+        const content = document.getElementById(accordionId);
+        const icon = document.getElementById('icon' + accordionId.slice(-1));
+        
+        if (content.classList.contains('hidden')) {
+            content.classList.remove('hidden');
+            icon.style.transform = 'rotate(180deg)';
+        } else {
+            content.classList.add('hidden');
+            icon.style.transform = 'rotate(0deg)';
+        }
+    };
+    
+            // Appbar NACH dem Content-Generieren laden - mit Verzögerung für bessere Style-Initialisierung
+            setTimeout(() => {
+                if (window.appbarManager) {
+                    window.appbarManager.insertAppbar('appbar-container');
+                } else {
+                    // Fallback falls appbarManager noch nicht geladen ist
+                    setTimeout(() => {
+                        if (window.appbarManager) {
+                            window.appbarManager.insertAppbar('appbar-container');
+                        }
+                    }, 100);
+                }
+            }, 50);
+});
+</script>
+
+<!-- Appbar Utils -->
+<script src="../components/appbar-utils.js"></script>
+
+</body>
+</html>

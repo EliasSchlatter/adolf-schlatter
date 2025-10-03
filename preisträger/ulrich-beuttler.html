@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Ulrich Beuttler - Adolf Schlatter Preis</title>
+    <meta name="description" content="Preisträger des Adolf-Schlatter-Preises 2007: Dr. Ulrich Beuttler, Apl. Professor für Systematische Theologie an der FAU Erlangen-Nürnberg">
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    
+    <style>
+        ::-webkit-scrollbar { display: none;}
+        .font-headline { font-family: 'Merriweather', serif; }
+        .font-body { font-family: 'Inter', sans-serif; }
+        .font-highlight { font-family: 'Playfair Display', serif; }
+    </style>
+    <script>tailwind.config = {
+  "theme": {
+    "extend": {
+      "colors": {
+        "primary": "#1a365d",
+        "secondary": "#2d5a87",
+        "accent": "#f7fafc",
+        "text-primary": "#2d3748",
+        "text-secondary": "#4a5568",
+        "bg-dark": "#1a202c"
+      }
+    }
+  }
+};</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap">
+</head>
+<body class="bg-white font-custom">
+<script>
+// Preisträger Data
+const preistraegerData = {
+    name: "Dr. theol. habil. Dipl.-Phys. Ulrich Beuttler",
+    location: "Erlangen (Deutschland)",
+    description: "Apl. Professor für Systematische Theologie (Dogmatik) an der FAU Erlangen-Nürnberg; Theologe und Physiker mit Schwerpunkt Theologie–Naturwissenschaften",
+    image: "../preisträgerImages/Passbild_Ulrich_Beuttler.jfif",
+    tags: [
+        "Systematische Theologie",
+        "Religionsphilosophie",
+        "Fundamentaltheologie",
+        "Schöpfungslehre",
+        "Theologie und Naturwissenschaft",
+        "Naturphilosophie",
+        "Ethik"
+    ],
+    biography: "Geboren 1967 in Sindelfingen; Physikstudium (Universität Stuttgart, 1987–1993, Diplom). Theologiestudium in Tübingen und Erlangen (1993–1998). 1998–2002 Vikariat und Pfarramt z.A. (Dekanat Calw, Württemberg). 2002–2010 Wissenschaftlicher Assistent am Lehrstuhl für Systematische Theologie I (Dogmatik) der FAU; Promotion 2005 (summa cum laude). 2008–2010 Habilitation in Systematischer Theologie; später apl. Professor. Lehr- und Forschungsschwerpunkte u.a. Gottes- und Schöpfungslehre, Religionsphilosophie, Dialog mit den Naturwissenschaften.",
+    career: [
+        {
+            title: "Apl. Professor (Systematische Theologie/Dogmatik)",
+            description: "FAU Erlangen-Nürnberg • aktuell",
+            icon: "fas fa-university"
+        },
+        {
+            title: "Wissenschaftlicher Assistent",
+            description: "Institut für Systematische Theologie I (Dogmatik), FAU Erlangen-Nürnberg • 2002–2010",
+            icon: "fas fa-flask"
+        },
+        {
+            title: "Pfarrer (ELKWü)",
+            description: "Vikariat und Pfarramt z.A., Dekanat Calw • 1998–2002",
+            icon: "fas fa-church"
+        },
+        {
+            title: "Honorardozent (Systematische Theologie)",
+            description: "Seminare Unterweissach, Johanneum (Wuppertal), Kirchberg/Jagst • 1998–1999",
+            icon: "fas fa-chalkboard-teacher"
+        }
+    ],
+    specializations: [
+        "Gotteslehre",
+        "Schöpfungslehre",
+        "Anthropologie",
+        "Religionsphilosophie",
+        "Theologie & Naturwissenschaft",
+        "Fundamentalethik",
+        "Umwelt-, Technik- und Bioethik"
+    ],
+    contact: {
+        institution: "FAU Erlangen-Nürnberg • Institut für Systematische Theologie",
+        address: "Kochstraße 6, 91054 Erlangen",
+        phone: "+49 911 3239321",
+        email: "Ulrich.Beuttler@theologie.uni-erlangen.de"
+    },
+    awards: [
+        {
+            title: "Karl-Heim-Preis",
+            description: "für die Dissertation „Gottesgewissheit in der relativen Welt“ • 2006"
+        },
+        {
+            title: "Adolf-Schlatter-Preis",
+            description: "zur Förderung christlicher Theologie (für die Dissertation) • 2007"
+        },
+        {
+            title: "Förderpreis Stiftung Theologie und Natur (Aachen)",
+            description: "für „Das Wirken Gottes, die Zeit und die Naturgesetze …“ • 2008"
+        },
+        {
+            title: "Habilitationspreis der FAU",
+            description: "für die Habilitationsschrift „Gott und Raum – Theologie der Weltgegenwart Gottes“ • 2009"
+        }
+    ],
+    academic: [
+        {
+            title: "Physik (Diplom)",
+            description: "Universität Stuttgart • 1987–1993",
+            icon: "fas fa-atom"
+        },
+        {
+            title: "Evangelische Theologie",
+            description: "Universitäten Tübingen und Erlangen • 1993–1998",
+            icon: "fas fa-book"
+        },
+        {
+            title: "Promotion Dr. theol. (summa cum laude)",
+            description: "FAU Erlangen-Nürnberg • 2005 – Thema: „Gottesgewissheit in der relativen Welt“",
+            icon: "fas fa-graduation-cap"
+        },
+        {
+            title: "Habilitation (Systematische Theologie)",
+            description: "FAU Erlangen-Nürnberg • 2008–2010 – Thema: „Gott und Raum – Theologie der Weltgegenwart Gottes“",
+            icon: "fas fa-user-graduate"
+        }
+    ],
+    publications: [
+        {
+            title: "Gottesgewissheit in der relativen Welt – Karl Heims naturphilosophische und erkenntnistheoretische Reflexion des Glaubens",
+            description: "Monografie (Dissertation), Kohlhammer, Stuttgart 2006",
+            tags: ["Karl Heim", "Theologie & Naturwissenschaft"]
+        },
+        {
+            title: "Gott und Raum – Theologie der Weltgegenwart Gottes",
+            description: "Monografie (Habilitation), Vandenhoeck & Ruprecht, Göttingen 2010; auch als eBook",
+            tags: ["Raumtheorien", "Gottesgegenwart"]
+        },
+        {
+            title: "Herausgeberschaft „Glaube und Denken. Jahrbuch der Karl-Heim-Gesellschaft“",
+            description: "Bände 20–22 (2007–2009, Mitherausgeber)",
+            tags: ["Herausgabe", "Karl-Heim-Gesellschaft"]
+        }
+    ],
+    researchAreas: [
+        {
+            title: "Theologie & Naturwissenschaft",
+            description: "Naturgesetze und Gotteswirken, Willensfreiheit/Neurodiskurs, Raum-Zeit-Theologien",
+            icon: "fas fa-microscope"
+        },
+        {
+            title: "Religionsphilosophie",
+            description: "Glaubensgewissheit, Analogielehre, Welt- und Wirklichkeitsverständnisse",
+            icon: "fas fa-brain"
+        },
+        {
+            title: "Ethik",
+            description: "Fundamentalethik, Bio- und Technikethik, Nachhaltigkeit",
+            icon: "fas fa-scale-balanced"
+        }
+    ]
+};
+</script>
+
+<script src="utils.js"></script>
+<script>
+// Generate page content after utils.js is loaded
+document.addEventListener('DOMContentLoaded', function() {
+    const builder = new PreistraegerPageBuilder(preistraegerData);
+    document.body.innerHTML = builder.generatePage();
+    
+    // Add accordion functionality after page is generated
+    window.toggleAccordion = function(accordionId) {
+        const content = document.getElementById(accordionId);
+        const icon = document.getElementById('icon' + accordionId.slice(-1));
+        
+        if (content.classList.contains('hidden')) {
+            content.classList.remove('hidden');
+            icon.style.transform = 'rotate(180deg)';
+        } else {
+            content.classList.add('hidden');
+            icon.style.transform = 'rotate(0deg)';
+        }
+    };
+    
+            // Appbar NACH dem Content-Generieren laden - mit Verzögerung für bessere Style-Initialisierung
+            setTimeout(() => {
+                if (window.appbarManager) {
+                    window.appbarManager.insertAppbar('appbar-container');
+                } else {
+                    // Fallback falls appbarManager noch nicht geladen ist
+                    setTimeout(() => {
+                        if (window.appbarManager) {
+                            window.appbarManager.insertAppbar('appbar-container');
+                        }
+                    }, 100);
+                }
+            }, 50);
+});
+</script>
+
+<!-- Appbar Utils -->
+<script src="../components/appbar-utils.js"></script>
+
+</body>
+</html>

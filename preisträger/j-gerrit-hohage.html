@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pfr. Dr. J.-Gerrit Hohage - Adolf Schlatter Preis</title>
+    <meta name="description" content="Preisträger des Adolf-Schlatter-Preises 2004: Pfr. Dr. J.-Gerrit Hohage, Evangelischer Pfarrer in Gundelfingen und Buchautor">
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    
+    <style>
+        ::-webkit-scrollbar { display: none;}
+        .font-headline { font-family: 'Merriweather', serif; }
+        .font-body { font-family: 'Inter', sans-serif; }
+        .font-highlight { font-family: 'Playfair Display', serif; }
+    </style>
+    <script>tailwind.config = {
+  "theme": {
+    "extend": {
+      "colors": {
+        "primary": "#1a365d",
+        "secondary": "#2d5a87",
+        "accent": "#f7fafc",
+        "text-primary": "#2d3748",
+        "text-secondary": "#4a5568",
+        "bg-dark": "#1a202c"
+      }
+    }
+  }
+};</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap">
+</head>
+<body class="bg-white font-custom">
+<script>
+// Preisträger Data
+const preistraegerData = {
+    name: "Pfr. Dr. J.-Gerrit Hohage",
+    location: "Gundelfingen (bei Freiburg), Deutschland",
+    description: "Evangelischer Pfarrer (seit 2022 in Gundelfingen); zuvor Pfarrer der Ev. Bonhoeffergemeinde Hemsbach (2005–2022). Promovierter Theologe und Buchautor.",
+    image: "../preisträgerImages/Hohage.png",
+    tags: [
+        "Praktische Theologie",
+        "Homiletik",
+        "Lutherforschung",
+        "Adolf Schlatter",
+        "Bibelhermeneutik",
+        "Gemeindepraxis"
+    ],
+    biography: "Geboren am 22.12.1967 in Osnabrück; Schulzeit u. a. in Bonn und Konstanz. Theologiestudium 1989–1997 in Bethel, Erlangen und Heidelberg. Studienassistent am Friedrich-Hauß-Studienzentrum (Schriesheim); Promotion Dr. theol. (Heidelberg) 2005 mit einer Arbeit zur Predigtlehre im Gespräch zwischen Luther und Schlatter. 2005–2022 Pfarrer der Ev. Bonhoeffergemeinde Hemsbach; seit 09/2022 Pfarrer der Ev. Kirchengemeinde Gundelfingen (Einführung 18.09.2022). Verheiratet, Kinder.",
+    career: [
+        {
+            title: "Pfarrer",
+            description: "Evangelische Kirchengemeinde Gundelfingen • seit 2022",
+            icon: "fas fa-church"
+        },
+        {
+            title: "Pfarrer",
+            description: "Ev. Bonhoeffergemeinde Hemsbach • 2005–2022",
+            icon: "fas fa-church"
+        },
+        {
+            title: "Studienassistent / Lehrvikariat / Pfarrvikariat",
+            description: "Friedrich-Hauß-Studienzentrum; Göbrichen; Christuskirche Mannheim • 1997–2004",
+            icon: "fas fa-book"
+        }
+    ],
+    specializations: [
+        "Predigtlehre (Homiletik)",
+        "Amt und Person in der Verkündigung",
+        "Bibelhermeneutik",
+        "Reformations- und Lutherforschung",
+        "Gemeindeaufbau"
+    ],
+    contact: {
+        institution: "Evangelische Kirchengemeinde Gundelfingen",
+        address: "Kirchenwinkel 3, 79194 Gundelfingen",
+        phone: "+49 761 580480",
+        email: "pfarramt@eki-gufi.de",
+        websites: [
+            "https://ev-gufi.de/",
+            "https://ev-kirche-dgv.de/gundelfingen/ueber-uns/pfarramtsteam/",
+            "https://ev-kirche-dgv.de/gundelfingen/kontakt/detail/ort/id/14605-ev-pfarramt-gundelfingen/"
+        ]
+    },
+    awards: [
+        {
+            title: "Adolf-Schlatter-Preis (Juniorpreis)",
+            description: "Juniorpreis der Adolf-Schlatter-Stiftung für die Dissertation • 2004"
+        }
+    ],
+    academic: [
+        {
+            title: "Studium Evangelische Theologie",
+            description: "Bethel, Erlangen, Heidelberg • 1989–1997",
+            icon: "fas fa-university"
+        },
+        {
+            title: "Promotion (Dr. theol.)",
+            description: "Universität Heidelberg • 2005",
+            icon: "fas fa-graduation-cap",
+            details: "Dissertation: „Predigen im Spannungsfeld von Amt und Person“"
+        }
+    ],
+    publications: [
+        {
+            title: "Predigen im Spannungsfeld von Amt und Person. Ein Versuch, Luthers Amts- und Schlatters Personverständnis homiletisch ins Gespräch zu bringen",
+            description: "Neukirchener Verlag, Neukirchen-Vluyn 2005, 384 S. • ISBN 978-3-7887-2127-8",
+            links: [
+                "https://www.thlz.com/artikel/8935",
+                "https://www.vandenhoeck-ruprecht-verlage.com/themen-entdecken/theologie-und-religion/praktische-theologie/2277/predigen-im-spannungsfeld-von-amt-und-person",
+                "https://www.amazon.de/Predigen-Spannungsfeld-von-Amt-Person/dp/3788721278"
+            ]
+        },
+        {
+            title: "Tief verwurzelt glauben: Wie man heute christlich denken kann",
+            description: "SCM Brockhaus, Witten 2024, 368 S. • ISBN 978-3-417-24185-3",
+            links: [
+                "https://www.scm-shop.de/tief-verwurzelt-glauben.html",
+                "https://www.amazon.de/Tief-verwurzelt-glauben-christlich-denken/dp/3417241855",
+                "https://www.lehmanns.de/shop/geisteswissenschaften/63810265-9783417241853-tief-verwurzelt-glauben"
+            ]
+        }
+    ],
+    researchAreas: [
+        {
+            title: "Homiletik & Amtstheologie",
+            description: "Verhältnis von Amt und Person in der Predigt",
+            icon: "fas fa-microphone"
+        },
+        {
+            title: "Bibelhermeneutik",
+            description: "Auslegungstraditionen und reformatorische Zugänge",
+            icon: "fas fa-book-open"
+        },
+        {
+            title: "Glauben in der Postmoderne",
+            description: "Apologetik, Wahrheit und Dekonstruktion",
+            icon: "fas fa-brain"
+        }
+    ]
+};
+</script>
+
+<script src="utils.js"></script>
+<script>
+// Generate page content after utils.js is loaded
+document.addEventListener('DOMContentLoaded', function() {
+    const builder = new PreistraegerPageBuilder(preistraegerData);
+    document.body.innerHTML = builder.generatePage();
+    
+    // Add accordion functionality after page is generated
+    window.toggleAccordion = function(accordionId) {
+        const content = document.getElementById(accordionId);
+        const icon = document.getElementById('icon' + accordionId.slice(-1));
+        
+        if (content.classList.contains('hidden')) {
+            content.classList.remove('hidden');
+            icon.style.transform = 'rotate(180deg)';
+        } else {
+            content.classList.add('hidden');
+            icon.style.transform = 'rotate(0deg)';
+        }
+    };
+    
+            // Appbar NACH dem Content-Generieren laden - mit Verzögerung für bessere Style-Initialisierung
+            setTimeout(() => {
+                if (window.appbarManager) {
+                    window.appbarManager.insertAppbar('appbar-container');
+                } else {
+                    // Fallback falls appbarManager noch nicht geladen ist
+                    setTimeout(() => {
+                        if (window.appbarManager) {
+                            window.appbarManager.insertAppbar('appbar-container');
+                        }
+                    }, 100);
+                }
+            }, 50);
+});
+</script>
+
+<!-- Appbar Utils -->
+<script src="../components/appbar-utils.js"></script>
+
+</body>
+</html>

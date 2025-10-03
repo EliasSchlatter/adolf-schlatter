@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prof. Dr. Roland Deines - Adolf Schlatter Preis</title>
+    <meta name="description" content="Preisträger des Adolf-Schlatter-Preises 2005: Prof. Dr. Roland Deines, Prorektor für Forschung an der Internationalen Hochschule Liebenzell">
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    
+    <style>
+        ::-webkit-scrollbar { display: none;}
+        .font-headline { font-family: 'Merriweather', serif; }
+        .font-body { font-family: 'Inter', sans-serif; }
+        .font-highlight { font-family: 'Playfair Display', serif; }
+    </style>
+    <script>tailwind.config = {
+  "theme": {
+    "extend": {
+      "colors": {
+        "primary": "#1a365d",
+        "secondary": "#2d5a87",
+        "accent": "#f7fafc",
+        "text-primary": "#2d3748",
+        "text-secondary": "#4a5568",
+        "bg-dark": "#1a202c"
+      }
+    }
+  }
+};</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap">
+</head>
+<body class="bg-white font-custom">
+<script>
+// Preisträger Data
+const preistraegerData = {
+    name: "Prof. Dr. habil. Roland Deines",
+    location: "Bad Liebenzell / Nottingham (UK)",
+    description: "Prorektor für Forschung (seit 2022) und Professor für Biblische Theologie & Antikes Judentum an der Internationalen Hochschule Liebenzell; zuvor Professor of New Testament Studies an der University of Nottingham (2009–2016).",
+    image: "../preisträgerImages/Deines.jpg",
+    tags: [
+        "Neues Testament",
+        "Matthäusevangelium",
+        "Jesusforschung",
+        "Antikes Judentum",
+        "Pharisäer",
+        "Bibel & Kanon",
+        "Historiographie"
+    ],
+    biography: "Geboren am 7. Januar 1961 in Herrenberg. Studium der Ev. Theologie (FETA/Universität Basel, Tübingen); 1989 Erstes Theologisches Examen (Tübingen). 1990/91 Studienjahr an der Hebrew University, Jerusalem. 1991–1995 Assistent am Institutum Judaicum (Tübingen). 1995–1997 Vikariat (Württembergische Landeskirche). 1997 Promotion (NT) in Tübingen unter Martin Hengel; 2004 Habilitation (Tübingen) zu Mt 5,13–20. 2006–2016 University of Nottingham (ab 2009 Professor); seit 2017 Professor an der IHL Liebenzell, seit 2022 Prorektor für Forschung. Verheiratet, ein Sohn (geb. 1998, Jerusalem).",
+    career: [
+        {
+            title: "Prorektor für Forschung; Professor für Biblische Theologie & Antikes Judentum",
+            description: "Internationale Hochschule Liebenzell (IHL) • seit 2022 / seit 2017",
+            icon: "fas fa-university"
+        },
+        {
+            title: "Professor of New Testament Studies (zuvor Lecturer/Associate Professor)",
+            description: "University of Nottingham • 2006–2016 (Professor ab 2009)",
+            icon: "fas fa-book"
+        },
+        {
+            title: "Assistent, Projekt CJHNT (K.-W. Niebuhr)",
+            description: "FSU Jena • 2001–2006",
+            icon: "fas fa-flask"
+        },
+        {
+            title: "DFG-Habilitationsstipendium",
+            description: "Universität Tübingen • 1999–2001",
+            icon: "fas fa-graduation-cap"
+        },
+        {
+            title: "Akademische Assistenzen",
+            description: "DEI Jerusalem (1997–1998); Institutum Judaicum Tübingen (1998/99)",
+            icon: "fas fa-landmark"
+        }
+    ],
+    specializations: [
+        "Matthäusevangelium & Evangelienforschung",
+        "Historischer Jesus",
+        "Pharisäer & frühjüdische Frömmigkeit",
+        "Bibelwissenschaftliche Historiographie",
+        "Schriftwerdung & Kanon",
+        "Jüdische Archäologie des ntl. Zeitalters"
+    ],
+    contact: {
+        institution: "Internationale Hochschule Liebenzell (IHL)",
+        phone: "+49 7052 17-7368",
+        email: "roland.deines@ihl.eu",
+        websites: [
+            "https://ihl.eu/personen/roland-deines/",
+            "https://www.nottingham.ac.uk/humanities/departments/theology-and-religious-studies/people/roland.deines"
+        ]
+    },
+    awards: [
+        {
+            title: "Promotionspreis (beste Dissertation 1996/97)",
+            description: "Ev.-Theol. Fakultät Tübingen • 1997"
+        },
+        {
+            title: "Johann-Tobias-Beck-Preis",
+            description: "für die Dissertation • 1997"
+        },
+        {
+            title: "Ehrenpreis der Adolf-Schlatter-Stiftung",
+            description: "für die Habilitationsschrift „Die Gerechtigkeit der Tora …“ • 2005"
+        }
+    ],
+    academic: [
+        {
+            title: "Studium Evangelische Theologie",
+            description: "FETA/Universität Basel; Universität Tübingen • 1981–1989",
+            icon: "fas fa-university",
+            list: ["Basel (FETA/Uni)", "Tübingen"]
+        },
+        {
+            title: "Studienjahr",
+            description: "Hebrew University of Jerusalem • 1990–1991",
+            icon: "fas fa-scroll"
+        },
+        {
+            title: "Promotion Dr. theol. (NT)",
+            description: "Universität Tübingen • 1997 – „Die Pharisäer …“ (summa cum laude)",
+            icon: "fas fa-graduation-cap"
+        },
+        {
+            title: "Habilitation (NT)",
+            description: "Universität Tübingen • 2004 – „Die Gerechtigkeit der Tora im Reich des Messias (Mt 5,13–20)“",
+            icon: "fas fa-user-graduate"
+        }
+    ],
+    publications: [
+        {
+            title: "Jüdische Steingefäße und pharisäische Frömmigkeit",
+            description: "Mohr Siebeck, 1993",
+            tags: ["Reinheitshalacha", "Joh 2,6"]
+        },
+        {
+            title: "Die Pharisäer. Ihr Verständnis im Spiegel der christlichen und jüdischen Forschung seit Wellhausen und Graetz",
+            description: "WUNT 101, Mohr Siebeck, 1997 (Dissertation)",
+            tags: ["Pharisäer", "Forschungsgeschichte"]
+        },
+        {
+            title: "Die Gerechtigkeit der Tora im Reich des Messias: Mt 5,13–20 als Schlüsseltext der matthäischen Theologie",
+            description: "WUNT 177, Mohr Siebeck, 2004 (Habilitation)",
+            tags: ["Matthäus", "Tora", "Ethik"]
+        },
+        {
+            title: "Acts of God in History (hg. mit C. Ochs, P. Watts)",
+            description: "Mohr Siebeck, 2013",
+            tags: ["Theologische Historiographie"]
+        },
+        {
+            title: "Jakobus. Im Schatten des Größeren",
+            description: "Evangelische Verlagsanstalt, 2017",
+            tags: ["Biblische Gestalten", "Jakobus"]
+        },
+        {
+            title: "Herausgeberschaften (Auswahl)",
+            description: "u. a. Philo und das Neue Testament (2004); Walter Grundmann (2007); Neues Testament und hellenistisch-jüdische Alltagskultur (2011); Why does the Bible Matter? (2016)",
+            tags: ["Herausgabe", "CJHNT"]
+        }
+    ],
+    researchAreas: [
+        {
+            title: "Evangelien & Jesusforschung",
+            description: "Matthäus-Theologie, Glaube und Geschichte",
+            icon: "fas fa-book-open"
+        },
+        {
+            title: "Frühjudentum & Pharisäer",
+            description: "Religiöse Praxis, Sozialprofil, Archäologie",
+            icon: "fas fa-landmark"
+        },
+        {
+            title: "Bibel – Schriftwerdung & Kanon",
+            description: "Offenbarungsprozesse, Kanonbildung, Historiographie",
+            icon: "fas fa-feather"
+        }
+    ]
+};
+</script>
+
+<script src="utils.js"></script>
+<script>
+// Generate page content after utils.js is loaded
+document.addEventListener('DOMContentLoaded', function() {
+    const builder = new PreistraegerPageBuilder(preistraegerData);
+    document.body.innerHTML = builder.generatePage();
+    
+    // Add accordion functionality after page is generated
+    window.toggleAccordion = function(accordionId) {
+        const content = document.getElementById(accordionId);
+        const icon = document.getElementById('icon' + accordionId.slice(-1));
+        
+        if (content.classList.contains('hidden')) {
+            content.classList.remove('hidden');
+            icon.style.transform = 'rotate(180deg)';
+        } else {
+            content.classList.add('hidden');
+            icon.style.transform = 'rotate(0deg)';
+        }
+    };
+    
+            // Appbar NACH dem Content-Generieren laden - mit Verzögerung für bessere Style-Initialisierung
+            setTimeout(() => {
+                if (window.appbarManager) {
+                    window.appbarManager.insertAppbar('appbar-container');
+                } else {
+                    // Fallback falls appbarManager noch nicht geladen ist
+                    setTimeout(() => {
+                        if (window.appbarManager) {
+                            window.appbarManager.insertAppbar('appbar-container');
+                        }
+                    }, 100);
+                }
+            }, 50);
+});
+</script>
+
+<!-- Appbar Utils -->
+<script src="../components/appbar-utils.js"></script>
+
+</body>
+</html>

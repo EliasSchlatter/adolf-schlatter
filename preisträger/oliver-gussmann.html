@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Oliver Gußmann - Adolf Schlatter Preis</title>
+    <meta name="description" content="Preisträger des Adolf-Schlatter-Preises: Dr. Oliver Gußmann aus Rothenburg o.d.T.">
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    
+    <style>
+        ::-webkit-scrollbar { display: none;}
+        .font-headline { font-family: 'Merriweather', serif; }
+        .font-body { font-family: 'Inter', sans-serif; }
+        .font-highlight { font-family: 'Playfair Display', serif; }
+    </style>
+    <script>tailwind.config = {
+  "theme": {
+    "extend": {
+      "colors": {
+        "primary": "#2C2F48",
+        "secondary": "#F25C3C",
+        "accent": "#E2E6F5",
+        "text-primary": "#111827",
+        "text-secondary": "#4B5563",
+        "bg-light": "#F9FAFB",
+        "bg-dark": "#1F2937"
+      },
+      "fontFamily": {}
+    }
+  }
+};</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap">
+</head>
+<body class="bg-white font-custom">
+<script>
+// Preisträger Data
+const preistraegerData = {
+    name: "Dr. Oliver Gußmann",
+    location: "Rothenburg ob der Tauber",
+    description: "Gäste-, Pilger- und Touristenpfarrer an St. Jakob (seit 2000); Theologischer Referent beim BCJ Bayern (seit 2022/Einführung 2023)",
+    image: "../preisträgerImages/Gußman.jpeg",
+    tags: [
+        "Kirchenpädagogik",
+        "Neues Testament",
+        "Josephus-Forschung",
+        "Christlich-jüdischer Dialog",
+        "Pilgerpastoral"
+    ],
+    biography: "1963 in Nürnberg geboren. Studium der Evangelischen Theologie in Neuendettelsau, Wien, Erlangen und Bonn; Studienjahr an der Hebrew University Jerusalem. 1991 Erstes, 1994 Zweites kirchliches Examen. Promotion 2006 (Neues Testament, FAU Erlangen). Gemeindepfarrer u.a. in Lichtenfels, Rednitzhembach und Rothenburg o.d.T. Seit 2000 Gäste-, Pilger- und Touristenpfarrer an St. Jakob in Rothenburg; seit 2022/2023 zusätzlich Theologischer Referent beim Verein Begegnung Christen und Juden in Bayern (BCJ).",
+    career: [
+        {
+            title: "Gäste-, Pilger- und Touristenpfarrer",
+            description: "St. Jakob, Rothenburg ob der Tauber • seit 2000",
+            icon: "fas fa-church"
+        },
+        {
+            title: "Theologischer Referent (christlich-jüdischer Dialog)",
+            description: "BCJ Bayern • seit 2022 (Einführung 19.03.2023)",
+            icon: "fas fa-star-of-david"
+        },
+        {
+            title: "Promotion (Dr. theol., Neues Testament)",
+            description: "FAU Erlangen-Nürnberg • 2006",
+            icon: "fas fa-graduation-cap"
+        },
+        {
+            title: "Gemeindepfarrer",
+            description: "Lichtenfels, Rednitzhembach, Rothenburg ob der Tauber",
+            icon: "fas fa-users"
+        }
+    ],
+    specializations: [
+        "Kirchenpädagogik",
+        "Heiliger Raum",
+        "Neues Testament",
+        "Christlich-jüdischer Dialog",
+        "Pilgerpastoral"
+    ],
+    contact: {
+        address: "Klostergasse 15, 91541 Rothenburg ob der Tauber",
+        phone: "+49 9861 700625",
+        emails: [
+            "Oliver_Gussmann@yahoo.com",
+            "Oliver.Gussmann@elkb.de",
+            "Oliver.Gussmann@bcj.de"
+        ],
+        websites: [
+            "https://rothenburg-evangelisch.de/gaeste-und-pilgerseelsorge/kirchenfuehrungen/gaeste-touristen-und-pilgerpfarrer",
+            "https://www.bcj.de/ueber-uns-was-wir-tun/gemeindearbeit",
+            "https://www.rothenburg-unterm-hakenkreuz.de/"
+        ]
+    },
+    awards: [
+        {
+            title: "Adolf-Schlatter-Preis",
+            description: "Förderung christlicher Theologie (für die Dissertation; Jahrgang 2009)"
+        },
+        {
+            title: "Kulturpreis des Frankenbundes",
+            description: "Ehrung für Verdienste um die Aufarbeitung der jüdischen Geschichte in Rothenburg"
+        }
+    ],
+    academic: [
+        {
+            title: "Studium",
+            description: "Evangelische Theologie in Neuendettelsau, Wien, Erlangen und Bonn; Studienjahr in Jerusalem",
+            icon: "fas fa-university",
+            list: ["Neuendettelsau", "Wien", "Erlangen", "Bonn", "Jerusalem"]
+        },
+        {
+            title: "Promotion",
+            description: "Dr. theol. (Neues Testament), FAU Erlangen-Nürnberg • 2006",
+            icon: "fas fa-graduation-cap",
+            details: "Dissertationsthema: Das Priesterverständnis des Flavius Josephus"
+        },
+        {
+            title: "Lehrtätigkeit",
+            description: "Lehraufträge u.a. in Erlangen (2007–2009) und an der Augustana-Hochschule Neuendettelsau (seit 2010)",
+            icon: "fas fa-chalkboard-teacher",
+            list: ["Erlangen", "Neuendettelsau", "Leiden (Kooperationen)"]
+        }
+    ],
+    publications: [
+        {
+            title: "Das Priesterverständnis des Flavius Josephus",
+            description: "Texts and Studies in Ancient Judaism 124, Mohr Siebeck, Tübingen (2008). Monografie auf Basis der Dissertation.",
+            details: "Rezension u.a. in: Journal of Jewish Studies 61 (2010) 157–160."
+        },
+        {
+            title: "Beiträge in Sammelbänden",
+            description: "u.a. in: Ostermayer/Gußmann/Roßmerkel/Töllner (Hg.): Spielraum, Freiraum, Raum für Glauben. Erfahrungen mit offenen Kirchen in Bayern, Nürnberg 2008.",
+            list: [
+                "Warum evangelische Kirchen offen sein müssen",
+                "Das Judentum im christlichen Kirchenraum (mit Axel Töllner)",
+                "Modelle einer offenen Nachtkirche",
+                "Kirchenführungen mit Musik",
+                "Herberge und Kraftort – Kirchenräume für Pilger",
+                "Audioguides – das Medium der Zukunft für Kirchenführungen"
+            ]
+        },
+        {
+            title: "Artikel in Zeitschriften",
+            description: "Verschiedene Artikel zu Kirchenpädagogik, Pilgern und Josephus-Forschung"
+        },
+        {
+            title: "Monografien & Mitwirkungen",
+            description: "Eigenständige Werke und kontinuierliche Mitarbeit",
+            list: [
+                "Jüdisches Rothenburg ob der Tauber. Einladung zu einem Rundgang (2003)",
+                "Die Bedeutung der hohepriesterlichen Genealogie und Sukzession nach Josephus (Beitrag, 2003)",
+                "Heilig-Blut-Altar und Jakobsmuschel. Touristenpfarrer in Rothenburg (2001)"
+            ]
+        },
+        {
+            title: "Der alttestamentliche Kanon bei Josephus",
+            description: "Projekt/Manuskript in Vorbereitung (Kanonforschung)"
+        }
+    ],
+    researchAreas: [
+        {
+            title: "Josephus-Forschung",
+            description: "Priesterverständnis, Hohepriestertraditionen, antikes Judentum",
+            icon: "fas fa-scroll"
+        },
+        {
+            title: "Kirchenpädagogik",
+            description: "Offene Kirchen, Vermittlung sakraler Räume, Führungs- und Bildungsformate",
+            icon: "fas fa-church"
+        },
+        {
+            title: "Christlich-jüdischer Dialog",
+            description: "Vorträge, Gemeindeberatung und Bildungsarbeit in Bayern",
+            icon: "fas fa-star-of-david"
+        },
+        {
+            title: "Pilgerpastoral",
+            description: "Begleitung von Pilger*innen, Angebote zu Jakobswegen",
+            icon: "fas fa-route"
+        }
+    ]
+};
+</script>
+
+<script src="utils.js"></script>
+<script>
+// Generate page content after utils.js is loaded
+document.addEventListener('DOMContentLoaded', function() {
+    const builder = new PreistraegerPageBuilder(preistraegerData);
+    document.body.innerHTML = builder.generatePage();
+    
+    // Add accordion functionality after page is generated
+    window.toggleAccordion = function(accordionId) {
+        const content = document.getElementById(accordionId);
+        const icon = document.getElementById('icon' + accordionId.slice(-1));
+        
+        if (content.classList.contains('hidden')) {
+            content.classList.remove('hidden');
+            icon.style.transform = 'rotate(180deg)';
+        } else {
+            content.classList.add('hidden');
+            icon.style.transform = 'rotate(0deg)';
+        }
+    };
+    
+            // Appbar NACH dem Content-Generieren laden - mit Verzögerung für bessere Style-Initialisierung
+            setTimeout(() => {
+                if (window.appbarManager) {
+                    window.appbarManager.insertAppbar('appbar-container');
+                } else {
+                    // Fallback falls appbarManager noch nicht geladen ist
+                    setTimeout(() => {
+                        if (window.appbarManager) {
+                            window.appbarManager.insertAppbar('appbar-container');
+                        }
+                    }, 100);
+                }
+            }, 50);
+});
+</script>
+
+<!-- Appbar Utils -->
+<script src="../components/appbar-utils.js"></script>
+
+</body>
+</html>

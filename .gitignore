@@ -1,0 +1,86 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor and IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Backup Files
+*.bak
+*.backup
+*.old
+
+# Node.js (falls du später npm verwenden möchtest)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Build Output (falls du später ein Build-System verwendest)
+dist/
+build/
+out/
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Local Development
+.local/
+local/
+
+# Compression Files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Adobe Files
+*.psd
+*.ai
+*.indd
+
+# Font Files (optional - falls du viele Fonts hast, die nicht versioniert werden sollen)
+# *.woff
+# *.woff2
+# *.ttf
+# *.otf
+
+# Large Media Files (optional - falls du sehr große Bilder hast)
+# *.mov
+# *.mp4
+# *.avi
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
