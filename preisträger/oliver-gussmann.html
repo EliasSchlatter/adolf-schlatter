@@ -205,7 +205,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     };
     
-            // Appbar NACH dem Content-Generieren laden - mit Verzögerung für bessere Style-Initialisierung
+            // Appbar und Footer NACH dem Content-Generieren laden - mit Verzögerung für bessere Style-Initialisierung
             setTimeout(() => {
                 if (window.appbarManager) {
                     window.appbarManager.insertAppbar('appbar-container');
@@ -217,12 +217,20 @@ document.addEventListener('DOMContentLoaded', function() {
                         }
                     }, 100);
                 }
+                
+                if (window.footerManager) {
+                    window.footerManager.insertFooter('footer-container', {
+                        description: "Preisträger des Adolf-Schlatter-Preises 2009: Dr. Oliver Gußmann, Rothenburg o.d.T."
+                    });
+                }
             }, 50);
 });
 </script>
 
 <!-- Appbar Utils -->
 <script src="../components/appbar-utils.js"></script>
+<!-- Footer Utils -->
+<script src="../components/footer-utils.js"></script>
 
 </body>
 </html>

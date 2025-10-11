@@ -76,6 +76,10 @@ local/
 # *.mp4
 # *.avi
 
+# Project-specific folders
+Schlatter Archiv/
+archiv_data_preparation_files/
+
 # OS Generated Files
 .DS_Store
 .DS_Store?

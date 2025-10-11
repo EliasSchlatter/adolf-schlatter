@@ -856,77 +856,10 @@
     </div>
 </section>
 
-<footer id="footer" class="bg-primary text-white py-16">
-    <div class="max-w-7xl mx-auto px-6 lg:px-8">
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-            <div class="lg:col-span-1">
-                <div class="flex items-center space-x-3 mb-6">
-                    <div class="w-12 h-12 bg-white rounded-lg flex items-center justify-center">
-                        <i class="fas fa-book text-primary text-xl"></i>
-                    </div>
-                    <div>
-                        <h3 class="font-headline font-bold text-xl">Adolf Schlatter</h3>
-                        <p class="text-accent text-sm">Stiftung</p>
-                    </div>
-                </div>
-                <p class="text-accent leading-relaxed mb-6">
-                    Förderung der wissenschaftlichen Beschäftigung mit dem Leben und Werk Adolf Schlatters für Kirche, Theologie und Gesellschaft.
-                </p>
-                <div class="flex space-x-4">
-                    <span class="w-10 h-10 bg-accent bg-opacity-20 rounded-full flex items-center justify-center hover:bg-opacity-30 transition-colors cursor-pointer">
-                        <i class="fab fa-facebook text-accent"></i>
-                    </span>
-                    <span class="w-10 h-10 bg-accent bg-opacity-20 rounded-full flex items-center justify-center hover:bg-opacity-30 transition-colors cursor-pointer">
-                        <i class="fab fa-instagram text-accent"></i>
-                    </span>
-                    <span class="w-10 h-10 bg-accent bg-opacity-20 rounded-full flex items-center justify-center hover:bg-opacity-30 transition-colors cursor-pointer">
-                        <i class="fab fa-linkedin text-accent"></i>
-                    </span>
-                </div>
-            </div>
-            
-            <div>
-                <h4 class="font-headline font-semibold text-lg mb-6">Adolf Schlatter Stiftung</h4>
-                <ul class="space-y-3">
-                    <li><span class="text-accent hover:text-white transition-colors cursor-pointer">Über uns</span></li>
-                    <li><span class="text-accent hover:text-white transition-colors cursor-pointer">Kontakt</span></li>
-                    <li><span class="text-accent hover:text-white transition-colors cursor-pointer">Impressum</span></li>
-                    <li><span class="text-accent hover:text-white transition-colors cursor-pointer">Datenschutz</span></li>
-                </ul>
-            </div>
-            
-            <div>
-                <h4 class="font-headline font-semibold text-lg mb-6">Themen</h4>
-                <ul class="space-y-3">
-                    <li><span class="text-accent hover:text-white transition-colors cursor-pointer">Biografie</span></li>
-                    <li><span class="text-accent hover:text-white transition-colors cursor-pointer">Publikationen</span></li>
-                    <li><span class="text-accent hover:text-white transition-colors cursor-pointer">Preis</span></li>
-                    <li><span class="text-accent hover:text-white transition-colors cursor-pointer">Forschung</span></li>
-                </ul>
-            </div>
-            
-            <div>
-                <h4 class="font-headline font-semibold text-lg mb-6">Bleiben Sie informiert</h4>
-                <p class="text-accent mb-4">Erhalten Sie Updates über neue Inhalte und Veranstaltungen.</p>
-                <div class="flex flex-col space-y-3">
-                    <input type="email" placeholder="Ihre E-Mail-Adresse" class="px-4 py-3 rounded-lg text-primary border-0 focus:ring-2 focus:ring-secondary">
-                    <button class="bg-secondary text-white px-6 py-3 rounded-lg hover:bg-opacity-90 transition-colors font-medium">
-                        Anmelden
-                    </button>
-                </div>
-            </div>
-        </div>
-        
-        <div class="border-t border-accent border-opacity-20 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
-            <p class="text-accent text-sm">© 2024 Adolf Schlatter Stiftung. Alle Rechte vorbehalten.</p>
-            <div class="flex space-x-6 mt-4 md:mt-0">
-                <span class="text-accent hover:text-white text-sm transition-colors cursor-pointer">Nutzungsbedingungen</span>
-                <span class="text-accent hover:text-white text-sm transition-colors cursor-pointer">Datenschutz</span>
-                <span class="text-accent hover:text-white text-sm transition-colors cursor-pointer">Cookie-Richtlinie</span>
-            </div>
-        </div>
-    </div>
-</footer>
+<!-- Footer -->
+<div id="footer-container">
+    <!-- Footer wird hier eingefügt -->
+</div>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -1052,13 +985,21 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <!-- Appbar Utils -->
 <script src="components/appbar-utils.js"></script>
+<!-- Footer Utils -->
+<script src="components/footer-utils.js"></script>
 <script>
-    // Appbar laden - mit Verzögerung für bessere Style-Initialisierung
+    // Appbar und Footer laden - mit Verzögerung für bessere Style-Initialisierung
     document.addEventListener('DOMContentLoaded', function() {
         // Kurze Verzögerung um sicherzustellen, dass alle Styles geladen sind
         setTimeout(() => {
             if (window.appbarManager) {
                 window.appbarManager.insertAppbar('appbar-container');
+            }
+            
+            if (window.footerManager) {
+                window.footerManager.insertFooter('footer-container', {
+                    description: "Förderung der wissenschaftlichen Beschäftigung mit dem Leben und Werk Adolf Schlatters für Kirche, Theologie und Gesellschaft."
+                });
             }
         }, 50);
     });

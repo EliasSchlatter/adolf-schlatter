@@ -1,0 +1,24 @@
+{
+  "name": "heic-converter",
+  "version": "1.0.0",
+  "description": "Konvertiert HEIC-Dateien zu PNG oder JPEG",
+  "main": "convert-heic.js",
+  "scripts": {
+    "convert": "node convert-heic.js",
+    "install-deps": "npm install sharp"
+  },
+  "dependencies": {
+    "heic-convert": "^1.2.4",
+    "openai": "^6.2.0",
+    "sharp": "^0.33.0"
+  },
+  "keywords": [
+    "heic",
+    "converter",
+    "image",
+    "png",
+    "jpeg"
+  ],
+  "author": "",
+  "license": "MIT"
+}

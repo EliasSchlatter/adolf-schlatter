@@ -1,0 +1,39 @@
+/* Footer Component Styles */
+
+#footer {
+    font-family: 'Inter', sans-serif;
+}
+
+#footer .font-headline {
+    font-family: 'Merriweather', serif;
+}
+
+/* Preserve Font Awesome icons */
+#footer .fa, #footer .fas, #footer .far, #footer .fal, #footer .fab {
+    font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands" !important;
+}
+
+/* Hover effects for social media icons */
+#footer .hover\:bg-secondary:hover {
+    background-color: #F25C3C !important;
+}
+
+/* Smooth transitions */
+#footer * {
+    transition: all 0.2s ease-in-out;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    #footer {
+        padding: 3rem 0;
+    }
+    
+    #footer .grid {
+        gap: 2rem;
+    }
+    
+    #footer .md\:col-span-2 {
+        grid-column: span 1;
+    }
+}

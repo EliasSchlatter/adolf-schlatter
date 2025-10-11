@@ -1,4 +1,4 @@
-/**
+    /**
  * Appbar Utils - Zentrale Verwaltung der Appbar für alle Seiten
  */
 class AppbarManager {
@@ -72,6 +72,11 @@ class AppbarManager {
                                 </div>
                             </div>
                         </div>
+
+                        <!-- Archiv -->
+                        <a href="${prefix}archiv-interface.html" class="flex items-center space-x-2 px-4 py-2 text-text-secondary hover:text-primary transition-colors font-medium">
+                            <span>Archiv</span>
+                        </a>
 
                         <!-- Preis -->
                         <div class="relative group">
@@ -207,6 +212,9 @@ class AppbarManager {
                                 <a href="${prefix}aboutSchlatter.html" class="block text-text-secondary hover:text-primary transition-colors">Biografie</a>
                                 <a href="${prefix}aboutSchlatter.html#anhoeren" class="block text-text-secondary hover:text-primary transition-colors">Anhören</a>
                             </div>
+                        </div>
+                        <div>
+                            <a href="${prefix}archiv-interface.html" class="block font-semibold text-primary hover:text-secondary transition-colors">Archiv</a>
                         </div>
                         <div>
                             <h3 class="font-semibold text-primary mb-2">Preis</h3>

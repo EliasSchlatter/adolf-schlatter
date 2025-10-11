@@ -294,70 +294,12 @@ class PreistraegerPageBuilder {
     }
 
 
-    // Generate footer
+    // Generate footer using Footer Component
     generateFooter() {
-        return `<footer id="footer" class="bg-primary text-white py-16">
-        <div class="max-w-7xl mx-auto px-6">
-            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-                <div>
-                    <h3 class="text-xl font-headline font-semibold mb-6">Adolf Schlatter Stiftung</h3>
-                    <ul class="space-y-3">
-                        <li><span class="text-gray-300 hover:text-white transition-colors cursor-pointer">Über uns</span></li>
-                        <li><span class="text-gray-300 hover:text-white transition-colors cursor-pointer">Kontakt</span></li>
-                        <li><span class="text-gray-300 hover:text-white transition-colors cursor-pointer">Impressum</span></li>
-                        <li><span class="text-gray-300 hover:text-white transition-colors cursor-pointer">Datenschutz</span></li>
-                    </ul>
-                </div>
-
-                <div>
-                    <h3 class="text-xl font-headline font-semibold mb-6">Themen</h3>
-                    <ul class="space-y-3">
-                        <li><span class="text-gray-300 hover:text-white transition-colors cursor-pointer">Biografie</span></li>
-                        <li><span class="text-gray-300 hover:text-white transition-colors cursor-pointer">Publikationen</span></li>
-                        <li><span class="text-gray-300 hover:text-white transition-colors cursor-pointer">Preis</span></li>
-                        <li><span class="text-gray-300 hover:text-white transition-colors cursor-pointer">Preisträger</span></li>
-                    </ul>
-                </div>
-
-                <div>
-                    <h3 class="text-xl font-headline font-semibold mb-6">Weitere Preisträger</h3>
-                    <ul class="space-y-3">
-                        <li><span class="text-gray-300 hover:text-white transition-colors cursor-pointer">Alle Preisträger</span></li>
-                        <li><span class="text-gray-300 hover:text-white transition-colors cursor-pointer">Aktuelle Ausschreibung</span></li>
-                        <li><span class="text-gray-300 hover:text-white transition-colors cursor-pointer">Bewerbung</span></li>
-                        <li><span class="text-gray-300 hover:text-white transition-colors cursor-pointer">Jury</span></li>
-                    </ul>
-                </div>
-
-                <div>
-                    <h3 class="text-xl font-headline font-semibold mb-6">Bleiben Sie informiert</h3>
-                    <div class="mb-6">
-                        <div class="flex">
-                            <input type="email" placeholder="E-Mail-Adresse" class="flex-1 px-4 py-2 rounded-l-lg text-gray-900">
-                            <button class="bg-secondary px-6 py-2 rounded-r-lg hover:bg-opacity-90 transition-colors">
-                                <i class="fas fa-paper-plane"></i>
-                            </button>
-                        </div>
-                    </div>
-                    <div class="flex space-x-4">
-                        <span class="w-10 h-10 bg-white bg-opacity-20 rounded-full flex items-center justify-center hover:bg-opacity-30 transition-colors cursor-pointer">
-                            <i class="fab fa-facebook-f"></i>
-                        </span>
-                        <span class="w-10 h-10 bg-white bg-opacity-20 rounded-full flex items-center justify-center hover:bg-opacity-30 transition-colors cursor-pointer">
-                            <i class="fab fa-instagram"></i>
-                        </span>
-                        <span class="w-10 h-10 bg-white bg-opacity-20 rounded-full flex items-center justify-center hover:bg-opacity-30 transition-colors cursor-pointer">
-                            <i class="fab fa-linkedin-in"></i>
-                        </span>
-                    </div>
-                </div>
-            </div>
-
-            <div class="border-t border-gray-600 mt-12 pt-8 text-center">
-                <p class="text-gray-300">© 2024 Adolf Schlatter Stiftung. Alle Rechte vorbehalten.</p>
-            </div>
-        </div>
-    </footer>`;
+        return `<!-- Footer -->
+<div id="footer-container">
+    <!-- Footer wird hier eingefügt -->
+</div>`;
     }
 
     // Generate JavaScript
@@ -394,6 +336,27 @@ class PreistraegerPageBuilder {
                     }
                 });
             }
+        });
+    </script>
+
+    <!-- Appbar Utils -->
+    <script src="../components/appbar-utils.js"></script>
+    <!-- Footer Utils -->
+    <script src="../components/footer-utils.js"></script>
+    <script>
+        // Appbar und Footer laden
+        document.addEventListener('DOMContentLoaded', function() {
+            setTimeout(() => {
+                if (window.appbarManager) {
+                    window.appbarManager.insertAppbar('appbar-container');
+                }
+                
+                if (window.footerManager) {
+                    window.footerManager.insertFooter('footer-container', {
+                        description: "Preisträger des Adolf-Schlatter-Preises für Förderung christlicher Theologie und herausragende wissenschaftliche Arbeiten."
+                    });
+                }
+            }, 50);
         });
     </script>`;
     }
