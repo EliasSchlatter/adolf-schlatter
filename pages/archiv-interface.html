@@ -12,7 +12,7 @@
     <script src="https://code.highcharts.com/modules/solid-gauge.js"></script>
     
     <!-- Appbar CSS -->
-    <link rel="stylesheet" href="components/appbar.css">
+    <link rel="stylesheet" href="../components/appbar.css">
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -159,29 +159,30 @@
         <!-- Appbar wird hier eingefügt -->
     </div>
 
-    <section id="intro" class="bg-accent py-16">
-        <div class="max-w-7xl mx-auto px-6">
+    <section id="intro" class="relative bg-gradient-to-br from-primary via-bg-dark to-primary py-20 overflow-hidden">
+        <div class="absolute inset-0 bg-gradient-to-r from-primary/90 to-bg-dark/80"></div>
+        <div class="relative max-w-7xl mx-auto px-6">
             <div class="max-w-4xl mx-auto text-center">
                 <div class="flex justify-center mb-6">
-                    <div class="bg-secondary/10 p-4 rounded-full">
+                    <div class="bg-secondary/20 backdrop-blur-sm p-4 rounded-full">
                         <i class="fas fa-archive text-secondary text-3xl"></i>
                     </div>
                 </div>
-                <h1 class="text-4xl md:text-5xl font-merriweather font-bold text-primary mb-4">Adolf Schlatter Archiv</h1>
-                <h2 class="text-xl md:text-2xl font-playfair text-text-secondary mb-6">Digitales Inventar und Forschungseinstieg</h2>
-                <p class="text-lg text-text-secondary leading-relaxed max-w-3xl mx-auto">
+                <h1 class="text-4xl md:text-5xl font-merriweather font-bold text-white mb-4">Adolf Schlatter Archiv</h1>
+                <h2 class="text-xl md:text-2xl font-playfair text-gray-300 mb-6">Digitales Inventar und Forschungseinstieg</h2>
+                <p class="text-lg text-gray-200 leading-relaxed max-w-3xl mx-auto">
                     Das Adolf-Schlatter-Archiv erschließt den Nachlass, die Schriften und die Korrespondenz des Theologen Adolf Schlatter. 
-                    Dieses Interface bietet einen vollständigen Zugang zu allen <span id="total-entries-display">...</span> katalogisierten Einträgen, basierend auf dem originalen Inventar von 1983.
+                    Dieses Interface bietet einen vollständigen Zugang zu allen <span id="total-entries-display" class="font-semibold text-white">...</span> katalogisierten Einträgen, basierend auf dem originalen Inventar von 1983.
                 </p>
                 <div class="mt-8 flex flex-wrap justify-center gap-4">
-                    <div class="bg-white px-4 py-2 rounded-full shadow-sm">
-                        <span class="text-sm font-medium text-text-secondary"><span id="total-entries-badge">...</span> Einträge</span>
+                    <div class="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-full border border-white/20">
+                        <span class="text-sm font-medium text-white"><span id="total-entries-badge">...</span> Einträge</span>
                     </div>
-                    <div class="bg-white px-4 py-2 rounded-full shadow-sm">
-                        <span class="text-sm font-medium text-text-secondary">Bis 1983</span>
+                    <div class="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-full border border-white/20">
+                        <span class="text-sm font-medium text-white">Bis 1983</span>
                     </div>
-                    <div class="bg-white px-4 py-2 rounded-full shadow-sm">
-                        <span class="text-sm font-medium text-text-secondary">Volldigitalisiert</span>
+                    <div class="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-full border border-white/20">
+                        <span class="text-sm font-medium text-white">Volldigitalisiert</span>
                     </div>
                 </div>
             </div>
@@ -1486,17 +1487,27 @@
             
             // ========== PUBLIKATIONSDETAILS SECTION ==========
             const detailFields = [
+                { key: 'teilfolge', label: 'Teilfolge' },
+                { key: 'zeit', label: 'Zeitangabe' },
                 { key: 'erscheinungsort', label: 'Erscheinungsort' },
+                { key: 'ort', label: 'Entstehungsort' },
                 { key: 'verlag', label: 'Verlag' },
+                { key: 'zeitschrift', label: 'Zeitschrift' },
                 { key: 'reihe', label: 'Reihe' },
                 { key: 'band', label: 'Band' },
                 { key: 'heft', label: 'Heft' },
+                { key: 'jahrgang', label: 'Jahrgang' },
                 { key: 'seiten', label: 'Seiten' },
+                { key: 'pagination', label: 'Pagination' },
                 { key: 'umfang', label: 'Umfang' },
+                { key: 'exemplare', label: 'Exemplare' },
                 { key: 'format', label: 'Format' },
-                { key: 'sprache', label: 'Sprache' },
                 { key: 'auflage', label: 'Auflage' },
-                { key: 'ort', label: 'Ort' },
+                { key: 'sprache', label: 'Sprache' },
+                { key: 'lemmaBereich', label: 'Lemmabereich' },
+                { key: 'in', label: 'In (Sammelwerk)' },
+                { key: 'ausgabeVermerk', label: 'Ausgabe' },
+                { key: 'publikationsstatus', label: 'Publikationsstatus' },
                 { key: 'verweis', label: 'Verweis' }
             ].filter(f => entry[f.key]);
             
@@ -1512,6 +1523,43 @@
                     html += `<div class="bg-white p-3 rounded-lg border border-gray-300">
                         <p class="text-xs font-medium text-gray-500 mb-1">${field.label}</p>
                         <p class="text-sm text-gray-900 font-semibold">${entry[field.key]}</p>
+                    </div>`;
+                });
+                
+                html += '</div></section>';
+            }
+            
+            // ========== EXEMPLAR & ZUSATZINFORMATIONEN SECTION ==========
+            const zusatzFields = [
+                { key: 'exemplarart', label: 'Exemplarart', icon: 'fa-file' },
+                { key: 'exemplarhinweis', label: 'Exemplarhinweis', icon: 'fa-note-sticky' },
+                { key: 'widmung', label: 'Widmung', icon: 'fa-pen-fancy' },
+                { key: 'anlass', label: 'Anlass', icon: 'fa-calendar-day' },
+                { key: 'bibelstelle', label: 'Bibelstelle', icon: 'fa-bible' },
+                { key: 'beilagen', label: 'Beilagen', icon: 'fa-paperclip' },
+                { key: 'aufbewahrung', label: 'Aufbewahrung/Provenienz', icon: 'fa-box-archive' },
+                { key: 'zustand', label: 'Erhaltungszustand', icon: 'fa-shield-halved' },
+                { key: 'zustand_status', label: 'Bearbeitungsstatus', icon: 'fa-tasks' },
+                { key: 'anmerkung', label: 'Anmerkung', icon: 'fa-comment' }
+            ].filter(f => entry[f.key]);
+            
+            if (zusatzFields.length > 0) {
+                html += '<section class="bg-[#E8EAED] px-6 py-4 border-b border-gray-100">';
+                html += '<div class="flex items-center space-x-2 mb-3">';
+                html += '<div class="bg-[#2D3440] text-white p-1.5 rounded-lg"><i class="fa-solid fa-tags text-sm"></i></div>';
+                html += '<h3 class="text-lg font-semibold text-gray-900">Exemplar & Zusatzinformationen</h3>';
+                html += '</div>';
+                html += '<div class="space-y-2">';
+                
+                zusatzFields.forEach(field => {
+                    html += `<div class="bg-white rounded-lg p-3 border border-gray-200">
+                        <div class="flex items-start space-x-3">
+                            <i class="fa-solid ${field.icon} text-gray-400 mt-1"></i>
+                            <div class="flex-1">
+                                <p class="text-xs font-medium text-gray-500 mb-1">${field.label}</p>
+                                <p class="text-sm text-gray-900">${entry[field.key]}</p>
+                            </div>
+                        </div>
                     </div>`;
                 });
                 
@@ -2014,9 +2062,9 @@
     </script>
 
     <!-- Appbar Utils -->
-    <script src="components/appbar-utils.js"></script>
+    <script src="../components/appbar-utils.js"></script>
     <!-- Footer Utils -->
-    <script src="components/footer-utils.js"></script>
+    <script src="../components/footer-utils.js"></script>
     <script>
         // Appbar und Footer laden
         document.addEventListener('DOMContentLoaded', function() {
@@ -2035,7 +2083,7 @@
     </script>
 
     <!-- Daten als letztes laden (große Datei) -->
-    <script src="archiv-data.js"></script>
+    <script src="../archiv-data.js"></script>
 
 </body>
 </html>

@@ -10,6 +10,9 @@
     <script>window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     
+    <!-- Appbar CSS -->
+    <link rel="stylesheet" href="../../components/appbar.css">
+    
     <style>
         ::-webkit-scrollbar { display: none;}
         .font-headline { font-family: 'Merriweather', serif; }
@@ -33,13 +36,19 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap">
 </head>
 <body class="bg-white font-custom">
+
+<!-- Appbar Utils -->
+<script src="../../components/appbar-utils.js"></script>
+<!-- Footer Utils -->
+<script src="../../components/footer-utils.js"></script>
+
 <script>
 // Preisträger Data
 const preistraegerData = {
     name: "Dr. Clemens Hägele",
     location: "Öschingen (Mössingen), Baden-Württemberg",
     description: "Evangelischer Pfarrer; ehem. Rektor des Albrecht-Bengel-Hauses (2016–2023); Autor von „Die Schrift als Gnadenmittel“ (2007).",
-    image: "../preisträgerImages/clemens-haegele.avif",
+    image: "../../images/preisträgerImages/clemens-haegele.avif",
     tags: [
         "Systematische Theologie",
         "Schriftlehre",
@@ -175,11 +184,6 @@ document.addEventListener('DOMContentLoaded', function() {
             }, 50);
 });
 </script>
-
-<!-- Appbar Utils -->
-<script src="../components/appbar-utils.js"></script>
-<!-- Footer Utils -->
-<script src="../components/footer-utils.js"></script>
 
 </body>
 </html>

@@ -20,6 +20,9 @@ class PreistraegerPageBuilder {
     <script>window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     
+    <!-- Appbar CSS -->
+    <link rel="stylesheet" href="../../components/appbar.css">
+    
     <style>
         ::-webkit-scrollbar { display: none;}
         .font-headline { font-family: 'Merriweather', serif; }
@@ -60,7 +63,6 @@ class PreistraegerPageBuilder {
     // Generate header navigation (now using Appbar Utils)
     generateHeader() {
         return `<!-- Modern Appbar -->
-<link rel="stylesheet" href="../components/appbar.css">
 <div id="appbar-container">
     <!-- Appbar wird hier eingefügt -->
 </div>`;

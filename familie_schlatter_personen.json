@@ -1,0 +1,105 @@
+[
+  {"id":"P1","name":"Hektor Schlatter","birth_year":1699,"death_year":1742,"occupation":"Pantfmeister, Unterbürgermeister St. Gallen","notes":"","parent_ids":[],"spouse_ids":["P2"],"children_ids":["P3"],"marriage":[{"partner_id":"P2","year":1724}]},
+  {"id":"P2","name":"Anna Barbara Vonwiller","birth_year":null,"death_year":1751,"occupation":"","notes":"","parent_ids":[],"spouse_ids":["P1"],"children_ids":["P3"],"marriage":[{"partner_id":"P1","year":1724}]},
+
+  {"id":"P3","name":"Johannes Schlatter","birth_year":1729,"death_year":1813,"occupation":"Kaufmann, \"Hinter dem Turm\", St. Gallen","notes":"","parent_ids":["P1","P2"],"spouse_ids":["P4"],"children_ids":["P5"],"marriage":[{"partner_id":"P4","year":1764}]},
+  {"id":"P4","name":"Anna Barbara Zollikofer","birth_year":null,"death_year":1810,"occupation":"","notes":"","parent_ids":[],"spouse_ids":["P3"],"children_ids":["P5"],"marriage":[{"partner_id":"P3","year":1764}]},
+
+  {"id":"P5","name":"Hektor Schlatter","birth_year":1766,"death_year":1842,"occupation":"Kaufmann, St. Gallen","notes":"Vater von Adolf Schlatter (über Sohn P10). Zweite Ehe 1794.","parent_ids":["P3","P4"],"spouse_ids":["P6","P7"],"children_ids":["P31","P32","P39","P41","P45","P46","P48","P49","P51","P10","P52","P57","P59"],"marriage":[{"partner_id":"P6","year":1790},{"partner_id":"P7","year":1794}]},
+  {"id":"P6","name":"Elisabeth Corrodi","birth_year":null,"death_year":1792,"occupation":"","notes":"Erste Ehefrau von P5.","parent_ids":[],"spouse_ids":["P5"],"children_ids":[],"marriage":[{"partner_id":"P5","year":1790}]},
+  {"id":"P7","name":"Anna Bernet","birth_year":1773,"death_year":1826,"occupation":"","notes":"Tochter von Kaspar Bernet; Enkelin des Bürgermeisters Hans Kaspar Bernet (St. Gallen).","parent_ids":["P8",null],"spouse_ids":["P5"],"children_ids":["P31","P32","P39","P41","P45","P46","P48","P49","P51","P10","P52","P57","P59"],"marriage":[{"partner_id":"P5","year":1794}]},
+  {"id":"P8","name":"Kaspar Bernet","birth_year":1735,"death_year":1800,"occupation":"","notes":"Vater von Anna Bernet (P7).","parent_ids":[],"spouse_ids":[],"children_ids":["P7"],"marriage":[]},
+  {"id":"P9","name":"Hans Kaspar Bernet","birth_year":null,"death_year":null,"occupation":"Bürgermeister St. Gallen","notes":"Großvater von Anna Bernet (P7).","parent_ids":[],"spouse_ids":[],"children_ids":[],"marriage":[]},
+
+  {"id":"P10","name":"Hektor Stephan Schlatter","birth_year":1805,"death_year":1880,"occupation":"Apotheker, später im väterlichen Geschäft, St. Gallen","notes":"","parent_ids":["P5","P7"],"spouse_ids":["P11"],"children_ids":["P80","P78","P79","P69","P73","P81","P12","P75","P82"],"marriage":[{"partner_id":"P11","year":1839}]},
+  {"id":"P11","name":"Sara Wilhelmine (\"Mina\") Steinmann","birth_year":1819,"death_year":1894,"occupation":"","notes":"Mutter von Adolf Schlatter. Tochter von Kaspar Steinmann; genaue Mutter (Klara Bernet oder Kloephea Heß) im Text nicht eindeutig.","parent_ids":["P64","P66"],"spouse_ids":["P10"],"children_ids":["P80","P78","P79","P69","P73","P81","P12","P75","P82"],"marriage":[{"partner_id":"P10","year":1839}]},
+
+  {"id":"P64","name":"Kaspar Steinmann","birth_year":1781,"death_year":1822,"occupation":"","notes":"I oo Klara Bernet; II oo Kloephea Heß.","parent_ids":[],"spouse_ids":["P65","P66"],"children_ids":["P11"],"marriage":[{"partner_id":"P65","year":null},{"partner_id":"P66","year":null}]},
+  {"id":"P65","name":"Klara Bernet","birth_year":null,"death_year":null,"occupation":"","notes":"Erste Ehe von P64.","parent_ids":[],"spouse_ids":["P64"],"children_ids":[],"marriage":[{"partner_id":"P64","year":null}]},
+  {"id":"P66","name":"Kloephea Heß","birth_year":1798,"death_year":null,"occupation":"","notes":"Zweite Ehe von P64. Tochter des Waisenvaters Lorenz Heß und Ottilie geb. Allgöwer.","parent_ids":["P67","P68"],"spouse_ids":["P64"],"children_ids":["P11"],"marriage":[{"partner_id":"P64","year":null}]},
+  {"id":"P67","name":"Lorenz Heß","birth_year":null,"death_year":null,"occupation":"Waisenvater","notes":"","parent_ids":[],"spouse_ids":["P68"],"children_ids":["P66"],"marriage":[{"partner_id":"P68","year":null}]},
+  {"id":"P68","name":"Ottilie Allgöwer","birth_year":null,"death_year":null,"occupation":"","notes":"","parent_ids":[],"spouse_ids":["P67"],"children_ids":["P66"],"marriage":[{"partner_id":"P67","year":null}]},
+
+  {"id":"P12","name":"Adolf Schlatter","birth_year":1852,"death_year":1938,"occupation":"Theologieprofessor","notes":"","parent_ids":["P10","P11"],"spouse_ids":["P13"],"children_ids":["P14","P15","P16","P17","P18"],"marriage":[{"partner_id":"P13","year":1878}]},
+  {"id":"P13","name":"Susanna Schoop","birth_year":1856,"death_year":1907,"occupation":"","notes":"","parent_ids":[],"spouse_ids":["P12"],"children_ids":["P14","P15","P16","P17","P18"],"marriage":[{"partner_id":"P12","year":1878}]},
+
+  {"id":"P14","name":"Theodor Adolf Schlatter","birth_year":1885,"death_year":1971,"occupation":"zuletzt Prälat","notes":"","parent_ids":["P12","P13"],"spouse_ids":["P20"],"children_ids":["P21","P22","P24","P25","P30"],"marriage":[{"partner_id":"P20","year":1916}]},
+  {"id":"P20","name":"Marie Gundert","birth_year":1888,"death_year":1962,"occupation":"","notes":"","parent_ids":[],"spouse_ids":["P14"],"children_ids":["P21","P22","P24","P25","P30"],"marriage":[{"partner_id":"P14","year":1916}]},
+
+  {"id":"P21","name":"Hanna Schlatter","birth_year":1918,"death_year":1944,"occupation":"","notes":"","parent_ids":["P14","P20"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+  {"id":"P22","name":"Dora Schlatter","birth_year":1920,"death_year":null,"occupation":"","notes":"oo 1950 mit Leonhard (Nachname im Scan unleserlich).","parent_ids":["P14","P20"],"spouse_ids":["P23"],"children_ids":[],"marriage":[{"partner_id":"P23","year":1950}]},
+  {"id":"P23","name":"Leonhard (Familienname unbekannt)","birth_year":null,"death_year":null,"occupation":"","notes":"Ehegatte von Dora (P22).","parent_ids":[],"spouse_ids":["P22"],"children_ids":[],"marriage":[{"partner_id":"P22","year":1950}]},
+  {"id":"P24","name":"Gerhard Schlatter","birth_year":1922,"death_year":1943,"occupation":"","notes":"","parent_ids":["P14","P20"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+  {"id":"P25","name":"Theodor Schlatter","birth_year":1926,"death_year":null,"occupation":"Dekan (später)","notes":"","parent_ids":["P14","P20"],"spouse_ids":["P26"],"children_ids":["P27","P28","P29"],"marriage":[{"partner_id":"P26","year":1954}]},
+  {"id":"P26","name":"Ruth Hecht","birth_year":1929,"death_year":null,"occupation":"","notes":"","parent_ids":[],"spouse_ids":["P25"],"children_ids":["P27","P28","P29"],"marriage":[{"partner_id":"P25","year":1954}]},
+  {"id":"P27","name":"Gerhard Schlatter","birth_year":1955,"death_year":null,"occupation":"","notes":"","parent_ids":["P25","P26"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+  {"id":"P28","name":"Martin Schlatter","birth_year":1957,"death_year":null,"occupation":"","notes":"","parent_ids":["P25","P26"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+  {"id":"P29","name":"Dorothea Schlatter","birth_year":1959,"death_year":null,"occupation":"","notes":"","parent_ids":["P25","P26"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+  {"id":"P30","name":"Ruth Schlatter","birth_year":1917,"death_year":null,"occupation":"","notes":"Tochter von P14/P20 (steht separat als 'Ruth geb. 1917' in der Kindergeneration).","parent_ids":["P14","P20"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+
+  {"id":"P15","name":"Hedwig Schlatter","birth_year":1887,"death_year":1946,"occupation":"","notes":"","parent_ids":["P12","P13"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+  {"id":"P16","name":"Paul Schlatter","birth_year":1888,"death_year":1914,"occupation":"","notes":"","parent_ids":["P12","P13"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+  {"id":"P17","name":"Dora Schlatter","birth_year":1890,"death_year":1969,"occupation":"","notes":"","parent_ids":["P12","P13"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+  {"id":"P18","name":"Ruth Schlatter","birth_year":1893,"death_year":1962,"occupation":"","notes":"oo 1916 mit Pfarrer Friedrich Hinderer.","parent_ids":["P12","P13"],"spouse_ids":["P19"],"children_ids":[],"marriage":[{"partner_id":"P19","year":1916}]},
+  {"id":"P19","name":"Friedrich Hinderer","birth_year":1883,"death_year":1968,"occupation":"Pfarrer","notes":"","parent_ids":[],"spouse_ids":["P18"],"children_ids":[],"marriage":[{"partner_id":"P18","year":1916}]},
+
+  {"id":"P80","name":"Lydia Schlatter","birth_year":1840,"death_year":1899,"occupation":"Lehrerin, St. Gallen","notes":"Kind von P10/P11.","parent_ids":["P10","P11"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+  {"id":"P78","name":"Stephan Schlatter","birth_year":1842,"death_year":1916,"occupation":"","notes":"zuletzt in Wilhelmsdorf; taubstumm.","parent_ids":["P10","P11"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+  {"id":"P79","name":"Monika Schlatter","birth_year":1846,"death_year":1865,"occupation":"Lehrerin","notes":"","parent_ids":["P10","P11"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+  {"id":"P69","name":"Theodor Schlatter","birth_year":1847,"death_year":1918,"occupation":"Kaufmann, Gemeinde- und Erziehungsrat St. Gallen","notes":"oo Laura Schlatter (Enkelin von Hektor Schlatter 1766–1842 und Elisabeth Corrodi).","parent_ids":["P10","P11"],"spouse_ids":["P70"],"children_ids":["P71"],"marriage":[{"partner_id":"P70","year":null}]},
+  {"id":"P70","name":"Laura Schlatter","birth_year":null,"death_year":null,"occupation":"","notes":"Enkelin von Hektor Schlatter (P5) und Elisabeth Corrodi (P6).","parent_ids":[],"spouse_ids":["P69"],"children_ids":["P71"],"marriage":[{"partner_id":"P69","year":null}]},
+  {"id":"P71","name":"Beatrice (\"Bice\") Lutz","birth_year":1897,"death_year":null,"occupation":"","notes":"Tochter von Theodor (P69) und Laura (P70).","parent_ids":["P69","P70"],"spouse_ids":["P72"],"children_ids":[],"marriage":[{"partner_id":"P72","year":null}]},
+  {"id":"P72","name":"Willi Lutz","birth_year":null,"death_year":null,"occupation":"CVJM-Sekretär, Bern","notes":"","parent_ids":[],"spouse_ids":["P71"],"children_ids":[],"marriage":[{"partner_id":"P71","year":null}]},
+
+  {"id":"P73","name":"Wilhelmine Schlatter","birth_year":1849,"death_year":1924,"occupation":"","notes":"oo 1881 Theophil Lutz (Institutsvorstand).","parent_ids":["P10","P11"],"spouse_ids":["P74"],"children_ids":[],"marriage":[{"partner_id":"P74","year":1881}]},
+  {"id":"P74","name":"Theophil Lutz","birth_year":1852,"death_year":1917,"occupation":"Institutsvorstand","notes":"","parent_ids":[],"spouse_ids":["P73"],"children_ids":[],"marriage":[{"partner_id":"P73","year":1881}]},
+
+  {"id":"P81","name":"Christine Schlatter","birth_year":1850,"death_year":1941,"occupation":"Lehrerin","notes":"","parent_ids":["P10","P11"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+
+  {"id":"P75","name":"Dora Schlatter","birth_year":1855,"death_year":1915,"occupation":"Lehrerin","notes":"oo Salomon Schlatter (Sohn des Zimmermanns Kaspar Theodor Schlatter, geb. 1830).","parent_ids":["P10","P11"],"spouse_ids":["P76"],"children_ids":[],"marriage":[{"partner_id":"P76","year":null}]},
+  {"id":"P76","name":"Salomon Schlatter","birth_year":1858,"death_year":1922,"occupation":"","notes":"Sohn des Zimmermanns Kaspar Theodor Schlatter (P77).","parent_ids":["P77"],"spouse_ids":["P75"],"children_ids":[],"marriage":[{"partner_id":"P75","year":null}]},
+  {"id":"P77","name":"Kaspar Theodor Schlatter","birth_year":1830,"death_year":null,"occupation":"Zimmermann","notes":"","parent_ids":[],"spouse_ids":[],"children_ids":["P76"],"marriage":[]},
+
+  {"id":"P82","name":"Anonyma (Kind von Hektor Stephan)","birth_year":null,"death_year":null,"occupation":"","notes":"","parent_ids":["P10","P11"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+
+  {"id":"P31","name":"Anonyma (Kind von Hektor 1766)","birth_year":null,"death_year":null,"occupation":"","notes":"","parent_ids":["P5","P7"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+  {"id":"P32","name":"Babette Schlatter","birth_year":1795,"death_year":1840,"occupation":"","notes":"oo Friedrich Wilhelm Röhrig (Barmer Fabrikant).","parent_ids":["P5","P7"],"spouse_ids":["P33"],"children_ids":["P34","P37"],"marriage":[{"partner_id":"P33","year":null}]},
+  {"id":"P33","name":"Friedrich Wilhelm Röhrig","birth_year":null,"death_year":null,"occupation":"Fabrikant, Barmen","notes":"","parent_ids":[],"spouse_ids":["P32"],"children_ids":["P34","P37"],"marriage":[{"partner_id":"P32","year":null}]},
+  {"id":"P34","name":"Johanna Röhrig","birth_year":null,"death_year":null,"occupation":"","notes":"Von 2a: oo Pastor Georg Burckhardt; Eltern des Pfarrers Johannes Burckhardt (Burckhardthaus, Berlin).","parent_ids":["P32","P33"],"spouse_ids":["P35"],"children_ids":["P36"],"marriage":[{"partner_id":"P35","year":null}]},
+  {"id":"P35","name":"Pastor Georg Burckhardt","birth_year":null,"death_year":null,"occupation":"Pastor","notes":"","parent_ids":[],"spouse_ids":["P34"],"children_ids":["P36"],"marriage":[{"partner_id":"P34","year":null}]},
+  {"id":"P36","name":"Johannes Burckhardt","birth_year":null,"death_year":null,"occupation":"Pfarrer; Burckhardthaus, Berlin","notes":"","parent_ids":["P34","P35"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+  {"id":"P37","name":"Anna Maria Röhrig","birth_year":null,"death_year":null,"occupation":"","notes":"Von 2b: oo Superintendent Wilhelm Gräber, Essen.","parent_ids":["P32","P33"],"spouse_ids":["P38"],"children_ids":[],"marriage":[{"partner_id":"P38","year":null}]},
+  {"id":"P38","name":"Superintendent Wilhelm Gräber","birth_year":null,"death_year":null,"occupation":"Superintendent, Essen","notes":"","parent_ids":[],"spouse_ids":["P37"],"children_ids":[],"marriage":[{"partner_id":"P37","year":null}]},
+
+  {"id":"P39","name":"Kaspar Schlatter","birth_year":1796,"death_year":1862,"occupation":"Pfarrer","notes":"oo Luise von Gemmingen.","parent_ids":["P5","P7"],"spouse_ids":["P40"],"children_ids":[],"marriage":[{"partner_id":"P40","year":null}]},
+  {"id":"P40","name":"Luise von Gemmingen","birth_year":null,"death_year":null,"occupation":"","notes":"","parent_ids":[],"spouse_ids":["P39"],"children_ids":[],"marriage":[{"partner_id":"P39","year":null}]},
+
+  {"id":"P41","name":"Kleofea Schlatter","birth_year":1797,"death_year":1860,"occupation":"","notes":"oo Superintendent Adolf Zahn (Seminardirektor, Giebichenstein).","parent_ids":["P5","P7"],"spouse_ids":["P42"],"children_ids":["P43","P44"],"marriage":[{"partner_id":"P42","year":null}]},
+  {"id":"P42","name":"Superintendent Adolf Zahn","birth_year":null,"death_year":null,"occupation":"Seminardirektor, Giebichenstein","notes":"","parent_ids":[],"spouse_ids":["P41"],"children_ids":["P43","P44"],"marriage":[{"partner_id":"P41","year":null}]},
+  {"id":"P43","name":"D. Adolf Zahn","birth_year":null,"death_year":null,"occupation":"Domprediger Halle; reformierter Pfarrer, Stuttgart","notes":"Kind von P41/P42.","parent_ids":["P41","P42"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+  {"id":"P44","name":"Dr. med. Johannes Zahn","birth_year":null,"death_year":null,"occupation":"Arzt, Stuttgart","notes":"Kind von P41/P42.","parent_ids":["P41","P42"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+
+  {"id":"P45","name":"Margarete Schlatter","birth_year":1799,"death_year":null,"occupation":"","notes":"ledig.","parent_ids":["P5","P7"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+  {"id":"P46","name":"Anna Schlatter","birth_year":1800,"death_year":1853,"occupation":"","notes":"oo Franz Ludwig Zahn (Seminardirektor).","parent_ids":["P5","P7"],"spouse_ids":["P47"],"children_ids":[],"marriage":[{"partner_id":"P47","year":null}]},
+  {"id":"P47","name":"Franz Ludwig Zahn","birth_year":null,"death_year":null,"occupation":"Seminardirektor","notes":"Ort im Scan schwer lesbar.","parent_ids":[],"spouse_ids":["P46"],"children_ids":[],"marriage":[{"partner_id":"P46","year":null}]},
+
+  {"id":"P48","name":"Helene Schlatter","birth_year":null,"death_year":null,"occupation":"","notes":"als Kind gestorben.","parent_ids":["P5","P7"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+  {"id":"P49","name":"Henriette Schlatter","birth_year":1802,"death_year":null,"occupation":"","notes":"oo David Schlatter (\"Tataren-Schlatter\").","parent_ids":["P5","P7"],"spouse_ids":["P50"],"children_ids":[],"marriage":[{"partner_id":"P50","year":null}]},
+  {"id":"P50","name":"David Schlatter","birth_year":null,"death_year":null,"occupation":"","notes":"\"Tataren-Schlatter\".","parent_ids":[],"spouse_ids":["P49"],"children_ids":[],"marriage":[{"partner_id":"P49","year":null}]},
+  {"id":"P51","name":"Christine Schlatter","birth_year":null,"death_year":null,"occupation":"","notes":"als Kind gestorben.","parent_ids":["P5","P7"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+
+  {"id":"P52","name":"Jakob Schlatter","birth_year":1808,"death_year":1879,"occupation":"","notes":"Kansas/USA, später St. Gallen.","parent_ids":["P5","P7"],"spouse_ids":["P53"],"children_ids":["P54","P56"],"marriage":[{"partner_id":"P53","year":null}]},
+  {"id":"P53","name":"Anna Zwingli","birth_year":null,"death_year":null,"occupation":"","notes":"","parent_ids":[],"spouse_ids":["P52"],"children_ids":["P54","P56"],"marriage":[{"partner_id":"P52","year":null}]},
+  {"id":"P54","name":"Luise Schlatter","birth_year":1861,"death_year":1933,"occupation":"","notes":"oo Franz Rendtorff (Theologieprofessor Leipzig).","parent_ids":["P52","P53"],"spouse_ids":["P55"],"children_ids":[],"marriage":[{"partner_id":"P55","year":null}]},
+  {"id":"P55","name":"Franz Rendtorff","birth_year":null,"death_year":null,"occupation":"Theologieprofessor, Leipzig","notes":"","parent_ids":[],"spouse_ids":["P54"],"children_ids":[],"marriage":[{"partner_id":"P54","year":null}]},
+  {"id":"P56","name":"Wilhelm Schlatter","birth_year":null,"death_year":null,"occupation":"Pfarrer der Evang. Gesellschaft, St. Gallen","notes":"","parent_ids":["P52","P53"],"spouse_ids":[],"children_ids":[],"marriage":[]},
+
+  {"id":"P57","name":"Gottlieb Schlatter","birth_year":1809,"death_year":null,"occupation":"Pfarrer","notes":"oo Doris Schulze.","parent_ids":["P5","P7"],"spouse_ids":["P58"],"children_ids":[],"marriage":[{"partner_id":"P58","year":null}]},
+  {"id":"P58","name":"Doris Schulze","birth_year":null,"death_year":null,"occupation":"","notes":"","parent_ids":[],"spouse_ids":["P57"],"children_ids":[],"marriage":[{"partner_id":"P57","year":null}]},
+
+  {"id":"P59","name":"Christine Schlatter","birth_year":1811,"death_year":1895,"occupation":"","notes":"oo Karl Friedrich Klein (Fabrikant, Barmen).","parent_ids":["P5","P7"],"spouse_ids":["P60"],"children_ids":["P61"],"marriage":[{"partner_id":"P60","year":null}]},
+  {"id":"P60","name":"Karl Friedrich Klein","birth_year":null,"death_year":null,"occupation":"Fabrikant, Barmen","notes":"","parent_ids":[],"spouse_ids":["P59"],"children_ids":["P61"],"marriage":[{"partner_id":"P59","year":null}]},
+  {"id":"P61","name":"Anna Klein","birth_year":null,"death_year":null,"occupation":"","notes":"oo Pastor Carl Ninck; Mutter von Dr. Johannes Ninck.","parent_ids":["P59","P60"],"spouse_ids":["P62"],"children_ids":["P63"],"marriage":[{"partner_id":"P62","year":null}]},
+  {"id":"P62","name":"Pastor Carl Ninck","birth_year":null,"death_year":null,"occupation":"Pastor","notes":"","parent_ids":[],"spouse_ids":["P61"],"children_ids":["P63"],"marriage":[{"partner_id":"P61","year":null}]},
+  {"id":"P63","name":"Dr. Johannes Ninck","birth_year":null,"death_year":null,"occupation":"Pfarrer, Winterthur (Familienbiograph)","notes":"","parent_ids":["P61","P62"],"spouse_ids":[],"children_ids":[],"marriage":[]}
+]

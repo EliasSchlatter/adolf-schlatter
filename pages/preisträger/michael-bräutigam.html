@@ -10,6 +10,9 @@
     <script>window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     
+    <!-- Appbar CSS -->
+    <link rel="stylesheet" href="../../components/appbar.css">
+    
     <style>
         ::-webkit-scrollbar { display: none;}
         .font-headline { font-family: 'Merriweather', serif; }
@@ -39,7 +42,7 @@ const preistraegerData = {
     name: "Dr. Michael Bräutigam",
     location: "Melbourne, Australien",
     description: "Vice Principal (Academic), Director Centre for Theology & Psychology und Senior Lecturer in Theology, Melbourne School of Theology / Eastern College Australia",
-    image: "../preisträgerImages/Michael-Brautigam-Portrait-2022-500x500.jpg",
+    image: "../../images/preisträgerImages/Michael-Brautigam-Portrait-2022-500x500.jpg",
     tags: [
         "Systematische Theologie",
         "Christologie",
@@ -186,6 +189,11 @@ const preistraegerData = {
 };
 </script>
 
+<!-- Appbar Utils -->
+<script src="../../components/appbar-utils.js"></script>
+<!-- Footer Utils -->
+<script src="../../components/footer-utils.js"></script>
+
 <script src="utils.js"></script>
 <script>
 // Generate page content after utils.js is loaded
@@ -228,11 +236,6 @@ document.addEventListener('DOMContentLoaded', function() {
             }, 50);
 });
 </script>
-
-<!-- Appbar Utils -->
-<script src="../components/appbar-utils.js"></script>
-<!-- Footer Utils -->
-<script src="../components/footer-utils.js"></script>
 
 </body>
 </html>

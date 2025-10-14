@@ -10,6 +10,9 @@
     <script>window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     
+    <!-- Appbar CSS -->
+    <link rel="stylesheet" href="../../components/appbar.css">
+    
     <style>
         ::-webkit-scrollbar { display: none;}
         .font-headline { font-family: 'Merriweather', serif; }
@@ -33,13 +36,19 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap">
 </head>
 <body class="bg-white font-custom">
+
+<!-- Appbar Utils -->
+<script src="../../components/appbar-utils.js"></script>
+<!-- Footer Utils -->
+<script src="../../components/footer-utils.js"></script>
+
 <script>
 // Preisträger Data
 const preistraegerData = {
     name: "Pfr. Dr. J.-Gerrit Hohage",
     location: "Gundelfingen (bei Freiburg), Deutschland",
     description: "Evangelischer Pfarrer (seit 2022 in Gundelfingen); zuvor Pfarrer der Ev. Bonhoeffergemeinde Hemsbach (2005–2022). Promovierter Theologe und Buchautor.",
-    image: "../preisträgerImages/Hohage.png",
+    image: "../../images/preisträgerImages/Hohage.png",
     tags: [
         "Praktische Theologie",
         "Homiletik",
@@ -185,11 +194,6 @@ document.addEventListener('DOMContentLoaded', function() {
             }, 50);
 });
 </script>
-
-<!-- Appbar Utils -->
-<script src="../components/appbar-utils.js"></script>
-<!-- Footer Utils -->
-<script src="../components/footer-utils.js"></script>
 
 </body>
 </html>

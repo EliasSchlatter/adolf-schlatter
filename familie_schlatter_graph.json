@@ -1,0 +1,3600 @@
+{
+  "graph": {
+    "nodes": [
+      {
+        "id": "P1",
+        "name": "Hektor Schlatter",
+        "birth_year": 1699,
+        "death_year": 1742,
+        "occupation": "Pantfmeister, Unterbürgermeister St. Gallen",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P2",
+        "name": "Anna Barbara Vonwiller",
+        "birth_year": null,
+        "death_year": 1751,
+        "occupation": "",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P3",
+        "name": "Johannes Schlatter",
+        "birth_year": 1729,
+        "death_year": 1813,
+        "occupation": "Kaufmann, \"Hinter dem Turm\", St. Gallen",
+        "notes": "",
+        "generation_depth": 2,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P4",
+        "name": "Anna Barbara Zollikofer",
+        "birth_year": null,
+        "death_year": 1810,
+        "occupation": "",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P5",
+        "name": "Hektor Schlatter",
+        "birth_year": 1766,
+        "death_year": 1842,
+        "occupation": "Kaufmann, St. Gallen",
+        "notes": "Vater von Adolf Schlatter (über Sohn P10). Zweite Ehe 1794.",
+        "generation_depth": 3,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P6",
+        "name": "Elisabeth Corrodi",
+        "birth_year": null,
+        "death_year": 1792,
+        "occupation": "",
+        "notes": "Erste Ehefrau von P5.",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P7",
+        "name": "Anna Bernet",
+        "birth_year": 1773,
+        "death_year": 1826,
+        "occupation": "",
+        "notes": "Tochter von Kaspar Bernet; Enkelin des Bürgermeisters Hans Kaspar Bernet (St. Gallen).",
+        "generation_depth": 2,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P8",
+        "name": "Kaspar Bernet",
+        "birth_year": 1735,
+        "death_year": 1800,
+        "occupation": "",
+        "notes": "Vater von Anna Bernet (P7).",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P9",
+        "name": "Hans Kaspar Bernet",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "Bürgermeister St. Gallen",
+        "notes": "Großvater von Anna Bernet (P7).",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P10",
+        "name": "Hektor Stephan Schlatter",
+        "birth_year": 1805,
+        "death_year": 1880,
+        "occupation": "Apotheker, später im väterlichen Geschäft, St. Gallen",
+        "notes": "",
+        "generation_depth": 4,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P11",
+        "name": "Sara Wilhelmine (\"Mina\") Steinmann",
+        "birth_year": 1819,
+        "death_year": 1894,
+        "occupation": "",
+        "notes": "Mutter von Adolf Schlatter. Tochter von Kaspar Steinmann; genaue Mutter (Klara Bernet oder Kloephea Heß) im Text nicht eindeutig.",
+        "generation_depth": 3,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P64",
+        "name": "Kaspar Steinmann",
+        "birth_year": 1781,
+        "death_year": 1822,
+        "occupation": "",
+        "notes": "I oo Klara Bernet; II oo Kloephea Heß.",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P65",
+        "name": "Klara Bernet",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "",
+        "notes": "Erste Ehe von P64.",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P66",
+        "name": "Kloephea Heß",
+        "birth_year": 1798,
+        "death_year": null,
+        "occupation": "",
+        "notes": "Zweite Ehe von P64. Tochter des Waisenvaters Lorenz Heß und Ottilie geb. Allgöwer.",
+        "generation_depth": 2,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P67",
+        "name": "Lorenz Heß",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "Waisenvater",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P68",
+        "name": "Ottilie Allgöwer",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P12",
+        "name": "Adolf Schlatter",
+        "birth_year": 1852,
+        "death_year": 1938,
+        "occupation": "Theologieprofessor",
+        "notes": "",
+        "generation_depth": 5,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P13",
+        "name": "Susanna Schoop",
+        "birth_year": 1856,
+        "death_year": 1907,
+        "occupation": "",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P14",
+        "name": "Theodor Adolf Schlatter",
+        "birth_year": 1885,
+        "death_year": 1971,
+        "occupation": "zuletzt Prälat",
+        "notes": "",
+        "generation_depth": 6,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P20",
+        "name": "Marie Gundert",
+        "birth_year": 1888,
+        "death_year": 1962,
+        "occupation": "",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P21",
+        "name": "Hanna Schlatter",
+        "birth_year": 1918,
+        "death_year": 1944,
+        "occupation": "",
+        "notes": "",
+        "generation_depth": 7,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P22",
+        "name": "Dora Schlatter",
+        "birth_year": 1920,
+        "death_year": null,
+        "occupation": "",
+        "notes": "oo 1950 mit Leonhard (Nachname im Scan unleserlich).",
+        "generation_depth": 7,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P23",
+        "name": "Leonhard (Familienname unbekannt)",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "",
+        "notes": "Ehegatte von Dora (P22).",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P24",
+        "name": "Gerhard Schlatter",
+        "birth_year": 1922,
+        "death_year": 1943,
+        "occupation": "",
+        "notes": "",
+        "generation_depth": 7,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P25",
+        "name": "Theodor Schlatter",
+        "birth_year": 1926,
+        "death_year": null,
+        "occupation": "Dekan (später)",
+        "notes": "",
+        "generation_depth": 7,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P26",
+        "name": "Ruth Hecht",
+        "birth_year": 1929,
+        "death_year": null,
+        "occupation": "",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P27",
+        "name": "Gerhard Schlatter",
+        "birth_year": 1955,
+        "death_year": null,
+        "occupation": "",
+        "notes": "",
+        "generation_depth": 8,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P28",
+        "name": "Martin Schlatter",
+        "birth_year": 1957,
+        "death_year": null,
+        "occupation": "",
+        "notes": "",
+        "generation_depth": 8,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P29",
+        "name": "Dorothea Schlatter",
+        "birth_year": 1959,
+        "death_year": null,
+        "occupation": "",
+        "notes": "",
+        "generation_depth": 8,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P30",
+        "name": "Ruth Schlatter",
+        "birth_year": 1917,
+        "death_year": null,
+        "occupation": "",
+        "notes": "Tochter von P14/P20 (steht separat als 'Ruth geb. 1917' in der Kindergeneration).",
+        "generation_depth": 7,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P15",
+        "name": "Hedwig Schlatter",
+        "birth_year": 1887,
+        "death_year": 1946,
+        "occupation": "",
+        "notes": "",
+        "generation_depth": 6,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P16",
+        "name": "Paul Schlatter",
+        "birth_year": 1888,
+        "death_year": 1914,
+        "occupation": "",
+        "notes": "",
+        "generation_depth": 6,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P17",
+        "name": "Dora Schlatter",
+        "birth_year": 1890,
+        "death_year": 1969,
+        "occupation": "",
+        "notes": "",
+        "generation_depth": 6,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P18",
+        "name": "Ruth Schlatter",
+        "birth_year": 1893,
+        "death_year": 1962,
+        "occupation": "",
+        "notes": "oo 1916 mit Pfarrer Friedrich Hinderer.",
+        "generation_depth": 6,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P19",
+        "name": "Friedrich Hinderer",
+        "birth_year": 1883,
+        "death_year": 1968,
+        "occupation": "Pfarrer",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P80",
+        "name": "Lydia Schlatter",
+        "birth_year": 1840,
+        "death_year": 1899,
+        "occupation": "Lehrerin, St. Gallen",
+        "notes": "Kind von P10/P11.",
+        "generation_depth": 5,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P78",
+        "name": "Stephan Schlatter",
+        "birth_year": 1842,
+        "death_year": 1916,
+        "occupation": "",
+        "notes": "zuletzt in Wilhelmsdorf; taubstumm.",
+        "generation_depth": 5,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P79",
+        "name": "Monika Schlatter",
+        "birth_year": 1846,
+        "death_year": 1865,
+        "occupation": "Lehrerin",
+        "notes": "",
+        "generation_depth": 5,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P69",
+        "name": "Theodor Schlatter",
+        "birth_year": 1847,
+        "death_year": 1918,
+        "occupation": "Kaufmann, Gemeinde- und Erziehungsrat St. Gallen",
+        "notes": "oo Laura Schlatter (Enkelin von Hektor Schlatter 1766–1842 und Elisabeth Corrodi).",
+        "generation_depth": 5,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P70",
+        "name": "Laura Schlatter",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "",
+        "notes": "Enkelin von Hektor Schlatter (P5) und Elisabeth Corrodi (P6).",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P71",
+        "name": "Beatrice (\"Bice\") Lutz",
+        "birth_year": 1897,
+        "death_year": null,
+        "occupation": "",
+        "notes": "Tochter von Theodor (P69) und Laura (P70).",
+        "generation_depth": 6,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P72",
+        "name": "Willi Lutz",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "CVJM-Sekretär, Bern",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P73",
+        "name": "Wilhelmine Schlatter",
+        "birth_year": 1849,
+        "death_year": 1924,
+        "occupation": "",
+        "notes": "oo 1881 Theophil Lutz (Institutsvorstand).",
+        "generation_depth": 5,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P74",
+        "name": "Theophil Lutz",
+        "birth_year": 1852,
+        "death_year": 1917,
+        "occupation": "Institutsvorstand",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P81",
+        "name": "Christine Schlatter",
+        "birth_year": 1850,
+        "death_year": 1941,
+        "occupation": "Lehrerin",
+        "notes": "",
+        "generation_depth": 5,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P75",
+        "name": "Dora Schlatter",
+        "birth_year": 1855,
+        "death_year": 1915,
+        "occupation": "Lehrerin",
+        "notes": "oo Salomon Schlatter (Sohn des Zimmermanns Kaspar Theodor Schlatter, geb. 1830).",
+        "generation_depth": 5,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P76",
+        "name": "Salomon Schlatter",
+        "birth_year": 1858,
+        "death_year": 1922,
+        "occupation": "",
+        "notes": "Sohn des Zimmermanns Kaspar Theodor Schlatter (P77).",
+        "generation_depth": 2,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P77",
+        "name": "Kaspar Theodor Schlatter",
+        "birth_year": 1830,
+        "death_year": null,
+        "occupation": "Zimmermann",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P82",
+        "name": "Anonyma (Kind von Hektor Stephan)",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "",
+        "notes": "",
+        "generation_depth": 5,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P31",
+        "name": "Anonyma (Kind von Hektor 1766)",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "",
+        "notes": "",
+        "generation_depth": 4,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P32",
+        "name": "Babette Schlatter",
+        "birth_year": 1795,
+        "death_year": 1840,
+        "occupation": "",
+        "notes": "oo Friedrich Wilhelm Röhrig (Barmer Fabrikant).",
+        "generation_depth": 4,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P33",
+        "name": "Friedrich Wilhelm Röhrig",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "Fabrikant, Barmen",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P34",
+        "name": "Johanna Röhrig",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "",
+        "notes": "Von 2a: oo Pastor Georg Burckhardt; Eltern des Pfarrers Johannes Burckhardt (Burckhardthaus, Berlin).",
+        "generation_depth": 5,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P35",
+        "name": "Pastor Georg Burckhardt",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "Pastor",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P36",
+        "name": "Johannes Burckhardt",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "Pfarrer; Burckhardthaus, Berlin",
+        "notes": "",
+        "generation_depth": 6,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P37",
+        "name": "Anna Maria Röhrig",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "",
+        "notes": "Von 2b: oo Superintendent Wilhelm Gräber, Essen.",
+        "generation_depth": 5,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P38",
+        "name": "Superintendent Wilhelm Gräber",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "Superintendent, Essen",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P39",
+        "name": "Kaspar Schlatter",
+        "birth_year": 1796,
+        "death_year": 1862,
+        "occupation": "Pfarrer",
+        "notes": "oo Luise von Gemmingen.",
+        "generation_depth": 4,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P40",
+        "name": "Luise von Gemmingen",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P41",
+        "name": "Kleofea Schlatter",
+        "birth_year": 1797,
+        "death_year": 1860,
+        "occupation": "",
+        "notes": "oo Superintendent Adolf Zahn (Seminardirektor, Giebichenstein).",
+        "generation_depth": 4,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P42",
+        "name": "Superintendent Adolf Zahn",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "Seminardirektor, Giebichenstein",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P43",
+        "name": "D. Adolf Zahn",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "Domprediger Halle; reformierter Pfarrer, Stuttgart",
+        "notes": "Kind von P41/P42.",
+        "generation_depth": 5,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P44",
+        "name": "Dr. med. Johannes Zahn",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "Arzt, Stuttgart",
+        "notes": "Kind von P41/P42.",
+        "generation_depth": 5,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P45",
+        "name": "Margarete Schlatter",
+        "birth_year": 1799,
+        "death_year": null,
+        "occupation": "",
+        "notes": "ledig.",
+        "generation_depth": 4,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P46",
+        "name": "Anna Schlatter",
+        "birth_year": 1800,
+        "death_year": 1853,
+        "occupation": "",
+        "notes": "oo Franz Ludwig Zahn (Seminardirektor).",
+        "generation_depth": 4,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P47",
+        "name": "Franz Ludwig Zahn",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "Seminardirektor",
+        "notes": "Ort im Scan schwer lesbar.",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P48",
+        "name": "Helene Schlatter",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "",
+        "notes": "als Kind gestorben.",
+        "generation_depth": 4,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P49",
+        "name": "Henriette Schlatter",
+        "birth_year": 1802,
+        "death_year": null,
+        "occupation": "",
+        "notes": "oo David Schlatter (\"Tataren-Schlatter\").",
+        "generation_depth": 4,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P50",
+        "name": "David Schlatter",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "",
+        "notes": "\"Tataren-Schlatter\".",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P51",
+        "name": "Christine Schlatter",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "",
+        "notes": "als Kind gestorben.",
+        "generation_depth": 4,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P52",
+        "name": "Jakob Schlatter",
+        "birth_year": 1808,
+        "death_year": 1879,
+        "occupation": "",
+        "notes": "Kansas/USA, später St. Gallen.",
+        "generation_depth": 4,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P53",
+        "name": "Anna Zwingli",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P54",
+        "name": "Luise Schlatter",
+        "birth_year": 1861,
+        "death_year": 1933,
+        "occupation": "",
+        "notes": "oo Franz Rendtorff (Theologieprofessor Leipzig).",
+        "generation_depth": 5,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P55",
+        "name": "Franz Rendtorff",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "Theologieprofessor, Leipzig",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P56",
+        "name": "Wilhelm Schlatter",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "Pfarrer der Evang. Gesellschaft, St. Gallen",
+        "notes": "",
+        "generation_depth": 5,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P57",
+        "name": "Gottlieb Schlatter",
+        "birth_year": 1809,
+        "death_year": null,
+        "occupation": "Pfarrer",
+        "notes": "oo Doris Schulze.",
+        "generation_depth": 4,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P58",
+        "name": "Doris Schulze",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P59",
+        "name": "Christine Schlatter",
+        "birth_year": 1811,
+        "death_year": 1895,
+        "occupation": "",
+        "notes": "oo Karl Friedrich Klein (Fabrikant, Barmen).",
+        "generation_depth": 4,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P60",
+        "name": "Karl Friedrich Klein",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "Fabrikant, Barmen",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P61",
+        "name": "Anna Klein",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "",
+        "notes": "oo Pastor Carl Ninck; Mutter von Dr. Johannes Ninck.",
+        "generation_depth": 5,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P62",
+        "name": "Pastor Carl Ninck",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "Pastor",
+        "notes": "",
+        "generation_depth": 1,
+        "lineage_hint": "",
+        "source_page": ""
+      },
+      {
+        "id": "P63",
+        "name": "Dr. Johannes Ninck",
+        "birth_year": null,
+        "death_year": null,
+        "occupation": "Pfarrer, Winterthur (Familienbiograph)",
+        "notes": "",
+        "generation_depth": 6,
+        "lineage_hint": "",
+        "source_page": ""
+      }
+    ],
+    "edges": [
+      {
+        "source": "P1",
+        "target": "P3",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P1",
+        "target": "P2",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P2",
+        "target": "P3",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P2",
+        "target": "P1",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P3",
+        "target": "P5",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P1",
+        "target": "P3",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P2",
+        "target": "P3",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P3",
+        "target": "P4",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P4",
+        "target": "P5",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P4",
+        "target": "P3",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P5",
+        "target": "P31",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P32",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P39",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P41",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P45",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P46",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P48",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P49",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P51",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P10",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P52",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P57",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P59",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P3",
+        "target": "P5",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P4",
+        "target": "P5",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P6",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P5",
+        "target": "P7",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P6",
+        "target": "P5",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P7",
+        "target": "P31",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P32",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P39",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P41",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P45",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P46",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P48",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P49",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P51",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P10",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P52",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P57",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P59",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P8",
+        "target": "P7",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P5",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P8",
+        "target": "P7",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P80",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P78",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P79",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P69",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P73",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P81",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P12",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P75",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P82",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P10",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P10",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P11",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P11",
+        "target": "P80",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P11",
+        "target": "P78",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P11",
+        "target": "P79",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P11",
+        "target": "P69",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P11",
+        "target": "P73",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P11",
+        "target": "P81",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P11",
+        "target": "P12",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P11",
+        "target": "P75",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P11",
+        "target": "P82",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P64",
+        "target": "P11",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P66",
+        "target": "P11",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P11",
+        "target": "P10",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P64",
+        "target": "P11",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P64",
+        "target": "P65",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P64",
+        "target": "P66",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P65",
+        "target": "P64",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P66",
+        "target": "P11",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P67",
+        "target": "P66",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P68",
+        "target": "P66",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P66",
+        "target": "P64",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P67",
+        "target": "P66",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P67",
+        "target": "P68",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P68",
+        "target": "P66",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P68",
+        "target": "P67",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P12",
+        "target": "P14",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P12",
+        "target": "P15",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P12",
+        "target": "P16",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P12",
+        "target": "P17",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P12",
+        "target": "P18",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P12",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P11",
+        "target": "P12",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P12",
+        "target": "P13",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P13",
+        "target": "P14",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P13",
+        "target": "P15",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P13",
+        "target": "P16",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P13",
+        "target": "P17",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P13",
+        "target": "P18",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P13",
+        "target": "P12",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P14",
+        "target": "P21",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P14",
+        "target": "P22",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P14",
+        "target": "P24",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P14",
+        "target": "P25",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P14",
+        "target": "P30",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P12",
+        "target": "P14",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P13",
+        "target": "P14",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P14",
+        "target": "P20",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P20",
+        "target": "P21",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P20",
+        "target": "P22",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P20",
+        "target": "P24",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P20",
+        "target": "P25",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P20",
+        "target": "P30",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P20",
+        "target": "P14",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P14",
+        "target": "P21",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P20",
+        "target": "P21",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P14",
+        "target": "P22",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P20",
+        "target": "P22",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P22",
+        "target": "P23",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P23",
+        "target": "P22",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P14",
+        "target": "P24",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P20",
+        "target": "P24",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P25",
+        "target": "P27",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P25",
+        "target": "P28",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P25",
+        "target": "P29",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P14",
+        "target": "P25",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P20",
+        "target": "P25",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P25",
+        "target": "P26",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P26",
+        "target": "P27",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P26",
+        "target": "P28",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P26",
+        "target": "P29",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P26",
+        "target": "P25",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P25",
+        "target": "P27",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P26",
+        "target": "P27",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P25",
+        "target": "P28",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P26",
+        "target": "P28",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P25",
+        "target": "P29",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P26",
+        "target": "P29",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P14",
+        "target": "P30",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P20",
+        "target": "P30",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P12",
+        "target": "P15",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P13",
+        "target": "P15",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P12",
+        "target": "P16",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P13",
+        "target": "P16",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P12",
+        "target": "P17",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P13",
+        "target": "P17",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P12",
+        "target": "P18",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P13",
+        "target": "P18",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P18",
+        "target": "P19",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P19",
+        "target": "P18",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P10",
+        "target": "P80",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P11",
+        "target": "P80",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P78",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P11",
+        "target": "P78",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P79",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P11",
+        "target": "P79",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P69",
+        "target": "P71",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P69",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P11",
+        "target": "P69",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P69",
+        "target": "P70",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P70",
+        "target": "P71",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P70",
+        "target": "P69",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P69",
+        "target": "P71",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P70",
+        "target": "P71",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P71",
+        "target": "P72",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P72",
+        "target": "P71",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P10",
+        "target": "P73",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P11",
+        "target": "P73",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P73",
+        "target": "P74",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P74",
+        "target": "P73",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P10",
+        "target": "P81",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P11",
+        "target": "P81",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P75",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P11",
+        "target": "P75",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P75",
+        "target": "P76",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P77",
+        "target": "P76",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P76",
+        "target": "P75",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P77",
+        "target": "P76",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P82",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P11",
+        "target": "P82",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P31",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P31",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P32",
+        "target": "P34",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P32",
+        "target": "P37",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P32",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P32",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P32",
+        "target": "P33",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P33",
+        "target": "P34",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P33",
+        "target": "P37",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P33",
+        "target": "P32",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P34",
+        "target": "P36",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P32",
+        "target": "P34",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P33",
+        "target": "P34",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P34",
+        "target": "P35",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P35",
+        "target": "P36",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P35",
+        "target": "P34",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P34",
+        "target": "P36",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P35",
+        "target": "P36",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P32",
+        "target": "P37",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P33",
+        "target": "P37",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P37",
+        "target": "P38",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P38",
+        "target": "P37",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P5",
+        "target": "P39",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P39",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P39",
+        "target": "P40",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P40",
+        "target": "P39",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P41",
+        "target": "P43",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P41",
+        "target": "P44",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P41",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P41",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P41",
+        "target": "P42",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P42",
+        "target": "P43",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P42",
+        "target": "P44",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P42",
+        "target": "P41",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P41",
+        "target": "P43",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P42",
+        "target": "P43",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P41",
+        "target": "P44",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P42",
+        "target": "P44",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P45",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P45",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P46",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P46",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P46",
+        "target": "P47",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P47",
+        "target": "P46",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P5",
+        "target": "P48",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P48",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P49",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P49",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P49",
+        "target": "P50",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P50",
+        "target": "P49",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P5",
+        "target": "P51",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P51",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P52",
+        "target": "P54",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P52",
+        "target": "P56",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P52",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P52",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P52",
+        "target": "P53",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P53",
+        "target": "P54",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P53",
+        "target": "P56",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P53",
+        "target": "P52",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P52",
+        "target": "P54",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P53",
+        "target": "P54",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P54",
+        "target": "P55",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P55",
+        "target": "P54",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P52",
+        "target": "P56",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P53",
+        "target": "P56",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P57",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P57",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P57",
+        "target": "P58",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P58",
+        "target": "P57",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P59",
+        "target": "P61",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P5",
+        "target": "P59",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P7",
+        "target": "P59",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P59",
+        "target": "P60",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P60",
+        "target": "P61",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P60",
+        "target": "P59",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P61",
+        "target": "P63",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P59",
+        "target": "P61",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P60",
+        "target": "P61",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P61",
+        "target": "P62",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P62",
+        "target": "P63",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P62",
+        "target": "P61",
+        "type": "MARRIED"
+      },
+      {
+        "source": "P61",
+        "target": "P63",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P62",
+        "target": "P63",
+        "type": "PARENT_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P31",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P32",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P39",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P41",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P45",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P46",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P48",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P49",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P51",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P52",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P57",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P10",
+        "target": "P59",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P31",
+        "target": "P10",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P31",
+        "target": "P32",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P31",
+        "target": "P39",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P31",
+        "target": "P41",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P31",
+        "target": "P45",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P31",
+        "target": "P46",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P31",
+        "target": "P48",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P31",
+        "target": "P49",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P31",
+        "target": "P51",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P31",
+        "target": "P52",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P31",
+        "target": "P57",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P31",
+        "target": "P59",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P32",
+        "target": "P10",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P32",
+        "target": "P31",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P32",
+        "target": "P39",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P32",
+        "target": "P41",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P32",
+        "target": "P45",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P32",
+        "target": "P46",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P32",
+        "target": "P48",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P32",
+        "target": "P49",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P32",
+        "target": "P51",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P32",
+        "target": "P52",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P32",
+        "target": "P57",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P32",
+        "target": "P59",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P39",
+        "target": "P10",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P39",
+        "target": "P31",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P39",
+        "target": "P32",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P39",
+        "target": "P41",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P39",
+        "target": "P45",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P39",
+        "target": "P46",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P39",
+        "target": "P48",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P39",
+        "target": "P49",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P39",
+        "target": "P51",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P39",
+        "target": "P52",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P39",
+        "target": "P57",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P39",
+        "target": "P59",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P41",
+        "target": "P10",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P41",
+        "target": "P31",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P41",
+        "target": "P32",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P41",
+        "target": "P39",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P41",
+        "target": "P45",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P41",
+        "target": "P46",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P41",
+        "target": "P48",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P41",
+        "target": "P49",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P41",
+        "target": "P51",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P41",
+        "target": "P52",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P41",
+        "target": "P57",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P41",
+        "target": "P59",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P45",
+        "target": "P10",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P45",
+        "target": "P31",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P45",
+        "target": "P32",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P45",
+        "target": "P39",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P45",
+        "target": "P41",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P45",
+        "target": "P46",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P45",
+        "target": "P48",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P45",
+        "target": "P49",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P45",
+        "target": "P51",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P45",
+        "target": "P52",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P45",
+        "target": "P57",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P45",
+        "target": "P59",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P46",
+        "target": "P10",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P46",
+        "target": "P31",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P46",
+        "target": "P32",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P46",
+        "target": "P39",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P46",
+        "target": "P41",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P46",
+        "target": "P45",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P46",
+        "target": "P48",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P46",
+        "target": "P49",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P46",
+        "target": "P51",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P46",
+        "target": "P52",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P46",
+        "target": "P57",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P46",
+        "target": "P59",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P48",
+        "target": "P10",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P48",
+        "target": "P31",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P48",
+        "target": "P32",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P48",
+        "target": "P39",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P48",
+        "target": "P41",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P48",
+        "target": "P45",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P48",
+        "target": "P46",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P48",
+        "target": "P49",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P48",
+        "target": "P51",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P48",
+        "target": "P52",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P48",
+        "target": "P57",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P48",
+        "target": "P59",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P49",
+        "target": "P10",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P49",
+        "target": "P31",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P49",
+        "target": "P32",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P49",
+        "target": "P39",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P49",
+        "target": "P41",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P49",
+        "target": "P45",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P49",
+        "target": "P46",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P49",
+        "target": "P48",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P49",
+        "target": "P51",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P49",
+        "target": "P52",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P49",
+        "target": "P57",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P49",
+        "target": "P59",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P51",
+        "target": "P10",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P51",
+        "target": "P31",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P51",
+        "target": "P32",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P51",
+        "target": "P39",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P51",
+        "target": "P41",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P51",
+        "target": "P45",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P51",
+        "target": "P46",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P51",
+        "target": "P48",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P51",
+        "target": "P49",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P51",
+        "target": "P52",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P51",
+        "target": "P57",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P51",
+        "target": "P59",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P52",
+        "target": "P10",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P52",
+        "target": "P31",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P52",
+        "target": "P32",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P52",
+        "target": "P39",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P52",
+        "target": "P41",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P52",
+        "target": "P45",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P52",
+        "target": "P46",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P52",
+        "target": "P48",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P52",
+        "target": "P49",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P52",
+        "target": "P51",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P52",
+        "target": "P57",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P52",
+        "target": "P59",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P57",
+        "target": "P10",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P57",
+        "target": "P31",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P57",
+        "target": "P32",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P57",
+        "target": "P39",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P57",
+        "target": "P41",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P57",
+        "target": "P45",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P57",
+        "target": "P46",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P57",
+        "target": "P48",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P57",
+        "target": "P49",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P57",
+        "target": "P51",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P57",
+        "target": "P52",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P57",
+        "target": "P59",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P59",
+        "target": "P10",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P59",
+        "target": "P31",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P59",
+        "target": "P32",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P59",
+        "target": "P39",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P59",
+        "target": "P41",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P59",
+        "target": "P45",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P59",
+        "target": "P46",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P59",
+        "target": "P48",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P59",
+        "target": "P49",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P59",
+        "target": "P51",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P59",
+        "target": "P52",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P59",
+        "target": "P57",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P12",
+        "target": "P80",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P12",
+        "target": "P78",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P12",
+        "target": "P79",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P12",
+        "target": "P69",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P12",
+        "target": "P73",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P12",
+        "target": "P81",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P12",
+        "target": "P75",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P12",
+        "target": "P82",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P80",
+        "target": "P12",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P80",
+        "target": "P78",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P80",
+        "target": "P79",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P80",
+        "target": "P69",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P80",
+        "target": "P73",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P80",
+        "target": "P81",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P80",
+        "target": "P75",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P80",
+        "target": "P82",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P78",
+        "target": "P12",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P78",
+        "target": "P80",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P78",
+        "target": "P79",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P78",
+        "target": "P69",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P78",
+        "target": "P73",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P78",
+        "target": "P81",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P78",
+        "target": "P75",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P78",
+        "target": "P82",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P79",
+        "target": "P12",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P79",
+        "target": "P80",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P79",
+        "target": "P78",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P79",
+        "target": "P69",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P79",
+        "target": "P73",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P79",
+        "target": "P81",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P79",
+        "target": "P75",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P79",
+        "target": "P82",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P69",
+        "target": "P12",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P69",
+        "target": "P80",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P69",
+        "target": "P78",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P69",
+        "target": "P79",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P69",
+        "target": "P73",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P69",
+        "target": "P81",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P69",
+        "target": "P75",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P69",
+        "target": "P82",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P73",
+        "target": "P12",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P73",
+        "target": "P80",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P73",
+        "target": "P78",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P73",
+        "target": "P79",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P73",
+        "target": "P69",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P73",
+        "target": "P81",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P73",
+        "target": "P75",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P73",
+        "target": "P82",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P81",
+        "target": "P12",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P81",
+        "target": "P80",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P81",
+        "target": "P78",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P81",
+        "target": "P79",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P81",
+        "target": "P69",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P81",
+        "target": "P73",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P81",
+        "target": "P75",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P81",
+        "target": "P82",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P75",
+        "target": "P12",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P75",
+        "target": "P80",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P75",
+        "target": "P78",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P75",
+        "target": "P79",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P75",
+        "target": "P69",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P75",
+        "target": "P73",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P75",
+        "target": "P81",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P75",
+        "target": "P82",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P82",
+        "target": "P12",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P82",
+        "target": "P80",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P82",
+        "target": "P78",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P82",
+        "target": "P79",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P82",
+        "target": "P69",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P82",
+        "target": "P73",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P82",
+        "target": "P81",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P82",
+        "target": "P75",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P14",
+        "target": "P15",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P14",
+        "target": "P16",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P14",
+        "target": "P17",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P14",
+        "target": "P18",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P15",
+        "target": "P14",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P15",
+        "target": "P16",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P15",
+        "target": "P17",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P15",
+        "target": "P18",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P16",
+        "target": "P14",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P16",
+        "target": "P15",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P16",
+        "target": "P17",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P16",
+        "target": "P18",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P17",
+        "target": "P14",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P17",
+        "target": "P15",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P17",
+        "target": "P16",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P17",
+        "target": "P18",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P18",
+        "target": "P14",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P18",
+        "target": "P15",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P18",
+        "target": "P16",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P18",
+        "target": "P17",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P21",
+        "target": "P22",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P21",
+        "target": "P24",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P21",
+        "target": "P25",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P21",
+        "target": "P30",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P22",
+        "target": "P21",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P22",
+        "target": "P24",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P22",
+        "target": "P25",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P22",
+        "target": "P30",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P24",
+        "target": "P21",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P24",
+        "target": "P22",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P24",
+        "target": "P25",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P24",
+        "target": "P30",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P25",
+        "target": "P21",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P25",
+        "target": "P22",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P25",
+        "target": "P24",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P25",
+        "target": "P30",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P30",
+        "target": "P21",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P30",
+        "target": "P22",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P30",
+        "target": "P24",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P30",
+        "target": "P25",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P27",
+        "target": "P28",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P27",
+        "target": "P29",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P28",
+        "target": "P27",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P28",
+        "target": "P29",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P29",
+        "target": "P27",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P29",
+        "target": "P28",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P34",
+        "target": "P37",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P37",
+        "target": "P34",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P43",
+        "target": "P44",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P44",
+        "target": "P43",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P54",
+        "target": "P56",
+        "type": "SIBLING_OF"
+      },
+      {
+        "source": "P56",
+        "target": "P54",
+        "type": "SIBLING_OF"
+      }
+    ]
+  }
+}

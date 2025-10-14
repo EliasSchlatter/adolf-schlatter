@@ -10,6 +10,9 @@
     <script>window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     
+    <!-- Appbar CSS -->
+    <link rel="stylesheet" href="../../components/appbar.css">
+    
     <style>
         ::-webkit-scrollbar { display: none;}
         .font-headline { font-family: 'Merriweather', serif; }
@@ -39,7 +42,7 @@ const preistraegerData = {
     name: "Dr. theol. habil. Dipl.-Phys. Ulrich Beuttler",
     location: "Erlangen (Deutschland)",
     description: "Apl. Professor für Systematische Theologie (Dogmatik) an der FAU Erlangen-Nürnberg; Theologe und Physiker mit Schwerpunkt Theologie–Naturwissenschaften",
-    image: "../preisträgerImages/Passbild_Ulrich_Beuttler.jfif",
+    image: "../../images/preisträgerImages/Passbild_Ulrich_Beuttler.jfif",
     tags: [
         "Systematische Theologie",
         "Religionsphilosophie",
@@ -164,6 +167,11 @@ const preistraegerData = {
 };
 </script>
 
+<!-- Appbar Utils -->
+<script src="../../components/appbar-utils.js"></script>
+<!-- Footer Utils -->
+<script src="../../components/footer-utils.js"></script>
+
 <script src="utils.js"></script>
 <script>
 // Generate page content after utils.js is loaded
@@ -206,11 +214,6 @@ document.addEventListener('DOMContentLoaded', function() {
             }, 50);
 });
 </script>
-
-<!-- Appbar Utils -->
-<script src="../components/appbar-utils.js"></script>
-<!-- Footer Utils -->
-<script src="../components/footer-utils.js"></script>
 
 </body>
 </html>

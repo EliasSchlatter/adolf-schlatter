@@ -185,6 +185,38 @@
                     </div>
                 </div>
 
+                <!-- Weitere Ressourcen -->
+                <div class="relative group">
+                    <button class="flex items-center space-x-2 px-4 py-2 text-text-secondary hover:text-primary transition-colors font-medium">
+                        <span>Weitere Ressourcen</span>
+                        <i class="fas fa-chevron-down text-xs transition-transform group-hover:rotate-180"></i>
+                    </button>
+                    <div class="absolute top-full left-0 mt-2 w-80 bg-white rounded-xl shadow-lg border border-gray-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-2 group-hover:translate-y-0">
+                        <div class="p-6">
+                            <div class="grid grid-cols-1 gap-4">
+                                <a href="stammbaum.html" class="flex items-start space-x-4 p-3 rounded-lg hover:bg-accent transition-colors group stammbaum-link">
+                                    <div class="w-12 h-12 bg-gradient-to-br from-primary/10 to-bg-dark/10 rounded-lg flex items-center justify-center group-hover:from-primary/20 group-hover:to-bg-dark/20 transition-colors">
+                                        <i class="fas fa-sitemap text-primary"></i>
+                                    </div>
+                                    <div>
+                                        <h3 class="font-semibold text-primary mb-1">Stammbaum</h3>
+                                        <p class="text-sm text-text-secondary">Familie Schlatter ab 1699</p>
+                                    </div>
+                                </a>
+                                <a href="#" class="flex items-start space-x-4 p-3 rounded-lg hover:bg-accent transition-colors group opacity-50 cursor-not-allowed">
+                                    <div class="w-12 h-12 bg-gradient-to-br from-secondary/10 to-primary/10 rounded-lg flex items-center justify-center">
+                                        <i class="fas fa-images text-secondary"></i>
+                                    </div>
+                                    <div>
+                                        <h3 class="font-semibold text-gray-500 mb-1">Bildergalerie</h3>
+                                        <p class="text-sm text-gray-400">Bald verfügbar</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <!-- Kontakt -->
                 <a href="adolfSchlatterPrice.html#kontakt" class="px-4 py-2 text-text-secondary hover:text-primary transition-colors font-medium">
                     Kontakt
@@ -228,6 +260,13 @@
                         <a href="preisträger/j-gerrit-hohage.html" class="block text-text-secondary hover:text-primary transition-colors">Dr. J.-Gerrit Hohage (2005)</a>
                     </div>
                 </div>
+                <div>
+                    <h3 class="font-semibold text-primary mb-2">Weitere Ressourcen</h3>
+                    <div class="space-y-2 ml-4">
+                        <a href="stammbaum.html" class="block text-text-secondary hover:text-primary transition-colors stammbaum-link">Stammbaum</a>
+                        <span class="block text-gray-400 cursor-not-allowed">Bildergalerie (bald verfügbar)</span>
+                    </div>
+                </div>
                 <a href="adolfSchlatterPrice.html#kontakt" class="block text-text-secondary hover:text-primary transition-colors font-medium">Kontakt</a>
             </div>
         </div>
@@ -249,5 +288,20 @@ document.addEventListener('click', (e) => {
     if (!mobileMenu.contains(e.target) && !mobileMenuBtn.contains(e.target)) {
         mobileMenu.classList.add('hidden');
     }
+});
+
+// Fix Stammbaum links based on current page location
+document.addEventListener('DOMContentLoaded', () => {
+    const stammbaumLinks = document.querySelectorAll('.stammbaum-link');
+    const currentPath = window.location.pathname;
+    
+    stammbaumLinks.forEach(link => {
+        // Wenn wir in einem Unterordner sind (pages/ oder preisträger/), gehe nach oben
+        if (currentPath.includes('/pages/') || currentPath.includes('/preisträger/')) {
+            link.href = '../pages/stammbaum.html';
+        } else {
+            link.href = 'pages/stammbaum.html';
+        }
+    });
 });
 </script>

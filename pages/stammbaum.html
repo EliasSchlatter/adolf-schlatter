@@ -1,0 +1,1102 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Familie Schlatter - Stammbaum</title>
+    <meta name="description" content="Genealogischer Stammbaum der Familie Schlatter ab 1699 mit Adolf Schlatter (1852-1938)">
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script>window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    
+    <!-- Appbar CSS -->
+    <link rel="stylesheet" href="../components/appbar.css">
+    
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        ::-webkit-scrollbar { 
+            width: 8px;
+            height: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #f1f1f1;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #888;
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #555;
+        }
+        
+        body { 
+            font-family: 'Inter', sans-serif; 
+        }
+        
+        .person-card {
+            stroke-width: 2px;
+            rx: 12;
+            filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.1));
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        
+        .person-card.male {
+            fill: #EBF3FA;        /* Sehr heller, freundlicher Blauton */
+            stroke: #4A7BA7;      /* Helleres, freundlicheres Blau */
+        }
+        
+        .person-card.male:hover {
+            fill: #D6E8F7;        /* Etwas kräftiger beim Hover */
+            stroke: #2E5A7D;      /* Etwas dunkler beim Hover */
+            stroke-width: 3px;
+            filter: drop-shadow(0 8px 15px rgba(74, 123, 167, 0.3));
+        }
+        
+        .person-card.female {
+            fill: #FAEBEC;        /* Sehr heller, freundlicher Rosa-Ton */
+            stroke: #C05B7C;      /* Helleres, freundlicheres Weinrot */
+        }
+        
+        .person-card.female:hover {
+            fill: #F4D6DA;        /* Etwas kräftiger beim Hover */
+            stroke: #A0476A;      /* Etwas dunkler beim Hover */
+            stroke-width: 3px;
+            filter: drop-shadow(0 8px 15px rgba(192, 91, 124, 0.3));
+        }
+        
+        .person-card.adolf {
+            fill: #fef3c7;
+            stroke: #f59e0b;
+            stroke-width: 3px;
+        }
+        
+        .person-card.adolf:hover {
+            fill: #fde68a;
+            stroke: #d97706;
+            stroke-width: 3px;
+            filter: drop-shadow(0 8px 15px rgba(245, 158, 11, 0.4));
+        }
+        
+        .marriage-line {
+            stroke: #1a365d; /* Primary Blau aus dem Header */
+            stroke-width: 2;
+            fill: none;
+        }
+        
+        .parent-child-line {
+            stroke: #9ca3af; /* Grau wie in der Legende */
+            stroke-width: 2;
+            fill: none;
+        }
+        
+        .person-name {
+            font-size: 12px;     /* Vergrößert von 11px */
+            font-weight: 600;
+            text-anchor: middle;
+            dominant-baseline: middle;
+            fill: #1f2937;
+            pointer-events: none;
+        }
+        
+        .person-years {
+            font-size: 10px;     /* Vergrößert von 9px */
+            text-anchor: middle;
+            dominant-baseline: middle;
+            fill: #6b7280;
+            pointer-events: none;
+        }
+        
+        .person-occupation {
+            font-size: 9px;      /* Vergrößert von 8px */
+            text-anchor: middle;
+            dominant-baseline: middle;
+            fill: #9ca3af;
+            pointer-events: none;
+        }
+        
+        .person-location {
+            font-size: 8px;      /* Vergrößert von 7px */
+            text-anchor: middle;
+            dominant-baseline: middle;
+            fill: #9ca3af;
+            pointer-events: none;
+        }
+        
+        .generation-label {
+            font-size: 11px;
+            font-weight: 600;
+            text-anchor: middle;
+            fill: #374151;
+            pointer-events: none;
+        }
+        
+        #tree {
+            transition: opacity 0.3s ease;
+        }
+        
+        #tree.fading {
+            opacity: 0;
+        }
+    </style>
+    
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#2C2F48",
+                        "secondary": "#F25C3C",
+                        "accent": "#E2E6F5",
+                        "text-primary": "#111827",
+                        "text-secondary": "#4B5563",
+                        "bg-light": "#F9FAFB",
+                        "bg-dark": "#1F2937"
+                    },
+                    fontFamily: {
+                        'headline': ['Merriweather', 'serif'],
+                        'body': ['Inter', 'sans-serif']
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-white font-body">
+
+<!-- Appbar Utils -->
+<script src="../components/appbar-utils.js"></script>
+<!-- Footer Utils -->
+<script src="../components/footer-utils.js"></script>
+
+<!-- Modern Appbar -->
+<div id="appbar-container"></div>
+
+<!-- Hero Banner -->
+<section class="bg-gradient-to-br from-primary to-bg-dark py-16">
+    <div class="max-w-7xl mx-auto px-6 text-center">
+        <div class="inline-block bg-secondary/20 backdrop-blur-sm px-6 py-3 rounded-full mb-6">
+            <div class="flex items-center space-x-3">
+                <i class="fas fa-sitemap text-secondary text-xl"></i>
+                <span class="text-white font-semibold text-sm uppercase tracking-wide">Familie Schlatter</span>
+            </div>
+        </div>
+        <h1 class="font-headline text-5xl md:text-6xl font-bold text-white mb-4">
+            Stammbaum
+        </h1>
+        <p class="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
+            Genealogischer Stammbaum ab 1699 mit Adolf Schlatter (1852–1938)
+        </p>
+    </div>
+</section>
+
+<!-- Stammbaum Controls -->
+<div class="bg-white border-b border-gray-200 px-6 py-4">
+    <div class="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-4">
+        <div class="inline-flex rounded-lg border border-gray-300 bg-white p-1" role="group">
+            <button id="btn-hauptlinie" class="px-6 py-2 text-sm font-medium rounded-md transition-colors text-white" style="background-color: #1a365d;">
+                Hauptlinie
+            </button>
+            <button id="btn-vollstaendig" class="px-6 py-2 text-sm font-medium rounded-md transition-colors text-gray-700 hover:bg-gray-100">
+                Vollständig
+            </button>
+        </div>
+        
+        <div class="flex items-center space-x-6 text-sm">
+            <div class="flex items-center space-x-2">
+                <div class="w-4 h-0.5" style="background-color: #1a365d;"></div>
+                <span class="text-gray-600">Eheverbindung</span>
+            </div>
+            <div class="flex items-center space-x-2">
+                <div class="w-4 h-0.5 bg-gray-400"></div>
+                <span class="text-gray-600">Eltern-Kind</span>
+            </div>
+            <div class="flex items-center space-x-2">
+                <span class="text-gray-600">✦ Geburt</span>
+            </div>
+            <div class="flex items-center space-x-2">
+                <span class="text-gray-600">† Tod</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Stammbaum Container -->
+<div id="tree-container" class="relative overflow-x-auto overflow-y-hidden bg-gradient-to-b from-bg-light to-white" style="width: 100%; max-width: 100vw;">
+    <div class="p-12">
+        <svg id="tree" class="transition-transform duration-300" style="display: block; margin: 0 auto;"></svg>
+    </div>
+</div>
+
+<script>
+    // Vollständige Familie Schlatter - Alle Personen über 9 Generationen
+    const familyData = {
+        graph: {
+            nodes: [
+                // Generation 1 - Großeltern
+                { id: "P1", name: "Hektor Schlatter", birth_year: 1699, death_year: 1742, generation_depth: 1, occupation: "Pantfmeister, Unterbürgermeister St. Gallen", location: "", gender: "male" },
+                { id: "P2", name: "Anna Barbara Vonwiller", birth_year: null, death_year: 1751, generation_depth: 1, occupation: "", location: "", gender: "female" },
+                
+                // Generation 2 - Eltern
+                { id: "P3", name: "Johannes Schlatter", birth_year: 1729, death_year: 1813, generation_depth: 2, occupation: "Kaufmann, \"Hinter dem Turm\", St. Gallen", location: "", gender: "male" },
+                { id: "P4", name: "Anna Barbara Zollikofer", birth_year: null, death_year: 1810, generation_depth: 2, occupation: "", location: "", gender: "female" },
+                
+                // Generation 3 - Hektor mit zwei Frauen (Positionen getauscht)
+                { id: "P5", name: "Hektor Schlatter", birth_year: 1766, death_year: 1842, generation_depth: 3, occupation: "Kaufmann", location: "St. Gallen", gender: "male" },
+                { id: "P6", name: "Anna Bernet", birth_year: 1773, death_year: 1826, generation_depth: 3, occupation: "", location: "Enkelin d. Bürgermeisters Bernet", gender: "female" },
+                { id: "P7", name: "Elisabeth Corrodi", birth_year: null, death_year: 1792, generation_depth: 3, occupation: "", location: "", gender: "female" },
+                
+                // Generation 4 - Alle Kinder von Hektor (1766)
+                { id: "P31", name: "Anonyma", birth_year: null, death_year: null, generation_depth: 4, occupation: "", location: "Kind von Hektor 1766", gender: "female" },
+                { id: "P32", name: "Babette Schlatter", birth_year: 1795, death_year: 1840, generation_depth: 4, occupation: "", location: "", gender: "female" },
+                { id: "P33", name: "Friedrich Wilhelm Röhrig", birth_year: null, death_year: null, generation_depth: 4, occupation: "Fabrikant, Barmen", location: "", gender: "male" },
+                { id: "P39", name: "Kaspar Schlatter", birth_year: 1796, death_year: 1862, generation_depth: 4, occupation: "Pfarrer", location: "", gender: "male" },
+                { id: "P40", name: "Luise von Gemmingen", birth_year: null, death_year: null, generation_depth: 4, occupation: "", location: "", gender: "female" },
+                { id: "P41", name: "Kleofea Schlatter", birth_year: 1797, death_year: 1860, generation_depth: 4, occupation: "", location: "", gender: "female" },
+                { id: "P42", name: "Adolf Zahn", birth_year: null, death_year: null, generation_depth: 4, occupation: "Seminardirektor, Giebichenstein", location: "", gender: "male" },
+                { id: "P45", name: "Margarete Schlatter", birth_year: 1799, death_year: null, generation_depth: 4, occupation: "", location: "", gender: "female" },
+                { id: "P46", name: "Anna Schlatter", birth_year: 1800, death_year: 1853, generation_depth: 4, occupation: "", location: "", gender: "female" },
+                { id: "P47", name: "Franz Ludwig Zahn", birth_year: null, death_year: null, generation_depth: 4, occupation: "Seminardirektor", location: "", gender: "male" },
+                { id: "P48", name: "Helene Schlatter", birth_year: null, death_year: null, generation_depth: 4, occupation: "", location: "", gender: "female" },
+                { id: "P49", name: "Henriette Schlatter", birth_year: 1802, death_year: null, generation_depth: 4, occupation: "", location: "", gender: "female" },
+                { id: "P50", name: "David Schlatter", birth_year: null, death_year: null, generation_depth: 4, occupation: "", location: "", gender: "male" },
+                { id: "P51", name: "Christine Schlatter", birth_year: null, death_year: null, generation_depth: 4, occupation: "", location: "", gender: "female" },
+                { id: "P10", name: "Hektor Stephan Schlatter", birth_year: 1805, death_year: 1880, generation_depth: 4, occupation: "Apotheker, später im väterlichen Geschäft, St. Gallen", location: "", gender: "male" },
+                { id: "P11", name: "Sara Wilhelmine (\"Mina\") Steinmann", birth_year: 1819, death_year: 1894, generation_depth: 4, occupation: "", location: "", gender: "female" },
+                { id: "P52", name: "Jakob Schlatter", birth_year: 1808, death_year: 1879, generation_depth: 4, occupation: "", location: "Kansas/USA, später St. Gallen", gender: "male" },
+                { id: "P53", name: "Anna Zwingli", birth_year: null, death_year: null, generation_depth: 4, occupation: "", location: "", gender: "female" },
+                { id: "P57", name: "Gottlieb Schlatter", birth_year: 1809, death_year: null, generation_depth: 4, occupation: "Pfarrer", location: "", gender: "male" },
+                { id: "P58", name: "Doris Schulze", birth_year: null, death_year: null, generation_depth: 4, occupation: "", location: "", gender: "female" },
+                { id: "P59", name: "Christine Schlatter", birth_year: 1811, death_year: 1895, generation_depth: 4, occupation: "", location: "", gender: "female" },
+                { id: "P60", name: "Karl Friedrich Klein", birth_year: null, death_year: null, generation_depth: 4, occupation: "Fabrikant, Barmen", location: "", gender: "male" },
+                
+                // Generation 5 - Alle Kinder von Hektor Stephan (P10) + andere
+                { id: "P80", name: "Lydia Schlatter", birth_year: 1840, death_year: 1899, generation_depth: 5, occupation: "Lehrerin", location: "St. Gallen", gender: "female" },
+                { id: "P78", name: "Stephan Schlatter", birth_year: 1842, death_year: 1916, generation_depth: 5, occupation: "", location: "zuletzt in Wilhelmsdorf; taubstumm", gender: "male" },
+                { id: "P79", name: "Monika Schlatter", birth_year: 1846, death_year: 1865, generation_depth: 5, occupation: "Lehrerin", location: "", gender: "female" },
+                { id: "P69", name: "Theodor Schlatter", birth_year: 1847, death_year: 1918, generation_depth: 5, occupation: "Kaufmann, Gemeinde- und Erziehungsrat St. Gallen", location: "", gender: "male" },
+                { id: "P70", name: "Laura Schlatter", birth_year: null, death_year: null, generation_depth: 5, occupation: "", location: "", gender: "female" },
+                { id: "P73", name: "Wilhelmine Schlatter", birth_year: 1849, death_year: 1924, generation_depth: 5, occupation: "", location: "", gender: "female" },
+                { id: "P74", name: "Theophil Lutz", birth_year: 1852, death_year: 1917, generation_depth: 5, occupation: "Institutsvorstand", location: "", gender: "male" },
+                { id: "P81", name: "Christine Schlatter", birth_year: 1850, death_year: 1941, generation_depth: 5, occupation: "Lehrerin", location: "", gender: "female" },
+                { id: "P12", name: "Adolf Schlatter", birth_year: 1852, death_year: 1938, generation_depth: 5, occupation: "Theologieprofessor", location: "", gender: "male" },
+                { id: "P13", name: "Susanna Schoop", birth_year: 1856, death_year: 1907, generation_depth: 5, occupation: "", location: "", gender: "female" },
+                { id: "P75", name: "Dora Schlatter", birth_year: 1855, death_year: 1915, generation_depth: 5, occupation: "Lehrerin", location: "", gender: "female" },
+                { id: "P76", name: "Salomon Schlatter", birth_year: 1858, death_year: 1922, generation_depth: 5, occupation: "", location: "", gender: "male" },
+                { id: "P82", name: "Anonyma", birth_year: null, death_year: null, generation_depth: 5, occupation: "", location: "Kind von Hektor Stephan", gender: "female" },
+                
+                // Generation 6 - Alle Kinder von Adolf Schlatter (P12)
+                { id: "P14", name: "Theodor Adolf Schlatter", birth_year: 1885, death_year: 1971, generation_depth: 6, occupation: "zuletzt Prälat", location: "", gender: "male" },
+                { id: "P20", name: "Marie Gundert", birth_year: 1888, death_year: 1962, generation_depth: 6, occupation: "", location: "", gender: "female" },
+                { id: "P15", name: "Hedwig Schlatter", birth_year: 1887, death_year: 1946, generation_depth: 6, occupation: "", location: "", gender: "female" },
+                { id: "P16", name: "Paul Schlatter", birth_year: 1888, death_year: 1914, generation_depth: 6, occupation: "", location: "", gender: "male" },
+                { id: "P17", name: "Dora Schlatter", birth_year: 1890, death_year: 1969, generation_depth: 6, occupation: "", location: "", gender: "female" },
+                { id: "P18", name: "Ruth Schlatter", birth_year: 1893, death_year: 1962, generation_depth: 6, occupation: "", location: "", gender: "female" },
+                { id: "P19", name: "Friedrich Hinderer", birth_year: 1883, death_year: 1968, generation_depth: 6, occupation: "Pfarrer", location: "", gender: "male" },
+                { id: "P71", name: "Beatrice Lutz", birth_year: 1897, death_year: null, generation_depth: 6, occupation: "", location: "genannt \"Bice\"", gender: "female" },
+                { id: "P72", name: "Willi Lutz", birth_year: null, death_year: null, generation_depth: 6, occupation: "CVJM-Sekretär, Bern", location: "", gender: "male" },
+                
+                // Generation 7 - Kinder von Theodor Adolf (sortiert nach Geburtsjahr, Ehepartner nebeneinander)
+                { id: "P30", name: "Ruth Schlatter", birth_year: 1917, death_year: null, generation_depth: 7, occupation: "", location: "", gender: "female" },
+                { id: "P21", name: "Hanna Schlatter", birth_year: 1918, death_year: 1944, generation_depth: 7, occupation: "", location: "", gender: "female" },
+                { id: "P25", name: "Theodor Schlatter", birth_year: 1926, death_year: null, generation_depth: 7, occupation: "Dekan", location: "später", gender: "male" },
+                { id: "P26", name: "Ruth Hecht", birth_year: 1929, death_year: null, generation_depth: 7, occupation: "", location: "", gender: "female" },
+                { id: "P24", name: "Gerhard Schlatter", birth_year: 1922, death_year: 1943, generation_depth: 7, occupation: "", location: "", gender: "male" },
+                { id: "P22", name: "Dora Schlatter", birth_year: 1920, death_year: null, generation_depth: 7, occupation: "", location: "", gender: "female" },
+                { id: "P23", name: "Leonhard", birth_year: null, death_year: null, generation_depth: 7, occupation: "", location: "Familienname unbekannt", gender: "male" },
+                
+                // Generation 8 - Kinder von Theodor
+                { id: "P27", name: "Gerhard Schlatter", birth_year: 1955, death_year: null, generation_depth: 8, occupation: "", location: "", gender: "male" },
+                { id: "P83", name: "Natascha Kirchmann", birth_year: 1966, death_year: null, generation_depth: 8, occupation: "", location: "", gender: "female" },
+                { id: "P28", name: "Martin Schlatter", birth_year: 1957, death_year: null, generation_depth: 8, occupation: "", location: "", gender: "male" },
+                { id: "P29", name: "Dorothea Schlatter", birth_year: 1959, death_year: null, generation_depth: 8, occupation: "", location: "", gender: "female" },
+                
+                // Generation 9 - Kinder von Gerhard und Natascha
+                { id: "P84", name: "Gabriel Schlatter", birth_year: 1991, death_year: null, generation_depth: 9, occupation: "", location: "", gender: "male" },
+                { id: "P85", name: "Elias Schlatter", birth_year: 1994, death_year: null, generation_depth: 9, occupation: "", location: "", gender: "male" },
+                { id: "P86", name: "Johanna Schlatter", birth_year: 1997, death_year: null, generation_depth: 9, occupation: "", location: "", gender: "female" }
+            ],
+            edges: [
+                // Ehen
+                { source: "P1", target: "P2", type: "MARRIED" },
+                { source: "P3", target: "P4", type: "MARRIED" },
+                { source: "P5", target: "P6", type: "MARRIED" },
+                { source: "P5", target: "P7", type: "MARRIED" },
+                { source: "P32", target: "P33", type: "MARRIED" },
+                { source: "P39", target: "P40", type: "MARRIED" },
+                { source: "P41", target: "P42", type: "MARRIED" },
+                { source: "P46", target: "P47", type: "MARRIED" },
+                { source: "P49", target: "P50", type: "MARRIED" },
+                { source: "P10", target: "P11", type: "MARRIED" },
+                { source: "P52", target: "P53", type: "MARRIED" },
+                { source: "P57", target: "P58", type: "MARRIED" },
+                { source: "P59", target: "P60", type: "MARRIED" },
+                { source: "P69", target: "P70", type: "MARRIED" },
+                { source: "P73", target: "P74", type: "MARRIED" },
+                { source: "P12", target: "P13", type: "MARRIED" },
+                { source: "P75", target: "P76", type: "MARRIED" },
+                { source: "P14", target: "P20", type: "MARRIED" },
+                { source: "P18", target: "P19", type: "MARRIED" },
+                { source: "P71", target: "P72", type: "MARRIED" },
+                { source: "P22", target: "P23", type: "MARRIED" },
+                { source: "P25", target: "P26", type: "MARRIED" },
+                { source: "P27", target: "P83", type: "MARRIED" },
+                
+                // Eltern-Kind Beziehungen
+                { source: "P1", target: "P3", type: "PARENT_OF" },
+                { source: "P2", target: "P3", type: "PARENT_OF" },
+                { source: "P3", target: "P5", type: "PARENT_OF" },
+                { source: "P4", target: "P5", type: "PARENT_OF" },
+                { source: "P5", target: "P31", type: "PARENT_OF" },
+                { source: "P6", target: "P31", type: "PARENT_OF" },
+                { source: "P5", target: "P32", type: "PARENT_OF" },
+                { source: "P6", target: "P32", type: "PARENT_OF" },
+                { source: "P5", target: "P39", type: "PARENT_OF" },
+                { source: "P6", target: "P39", type: "PARENT_OF" },
+                { source: "P5", target: "P41", type: "PARENT_OF" },
+                { source: "P6", target: "P41", type: "PARENT_OF" },
+                { source: "P5", target: "P45", type: "PARENT_OF" },
+                { source: "P6", target: "P45", type: "PARENT_OF" },
+                { source: "P5", target: "P46", type: "PARENT_OF" },
+                { source: "P6", target: "P46", type: "PARENT_OF" },
+                { source: "P5", target: "P48", type: "PARENT_OF" },
+                { source: "P6", target: "P48", type: "PARENT_OF" },
+                { source: "P5", target: "P49", type: "PARENT_OF" },
+                { source: "P6", target: "P49", type: "PARENT_OF" },
+                { source: "P5", target: "P51", type: "PARENT_OF" },
+                { source: "P6", target: "P51", type: "PARENT_OF" },
+                { source: "P5", target: "P10", type: "PARENT_OF" },
+                { source: "P6", target: "P10", type: "PARENT_OF" },
+                { source: "P5", target: "P52", type: "PARENT_OF" },
+                { source: "P6", target: "P52", type: "PARENT_OF" },
+                { source: "P5", target: "P57", type: "PARENT_OF" },
+                { source: "P6", target: "P57", type: "PARENT_OF" },
+                { source: "P5", target: "P59", type: "PARENT_OF" },
+                { source: "P6", target: "P59", type: "PARENT_OF" },
+                { source: "P10", target: "P80", type: "PARENT_OF" },
+                { source: "P11", target: "P80", type: "PARENT_OF" },
+                { source: "P10", target: "P78", type: "PARENT_OF" },
+                { source: "P11", target: "P78", type: "PARENT_OF" },
+                { source: "P10", target: "P79", type: "PARENT_OF" },
+                { source: "P11", target: "P79", type: "PARENT_OF" },
+                { source: "P10", target: "P69", type: "PARENT_OF" },
+                { source: "P11", target: "P69", type: "PARENT_OF" },
+                { source: "P10", target: "P73", type: "PARENT_OF" },
+                { source: "P11", target: "P73", type: "PARENT_OF" },
+                { source: "P10", target: "P81", type: "PARENT_OF" },
+                { source: "P11", target: "P81", type: "PARENT_OF" },
+                { source: "P10", target: "P12", type: "PARENT_OF" },
+                { source: "P11", target: "P12", type: "PARENT_OF" },
+                { source: "P10", target: "P75", type: "PARENT_OF" },
+                { source: "P11", target: "P75", type: "PARENT_OF" },
+                { source: "P10", target: "P82", type: "PARENT_OF" },
+                { source: "P11", target: "P82", type: "PARENT_OF" },
+                { source: "P12", target: "P14", type: "PARENT_OF" },
+                { source: "P13", target: "P14", type: "PARENT_OF" },
+                { source: "P12", target: "P15", type: "PARENT_OF" },
+                { source: "P13", target: "P15", type: "PARENT_OF" },
+                { source: "P12", target: "P16", type: "PARENT_OF" },
+                { source: "P13", target: "P16", type: "PARENT_OF" },
+                { source: "P12", target: "P17", type: "PARENT_OF" },
+                { source: "P13", target: "P17", type: "PARENT_OF" },
+                { source: "P12", target: "P18", type: "PARENT_OF" },
+                { source: "P13", target: "P18", type: "PARENT_OF" },
+                { source: "P69", target: "P71", type: "PARENT_OF" },
+                { source: "P70", target: "P71", type: "PARENT_OF" },
+                { source: "P14", target: "P21", type: "PARENT_OF" },
+                { source: "P20", target: "P21", type: "PARENT_OF" },
+                { source: "P14", target: "P22", type: "PARENT_OF" },
+                { source: "P20", target: "P22", type: "PARENT_OF" },
+                { source: "P14", target: "P24", type: "PARENT_OF" },
+                { source: "P20", target: "P24", type: "PARENT_OF" },
+                { source: "P14", target: "P25", type: "PARENT_OF" },
+                { source: "P20", target: "P25", type: "PARENT_OF" },
+                { source: "P14", target: "P30", type: "PARENT_OF" },
+                { source: "P20", target: "P30", type: "PARENT_OF" },
+                { source: "P25", target: "P27", type: "PARENT_OF" },
+                { source: "P26", target: "P27", type: "PARENT_OF" },
+                { source: "P25", target: "P28", type: "PARENT_OF" },
+                { source: "P26", target: "P28", type: "PARENT_OF" },
+                { source: "P25", target: "P29", type: "PARENT_OF" },
+                { source: "P26", target: "P29", type: "PARENT_OF" },
+                { source: "P27", target: "P84", type: "PARENT_OF" },
+                { source: "P83", target: "P84", type: "PARENT_OF" },
+                { source: "P27", target: "P85", type: "PARENT_OF" },
+                { source: "P83", target: "P85", type: "PARENT_OF" },
+                { source: "P27", target: "P86", type: "PARENT_OF" },
+                { source: "P83", target: "P86", type: "PARENT_OF" }
+            ]
+        }
+    };
+    
+    // Hauptlinien-IDs (von Hektor 1699 bis zu den jüngsten Nachkommen)
+    const hauptlinieIds = [
+        "P1", "P2",    // Generation 1
+        "P3", "P4",    // Generation 2
+        "P5", "P6", "P7",  // Generation 3
+        "P10", "P11",  // Generation 4
+        "P12", "P13",  // Generation 5
+        "P14", "P20",  // Generation 6
+        "P21", "P22", "P23", "P24", "P25", "P26", "P30",  // Generation 7
+        "P27", "P83", "P28", "P29",  // Generation 8
+        "P84", "P85", "P86"  // Generation 9
+    ];
+    
+    let showMainLineOnly = true; // Standard: Hauptlinie
+    
+    const svg = d3.select("#tree");
+    const svgElement = document.getElementById("tree");
+    const height = 1400; // Vergrößerte Höhe für größere Container
+    
+    // Funktion zum Rendern des Stammbaums
+    function renderTree() {
+        // Filtere Nodes und Edges basierend auf der Ansicht
+        let visibleNodes, visibleEdges;
+        
+        if (showMainLineOnly) {
+            visibleNodes = familyData.graph.nodes.filter(n => hauptlinieIds.includes(n.id));
+            visibleEdges = familyData.graph.edges.filter(e => 
+                hauptlinieIds.includes(e.source) && hauptlinieIds.includes(e.target)
+            );
+        } else {
+            visibleNodes = familyData.graph.nodes;
+            visibleEdges = familyData.graph.edges;
+        }
+        
+        const nodes = visibleNodes;
+        const edges = visibleEdges;
+        
+        // Berechne benötigte Breite basierend auf der größten Generation
+        const generationsTemp = d3.group(nodes, d => d.generation_depth);
+        let maxPersonsInGen = 0;
+        generationsTemp.forEach((persons) => {
+            if (persons.length > maxPersonsInGen) maxPersonsInGen = persons.length;
+        });
+        
+        // Berechne Breite: Exakt die benötigte Breite basierend auf Inhalt
+        const cardWidth = 180;  // Vergrößert von 140
+        const cardSpacing = 70; // Vergrößert von 60
+        
+        // Berechne die tatsächlich benötigte Breite (später basierend auf maxWidth)
+        // Wird nach der Positionierung nochmal gesetzt
+        let width = 2000; // Temporärer Startwert
+        
+        // Setze SVG-Höhe
+        svg.attr("height", height);
+    
+    // Gruppiere nach Generationen
+    const generations = d3.group(nodes, d => d.generation_depth);
+    const maxGeneration = d3.max(nodes, d => d.generation_depth);
+    
+    // Vertikale Positionierung - mit mehr Padding oben und unten
+    const yScale = d3.scaleLinear()
+        .domain([1, maxGeneration])
+        .range([150, height - 100]);
+    
+    // Finde die breiteste Generation (für horizontale Zentrierung)
+    let maxWidth = 0;
+    generations.forEach((persons, gen) => {
+        const genWidth = persons.length * cardWidth + (persons.length - 1) * cardSpacing;
+        if (genWidth > maxWidth) maxWidth = genWidth;
+    });
+    
+    // Berechne globalen Startpunkt für horizontale Zentrierung mit zusätzlichem Offset
+    const leftPadding = 200; // Reduzierter Abstand vom linken Rand
+    const globalStartX = leftPadding;
+    
+    // Positioniere alle Personen - horizontal zentriert
+    generations.forEach((persons, gen) => {
+            // Spezielle Behandlung für Generation 3 (Hektor mit zwei Frauen - Positionen getauscht)
+            if (gen === 3 && persons.length === 3) {
+                // Hektor in der Mitte, Anna an Johannes' Position, Elisabeth rechts
+                const hektor = persons.find(p => p.gender === 'male');
+                const anna = persons.find(p => p.id === 'P6'); // Anna Bernet (jetzt links)
+                const elisabeth = persons.find(p => p.id === 'P7'); // Elisabeth Corrodi (jetzt rechts)
+                
+                if (hektor && anna && elisabeth) {
+                    // Berechne die Breite von Generation 3 und zentriere sie
+                    const gen3Width = 3 * cardWidth + 2 * cardSpacing;
+                    const gen3StartX = globalStartX + (maxWidth - gen3Width) / 2;
+                    
+                    anna.x = gen3StartX;
+                    anna.y = yScale(gen);
+                    
+                    // Hektor rechts von Anna (mit Abstand)
+                    hektor.x = gen3StartX + (cardWidth + cardSpacing);
+                    hektor.y = yScale(gen);
+                    
+                    // Elisabeth rechts von Hektor
+                    elisabeth.x = gen3StartX + 2 * (cardWidth + cardSpacing);
+                    elisabeth.y = yScale(gen);
+                }
+        } else {
+            // Normale Positionierung für andere Generationen
+            // Gruppiere zuerst nach Elternpaaren, dann nach Ehen innerhalb der Generation
+            
+            // Schritt 1: Finde alle Elternpaare aus der vorherigen Generation
+            const prevGenPersons = Array.from(generations.get(gen - 1) || []);
+            const parentCouples = [];
+            const processedParents = new Set();
+            
+            prevGenPersons.forEach(person => {
+                if (processedParents.has(person.id)) return;
+                
+                const spouseEdge = edges.find(e => 
+                    e.type === "MARRIED" && 
+                    (e.source === person.id || e.target === person.id)
+                );
+                
+                if (spouseEdge) {
+                    const spouseId = spouseEdge.source === person.id ? spouseEdge.target : spouseEdge.source;
+                    const spouse = prevGenPersons.find(p => p.id === spouseId);
+                    
+                    if (spouse) {
+                        parentCouples.push([person.id, spouse.id]);
+                        processedParents.add(person.id);
+                        processedParents.add(spouse.id);
+                    }
+                }
+            });
+            
+            // Schritt 2: Ordne Kinder nach ihren Eltern
+            const orderedPersons = [];
+            const processed = new Set();
+            
+            // Für jedes Elternpaar: finde ihre Kinder
+            parentCouples.forEach(([parent1Id, parent2Id]) => {
+                const children = persons.filter(child => {
+                    if (processed.has(child.id)) return false;
+                    
+                    // Prüfe ob dieses Kind von diesem Elternpaar abstammt
+                    const hasParent1 = edges.some(e => 
+                        e.type === "PARENT_OF" && e.source === parent1Id && e.target === child.id
+                    );
+                    const hasParent2 = edges.some(e => 
+                        e.type === "PARENT_OF" && e.source === parent2Id && e.target === child.id
+                    );
+                    
+                    return hasParent1 && hasParent2;
+                });
+                
+                // Ordne die Kinder: ZUERST Ehepaare gruppieren (auch mit Partnern außerhalb)
+                const processedChildren = new Set();
+                
+                children.forEach(child => {
+                    if (processedChildren.has(child.id)) return;
+                    
+                    const spouseEdge = edges.find(e => 
+                        e.type === "MARRIED" && 
+                        (e.source === child.id || e.target === child.id)
+                    );
+                    
+                    if (spouseEdge) {
+                        const spouseId = spouseEdge.source === child.id ? spouseEdge.target : spouseEdge.source;
+                        // Suche Ehepartner ÜBERALL in dieser Generation (nicht nur unter Kindern)
+                        const spouse = persons.find(p => p.id === spouseId);
+                        
+                        if (spouse) {
+                            // Ehepaar: Mann zuerst, dann Frau
+                            if (child.gender === 'male') {
+                                orderedPersons.push(child);
+                                orderedPersons.push(spouse);
+                            } else {
+                                orderedPersons.push(spouse);
+                                orderedPersons.push(child);
+                            }
+                            processedChildren.add(child.id);
+                            processedChildren.add(spouse.id);
+                            processed.add(child.id);
+                            processed.add(spouse.id);
+                            return;
+                        }
+                    }
+                    
+                    // Alleinstehende Person
+                    orderedPersons.push(child);
+                    processedChildren.add(child.id);
+                    processed.add(child.id);
+                });
+            });
+            
+            // Füge übrige Personen hinzu (die keine Eltern in der vorherigen Gen haben)
+            persons.forEach(person => {
+                if (!processed.has(person.id)) {
+                    orderedPersons.push(person);
+                    processed.add(person.id);
+                }
+            });
+            
+            // Zentriere diese Generation horizontal relativ zur breitesten Generation
+            const totalWidth = orderedPersons.length * cardWidth + (orderedPersons.length - 1) * cardSpacing;
+            const startX = globalStartX + (maxWidth - totalWidth) / 2;
+            
+            orderedPersons.forEach((person, i) => {
+                person.x = startX + i * (cardWidth + cardSpacing);
+                person.y = yScale(gen);
+            });
+        }
+    });
+    
+    // Berechne die tatsächlich benötigte SVG-Breite basierend auf der breitesten Generation
+    const finalWidth = maxWidth + leftPadding * 2; // maxWidth + Padding links und rechts
+    svg.attr("width", finalWidth);
+    
+    // Zeichne Verbindungslinien (Eltern-Kinder) - T-förmig mit 90-Grad-Kurven
+    // Gruppiere Kinder nach ihren Eltern
+    const childrenByParents = new Map();
+    
+    edges.filter(e => e.type === "PARENT_OF").forEach(edge => {
+        const child = nodes.find(n => n.id === edge.target);
+        if (!child) return;
+        
+        if (!childrenByParents.has(child.id)) {
+            childrenByParents.set(child.id, []);
+        }
+        childrenByParents.get(child.id).push(edge.source);
+    });
+    
+    // Zeichne Verbindungen für jedes Kind
+    childrenByParents.forEach((parentIds, childId) => {
+        const child = nodes.find(n => n.id === childId);
+        const parents = parentIds.map(id => nodes.find(n => n.id === id)).filter(p => p);
+        
+        if (parents.length === 1) {
+            // Ein Elternteil: runde Kurve
+            const parent = parents[0];
+            const controlX = (parent.x + child.x) / 2;
+            const controlY = parent.y + (child.y - parent.y) / 2;
+            
+            svg.append("path")
+                .attr("class", "parent-child-line")
+                .attr("d", `M ${parent.x} ${parent.y} Q ${controlX} ${controlY} ${child.x} ${child.y}`)
+                .attr("fill", "none");
+        } else if (parents.length === 2) {
+            // Zwei Elternteile: T-förmig mit runden Kurven
+            const parent1 = parents[0];
+            const parent2 = parents[1];
+            
+            // Mittelpunkt zwischen den Eltern
+            const parentsMidX = (parent1.x + parent2.x) / 2;
+            const parentsMidY = parent1.y; // Gleiche Y-Position wie Eltern
+            
+            // Ziel ist direkt das Kind
+            const targetX = child.x;
+            const targetY = child.y;
+            
+            // Horizontale Linie perfekt in der Mitte zwischen Eltern und Kind
+            const midY = (parentsMidY + targetY) / 2;
+            
+            // Vertikale Linie nach unten bis zur Mitte
+            svg.append("line")
+                .attr("class", "parent-child-line")
+                .attr("x1", parentsMidX)
+                .attr("y1", parentsMidY)
+                .attr("x2", parentsMidX)
+                .attr("y2", midY);
+            
+            // Horizontale Linie zum Kind (eckig)
+            svg.append("line")
+                .attr("class", "parent-child-line")
+                .attr("x1", parentsMidX)
+                .attr("y1", midY)
+                .attr("x2", targetX)
+                .attr("y2", midY);
+            
+            // Vertikale Linie zum Kind (eckig)
+            svg.append("line")
+                .attr("class", "parent-child-line")
+                .attr("x1", targetX)
+                .attr("y1", midY)
+                .attr("x2", targetX)
+                .attr("y2", targetY);
+        }
+    });
+    
+    // Zeichne Eheverbindungen - gerade Linien
+    edges.filter(e => e.type === "MARRIED").forEach(edge => {
+        const spouse1 = nodes.find(n => n.id === edge.source);
+        const spouse2 = nodes.find(n => n.id === edge.target);
+        
+        if (spouse1 && spouse2) {
+            // Gerade Linie zwischen Ehepartnern
+            svg.append("line")
+                .attr("class", "marriage-line")
+                .attr("x1", spouse1.x)
+                .attr("y1", spouse1.y)
+                .attr("x2", spouse2.x)
+                .attr("y2", spouse2.y);
+        }
+    });
+    
+    // Zeichne Person-Karten - deutlich kleiner mit geschlechtsspezifischen Farben
+    const personCards = svg.selectAll("rect.person-card")
+        .data(nodes)
+        .enter()
+        .append("rect")
+        .attr("class", d => {
+            if (d.id === 'P12') return 'person-card adolf';
+            return `person-card ${d.gender}`;
+        })
+        .attr("x", d => d.x - 90)  // Vergrößert auf 180
+        .attr("y", d => d.y - 45)  // Vergrößert auf 90
+        .attr("width", 180)        // Vergrößert von 140
+        .attr("height", 90)        // Vergrößert von 70
+        .attr("rx", 12);           // Vergrößert auf 12
+    
+    // Zeichne Namen (mit Umbruch bei langen Namen)
+    // Speichere auch ob Name zweizeilig ist für spätere Y-Positionsanpassungen
+    const nameTwoLines = new Set();
+    
+    nodes.forEach(d => {
+        const name = d.name;
+        const maxCharsPerLine = 25;
+        
+        if (name.length <= maxCharsPerLine) {
+            // Eine Zeile
+            svg.append("text")
+                .attr("class", "person-name")
+                .attr("x", d.x)
+                .attr("y", d.y - 23)  // Mehr Abstand (vorher -20)
+                .text(name);
+        } else {
+            // Name auf zwei Zeilen aufteilen
+            const words = name.split(' ');
+            let line1 = '';
+            let line2 = '';
+            
+            for (let word of words) {
+                if (line1.length + word.length + 1 <= maxCharsPerLine && !line2) {
+                    line1 += (line1 ? ' ' : '') + word;
+                } else {
+                    line2 += (line2 ? ' ' : '') + word;
+                }
+            }
+            
+            svg.append("text")
+                .attr("class", "person-name")
+                .attr("x", d.x)
+                .attr("y", d.y - 29)  // Mehr Abstand nach oben
+                .text(line1);
+            
+            if (line2) {
+                svg.append("text")
+                    .attr("class", "person-name")
+                    .attr("x", d.x)
+                    .attr("y", d.y - 15)  // Mehr Abstand zwischen den Zeilen (vorher -17, jetzt 14px Abstand statt 10px)
+                    .text(line2);
+                nameTwoLines.add(d.id); // Markiere als zweizeilig
+            }
+        }
+    });
+    
+    // Zeichne Lebensdaten mit Icons (Y-Position angepasst wenn Name zweizeilig)
+    svg.selectAll("text.years")
+        .data(nodes)
+        .enter()
+        .append("text")
+        .attr("class", "person-years")
+        .attr("x", d => d.x)
+        .attr("y", d => nameTwoLines.has(d.id) ? d.y - 5 : d.y - 5)  // Viel mehr Abstand zum Namen
+        .text(d => {
+            const birth = d.birth_year ? d.birth_year.toString() : '?';
+            const death = d.death_year ? d.death_year.toString() : '?';
+            return `✦ ${birth}  † ${death}`;
+        });
+    
+    // Zeichne Beruf (mit automatischem Zeilenumbruch, kein Trimming)
+    nodes.filter(d => d.occupation && d.occupation.length > 0).forEach(d => {
+        const occupation = d.occupation;
+        const maxCharsPerLine = 30;
+        const nameOffset = nameTwoLines.has(d.id) ? 8 : 0; // +8px wenn Name zweizeilig
+        
+        if (occupation.length <= maxCharsPerLine) {
+            // Eine Zeile
+            svg.append("text")
+                .attr("class", "person-occupation")
+                .attr("x", d.x)
+                .attr("y", d.y + 8 + nameOffset)  // Näher an Lebensdaten (vorher +5)
+                .text(occupation);
+        } else {
+            // Suche nach Komma zum Aufteilen
+            const commaIndex = occupation.indexOf(',');
+            if (commaIndex > 0 && commaIndex <= maxCharsPerLine) {
+                // Zeile 1: Bis zum Komma
+                const line1 = occupation.substring(0, commaIndex).trim();
+                const rest = occupation.substring(commaIndex + 1).trim();
+                
+                svg.append("text")
+                    .attr("class", "person-occupation")
+                    .attr("x", d.x)
+                    .attr("y", d.y + 6 + nameOffset)  // Näher an Lebensdaten (vorher +2)
+                    .text(line1);
+                
+                // Zeile 2: Rest (kann auch lang sein)
+                if (rest.length <= maxCharsPerLine) {
+                    svg.append("text")
+                        .attr("class", "person-occupation")
+                        .attr("x", d.x)
+                        .attr("y", d.y + 16 + nameOffset)  // Mehr Abstand zwischen Zeilen
+                        .text(rest);
+                } else {
+                    // Rest auch auf zwei Zeilen aufteilen
+                    const words2 = rest.split(' ');
+                    let line2a = '';
+                    let line2b = '';
+                    
+                    for (let word of words2) {
+                        if (line2a.length + word.length + 1 <= maxCharsPerLine && !line2b) {
+                            line2a += (line2a ? ' ' : '') + word;
+                        } else {
+                            line2b += (line2b ? ' ' : '') + word;
+                        }
+                    }
+                    
+                    svg.append("text")
+                        .attr("class", "person-occupation")
+                        .attr("x", d.x)
+                        .attr("y", d.y + 16 + nameOffset)  // Mehr Abstand zwischen Zeilen
+                        .text(line2a);
+                    
+                    if (line2b) {
+                        svg.append("text")
+                            .attr("class", "person-occupation")
+                            .attr("x", d.x)
+                            .attr("y", d.y + 26 + nameOffset)  // Mehr Abstand zwischen Zeilen
+                            .text(line2b);
+                    }
+                }
+            } else {
+                // Kein passendes Komma, intelligent umbrechen
+                const words = occupation.split(' ');
+                let line1 = '';
+                let line2 = '';
+                
+                for (let word of words) {
+                    if (line1.length + word.length + 1 <= maxCharsPerLine && !line2) {
+                        line1 += (line1 ? ' ' : '') + word;
+                    } else {
+                        line2 += (line2 ? ' ' : '') + word;
+                    }
+                }
+                
+                svg.append("text")
+                    .attr("class", "person-occupation")
+                    .attr("x", d.x)
+                    .attr("y", d.y + 6 + nameOffset)
+                    .text(line1);
+                
+                if (line2) {
+                    svg.append("text")
+                        .attr("class", "person-occupation")
+                        .attr("x", d.x)
+                        .attr("y", d.y + 16 + nameOffset)  // Mehr Abstand zwischen Zeilen
+                        .text(line2);
+                }
+            }
+        }
+    });
+    
+    // Zeichne Ort/Adresse (mit automatischem Zeilenumbruch)
+    nodes.filter(d => d.location && d.location.length > 0).forEach(d => {
+        const location = d.location;
+        const maxCharsPerLine = 35;
+        const nameOffset = nameTwoLines.has(d.id) ? 8 : 0;
+        
+        // Berechne Y-Position basierend darauf, ob es eine Occupation gibt
+        const hasOccupation = d.occupation && d.occupation.length > 0;
+        let baseY;
+        
+        if (!hasOccupation) {
+            // Keine Occupation: direkt nach Lebensdaten
+            baseY = d.y + 8 + nameOffset;
+        } else {
+            // Mit Occupation: mindestens 20px nach Lebensdaten, damit genug Platz ist
+            if (d.occupation.length <= 30) {
+                // Kurze occupation (1 Zeile)
+                baseY = d.y + 20 + nameOffset;
+            } else {
+                // Längere occupation (2+ Zeilen)
+                const commaIndex = d.occupation.indexOf(',');
+                if (commaIndex > 0 && commaIndex <= 30) {
+                    const rest = d.occupation.substring(commaIndex + 1).trim();
+                    if (rest.length > 30) {
+                        baseY = d.y + 32 + nameOffset; // 3 Zeilen occupation
+                    } else {
+                        baseY = d.y + 26 + nameOffset; // 2 Zeilen occupation
+                    }
+                } else {
+                    baseY = d.y + 26 + nameOffset; // 2 Zeilen occupation
+                }
+            }
+        }
+        
+        if (location.length <= maxCharsPerLine) {
+            // Eine Zeile
+            svg.append("text")
+                .attr("class", "person-location")
+                .attr("x", d.x)
+                .attr("y", baseY)
+                .text(location);
+        } else {
+            // Suche nach Semikolon oder Komma zum Aufteilen
+            let splitIndex = location.indexOf(';');
+            if (splitIndex < 0) splitIndex = location.indexOf(',');
+            
+            if (splitIndex > 0 && splitIndex < 40) {
+                // Zeile 1: Bis zum Trennzeichen
+                svg.append("text")
+                    .attr("class", "person-location")
+                    .attr("x", d.x)
+                    .attr("y", baseY)
+                    .text(location.substring(0, splitIndex).trim());
+                
+                // Zeile 2: Rest
+                const rest = location.substring(splitIndex + 1).trim();
+                svg.append("text")
+                    .attr("class", "person-location")
+                    .attr("x", d.x)
+                    .attr("y", baseY + 10)  // Mehr Abstand zwischen Zeilen (vorher +8)
+                    .text(rest);
+            } else {
+                // Intelligent umbrechen
+                const words = location.split(' ');
+                let line1 = '';
+                let line2 = '';
+                
+                for (let word of words) {
+                    if (line1.length + word.length + 1 <= maxCharsPerLine) {
+                        line1 += (line1 ? ' ' : '') + word;
+                    } else {
+                        line2 += (line2 ? ' ' : '') + word;
+                    }
+                }
+                
+                svg.append("text")
+                    .attr("class", "person-location")
+                    .attr("x", d.x)
+                    .attr("y", baseY)
+                    .text(line1);
+                
+                if (line2) {
+                    svg.append("text")
+                        .attr("class", "person-location")
+                        .attr("x", d.x)
+                        .attr("y", baseY + 10)  // Mehr Abstand zwischen Zeilen (vorher +8)
+                        .text(line2);
+                }
+            }
+        }
+    });
+    
+    // Generation-Labels wurden entfernt für mehr Platz
+    
+    console.log("✅ Stammbaum gerendert!");
+    console.log("📊 Ansicht:", showMainLineOnly ? "Hauptlinie" : "Vollständig");
+    console.log("👥 Sichtbare Personen:", nodes.length);
+    } // Ende renderTree()
+    
+    // Event-Handler für Buttons
+    document.getElementById('btn-hauptlinie').addEventListener('click', function() {
+        if (!showMainLineOnly) {
+            showMainLineOnly = true;
+            // Button-Styling aktualisieren
+            this.style.backgroundColor = '#1a365d';
+            this.classList.add('text-white');
+            this.classList.remove('text-gray-700', 'hover:bg-gray-100');
+            const vollBtn = document.getElementById('btn-vollstaendig');
+            vollBtn.style.backgroundColor = '';
+            vollBtn.classList.remove('text-white');
+            vollBtn.classList.add('text-gray-700', 'hover:bg-gray-100');
+            
+            // Fade out, neu rendern, fade in
+            svgElement.classList.add('fading');
+            setTimeout(() => {
+                svg.selectAll("*").remove();
+                renderTree();
+                svgElement.classList.remove('fading');
+            }, 300);
+        }
+    });
+    
+    document.getElementById('btn-vollstaendig').addEventListener('click', function() {
+        if (showMainLineOnly) {
+            showMainLineOnly = false;
+            // Button-Styling aktualisieren
+            this.style.backgroundColor = '#1a365d';
+            this.classList.add('text-white');
+            this.classList.remove('text-gray-700', 'hover:bg-gray-100');
+            const hauptBtn = document.getElementById('btn-hauptlinie');
+            hauptBtn.style.backgroundColor = '';
+            hauptBtn.classList.remove('text-white');
+            hauptBtn.classList.add('text-gray-700', 'hover:bg-gray-100');
+            
+            // Fade out, neu rendern, fade in
+            svgElement.classList.add('fading');
+            setTimeout(() => {
+                svg.selectAll("*").remove();
+                renderTree();
+                svgElement.classList.remove('fading');
+                
+                // Scrolle horizontal in die Mitte (nach fade in)
+                setTimeout(() => {
+                    const container = document.getElementById('tree-container');
+                    const svgWidth = svgElement.getBoundingClientRect().width;
+                    const containerWidth = container.clientWidth;
+                    const scrollPosition = (svgWidth - containerWidth) / 2;
+                    container.scrollLeft = scrollPosition;
+                }, 50);
+            }, 300);
+        }
+    });
+    
+    // Initial render
+    renderTree();
+    
+    // Appbar und Footer laden
+    document.addEventListener('DOMContentLoaded', function() {
+        setTimeout(() => {
+            if (window.appbarManager) {
+                window.appbarManager.insertAppbar('appbar-container');
+            }
+            
+            if (window.footerManager) {
+                window.footerManager.insertFooter('footer-container', {
+                    description: "Genealogischer Stammbaum der Familie Schlatter ab 1699 mit vollständiger Erfassung aller Nachkommen bis zur 9. Generation"
+                });
+            }
+        }, 50);
+    });
+</script>
+
+<!-- Statistik -->
+<div class="bg-white border-t border-gray-200 py-12">
+    <div class="max-w-7xl mx-auto px-6">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+            <div class="bg-gradient-to-br from-secondary/10 to-orange-100 rounded-xl shadow-sm p-6 text-center border border-secondary/20">
+                <div class="text-4xl font-bold text-secondary mb-2">9</div>
+                <div class="text-sm font-medium text-text-secondary">Generationen</div>
+            </div>
+            <div class="bg-gradient-to-br from-blue-50 to-blue-100 rounded-xl shadow-sm p-6 text-center border border-blue-200">
+                <div class="text-4xl font-bold text-blue-600 mb-2">1699</div>
+                <div class="text-sm font-medium text-text-secondary">Beginn</div>
+            </div>
+            <div class="bg-gradient-to-br from-secondary/10 to-orange-100 rounded-xl shadow-sm p-6 text-center border border-secondary/20">
+                <div class="text-4xl font-bold text-secondary mb-2">1852</div>
+                <div class="text-sm font-medium text-text-secondary">Adolf Schlatter</div>
+            </div>
+            <div class="bg-gradient-to-br from-purple-50 to-purple-100 rounded-xl shadow-sm p-6 text-center border border-purple-200">
+                <div class="text-4xl font-bold text-purple-600 mb-2">65</div>
+                <div class="text-sm font-medium text-text-secondary">Personen erfasst</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Footer -->
+<div id="footer-container"></div>
+
+</body>
+</html>
