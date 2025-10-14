@@ -19,17 +19,20 @@
         .font-body { font-family: 'Inter', sans-serif; }
         .font-highlight { font-family: 'Playfair Display', serif; }
     </style>
+    <!-- Central Color System -->
+    <link rel="stylesheet" href="../../styles/colors.css">
+    
     <script>tailwind.config = {
   "theme": {
     "extend": {
       "colors": {
-        "primary": "#2C2F48",
-        "secondary": "#F25C3C",
-        "accent": "#E2E6F5",
-        "text-primary": "#111827",
-        "text-secondary": "#4B5563",
-        "bg-light": "#F9FAFB",
-        "bg-dark": "#1F2937"
+        "primary": "var(--color-primary)",
+        "secondary": "var(--color-secondary)",
+        "accent": "var(--color-accent)",
+        "text-primary": "var(--color-text-primary)",
+        "text-secondary": "var(--color-text-secondary)",
+        "bg-light": "var(--color-bg-light)",
+        "bg-dark": "var(--color-bg-dark)"
       },
       "fontFamily": {}
     }

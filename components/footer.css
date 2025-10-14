@@ -15,7 +15,7 @@
 
 /* Hover effects for social media icons */
 #footer .hover\:bg-secondary:hover {
-    background-color: #F25C3C !important;
+    background-color: var(--color-secondary) !important;
 }
 
 /* Smooth transitions */

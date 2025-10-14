@@ -7,18 +7,21 @@
     
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
     
+    <!-- Central Color System -->
+    <link rel="stylesheet" href="../styles/colors.css">
+    
     <style>::-webkit-scrollbar { display: none;}</style>
     <script>tailwind.config = {
   "theme": {
     "extend": {
       "colors": {
-        "primary": "#2C2F48",
-        "secondary": "#F25C3C",
-        "accent": "#E2E6F5",
-        "text-primary": "#111827",
-        "text-secondary": "#4B5563",
-        "bg-light": "#F9FAFB",
-        "bg-dark": "#1F2937"
+        "primary": "var(--color-primary)",
+        "secondary": "var(--color-secondary)",
+        "accent": "var(--color-accent)",
+        "text-primary": "var(--color-text-primary)",
+        "text-secondary": "var(--color-text-secondary)",
+        "bg-light": "var(--color-bg-light)",
+        "bg-dark": "var(--color-bg-dark)"
       },
       "fontFamily": {
         "headline": [
@@ -48,8 +51,8 @@
       }
     </style><style>
   .highlighted-section {
-    outline: 2px solid #3F20FB;
-    background-color: rgba(63, 32, 251, 0.1);
+    outline: 2px solid var(--color-focus);
+    background-color: var(--color-focus-bg);
   }
 
   .edit-button {
@@ -75,13 +78,13 @@
 </div>
 
 <!-- Intro Banner -->
-<section id="intro" class="relative h-[600px] bg-gradient-to-br from-primary via-bg-dark to-primary overflow-hidden">
+<section id="intro" class="relative overflow-hidden" style="background: var(--gradient-header-diagonal); min-height: 600px; display: flex; align-items: center;">
     <div class="absolute inset-0">
         <img class="w-full h-full object-cover opacity-30" src="https://storage.googleapis.com/uxpilot-auth.appspot.com/a707570a19-6a1555a1136c531e0380.png" alt="abstract dark academic texture with books and scholarly elements">
-        <div class="absolute inset-0 bg-gradient-to-r from-primary/80 to-bg-dark/60"></div>
+        <div class="absolute inset-0" style="background: var(--gradient-header-transparent);"></div>
     </div>
-    <div class="relative max-w-7xl mx-auto px-6 lg:px-8 h-full flex items-center">
-        <div class="max-w-3xl">
+    <div class="relative max-w-7xl mx-auto px-6 lg:px-8 py-20 w-full">
+        <div class="max-w-3xl mx-auto text-center">
             <div class="inline-flex items-center space-x-2 bg-white/10 backdrop-blur-sm rounded-full px-4 py-2 mb-6">
                 <i class="fas fa-award text-secondary"></i>
                 <span class="text-white text-sm font-medium">Seit 2002</span>

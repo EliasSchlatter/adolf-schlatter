@@ -11,6 +11,9 @@
     <script src="https://code.highcharts.com/highcharts-more.js"></script>
     <script src="https://code.highcharts.com/modules/solid-gauge.js"></script>
     
+    <!-- Central Color System -->
+    <link rel="stylesheet" href="../styles/colors.css">
+    
     <!-- Appbar CSS -->
     <link rel="stylesheet" href="../components/appbar.css">
     
@@ -22,14 +25,14 @@
             theme: {
                 extend: {
                     colors: {
-                        primary: '#2C2F48',
-                        secondary: '#E77C3C',
-                        accent: '#F2F3F5',
-                        'text-primary': '#111827',
-                        'text-secondary': '#4B5563',
-                        'background-light': '#FAFAFA',
-                        'background-dark': '#1E2530',
-                        highlight: '#FCE6D6'
+                        primary: 'var(--color-primary)',
+                        secondary: 'var(--color-secondary-alt)',
+                        accent: 'var(--color-accent-alt)',
+                        'text-primary': 'var(--color-text-primary)',
+                        'text-secondary': 'var(--color-text-secondary)',
+                        'background-light': 'var(--color-bg-lighter)',
+                        'background-dark': 'var(--color-bg-darker)',
+                        highlight: 'var(--color-highlight)'
                     },
                     fontFamily: {
                         'merriweather': ['Merriweather', 'serif'],
@@ -53,7 +56,7 @@
             max-height: 3000px; 
         }
         .copy-btn:hover { 
-            background-color: #f3f4f6; 
+            background-color: var(--color-bg-gray); 
         }
         
         /* Dual Range Slider Container */
@@ -66,7 +69,7 @@
             position: absolute;
             width: 100%;
             height: 6px;
-            background: #F3F4F6;
+            background: var(--color-bg-gray-light);
             border-radius: 3px;
             top: 50%;
             transform: translateY(-50%);
@@ -75,7 +78,7 @@
         .range-slider-range {
             position: absolute;
             height: 6px;
-            background: #D1D5DB;
+            background: var(--color-border-light);
             border-radius: 3px;
             top: 50%;
             transform: translateY(-50%);
@@ -103,32 +106,32 @@
             background: white;
             cursor: pointer;
             pointer-events: all;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.08);
+            box-shadow: var(--shadow-sm);
             transition: all 0.15s ease;
-            border: 2px solid #D1D5DB;
+            border: 2px solid var(--color-border-light);
         }
 
         .range-slider-input::-webkit-slider-thumb:hover {
-            border-color: #9CA3AF;
-            box-shadow: 0 2px 6px rgba(0,0,0,0.15), 0 1px 3px rgba(0,0,0,0.1);
+            border-color: var(--color-border-medium);
+            box-shadow: var(--shadow-md);
             transform: scale(1.05);
         }
 
         .range-slider-input::-moz-range-thumb {
             width: 20px;
             height: 20px;
-            border: 2px solid #D1D5DB;
+            border: 2px solid var(--color-border-light);
             border-radius: 50%;
             background: white;
             cursor: pointer;
             pointer-events: all;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.08);
+            box-shadow: var(--shadow-sm);
             transition: all 0.15s ease;
         }
 
         .range-slider-input::-moz-range-thumb:hover {
-            border-color: #9CA3AF;
-            box-shadow: 0 2px 6px rgba(0,0,0,0.15), 0 1px 3px rgba(0,0,0,0.1);
+            border-color: var(--color-border-medium);
+            box-shadow: var(--shadow-md);
             transform: scale(1.05);
         }
 
@@ -142,13 +145,13 @@
         }
 
         .range-slider-input:focus::-webkit-slider-thumb {
-            border-color: #9CA3AF;
-            box-shadow: 0 0 0 3px rgba(209, 213, 219, 0.3);
+            border-color: var(--color-border-medium);
+            box-shadow: var(--shadow-focus);
         }
 
         .range-slider-input:focus::-moz-range-thumb {
-            border-color: #9CA3AF;
-            box-shadow: 0 0 0 3px rgba(209, 213, 219, 0.3);
+            border-color: var(--color-border-medium);
+            box-shadow: var(--shadow-focus);
         }
     </style>
 </head>
@@ -159,9 +162,9 @@
         <!-- Appbar wird hier eingefügt -->
     </div>
 
-    <section id="intro" class="relative bg-gradient-to-br from-primary via-bg-dark to-primary py-20 overflow-hidden">
-        <div class="absolute inset-0 bg-gradient-to-r from-primary/90 to-bg-dark/80"></div>
-        <div class="relative max-w-7xl mx-auto px-6">
+    <section id="intro" class="relative overflow-hidden" style="background: var(--gradient-header-diagonal); min-height: 600px; display: flex; align-items: center;">
+        <div class="absolute inset-0" style="background: var(--gradient-header-transparent);"></div>
+        <div class="relative max-w-7xl mx-auto px-6 py-20 w-full">
             <div class="max-w-4xl mx-auto text-center">
                 <div class="flex justify-center mb-6">
                     <div class="bg-secondary/20 backdrop-blur-sm p-4 rounded-full">
@@ -199,7 +202,7 @@
                 <p class="text-text-secondary">Finde gezielt Werke, Briefe, Manuskripte oder andere Materialien.</p>
             </div>
 
-            <div class="bg-accent/50 rounded-lg p-6 mb-8">
+            <div class="bg-accent/50 rounded-lg p-6 mb-8 border border-gray-200">
                 <div class="relative mb-6">
                     <i class="fas fa-search absolute left-4 top-1/2 transform -translate-y-1/2 text-text-secondary"></i>
                     <input id="search-input" type="text" placeholder="Titel, Person, Ort oder Schlagwort suchen..." class="w-full pl-12 pr-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-secondary focus:border-transparent">
@@ -333,10 +336,10 @@
             <div class="bg-white rounded-2xl shadow-xl max-w-5xl w-full h-[90vh] overflow-hidden flex flex-col">
                 
                 <!-- Modal Header -->
-                <div class="bg-gradient-to-r from-[#E8EAED] to-[#F0F1F3] border-b border-gray-200 px-6 py-4">
+                <div class="bg-gradient-light border-b border-gray-200 px-6 py-4">
                     <div class="flex items-center justify-between">
                         <div class="flex items-center space-x-4">
-                            <div class="bg-[#1E2530] text-white p-2 rounded-lg">
+                            <div class="bg-dark-card text-white p-2 rounded-lg">
                                 <i class="fa-solid fa-book-open text-lg"></i>
                             </div>
                             <div>
@@ -359,15 +362,15 @@
                 <div class="border-t border-gray-200 px-6 py-4 bg-gray-50 flex-shrink-0">
                     <div class="flex items-center justify-between">
                         <div class="flex space-x-2">
-                            <button onclick="navigateEntry(-1)" class="px-3 py-2 text-sm bg-[#1E2530] text-white rounded-lg hover:bg-[#2D3440] transition-colors">
+                            <button onclick="navigateEntry(-1)" class="px-3 py-2 text-sm bg-dark-card text-white rounded-lg hover:bg-dark-card-secondary transition-colors">
                                 <i class="fas fa-chevron-left mr-1"></i>Vorheriger
                             </button>
-                            <button onclick="navigateEntry(1)" class="px-3 py-2 text-sm bg-[#1E2530] text-white rounded-lg hover:bg-[#2D3440] transition-colors">
+                            <button onclick="navigateEntry(1)" class="px-3 py-2 text-sm bg-dark-card text-white rounded-lg hover:bg-dark-card-secondary transition-colors">
                                 Nächster<i class="fas fa-chevron-right ml-1"></i>
                             </button>
                         </div>
                         <div class="flex items-center space-x-2">
-                            <button onclick="exportCurrentEntry()" class="flex items-center space-x-2 px-4 py-2 text-sm bg-[#1E2530] hover:bg-[#2D3440] text-white rounded-lg font-medium transition-colors">
+                            <button onclick="exportCurrentEntry()" class="flex items-center space-x-2 px-4 py-2 text-sm bg-dark-card hover:bg-dark-card-secondary text-white rounded-lg font-medium transition-colors">
                                 <i class="fa-solid fa-download"></i>
                                 <span>Export</span>
                             </button>
@@ -393,7 +396,7 @@
 
             <div class="space-y-8">
                 <!-- Teil I -->
-                <div class="rounded-lg p-6 border border-white/10" style="background-color: rgb(30 37 48);">
+                <div class="rounded-lg p-6 border border-white/10 bg-dark-card">
                         <div class="flex items-center space-x-3 mb-6 cursor-pointer hover:bg-white/10 transition-colors p-3 rounded-lg -m-3 mb-3" onclick="setArchivFilter('I', '', '', 'Teil I')">
                         <div class="w-10 h-10 bg-blue-500/20 rounded-full flex items-center justify-center border border-blue-400/30">
                             <span class="text-blue-300 font-bold">I</span>
@@ -406,7 +409,7 @@
                     
                     <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
                         <!-- Abschnitt A -->
-                        <div class="rounded-lg p-5" style="background-color: rgb(45 52 64);">
+                        <div class="rounded-lg p-5 bg-dark-card-secondary">
                             <div class="flex items-center space-x-2 mb-4 cursor-pointer hover:bg-white/10 transition-colors p-2 rounded -m-2 mb-2" onclick="setArchivFilter('I', 'A', '', 'Teil I - Bücher und Druckschriften')">
                                 <div class="w-6 h-6 bg-blue-400/30 rounded flex items-center justify-center border border-blue-400/40">
                                     <span class="text-blue-300 font-semibold text-xs">A</span>
@@ -454,7 +457,7 @@
                         </div>
 
                         <!-- Abschnitt B -->
-                        <div class="rounded-lg p-5" style="background-color: rgb(45 52 64);">
+                        <div class="rounded-lg p-5 bg-dark-card-secondary">
                             <div class="flex items-center space-x-2 mb-4 cursor-pointer hover:bg-white/10 transition-colors p-2 rounded -m-2 mb-2" onclick="setArchivFilter('I', 'B', '', 'Teil I - Dokumente und Manuskripte')">
                                 <div class="w-6 h-6 bg-blue-400/30 rounded flex items-center justify-center border border-blue-400/40">
                                     <span class="text-blue-300 font-semibold text-xs">B</span>
@@ -502,7 +505,7 @@
                         </div>
 
                         <!-- Abschnitt C -->
-                        <div class="rounded-lg p-5" style="background-color: rgb(45 52 64);">
+                        <div class="rounded-lg p-5 bg-dark-card-secondary">
                             <div class="flex items-center space-x-2 mb-4 cursor-pointer hover:bg-white/10 transition-colors p-2 rounded -m-2 mb-2" onclick="setArchivFilter('I', 'C', '', 'Teil I - Briefe')">
                                 <div class="w-6 h-6 bg-blue-400/30 rounded flex items-center justify-center border border-blue-400/40">
                                     <span class="text-blue-300 font-semibold text-xs">C</span>
@@ -545,7 +548,7 @@
                 </div>
 
                 <!-- Teil II -->
-                <div class="rounded-lg p-6 border border-white/10" style="background-color: rgb(30 37 48);">
+                <div class="rounded-lg p-6 border border-white/10 bg-dark-card">
                     <div class="flex items-center space-x-3 mb-6 cursor-pointer hover:bg-white/10 transition-colors p-3 rounded-lg -m-3 mb-3" onclick="setArchivFilter('II', '', '', 'Teil II')">
                         <div class="w-10 h-10 bg-green-500/20 rounded-full flex items-center justify-center border border-green-400/30">
                             <span class="text-green-300 font-bold">II</span>
@@ -557,7 +560,7 @@
                     </div>
                     
                     <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-                        <div class="rounded-lg p-4 cursor-pointer transition-colors" style="background-color: rgb(45 52 64);" onmouseover="this.style.backgroundColor='rgb(55 62 74)'" onmouseout="this.style.backgroundColor='rgb(45 52 64)'" onclick="setArchivFilter('II', 'A', '', 'Teil II - Bücher')">
+                        <div class="rounded-lg p-4 cursor-pointer transition-colors bg-dark-card-secondary hover-bg-overlay" onclick="setArchivFilter('II', 'A', '', 'Teil II - Bücher')">
                             <div class="flex items-center space-x-2 mb-3">
                                 <div class="w-6 h-6 bg-green-400/30 rounded flex items-center justify-center border border-green-400/40">
                                     <span class="text-green-300 font-semibold text-xs">A</span>
@@ -566,7 +569,7 @@
                             </div>
                             <div class="text-xs text-gray-400">Nr. 501–567</div>
                         </div>
-                        <div class="rounded-lg p-4 cursor-pointer transition-colors" style="background-color: rgb(45 52 64);" onmouseover="this.style.backgroundColor='rgb(55 62 74)'" onmouseout="this.style.backgroundColor='rgb(45 52 64)'" onclick="setArchivFilter('II', 'B', '', 'Teil II - Druckschriften und Manuskripte')">
+                        <div class="rounded-lg p-4 cursor-pointer transition-colors bg-dark-card-secondary hover-bg-overlay" onclick="setArchivFilter('II', 'B', '', 'Teil II - Druckschriften und Manuskripte')">
                             <div class="flex items-center space-x-2 mb-3">
                                 <div class="w-6 h-6 bg-green-400/30 rounded flex items-center justify-center border border-green-400/40">
                                     <span class="text-green-300 font-semibold text-xs">B</span>
@@ -575,7 +578,7 @@
                             </div>
                             <div class="text-xs text-gray-400">Nr. 601–864</div>
                         </div>
-                        <div class="rounded-lg p-4 cursor-pointer transition-colors" style="background-color: rgb(45 52 64);" onmouseover="this.style.backgroundColor='rgb(55 62 74)'" onmouseout="this.style.backgroundColor='rgb(45 52 64)'" onclick="setArchivFilter('II', 'C', '', 'Teil II - Briefe')">
+                        <div class="rounded-lg p-4 cursor-pointer transition-colors bg-dark-card-secondary hover-bg-overlay" onclick="setArchivFilter('II', 'C', '', 'Teil II - Briefe')">
                             <div class="flex items-center space-x-2 mb-3">
                                 <div class="w-6 h-6 bg-green-400/30 rounded flex items-center justify-center border border-green-400/40">
                                     <span class="text-green-300 font-semibold text-xs">C</span>
@@ -588,7 +591,7 @@
                 </div>
 
                 <!-- Teil III -->
-                <div class="rounded-lg p-6 border border-white/10" style="background-color: rgb(30 37 48);">
+                <div class="rounded-lg p-6 border border-white/10 bg-dark-card">
                     <div class="flex items-center space-x-3 mb-6 cursor-pointer hover:bg-white/10 transition-colors p-3 rounded-lg -m-3 mb-3" onclick="setArchivFilter('III', '', '', 'Teil III')">
                         <div class="w-10 h-10 bg-purple-500/20 rounded-full flex items-center justify-center border border-purple-400/30">
                             <span class="text-purple-300 font-bold">III</span>
@@ -600,7 +603,7 @@
                     </div>
                     
                     <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-                        <div class="rounded-lg p-4 cursor-pointer transition-colors" style="background-color: rgb(45 52 64);" onmouseover="this.style.backgroundColor='rgb(55 62 74)'" onmouseout="this.style.backgroundColor='rgb(45 52 64)'" onclick="setArchivFilter('III', 'A', '', 'Teil III - Zugangsbuch')">
+                        <div class="rounded-lg p-4 cursor-pointer transition-colors bg-dark-card-secondary hover-bg-overlay" onclick="setArchivFilter('III', 'A', '', 'Teil III - Zugangsbuch')">
                             <div class="flex items-center space-x-2 mb-3">
                                 <div class="w-6 h-6 bg-purple-400/30 rounded flex items-center justify-center border border-purple-400/40">
                                     <span class="text-purple-300 font-semibold text-xs">A</span>
@@ -609,7 +612,7 @@
                             </div>
                             <div class="text-xs text-gray-400">Nr. 971</div>
                         </div>
-                        <div class="rounded-lg p-4 cursor-pointer transition-colors" style="background-color: rgb(45 52 64);" onmouseover="this.style.backgroundColor='rgb(55 62 74)'" onmouseout="this.style.backgroundColor='rgb(45 52 64)'" onclick="setArchivFilter('III', 'B', '', 'Teil III - Korrespondenz')">
+                        <div class="rounded-lg p-4 cursor-pointer transition-colors bg-dark-card-secondary hover-bg-overlay" onclick="setArchivFilter('III', 'B', '', 'Teil III - Korrespondenz')">
                             <div class="flex items-center space-x-2 mb-3">
                                 <div class="w-6 h-6 bg-purple-400/30 rounded flex items-center justify-center border border-purple-400/40">
                                     <span class="text-purple-300 font-semibold text-xs">B</span>
@@ -618,7 +621,7 @@
                             </div>
                             <div class="text-xs text-gray-400">Nr. 972–979</div>
                         </div>
-                        <div class="rounded-lg p-4 cursor-pointer transition-colors" style="background-color: rgb(45 52 64);" onmouseover="this.style.backgroundColor='rgb(55 62 74)'" onmouseout="this.style.backgroundColor='rgb(45 52 64)'" onclick="setArchivFilter('III', 'C', '', 'Teil III - Verschiedenes')">
+                        <div class="rounded-lg p-4 cursor-pointer transition-colors bg-dark-card-secondary hover-bg-overlay" onclick="setArchivFilter('III', 'C', '', 'Teil III - Verschiedenes')">
                             <div class="flex items-center space-x-2 mb-3">
                                 <div class="w-6 h-6 bg-purple-400/30 rounded flex items-center justify-center border border-purple-400/40">
                                     <span class="text-purple-300 font-semibold text-xs">C</span>
@@ -631,7 +634,7 @@
                 </div>
 
                 <!-- Anhang -->
-                <div class="rounded-lg p-6 border border-white/10" style="background-color: rgb(30 37 48);">
+                <div class="rounded-lg p-6 border border-white/10 bg-dark-card">
                     <div class="flex items-center space-x-3 mb-6 cursor-pointer hover:bg-white/10 transition-colors p-3 rounded-lg -m-3 mb-3" onclick="setArchivFilter('Anhang', '', '', 'Anhang')">
                         <div class="w-10 h-10 bg-orange-500/20 rounded-full flex items-center justify-center border border-orange-400/30">
                             <span class="text-orange-300 font-bold">A</span>
@@ -642,7 +645,7 @@
                         </div>
                     </div>
                     
-                    <div class="rounded-lg p-5" style="background-color: rgb(45 52 64);">
+                    <div class="rounded-lg p-5 bg-dark-card-secondary">
                         <div class="flex items-center space-x-2 mb-4 cursor-pointer hover:bg-white/10 transition-colors p-2 rounded -m-2 mb-2" onclick="setArchivFilter('Anhang', 'I', '', 'Anhang - Unveröffentlichtes Material')">
                             <div class="w-6 h-6 bg-orange-400/30 rounded flex items-center justify-center border border-orange-400/40">
                                 <span class="text-orange-300 font-semibold text-xs">I</span>
@@ -1073,12 +1076,12 @@
                     type !== 'teil' && type !== 'sektion' && type !== 'unterabschnitt' && !(type === 'jahr' && value === 'custom')) {
                     hasFilters = true;
                     const chip = document.createElement('div');
-                    chip.className = 'inline-flex items-center space-x-2 bg-secondary/10 text-secondary px-3 py-1 rounded-full text-sm font-medium';
+                    chip.className = 'inline-flex items-center space-x-2 bg-secondary text-white px-3 py-1.5 rounded-full text-sm font-medium';
                     
                     const label = type.charAt(0).toUpperCase() + type.slice(1);
                     chip.innerHTML = `
                         <span>${label}: ${value}</span>
-                        <button onclick="removeFilter('${type}')" class="hover:bg-secondary/20 rounded-full p-1 transition-colors">
+                        <button onclick="removeFilter('${type}')" class="hover:bg-white/20 rounded-full p-0.5 transition-colors">
                             <i class="fas fa-times text-xs"></i>
                         </button>
                     `;
@@ -1090,10 +1093,10 @@
             if (activeFilters.archivLabel) {
                 hasFilters = true;
                 const chip = document.createElement('div');
-                chip.className = 'inline-flex items-center space-x-2 bg-secondary/10 text-secondary px-3 py-1 rounded-full text-sm font-medium';
+                chip.className = 'inline-flex items-center space-x-2 bg-secondary text-white px-3 py-1.5 rounded-full text-sm font-medium';
                 chip.innerHTML = `
                     <span>${activeFilters.archivLabel}</span>
-                    <button onclick="removeArchivFilter()" class="hover:bg-secondary/20 rounded-full p-1 transition-colors">
+                    <button onclick="removeArchivFilter()" class="hover:bg-white/20 rounded-full p-0.5 transition-colors">
                         <i class="fas fa-times text-xs"></i>
                     </button>
                 `;
@@ -1104,10 +1107,10 @@
             if (activeFilters.jahr === 'custom' && (activeFilters.jahrMin !== 1850 || activeFilters.jahrMax !== 2000)) {
                 hasFilters = true;
                 const chip = document.createElement('div');
-                chip.className = 'inline-flex items-center space-x-2 bg-secondary/10 text-secondary px-3 py-1 rounded-full text-sm font-medium';
+                chip.className = 'inline-flex items-center space-x-2 bg-secondary text-white px-3 py-1.5 rounded-full text-sm font-medium';
                 chip.innerHTML = `
                     <span>Jahr: ${activeFilters.jahrMin}–${activeFilters.jahrMax}</span>
-                    <button onclick="resetYearFilter()" class="hover:bg-secondary/20 rounded-full p-1 transition-colors">
+                    <button onclick="resetYearFilter()" class="hover:bg-white/20 rounded-full p-0.5 transition-colors">
                         <i class="fas fa-times text-xs"></i>
                     </button>
                 `;
@@ -1385,9 +1388,9 @@
             let html = '';
             
             // ========== GRUNDINFORMATIONEN SECTION ==========
-            html += '<section class="bg-[#E8EAED] border-b border-gray-100 px-6 py-4">';
+            html += '<section class="bg-gray-200 border-b border-gray-100 px-6 py-4">';
             html += '<div class="flex items-center space-x-2 mb-4">';
-            html += '<div class="bg-[#1E2530] text-white p-1.5 rounded-lg"><i class="fa-solid fa-file-text text-sm"></i></div>';
+            html += '<div class="bg-dark-card text-white p-1.5 rounded-lg"><i class="fa-solid fa-file-text text-sm"></i></div>';
             html += '<h3 class="text-lg font-semibold text-gray-900">Grundinformationen</h3>';
             html += '</div>';
             html += '<div class="grid grid-cols-3 gap-4">';
@@ -1443,7 +1446,7 @@
             if (entry.beschreibung) {
                 html += '<section class="px-6 py-4 border-b border-gray-100">';
                 html += '<div class="flex items-center space-x-2 mb-3">';
-                html += '<div class="bg-[#2D3440] text-white p-1.5 rounded-lg"><i class="fa-solid fa-align-left text-sm"></i></div>';
+                html += '<div class="bg-dark-card-secondary text-white p-1.5 rounded-lg"><i class="fa-solid fa-align-left text-sm"></i></div>';
                 html += '<h3 class="text-lg font-semibold text-gray-900">Beschreibung / Inhalt</h3>';
                 html += '</div>';
                 html += `<div class="bg-gray-50 rounded-lg p-4"><p class="text-sm text-gray-800 leading-relaxed">${entry.beschreibung}</p></div>`;
@@ -1452,9 +1455,9 @@
             
             // ========== BETEILIGTE SECTION ==========
             if (entry.beteiligte && entry.beteiligte.length > 0) {
-                html += '<section class="bg-[#E8EAED] px-6 py-4 border-b border-gray-100">';
+                html += '<section class="bg-gray-200 px-6 py-4 border-b border-gray-100">';
                 html += '<div class="flex items-center space-x-2 mb-3">';
-                html += '<div class="bg-[#3A4354] text-white p-1.5 rounded-lg"><i class="fa-solid fa-users text-sm"></i></div>';
+                html += '<div class="bg-slate-600 text-white p-1.5 rounded-lg"><i class="fa-solid fa-users text-sm"></i></div>';
                 html += '<h3 class="text-lg font-semibold text-gray-900">Beteiligte</h3>';
                 html += '</div>';
                 html += '<div class="space-y-2">';
@@ -1512,9 +1515,9 @@
             ].filter(f => entry[f.key]);
             
             if (detailFields.length > 0) {
-                html += '<section class="bg-[#F0F1F3] px-6 py-4 border-b border-gray-100">';
+                html += '<section class="bg-gray-100 px-6 py-4 border-b border-gray-100">';
                 html += '<div class="flex items-center space-x-2 mb-3">';
-                html += '<div class="bg-[#1E2530] text-white p-1.5 rounded-lg"><i class="fa-solid fa-info text-sm"></i></div>';
+                html += '<div class="bg-dark-card text-white p-1.5 rounded-lg"><i class="fa-solid fa-info text-sm"></i></div>';
                 html += '<h3 class="text-lg font-semibold text-gray-900">Publikationsdetails</h3>';
                 html += '</div>';
                 html += '<div class="grid grid-cols-4 gap-3">';
@@ -1544,9 +1547,9 @@
             ].filter(f => entry[f.key]);
             
             if (zusatzFields.length > 0) {
-                html += '<section class="bg-[#E8EAED] px-6 py-4 border-b border-gray-100">';
+                html += '<section class="bg-gray-200 px-6 py-4 border-b border-gray-100">';
                 html += '<div class="flex items-center space-x-2 mb-3">';
-                html += '<div class="bg-[#2D3440] text-white p-1.5 rounded-lg"><i class="fa-solid fa-tags text-sm"></i></div>';
+                html += '<div class="bg-dark-card-secondary text-white p-1.5 rounded-lg"><i class="fa-solid fa-tags text-sm"></i></div>';
                 html += '<h3 class="text-lg font-semibold text-gray-900">Exemplar & Zusatzinformationen</h3>';
                 html += '</div>';
                 html += '<div class="space-y-2">';
@@ -1570,7 +1573,7 @@
             if (entry.untereintraege && entry.untereintraege.length > 0) {
                 html += '<section class="px-6 py-4 border-b border-gray-100">';
                 html += '<div class="flex items-center space-x-2 mb-3">';
-                html += '<div class="bg-[#3A4354] text-white p-1.5 rounded-lg"><i class="fa-solid fa-list text-sm"></i></div>';
+                html += '<div class="bg-slate-600 text-white p-1.5 rounded-lg"><i class="fa-solid fa-list text-sm"></i></div>';
                 html += '<h3 class="text-lg font-semibold text-gray-900">Untereinträge (' + entry.untereintraege.length + ')</h3>';
                 html += '</div>';
                 html += '<div class="space-y-2">';
@@ -1643,7 +1646,7 @@
             if (entry.anmerkung) {
                 html += '<section class="px-6 py-4 border-b border-gray-100">';
                 html += '<div class="flex items-center space-x-2 mb-3">';
-                html += '<div class="bg-[#4A5568] text-white p-1.5 rounded-lg"><i class="fa-solid fa-sticky-note text-sm"></i></div>';
+                html += '<div class="bg-gray-600 text-white p-1.5 rounded-lg"><i class="fa-solid fa-sticky-note text-sm"></i></div>';
                 html += '<h3 class="text-lg font-semibold text-gray-900">Anmerkungen</h3>';
                 html += '</div>';
                 html += `<div class="bg-yellow-50 border-l-4 border-yellow-400 p-4 rounded-r-lg">
@@ -1680,7 +1683,7 @@
                     <button class="accordion-trigger w-full px-4 py-3 text-left hover:bg-gray-50 transition-colors" onclick="toggleAccordion(this)">
                         <div class="flex items-center justify-between">
                             <div class="flex items-center space-x-2">
-                                <div class="bg-[#2D3440] text-white p-1.5 rounded-lg"><i class="fa-solid fa-file-code text-sm"></i></div>
+                                <div class="bg-dark-card-secondary text-white p-1.5 rounded-lg"><i class="fa-solid fa-file-code text-sm"></i></div>
                                 <h3 class="text-lg font-semibold text-gray-900">Original-Text (OCR)</h3>
                             </div>
                             <i class="fa-solid fa-chevron-down text-sm text-gray-400 transition-transform"></i>
@@ -1703,7 +1706,7 @@
                 <button class="accordion-trigger w-full px-4 py-3 text-left hover:bg-gray-50 transition-colors" onclick="toggleAccordion(this)">
                     <div class="flex items-center justify-between">
                         <div class="flex items-center space-x-2">
-                            <div class="bg-[#1E2530] text-white p-1.5 rounded-lg"><i class="fa-solid fa-code text-sm"></i></div>
+                            <div class="bg-dark-card text-white p-1.5 rounded-lg"><i class="fa-solid fa-code text-sm"></i></div>
                             <h3 class="text-lg font-semibold text-gray-900">JSON-Daten</h3>
                         </div>
                         <i class="fa-solid fa-chevron-down text-sm text-gray-400 transition-transform"></i>
@@ -2027,7 +2030,7 @@
                 series: [{
                     name: 'Einträge',
                     data: Object.values(yearCounts),
-                    color: '#2C2F48'
+                    color: getComputedStyle(document.documentElement).getPropertyValue('--color-primary')
                 }],
                 tooltip: {
                     pointFormat: '{series.name}: <b>{point.y}</b>'

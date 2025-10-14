@@ -89,7 +89,7 @@ class FooterManager {
      */
     getEmbeddedFooter() {
         return `<!-- Modern Footer Component -->
-<footer id="footer" class="bg-primary text-white py-16">
+<footer id="footer" class="text-white py-16" style="background: var(--gradient-section-dark);">
     <div class="max-w-7xl mx-auto px-6 lg:px-8">
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div class="md:col-span-2">
@@ -141,7 +141,7 @@ class FooterManager {
      */
     getFallbackFooter() {
         return `
-            <footer id="footer" class="bg-primary text-white py-16">
+            <footer id="footer" class="text-white py-16" style="background: var(--gradient-section-dark);">
                 <div class="max-w-7xl mx-auto px-6 lg:px-8">
                     <div class="text-center">
                         <h3 class="font-headline font-bold text-xl mb-4">Adolf Schlatter Stiftung</h3>

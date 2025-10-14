@@ -11,6 +11,9 @@
     <script>window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     
+    <!-- Central Color System -->
+    <link rel="stylesheet" href="../styles/colors.css">
+    
     <!-- Appbar CSS -->
     <link rel="stylesheet" href="../components/appbar.css">
     
@@ -22,14 +25,14 @@
             height: 8px;
         }
         ::-webkit-scrollbar-track {
-            background: #f1f1f1;
+            background: var(--color-scrollbar-track);
         }
         ::-webkit-scrollbar-thumb {
-            background: #888;
+            background: var(--color-scrollbar-thumb);
             border-radius: 4px;
         }
         ::-webkit-scrollbar-thumb:hover {
-            background: #555;
+            background: var(--color-scrollbar-thumb-hover);
         }
         
         body { 
@@ -39,56 +42,56 @@
         .person-card {
             stroke-width: 2px;
             rx: 12;
-            filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.1));
+            filter: var(--drop-shadow-base);
             transition: all 0.3s ease;
             cursor: pointer;
         }
         
         .person-card.male {
-            fill: #EBF3FA;        /* Sehr heller, freundlicher Blauton */
-            stroke: #4A7BA7;      /* Helleres, freundlicheres Blau */
+            fill: var(--color-node-male-fill);
+            stroke: var(--color-node-male-stroke);
         }
         
         .person-card.male:hover {
-            fill: #D6E8F7;        /* Etwas kräftiger beim Hover */
-            stroke: #2E5A7D;      /* Etwas dunkler beim Hover */
+            fill: var(--color-node-male-fill-hover);
+            stroke: var(--color-node-male-stroke-hover);
             stroke-width: 3px;
-            filter: drop-shadow(0 8px 15px rgba(74, 123, 167, 0.3));
+            filter: var(--drop-shadow-male);
         }
         
         .person-card.female {
-            fill: #FAEBEC;        /* Sehr heller, freundlicher Rosa-Ton */
-            stroke: #C05B7C;      /* Helleres, freundlicheres Weinrot */
+            fill: var(--color-node-female-fill);
+            stroke: var(--color-node-female-stroke);
         }
         
         .person-card.female:hover {
-            fill: #F4D6DA;        /* Etwas kräftiger beim Hover */
-            stroke: #A0476A;      /* Etwas dunkler beim Hover */
+            fill: var(--color-node-female-fill-hover);
+            stroke: var(--color-node-female-stroke-hover);
             stroke-width: 3px;
-            filter: drop-shadow(0 8px 15px rgba(192, 91, 124, 0.3));
+            filter: var(--drop-shadow-female);
         }
         
         .person-card.adolf {
-            fill: #fef3c7;
-            stroke: #f59e0b;
+            fill: var(--color-node-special-fill);
+            stroke: var(--color-node-special-stroke);
             stroke-width: 3px;
         }
         
         .person-card.adolf:hover {
-            fill: #fde68a;
-            stroke: #d97706;
+            fill: var(--color-node-special-fill-hover);
+            stroke: var(--color-node-special-stroke-hover);
             stroke-width: 3px;
-            filter: drop-shadow(0 8px 15px rgba(245, 158, 11, 0.4));
+            filter: var(--drop-shadow-special);
         }
         
         .marriage-line {
-            stroke: #1a365d; /* Primary Blau aus dem Header */
+            stroke: var(--color-line-primary);
             stroke-width: 2;
             fill: none;
         }
         
         .parent-child-line {
-            stroke: #9ca3af; /* Grau wie in der Legende */
+            stroke: var(--color-line-secondary);
             stroke-width: 2;
             fill: none;
         }
@@ -98,7 +101,7 @@
             font-weight: 600;
             text-anchor: middle;
             dominant-baseline: middle;
-            fill: #1f2937;
+            fill: var(--color-text-darkest);
             pointer-events: none;
         }
         
@@ -106,7 +109,7 @@
             font-size: 10px;     /* Vergrößert von 9px */
             text-anchor: middle;
             dominant-baseline: middle;
-            fill: #6b7280;
+            fill: var(--color-text-tertiary);
             pointer-events: none;
         }
         
@@ -114,7 +117,7 @@
             font-size: 9px;      /* Vergrößert von 8px */
             text-anchor: middle;
             dominant-baseline: middle;
-            fill: #9ca3af;
+            fill: var(--color-text-muted);
             pointer-events: none;
         }
         
@@ -122,7 +125,7 @@
             font-size: 8px;      /* Vergrößert von 7px */
             text-anchor: middle;
             dominant-baseline: middle;
-            fill: #9ca3af;
+            fill: var(--color-text-muted);
             pointer-events: none;
         }
         
@@ -130,7 +133,7 @@
             font-size: 11px;
             font-weight: 600;
             text-anchor: middle;
-            fill: #374151;
+            fill: var(--color-text-dark);
             pointer-events: none;
         }
         
@@ -148,13 +151,13 @@
             theme: {
                 extend: {
                     colors: {
-                        "primary": "#2C2F48",
-                        "secondary": "#F25C3C",
-                        "accent": "#E2E6F5",
-                        "text-primary": "#111827",
-                        "text-secondary": "#4B5563",
-                        "bg-light": "#F9FAFB",
-                        "bg-dark": "#1F2937"
+                        "primary": "var(--color-primary)",
+                        "secondary": "var(--color-secondary)",
+                        "accent": "var(--color-accent)",
+                        "text-primary": "var(--color-text-primary)",
+                        "text-secondary": "var(--color-text-secondary)",
+                        "bg-light": "var(--color-bg-light)",
+                        "bg-dark": "var(--color-bg-dark)"
                     },
                     fontFamily: {
                         'headline': ['Merriweather', 'serif'],
@@ -176,8 +179,8 @@
 <div id="appbar-container"></div>
 
 <!-- Hero Banner -->
-<section class="bg-gradient-to-br from-primary to-bg-dark py-16">
-    <div class="max-w-7xl mx-auto px-6 text-center">
+<section style="background: var(--gradient-header-primary); min-height: 600px; display: flex; align-items: center;">
+    <div class="max-w-7xl mx-auto px-6 py-20 text-center w-full">
         <div class="inline-block bg-secondary/20 backdrop-blur-sm px-6 py-3 rounded-full mb-6">
             <div class="flex items-center space-x-3">
                 <i class="fas fa-sitemap text-secondary text-xl"></i>
@@ -197,7 +200,7 @@
 <div class="bg-white border-b border-gray-200 px-6 py-4">
     <div class="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-4">
         <div class="inline-flex rounded-lg border border-gray-300 bg-white p-1" role="group">
-            <button id="btn-hauptlinie" class="px-6 py-2 text-sm font-medium rounded-md transition-colors text-white" style="background-color: #1a365d;">
+            <button id="btn-hauptlinie" class="px-6 py-2 text-sm font-medium rounded-md transition-colors text-white bg-primary">
                 Hauptlinie
             </button>
             <button id="btn-vollstaendig" class="px-6 py-2 text-sm font-medium rounded-md transition-colors text-gray-700 hover:bg-gray-100">
@@ -207,7 +210,7 @@
         
         <div class="flex items-center space-x-6 text-sm">
             <div class="flex items-center space-x-2">
-                <div class="w-4 h-0.5" style="background-color: #1a365d;"></div>
+                <div class="w-4 h-0.5 bg-primary"></div>
                 <span class="text-gray-600">Eheverbindung</span>
             </div>
             <div class="flex items-center space-x-2">
@@ -1003,12 +1006,10 @@
         if (!showMainLineOnly) {
             showMainLineOnly = true;
             // Button-Styling aktualisieren
-            this.style.backgroundColor = '#1a365d';
-            this.classList.add('text-white');
+            this.classList.add('bg-primary', 'text-white');
             this.classList.remove('text-gray-700', 'hover:bg-gray-100');
             const vollBtn = document.getElementById('btn-vollstaendig');
-            vollBtn.style.backgroundColor = '';
-            vollBtn.classList.remove('text-white');
+            vollBtn.classList.remove('bg-primary', 'text-white');
             vollBtn.classList.add('text-gray-700', 'hover:bg-gray-100');
             
             // Fade out, neu rendern, fade in
@@ -1025,12 +1026,10 @@
         if (showMainLineOnly) {
             showMainLineOnly = false;
             // Button-Styling aktualisieren
-            this.style.backgroundColor = '#1a365d';
-            this.classList.add('text-white');
+            this.classList.add('bg-primary', 'text-white');
             this.classList.remove('text-gray-700', 'hover:bg-gray-100');
             const hauptBtn = document.getElementById('btn-hauptlinie');
-            hauptBtn.style.backgroundColor = '';
-            hauptBtn.classList.remove('text-white');
+            hauptBtn.classList.remove('bg-primary', 'text-white');
             hauptBtn.classList.add('text-gray-700', 'hover:bg-gray-100');
             
             // Fade out, neu rendern, fade in

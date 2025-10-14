@@ -20,6 +20,9 @@ class PreistraegerPageBuilder {
     <script>window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     
+    <!-- Central Color System -->
+    <link rel="stylesheet" href="../../styles/colors.css">
+    
     <!-- Appbar CSS -->
     <link rel="stylesheet" href="../../components/appbar.css">
     
@@ -33,13 +36,13 @@ class PreistraegerPageBuilder {
   "theme": {
     "extend": {
       "colors": {
-        "primary": "#2C2F48",
-        "secondary": "#F25C3C",
-        "accent": "#E2E6F5",
-        "text-primary": "#111827",
-        "text-secondary": "#4B5563",
-        "bg-light": "#F9FAFB",
-        "bg-dark": "#1F2937"
+        "primary": "var(--color-primary)",
+        "secondary": "var(--color-secondary)",
+        "accent": "var(--color-accent)",
+        "text-primary": "var(--color-text-primary)",
+        "text-secondary": "var(--color-text-secondary)",
+        "bg-light": "var(--color-bg-light)",
+        "bg-dark": "var(--color-bg-dark)"
       },
       "fontFamily": {}
     }
@@ -52,8 +55,9 @@ class PreistraegerPageBuilder {
     ${this.generateProfileBanner()}
     ${this.generateLebenslauf()}
     ${this.generateAkademischeLaufbahn()}
-    ${this.generatePublikationen()}
     ${this.generateForschungsschwerpunkte()}
+    ${this.generatePublikationen()}
+    ${this.generateQuote()}
     ${this.generateFooter()}
     ${this.generateScripts()}
 </body>
@@ -74,8 +78,8 @@ class PreistraegerPageBuilder {
         const imageSrc = this.data.image || 'https://storage.googleapis.com/uxpilot-auth.appspot.com/ed7a3e6e7f-e124e82d1190350e3e39.png';
         const tags = this.data.tags || [];
         
-        return `<section id="intro" class="bg-gradient-to-r from-primary to-bg-dark py-16">
-        <div class="max-w-7xl mx-auto px-6">
+        return `<section id="intro" style="background: var(--gradient-header-primary); min-height: 600px; display: flex; align-items: center;">
+        <div class="max-w-7xl mx-auto px-6 py-20 w-full">
             <div class="flex flex-col lg:flex-row items-center space-y-8 lg:space-y-0 lg:space-x-12">
                 <div class="flex-shrink-0">
                     <img class="w-64 h-64 rounded-full object-cover border-4 border-white shadow-xl" src="${imageSrc}" alt="${this.data.name}">
@@ -183,7 +187,7 @@ class PreistraegerPageBuilder {
                     </div>
 
                     ${awards.length > 0 ? `
-                    <div class="mt-8 bg-gradient-to-br from-primary to-bg-dark rounded-lg p-8 text-white">
+                    <div class="mt-8 bg-gradient-section-dark rounded-lg p-8 text-white">
                         <h4 class="font-headline font-semibold mb-4">Besondere Auszeichnungen</h4>
                         <div class="space-y-4">
                             ${awards.map(award => `
@@ -236,36 +240,40 @@ class PreistraegerPageBuilder {
     generatePublikationen() {
         const publications = this.data.publications || [];
 
-        return `<section id="publikationen" class="py-16 bg-white">
+        return `<section id="publikationen" class="py-16 bg-accent">
         <div class="max-w-7xl mx-auto px-6">
             <h2 class="text-4xl font-headline font-bold text-primary mb-12 text-center">Veröffentlichungen (Auswahl)</h2>
             
-            <div class="space-y-6">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 ${publications.map((pub, index) => `
-                <div class="bg-white border border-gray-200 rounded-lg shadow-sm">
-                    <div class="accordion-header p-6 cursor-pointer flex items-center justify-between hover:bg-gray-50 transition-colors" onclick="toggleAccordion('accordion${index + 1}')">
-                        <h3 class="text-xl font-semibold text-primary">${pub.title}</h3>
-                        <i class="fas fa-chevron-down text-text-secondary transition-transform" id="icon${index + 1}"></i>
-                    </div>
-                    <div class="accordion-content hidden p-6 pt-0 border-t border-gray-100" id="accordion${index + 1}">
-                        <p class="text-text-secondary">${pub.description}</p>
-                        ${pub.details ? `<p class="text-sm text-text-secondary mt-4">${pub.details}</p>` : ''}
-                        ${pub.tags ? `
-                        <div class="mt-4 flex items-center space-x-4">
-                            ${pub.tags.map(tag => `<span class="bg-secondary text-white px-3 py-1 rounded-full text-xs">${tag}</span>`).join('')}
+                <div class="bg-white rounded-lg p-8 shadow-lg transition-shadow">
+                    <div class="flex items-start space-x-3 mb-4">
+                        <div class="w-10 h-10 bg-secondary rounded-lg flex items-center justify-center flex-shrink-0">
+                            <i class="fas fa-book text-white"></i>
                         </div>
-                        ` : ''}
-                        ${pub.list ? `
-                        <ul class="space-y-3 text-text-secondary mt-4">
-                            ${pub.list.map(listItem => `
-                            <li class="flex items-start space-x-3">
-                                <i class="fas fa-circle text-xs text-secondary mt-2"></i>
-                                <span>${listItem}</span>
-                            </li>
-                            `).join('')}
-                        </ul>
-                        ` : ''}
+                        <h3 class="text-lg font-semibold text-primary leading-tight">${pub.title}</h3>
                     </div>
+                    
+                    <p class="text-text-secondary text-sm mb-4 leading-relaxed">${pub.description}</p>
+                    
+                    ${pub.details ? `<p class="text-xs text-text-secondary mb-4 italic">${pub.details}</p>` : ''}
+                    
+                    ${pub.tags ? `
+                    <div class="flex flex-wrap gap-2 mb-4">
+                        ${pub.tags.map(tag => `<span class="bg-secondary text-white px-2 py-1 rounded-full text-xs">${tag}</span>`).join('')}
+                    </div>
+                    ` : ''}
+                    
+                    ${pub.list ? `
+                    <ul class="space-y-2 text-text-secondary text-sm">
+                        ${pub.list.map(listItem => `
+                        <li class="flex items-start space-x-2">
+                            <i class="fas fa-circle text-[6px] text-secondary mt-1.5"></i>
+                            <span class="leading-snug">${listItem}</span>
+                        </li>
+                        `).join('')}
+                    </ul>
+                    ` : ''}
                 </div>
                 `).join('')}
             </div>
@@ -277,7 +285,7 @@ class PreistraegerPageBuilder {
     generateForschungsschwerpunkte() {
         const researchAreas = this.data.researchAreas || [];
 
-        return `<section id="forschungsschwerpunkte" class="py-16 bg-gradient-to-br from-primary to-bg-dark text-white">
+        return `<section id="forschungsschwerpunkte" class="py-16 bg-gradient-section-dark text-white">
         <div class="max-w-7xl mx-auto px-6">
             <h2 class="text-4xl font-headline font-bold mb-12 text-center">Forschungsschwerpunkte</h2>
             <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -295,6 +303,40 @@ class PreistraegerPageBuilder {
     </section>`;
     }
 
+
+    // Generate quote section
+    generateQuote() {
+        const quotes = [
+            "Aus der uns gegebenen Lage entsteht unsere Pflicht.",
+            "Man kann die Heilige Schrift nicht lesen wie die tägliche Zeitung. Sie ist wie ein Bergwerk. Man muß mühsam in ihre Schächte hinabsteigen, um ihre Goldader anzuschlagen.",
+            "Wenn die Menschen leidenschaftlich werden, schreien und toben, zu den Waffen greifen, Gewalt üben, Gericht halten und töten, dann übertönt ihr Lärm leicht die Erinnerung an Gott.",
+            "Buße tun und Bekehrung ist nicht nur Gebot für Nichtchristen, sondern zuerst Pflicht der Christenheit.",
+            "Im Umgang mit vielen Menschen verwechselt man oft, was man selbst innerlich besitzt und was man von anderen entlehnt.",
+            "Binsenwahrheiten: Die eine Hälfte führte vor einigen Jahrhunderten auf den Scheiterhaufen; die andre besteht aus Unwahrheiten, die aus Bequemlichkeit für wahr gelten.",
+            "Es ist eine sichere Erfahrung, daß das Gebet, das sich mit uns selbst beschäftigt, verdorrt.",
+            "Durch Jesus wird man in die Gemeinde Gottes eingegliedert, und es gibt keinen Eingang in die ewige Kirche als durch ihn.",
+            "Wenn uns der Geist bewegen soll, ohne dass wir uns bewegen; uns erleuchten soll, ohne dass wir denken; uns heiligen soll, ohne dass wir wollen; uns gehorsam machen soll, ohne dass wir gehorchen; uns vom Bösen erlösen soll, ohne dass wir es lassen; so haben wir nicht Christi Verheißung für uns.",
+            "Dem Retter der Welt folgen nur wenige.",
+            "Es ist besser, ich bete einen Rachepsalm, als einen gottlosen Hass in meinem Herzen zu tragen.",
+            "Was die Liebe anschaut, glänzt."
+        ];
+        
+        const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
+        
+        return `<!-- Quote Section -->
+<section id="inspiration" class="py-20" style="background-color: #F25C3C; min-height: 300px; display: flex; align-items: center;">
+    <div class="container mx-auto px-6">
+        <div class="max-w-4xl mx-auto text-center">
+            <blockquote class="font-highlight text-2xl lg:text-3xl text-white mb-8 italic leading-relaxed">
+                „${randomQuote}"
+            </blockquote>
+            <cite class="text-xl text-white font-semibold">
+                – Adolf Schlatter
+            </cite>
+        </div>
+    </div>
+</section>`;
+    }
 
     // Generate footer using Footer Component
     generateFooter() {

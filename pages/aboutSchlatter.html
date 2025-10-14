@@ -5,6 +5,9 @@
     <script> window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     
+    <!-- Central Color System -->
+    <link rel="stylesheet" href="../styles/colors.css">
+    
     <!-- Appbar CSS -->
     <link rel="stylesheet" href="../components/appbar.css">
     
@@ -13,13 +16,13 @@
   "theme": {
     "extend": {
       "colors": {
-        "primary": "#2C2F48",
-        "secondary": "#F25C3C",
-        "accent": "#E2E6F5",
-        "text-primary": "#111827",
-        "text-secondary": "#4B5563",
-        "bg-light": "#F9FAFB",
-        "bg-dark": "#1F2937"
+        "primary": "var(--color-primary)",
+        "secondary": "var(--color-secondary)",
+        "accent": "var(--color-accent)",
+        "text-primary": "var(--color-text-primary)",
+        "text-secondary": "var(--color-text-secondary)",
+        "bg-light": "var(--color-bg-light)",
+        "bg-dark": "var(--color-bg-dark)"
       },
       "fontFamily": {
         "headline": [
@@ -49,8 +52,8 @@
       }
     </style><style>
   .highlighted-section {
-    outline: 2px solid #3F20FB;
-    background-color: rgba(63, 32, 251, 0.1);
+    outline: 2px solid var(--color-focus);
+    background-color: var(--color-focus-bg);
   }
 
   .edit-button {
@@ -69,7 +72,7 @@
   /* Accordion animation */
   .ac-panel {
     overflow: hidden;
-    transition: max-height 300ms ease;
+    transition: max-height 500ms ease;
   }
   </style></head>
 <body class="bg-bg-light font-custom">
@@ -79,12 +82,12 @@
     <!-- Appbar wird hier eingefügt -->
                 </div>
 
-<section id="einleitung" class="pt-16 bg-gradient-to-br from-primary via-primary to-bg-dark relative overflow-hidden h-[700px]">
+<section id="einleitung" class="relative overflow-hidden" style="background: var(--gradient-header-diagonal); min-height: 600px; display: flex; align-items: center;">
     <div class="absolute inset-0 opacity-10">
         <img class="w-full h-full object-cover" src="https://storage.googleapis.com/uxpilot-auth.appspot.com/b48ae03b4d-4c453cbe18921a0077d2.png" alt="vintage black and white books, theological symbols, flowing water, academic atmosphere">
     </div>
-    <div class="relative max-w-7xl mx-auto px-6 lg:px-8 h-full flex items-center">
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center w-full">
+    <div class="relative max-w-7xl mx-auto px-6 lg:px-8 py-20 w-full">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 w-full items-center">
             <div class="text-white">
                 <h1 class="font-headline text-5xl lg:text-6xl font-bold mb-6 leading-tight">
                     Leben, Werk, <span class="text-secondary">Wirkung</span>
@@ -107,9 +110,9 @@
                 </div>
             </div>
             <div class="hidden lg:flex items-center justify-center">
-                <div class="w-96 h-96 bg-white bg-opacity-10 rounded-full flex items-center justify-center backdrop-blur-sm">
-                    <div class="w-80 h-80 bg-accent bg-opacity-20 rounded-full flex items-center justify-center">
-                        <i class="fas fa-graduation-cap text-accent text-8xl"></i>
+                <div class="w-96 h-96 rounded-full flex items-center justify-center backdrop-blur-sm" style="background-color: rgba(255, 255, 255, 0.1);">
+                    <div class="w-80 h-80 rounded-full flex items-center justify-center" style="background-color: rgba(226, 230, 245, 0.2);">
+                        <i class="fas fa-graduation-cap text-8xl" style="color: var(--color-accent);"></i>
                     </div>
                 </div>
             </div>
@@ -137,7 +140,7 @@
                             <i class="fas fa-chevron-down text-primary transition-transform"></i>
                         </button>
                         <div class="accordion-content px-8 pb-6 hidden ac-panel" style="max-height:0px">
-                            <div class="text-text-secondary leading-relaxed space-y-4">
+                            <div class="text-text-secondary leading-relaxed space-y-4 text-[13px]">
                                 <p>
                                     Adolf Schlatter entstammte einer alteingesessenen St. Gallischen Familie, die sich bis in das 15. Jahrhundert zurückverfolgen lässt und ungewöhnlich viele christliche Persönlichkeiten hervorgebracht hat. Seine Großmutter Anna Schlatter (1773–1826) hatte engen Kontakt zu führenden Männern der Erweckung (wie Lavater, Jung-Stilling und Boos) und zeichnete sich durch eine bemerkenswerte ökumenische Weitherzigkeit aus: Der namhafte katholische Moraltheologe und spätere Regensburger Bischof Johann Michael Sailer verbrachte eine Zeit lang zusammen mit katholischen Freunden regelmäßig seinen Urlaub in St. Gallen, um mit der evangelischen Anna Schlatter und ihren Schwestern geistliche Gemeinschaft zu pflegen. Unter ihren zahlreichen Nachkommen (sie selbst hatte 13 Kinder) zählte man bis zum Zweiten Weltkrieg allein sechs Missionare und 66 Theologen. Die beiden bekanntesten von ihnen waren Adolf Schlatter und dessen Vetter Theodor Zahn (1838–1933), der neben seinen patristischen Studien vor allem durch seine neutestamentlichen Kommentare Bedeutung erlangte.
                                 </p>
@@ -157,7 +160,7 @@
                                     Trotz bescheidener finanzieller Möglichkeiten durfte Schlatter von 1865 bis 1871 das städtische Gymnasium besuchen und fiel durch herausragende Leistungen auf. Besonders auffällig war seine außergewöhnliche Sprachbegabung, die einen seiner Lehrer, den späteren Basler Professor für vergleichende Sprachwissenschaft Franz Misteli, zu regelmäßigem Privatunterricht in Griechisch bewog. Schlatter lernte Latein und Griechisch, dazu Französisch sowie – freiwillig – Englisch und Hebräisch. Diese Jahre weckten in ihm den „wissenschaftlichen Willen“<sup><a href="#fn3">3</a></sup> und legten den Grundstein für jene hervorragende philologische Bildung, die seine spätere exegetische Arbeit kennzeichnete. Die erste Begegnung mit theologischem Liberalismus und idealistischer Philosophie verunsicherte ihn zwar, konnte die von den Eltern vermittelte Bibelfrömmigkeit jedoch nicht erschüttern. Kurzzeitig erwog er ein Philologiestudium, bis ihn der Hinweis einer Schwester darauf aufmerksam machte, dass sein Nein zur Theologie aus Unglauben komme. Die daraufhin gefällte Entscheidung für das Theologiestudium empfand er als so unwiderrufliche Indienstnahme für Gott, dass sie für ihn den Charakter einer <strong>„Bekehrung“</strong> gewann.
                                 </p>
                                 <hr>
-                                <ol class='footnotes text-sm list-decimal pl-6 space-y-1'>
+                                <ol class='footnotes text-[11px] list-decimal pl-6 space-y-1'>
                                     <li id='fn1'><em>Rückblick auf meine Lebensarbeit</em>, Stuttgart 21977, 12.</li>
                                     <li id='fn2'>Ebd., 20.</li>
                                     <li id='fn3'>Ebd., 27.</li>
@@ -175,7 +178,7 @@
                             <i class="fas fa-chevron-down text-primary transition-transform"></i>
                         </button>
                         <div class="accordion-content px-8 pb-6 hidden ac-panel" style="max-height:0px">
-                            <div class="text-text-secondary leading-relaxed space-y-4">
+                            <div class="text-text-secondary leading-relaxed space-y-4 text-[13px]">
                                 <p>
                                     <strong>Im Sommersemester 1871 begann Schlatter in Basel mit dem Theologiestudium.</strong> Sein Studium war von Anfang an durch die rückhaltlose Bereitschaft gekennzeichnet, sich mit den Fragestellungen der wissenschaftlichen Theologie ernsthaft auseinanderzusetzen. Im zweiten Semester geriet er in eine ernste Glaubenskrise, die ihn – wenigstens einen Moment lang – sogar an der Existenz Gottes zweifeln ließ. Schlatter machte in jener Krise die Erfahrung Luthers: Die „Anfechtung lehrt aufs Wort merken“ (Jes 28,19, nichtrevidierte Lutherübersetzung). Ausschlaggebend für die Überwindung der Krise war kein plötzliches Erlebnis, sondern der kontinuierliche Umgang mit der Heiligen Schrift, den er auch in der Anfechtung nicht unterbrach.
                                 </p>
@@ -195,7 +198,7 @@
                                     Nach einem abschließenden Semester in Basel legte er das theologische Examen ab, um den kirchlichen Dienst anzutreten. Weder sein hervorragendes Examensergebnis (Bestnoten in allen Fächern) noch ein verlockendes Angebot von Prof. Riggenbach, mit Hilfe eines großzügigen Stipendiums das theologische Lizentiat zu erwerben, konnte ihn davon abhalten, die Wissenschaft hinter sich zu lassen, um als Pfarrer „mit ganzem Ernst und heiliger Liebe daran zu arbeiten, dass unserem Volke die evangelischen Heilsgüter erhalten bleiben …“<sup><a href="#fn-1871-5">5</a></sup> Eine starke Sehnsucht nach dem praktischen Dienst hatte ihn erfasst.
                                 </p>
                                 <hr>
-                                <ol class="footnotes text-sm list-decimal pl-6 space-y-1">
+                                <ol class="footnotes text-[11px] list-decimal pl-6 space-y-1">
                                     <li id="fn-1871-1">Ebd., 45.</li>
                                     <li id="fn-1871-2">I. Kindt, <em>Der Gedanke der Einheit. Adolf Schlatters Theologie und ihre historischen Voraussetzungen</em>, Stuttgart 1978.</li>
                                     <li id="fn-1871-3">H.-M. Rieger, <em>Adolf Schlatters Rechtfertigungslehre und die Möglichkeit ökumenischer Verständigung</em>, Stuttgart 2000, 28.</li>
@@ -215,7 +218,7 @@
                             <i class="fas fa-chevron-down text-primary transition-transform"></i>
                         </button>
                         <div class="accordion-content px-8 pb-6 hidden ac-panel" style="max-height:0px">
-                        <div class="text-text-secondary leading-relaxed space-y-4">
+                        <div class="text-text-secondary leading-relaxed space-y-4 text-[13px]">
                             <p>
                                 <strong>Die Pfarrjahre in Kilchberg (1875), Neumünster (1875–1876) und Keßwil (1877–1880)</strong> waren für Schlatter eine so erfüllte Zeit, dass er als Dozent noch lange eine „starke Sehnsucht nach dem Pfarramt“ empfand.<sup><a href="#fn-1875-1">1</a></sup> Er lernte die Licht- und Schattenseiten der volkskirchlichen Situation kennen. In Neumünster (Zürich) traf er auf besonders schwierige Verhältnisse mit starker Entkirchlichung und Entsittlichung.
                             </p>
@@ -226,7 +229,7 @@
                                 <strong>Die drei Jahre in Keßwil</strong> oberhalb des Bodensees „füllten sich reich mit dem, was das Pfarramt Liebliches hat, mit dem, was ihm seine geistliche Tiefe gibt, und mit dem natürlichen Glück, das es uns gewährt.“<sup><a href="#fn-1875-2">2</a></sup> Schlatter fühlte sich dort ausgesprochen wohl und lernte <strong>Susanna Schoop</strong> kennen, die er im Januar 1878 heiratete. Aus der Ehe gingen fünf Kinder hervor; sie wurde ihm zu einer Quelle großer Kraft für seine theologische und geistliche Arbeit.
                             </p>
                             <hr>
-                            <ol class="footnotes text-sm list-decimal pl-6 space-y-1">
+                            <ol class="footnotes text-[11px] list-decimal pl-6 space-y-1">
                                 <li id="fn-1875-1"><em>Rückblick auf meine Lebensarbeit</em>, aaO, 72.</li>
                                 <li id="fn-1875-2">Ebd., 68f.</li>
                             </ol>
@@ -243,7 +246,7 @@
                             <i class="fas fa-chevron-down text-primary transition-transform"></i>
                         </button>
                         <div class="accordion-content px-8 pb-6 hidden ac-panel" style="max-height:0px">
-                        <div class="text-text-secondary leading-relaxed space-y-4">
+                        <div class="text-text-secondary leading-relaxed space-y-4 text-[13px]">
                             <p>
                                 Schlatter wäre wohl Pfarrer geblieben, wenn ihn nicht 1880 pietistische Kreise in Bern gebeten hätten, sich an der theologischen Fakultät als <strong>Privatdozent</strong> zu habilitieren, um gegenüber Liberalismus und Vermittlungstheologie eine <strong>schriftgebundene Theologie</strong> zu vertreten. Obwohl der Verzicht auf das Pfarramt ein großes Opfer bedeutete, sagte er zu. Trotz erheblicher Widerstände gelang die Habilitation auf ordentlichem Wege; im Januar 1881 begann er mit der akademischen Lehrtätigkeit.
                             </p>
@@ -257,7 +260,7 @@
                                 1885 erschien seine preisgekrönte Studie <em>Der Glaube im Neuen Testament</em>, die ihm schlagartig wissenschaftliche Anerkennung eintrug. Mehrere Universitäten bemühten sich um ihn; 1888 nahm er einen Ruf nach <strong>Greifswald</strong> an, um Arbeitsbedingungen und kirchlichen Einfluss zu verbessern.
                             </p>
                             <hr>
-                            <ol class="footnotes text-sm list-decimal pl-6 space-y-1">
+                            <ol class="footnotes text-[11px] list-decimal pl-6 space-y-1">
                                 <li id="fn-1880-1">Ebd., 83.</li>
                             </ol>
                         </div>
@@ -273,7 +276,7 @@
                             <i class="fas fa-chevron-down text-primary transition-transform"></i>
                         </button>
                         <div class="accordion-content px-8 pb-6 hidden ac-panel" style="max-height:0px">
-                        <div class="text-text-secondary leading-relaxed space-y-4">
+                        <div class="text-text-secondary leading-relaxed space-y-4 text-[13px]">
                             <p>
                                 Die Jahre in der Ostseestadt <strong>Greifswald</strong> waren geprägt von einer fruchtbaren Arbeitsgemeinschaft mit dem lutherischen Systematiker <strong>Hermann Cremer</strong> (1834–1903) – trotz unterschiedlicher Prägungen verbunden durch Freundschaft und geistliches Verständnis. Beide traten für eine Theologie ein, die <strong>Ehrfurcht vor der Schrift</strong> zur Grundlage hat und jede „über die Schrift sich erhebende Meisterschaft des Theologen“ abwehrt.<sup><a href="#fn-1888-1">1</a></sup>
                             </p>
@@ -281,7 +284,7 @@
                                 Gemeinsam suchten sie eine wissenschaftlich verantwortbare Alternative zur liberalen Theologie der Ritschl‑Schule. Unter den beiden profiliertesten Vertretern der „Greifswalder Schule“ erlebte die Fakultät einen Höhepunkt und zog viele Studierende an. Schlatter las hier erstmals <strong>Dogmatik</strong> (1892/93) und gewann in <strong>Wilhelm Lütgert</strong> (1863–1938) einen begabten Schüler, der wichtige Impulse eigenständig weiterführte.
                             </p>
                             <hr>
-                            <ol class="footnotes text-sm list-decimal pl-6 space-y-1">
+                            <ol class="footnotes text-[11px] list-decimal pl-6 space-y-1">
                                 <li id="fn-1888-1">Ebd., 133.</li>
                             </ol>
                         </div>
@@ -297,7 +300,7 @@
                             <i class="fas fa-chevron-down text-primary transition-transform"></i>
                         </button>
                         <div class="accordion-content px-8 pb-6 hidden ac-panel" style="max-height:0px">
-                        <div class="text-text-secondary leading-relaxed space-y-4">
+                        <div class="text-text-secondary leading-relaxed space-y-4 text-[13px]">
                             <p>
                                 1893 folgte Schlatter dem Ruf nach <strong>Berlin</strong>, wo eine Professur als Gegengewicht zur vorherrschenden liberalen Theologie eingerichtet wurde. Trotz anfänglicher Widerstände entwickelte sich zu <strong>Adolf von Harnack</strong> ein freundschaftliches Verhältnis – bei offenen theologischen Differenzen. Als Harnack sagte: „Vom Kollegen Schlatter unterscheidet mich nur die Wunderfrage!“, rief Schlatter dazwischen: „<strong>Nein, die Gottesfrage!</strong>“<sup><a href="#fn-1893-1">1</a></sup> Beim Weggang 1898 bekannte Harnack: „Ich vermisse Sie … und empfinde es als Lücke …“<sup><a href="#fn-1893-2">2</a></sup>
                             </p>
@@ -311,7 +314,7 @@
                                 Ziel war eine „<strong>erneute, vertiefte Schriftlesung</strong>“, die den „ganzen Inhalt der Schrift“ aneignet – nicht zur bloßen Restauration, sondern zur <strong>Erweiterung und Korrektur</strong> des Erbes. Für Schlatter war dies eine „<strong>Vollendung der Reformation</strong>“.<sup><a href="#fn-1893-4">4</a></sup> Gegen Ende der Berliner Zeit nahm er den Ruf nach <strong>Tübingen</strong> an: Er erwartete „Heimat“ statt Großstadt, „Hügel, Felder und Wälder“ – und einen Hörsaal, der fruchtbaren Austausch ermöglicht.<sup><a href="#fn-1893-5">5</a></sup>
                             </p>
                             <hr>
-                            <ol class="footnotes text-sm list-decimal pl-6 space-y-1">
+                            <ol class="footnotes text-[11px] list-decimal pl-6 space-y-1">
                                 <li id="fn-1893-1">Vgl. W. Neuer, <em>Adolf Schlatter</em> (s. o. Anm. 4), aaO, 307.</li>
                                 <li id="fn-1893-2">Brief Adolf von Harnacks an Adolf Schlatter vom 5.2.1899 (Adolf‑Schlatter‑Archiv Nr. 426).</li>
                                 <li id="fn-1893-3">A. Schlatter, <em>Der Dienst des Christen</em>, in: <em>Beiträge zur Förderung christlicher Theologie</em> 37 (1932), H. 1, 19–93.</li>
@@ -331,7 +334,7 @@
                             <i class="fas fa-chevron-down text-primary transition-transform"></i>
                         </button>
                         <div class="accordion-content px-8 pb-6 hidden ac-panel" style="max-height:0px">
-                        <div class="text-text-secondary leading-relaxed space-y-4">
+                        <div class="text-text-secondary leading-relaxed space-y-4 text-[13px]">
                             <p>
                                 <strong>In Tübingen</strong> verbrachte Schlatter die letzten vierzig Jahre seines Lebens und erlebte den Höhepunkt seiner Lehrtätigkeit. Anfangs begegneten ihm württembergische Studenten reserviert, doch bald wuchs das Interesse stark – später besuchten bis zu <strong>600 Zuhörer</strong> seine Vorlesungen.
                             </p>
@@ -360,7 +363,7 @@
                                 Als Schlatter 1938 starb, würdigten viele ihn nicht nur als „Lehrer der Kirche“, sondern als „<strong>Vater in Christo</strong>“. <strong>Friedrich von Bodelschwingh d. J.</strong> sagte: „… ein Führer zu Christus … Wir nehmen von diesem Grab den Auftrag mit, dafür zu sorgen, dass das, was Adolf Schlatter der Kirche zu sagen hatte, zu neuer Fruchtbarkeit und bleibender Wirkung kommt.“<sup><a href="#fn-1898-7">7</a></sup>
                             </p>
                             <hr>
-                            <ol class="footnotes text-sm list-decimal pl-6 space-y-1">
+                            <ol class="footnotes text-[11px] list-decimal pl-6 space-y-1">
                                 <li id="fn-1898-1">Briefzitat: <em>Rückblick auf meine Lebensarbeit</em>, aaO.</li>
                                 <li id="fn-1898-2">Brief an Wilhelm Lütgert v. 18.10.1915 (Adolf‑Schlatter‑Archiv Nr. 421).</li>
                                 <li id="fn-1898-3">Brief an die Geschwister v. 20.12.1915 (Adolf‑Schlatter‑Archiv Nr. 455).</li>
@@ -427,7 +430,7 @@
                         <i class="fas fa-chevron-down text-primary transition-transform"></i>
                     </button>
                         <div class="accordion-content px-8 pb-6 hidden ac-panel" style="max-height:0px">
-                        <div class="text-text-secondary leading-relaxed space-y-4">
+                        <div class="text-text-secondary leading-relaxed space-y-4 text-[13px]">
                             <p>
                                 Schon in seiner Berner Zeit war Adolf Schlatter darum bemüht, eine Exegese zu betreiben, die dem <strong>menschlich‑historischen</strong> und <strong>göttlich‑pneumatischen</strong> Doppelcharakter der Schrift gerecht wird. Er anerkannte das Recht historischer Methodik grundsätzlich – sofern sie nicht durch ideologische Vorentscheidungen (z. B. hegelsches Geschichtsverständnis, rationalistisches Wirklichkeitsverständnis) verzerrt wird. <strong>Historische Forschung ist für ihn nur im Dienst der theologischen Auslegung konstruktiv</strong>. Die zeitgenössische Exegese leide oft daran, dass „<em>die Historik die Theologie verschlungen hat</em>“<sup><a href="#fn-werk-ex-1">1</a></sup>. Eine ausschließlich historisch‑kritische Exegese wirke daher leicht „<em>erkältend, lähmend</em>“ oder gar „<em>zerstörend</em>“, weil sie die echte Begegnung mit der Schrift verhindere<sup><a href="#fn-werk-ex-2">2</a></sup>.
                             </p>
@@ -435,7 +438,7 @@
                                 Dem doppelten Ziel historischer <em>und</em> theologischer Auslegung dienen seine großen Werke: die Monographie <em>Der Glaube im Neuen Testament</em> (1885), die – so Peter Stuhlmacher – in „systematischer Geschlossenheit und historischer Präzision“ bis heute <strong>„unübertroffen“</strong> sei<sup><a href="#fn-werk-ex-3">3</a></sup>; ferner die zweibändige <em>Theologie des Neuen Testaments</em> (1909/10), die nicht nur Unterschiede, sondern die <strong>theologische Einheit</strong> der neutestamentlichen Traditionen herausarbeitet; sowie die populären <em>Erläuterungen zum Neuen Testament</em> (1887–1910) und die neun Kommentare (u. a. Matthäus 1929, Markus 1935, Lukas 1931, Johannes 1930, Römer 1935, Korinther 1934, Pastoralbriefe 1936, 1. Petrus 1937, Jakobus 1932), von denen manche zu den besten des 20. Jahrhunderts zählen<sup><a href="#fn-werk-ex-4">4</a></sup>.
                             </p>
                             <hr>
-                            <ol class="footnotes text-sm list-decimal pl-6 space-y-1">
+                            <ol class="footnotes text-[11px] list-decimal pl-6 space-y-1">
                                 <li id="fn-werk-ex-1">A. Schlatter, <em>Die Förderung des theologischen Unterrichts</em>, Schaffhausen 1888, 107.</li>
                                 <li id="fn-werk-ex-2">Ebd., 110f.</li>
                                 <li id="fn-werk-ex-3">P. Stuhlmacher, Vorwort zum Neudruck von <em>Der Glaube im Neuen Testament</em>, in: A. Schlatter, <em>Der Glaube im Neuen Testament</em>, Stuttgart<sup>6</sup> 1982, V–XIII.</li>
@@ -454,7 +457,7 @@
                         <i class="fas fa-chevron-down text-primary transition-transform"></i>
                     </button>
                         <div class="accordion-content px-8 pb-6 hidden ac-panel" style="max-height:0px">
-                        <div class="text-text-secondary leading-relaxed space-y-4">
+                        <div class="text-text-secondary leading-relaxed space-y-4 text-[13px]">
                             <p>
                                 Als Schlatter seine Lehrtätigkeit begann, war die Kenntnis des <strong>rabbinischen Judentums</strong> in der neutestamentlichen Wissenschaft gering: Man ignorierte vielfach die talmudische Literatur und stützte sich fast nur auf griechisch erhaltene Quellen. Schlatter gewann früh die Überzeugung, dass die Gedankenwelt des Neuen Testaments <strong>erst auf dem Hintergrund des palästinischen Judentums</strong> hinreichend verstanden werden kann – eine damals weithin ungewohnte Einsicht.
                             </p>
@@ -465,7 +468,7 @@
                                 Diese Spezialstudien prägten seine Exegese nachhaltig: <strong>Wie kaum ein anderer</strong> zog er zeitgenössische jüdische Quellen in den Kommentaren heran. Seine Ausgangsthese – das NT ist ohne Kenntnis des pharisäischen und rabbinischen Judentums historisch nicht angemessen interpretierbar – ist heute weitgehend anerkannt.
                             </p>
                             <hr>
-                            <ol class="footnotes text-sm list-decimal pl-6 space-y-1">
+                            <ol class="footnotes text-[11px] list-decimal pl-6 space-y-1">
                                 <li id="fn-werk-jd-1">J. Jeremias, Geleitwort zu: A. Schlatter, <em>Synagoge und Kirche bis zum Barkochba‑Aufstand</em>, Stuttgart 1966, 5.</li>
                                 <li id="fn-werk-jd-2">A. Schlatter, <em>Geschichte Israels von Alexander dem Großen bis Hadrian</em>, Stuttgart<sup>2</sup> 1904, 4.</li>
                                 <li id="fn-werk-jd-3">Vgl. W. Neuer, <em>Adolf Schlatter</em> (s. o. Anm. 5), aaO, 698f.</li>
@@ -483,7 +486,7 @@
                         <i class="fas fa-chevron-down text-primary transition-transform"></i>
                     </button>
                     <div class="accordion-content px-8 pb-6 hidden">
-                        <div class="text-text-secondary leading-relaxed space-y-4">
+                        <div class="text-text-secondary leading-relaxed space-y-4 text-[13px]">
                             <p>
                                 Schlatters <strong>Dogmatik</strong> wurde als modern empfunden, obwohl sie in den Ergebnissen dezidiert biblisch und damit „konservativ“ war. Methodisch wagte er eine umfassende Entfaltung seiner <strong>beobachtenden/empirischen Theologie</strong>: Wie jede Wissenschaft soll auch die Theologie ihren Wahrheitsanspruch <strong>in den „Tatsachen“</strong> der Heilsgeschichte und der Schöpfung begründen. Schlatter ist überzeugt, dass sich die Wahrheit der Schrift <strong>in der beobachtbaren Wirklichkeit</strong> bestätigt und nicht bloß behauptet werden muss<sup><a href="#fn-werk-dog-1">1</a></sup>.
                             </p>
@@ -491,7 +494,7 @@
                                 Theologisch gründet dies in der <em>revelatio generalis</em> (Röm 1,19f; 2,14f): Gottes Offenbarung umfasst „alles Seiende“. Dogmatik ist daher nicht nur Dienst an bereits Glaubenden, sondern auch <strong>Gespräch mit Nichtchristen</strong>. Entsprechend zeigt Schlatter – für manche irritierend –, dass Denken und Leben des Menschen Gottes Wirklichkeit voraussetzen. Er scheut sich nicht, <strong>klassische Gottesargumente</strong> zu sichten, um die <em>adäquate Deutung</em> der Wirklichkeit durch die biblische Botschaft sichtbar zu machen.
                             </p>
                             <hr>
-                            <ol class="footnotes text-sm list-decimal pl-6 space-y-1">
+                            <ol class="footnotes text-[11px] list-decimal pl-6 space-y-1">
                                 <li id="fn-werk-dog-1">A. Schlatter, Vorlesung <em>Wesen und Quellen der Gotteserkenntnis</em> (unveröff.), Nr. 191, 52f.</li>
                             </ol>
                         </div>
@@ -507,7 +510,7 @@
                         <i class="fas fa-chevron-down text-primary transition-transform"></i>
                     </button>
                     <div class="accordion-content px-8 pb-6 hidden">
-                        <div class="text-text-secondary leading-relaxed space-y-4">
+                        <div class="text-text-secondary leading-relaxed space-y-4 text-[13px]">
                             <p>
                                 Nach Schlatters Überzeugung ist die Ethik die <strong>„ans Ziel gelangte Theologie“</strong><sup><a href="#fn-werk-eth-1">1</a></sup>. An ihr zeigt sich, ob Theologie das biblisch vorgegebene Ziel erreicht. Darum werde die Wahrheit des Christentums „<strong>immer, vielleicht überwiegend an seiner Ethik</strong>“ gemessen<sup><a href="#fn-werk-eth-2">2</a></sup>. Mission und Evangelisation gelingen nur, wenn Kirche und Theologie zu einer <strong>„tüchtigen Ethik“</strong> finden<sup><a href="#fn-werk-eth-3">3</a></sup>.
                             </p>
@@ -521,7 +524,7 @@
                                 Zugleich bestreitet er nicht die materiale Besonderheit christlicher Ethik: Sie geht methodisch von der Analyse der Wirklichkeit aus, beleuchtet diese aber im Licht der <strong>Christusoffenbarung</strong> und des <strong>apostolischen Zeugnisses</strong> (mit dichter NT-Belegung). So kommen <strong>Empirie und Bibel</strong>, <strong>Natur und Gnade</strong>, <strong>Schöpfung und Erlösung</strong> gleichermaßen zur Geltung. Christliche Ethik ist <strong>christozentrische und pneumatische Liebesethik</strong>, die in der Gabe der Erlösung gründet<sup><a href="#fn-werk-eth-6">6</a></sup>.
                             </p>
                             <hr>
-                            <ol class="footnotes text-sm list-decimal pl-6 space-y-1">
+                            <ol class="footnotes text-[11px] list-decimal pl-6 space-y-1">
                                 <li id="fn-werk-eth-1">A. Schlatter, <em>J. T. Becks theologische Arbeit</em>, BFChTh 8 (1904) H. 3, 28.</li>
                                 <li id="fn-werk-eth-2">A. Schlatter, <em>Die christliche Ethik</em>, Stuttgart<sup>4</sup> 1984, 44.</li>
                                 <li id="fn-werk-eth-3">Ebd., 43.</li>
@@ -544,7 +547,7 @@
                         <i class="fas fa-chevron-down text-primary transition-transform"></i>
                     </button>
                     <div class="accordion-content px-8 pb-6 hidden">
-                        <div class="text-text-secondary leading-relaxed space-y-4">
+                        <div class="text-text-secondary leading-relaxed space-y-4 text-[13px]">
                             <p>
                                 Schlatter verstand seine theologische Arbeit von Beginn an als <strong>Dienst an der glaubenden Gemeinde</strong>. Theologie verfehlt ihr Ziel, wenn sie um ihrer selbst willen betrieben wird und den Blick für die Bedürfnisse der Gemeinden verliert. Darum widmete er einen beträchtlichen Teil seines Schaffens bewusst der Gemeinde.
                             </p>
@@ -567,7 +570,7 @@
                         <i class="fas fa-chevron-down text-primary transition-transform"></i>
                     </button>
                     <div class="accordion-content px-8 pb-6 hidden">
-                        <div class="text-text-secondary leading-relaxed space-y-4">
+                        <div class="text-text-secondary leading-relaxed space-y-4 text-[13px]">
                             <p>
                                 Schlatters Theologie zeichnet sich durch eine <strong>bemerkenswerte ökumenische Weite</strong> aus<sup><a href="#fn-werk-oek-1">1</a></sup>. Durch die Konfessionsverschiedenheit seiner Eltern lernte er früh reformierte und freikirchliche (baptistische) Prägungen kennen; später kamen der katholische Philosoph <strong>Franz von Baader</strong> und der lutherische Theologe <strong>Hermann Cremer</strong> hinzu. Er war bereit, <strong>schriftgemäßes</strong> aus verschiedenen Traditionen zu rezipieren – ohne Konversion.
                             </p>
@@ -578,7 +581,7 @@
                                 Die innere Verpflichtung zur ökumenischen Öffnung erwächst aus der <strong>Bindung an die Schrift</strong>: Die Wahrheit des Neuen Testaments überragt alle Bekenntnisstände; daher sind alle Kirchen zur <strong>Reinigung und Ergänzung</strong> ihrer Wahrheitserkenntnis gerufen.
                             </p>
                             <hr>
-                            <ol class="footnotes text-sm list-decimal pl-6 space-y-1">
+                            <ol class="footnotes text-[11px] list-decimal pl-6 space-y-1">
                                 <li id="fn-werk-oek-1">W. Neuer, „Die ökumenische Bedeutung der Theologie Adolf Schlatters“, in: K. Bockmühl (Hg.), <em>Die Aktualität der Theologie Adolf Schlatters</em>, Gießen 1988, 71–92.</li>
                                 <li id="fn-werk-oek-2"><em>Rückblick auf meine Lebensarbeit</em> (s. o. Anm. 5), aaO, 236.</li>
                                 <li id="fn-werk-oek-3">Vorlesung „Einführung in die Theologie“ (1924), Mitschrift E. Mülhaupt (Adolf‑Schlatter‑Archiv Nr. 808/5).</li>
@@ -596,7 +599,7 @@
                         <i class="fas fa-chevron-down text-primary transition-transform"></i>
                     </button>
                     <div class="accordion-content px-8 pb-6 hidden">
-                        <div class="text-text-secondary leading-relaxed space-y-4">
+                        <div class="text-text-secondary leading-relaxed space-y-4 text-[13px]">
                             <p>
                                 Schlatter befasste sich lebenslang intensiv mit <strong>Philosophie</strong>, weil sie für Theologie grundbedeutsam ist: „<em>Der Theologe ist der philosophischen Bewegung stets ernste kritische Aufmerksamkeit schuldig …</em>“<sup><a href="#fn-werk-ph-1">1</a></sup>. Das prägt seine systematischen Werke; besonders sichtbar in der Vorlesung <em>Die philosophische Arbeit seit Cartesius</em> (1905/06) und der 1915 verfassten <strong>Metaphysik</strong>.
                             </p>
@@ -607,7 +610,7 @@
                                 Dabei bleibt die Eigenständigkeit der Philosophie gewahrt; zugleich zeigt die Geschichte der Philosophie die Gefahr ideologischer Verkürzungen. In kritischer <strong>Gabe und Gegengabe</strong> kann Theologie der Philosophie helfen, einen ideologiefreien Realismus nicht zu verfehlen<sup><a href="#fn-werk-ph-4">4</a></sup>. Schlatter teilt die Einsicht (mit P. Brunner), dass die Vernünftigkeit der Vernunft ohne den christlichen Glauben bedroht ist<sup><a href="#fn-werk-ph-5">5</a></sup>.
                             </p>
                             <hr>
-                            <ol class="footnotes text-sm list-decimal pl-6 space-y-1">
+                            <ol class="footnotes text-[11px] list-decimal pl-6 space-y-1">
                                 <li id="fn-werk-ph-1">A. Schlatter, <em>Die philosophische Arbeit seit Cartesius</em>,<sup>5</sup> 1981, 285.</li>
                                 <li id="fn-werk-ph-2">H. Thielicke, Geleitwort zu: A. Schlatter, <em>Die philosophische Arbeit seit Descartes</em>, Stuttgart<sup>4</sup> 1959, 7–21.</li>
                                 <li id="fn-werk-ph-3">J. Waldorf, <em>Realistische Philosophie. Der philosophische Entwurf Adolf Schlatters</em>, Göttingen 1999.</li>
@@ -666,7 +669,7 @@
                     <i class="fas fa-chevron-down text-primary transition-transform"></i>
                 </button>
                 <div class="accordion-content px-8 pb-6 hidden ac-panel" style="max-height:0px">
-                    <div class="text-text-secondary leading-relaxed space-y-4">
+                    <div class="text-text-secondary leading-relaxed space-y-4 text-[13px]">
                         <p>
                             Schlatters Lebenswerk entzieht sich aufgrund seiner Eigenständigkeit und Vielseitigkeit einer einfachen Einordnung. Seine Impulse wirkten in nahezu allen Bereichen der Theologie – häufig über gewohnte Polarisierungen hinaus und zunehmend auch <strong>international</strong><sup><a href="#fn-wirk-1">1</a></sup>. Auch Theologen, die anderweitige Wege gingen, <strong>übernahmen wesentliche Anregungen</strong> aus seinem Werk. Bemerkenswert ist seine anhaltende Präsenz am Buchmarkt (über 30 Titel), trotz oft als anspruchsvoll empfundener Sprache, Methode und Inhalte.
                         </p>
@@ -683,7 +686,7 @@
                             Die jüngere Forschung – gestützt auf den lange vernachlässigten Nachlass – bestätigt seine <strong>bleibende Bedeutung</strong>. Johannes von Lüpke resümiert: „<em>Es dürfte an der Zeit sein, auf Schlatters Theologie zurückzukommen, um in den gegenwärtigen Diskussionen weiterzukommen.</em>“<sup><a href="#fn-wirk-2">2</a></sup> Und Wilfried Härle: „<em>Es gibt bei Schlatter eine ganze Reihe von Denkansätzen, die ich für anregend und zukunftsweisend halte …</em>“<sup><a href="#fn-wirk-3">3</a></sup> – eine Einschätzung, die sich mit Franz Mußners Wort verbindet: „<em>Schlatters Stimme darf in der Kirche nicht verstummen.</em>“<sup><a href="#fn-wirk-4">4</a></sup>
                         </p>
                         <hr>
-                        <ol class="footnotes text-sm list-decimal pl-6 space-y-1">
+                        <ol class="footnotes text-[11px] list-decimal pl-6 space-y-1">
                             <li id="fn-wirk-1">Zur internationalen Rezeption vgl. Übersetzungen und Forschung in Japan, Korea, USA (Überblick bei R. W. Yarbrough, A. J. Köstenberger u. a.).</li>
                             <li id="fn-wirk-2">J. v. Lüpke, Vorwort zu: A. Schlatter, <em>Glaube und Wahrnehmung</em>, Stuttgart 2002.</li>
                             <li id="fn-wirk-3">Vorwort zu J. Walldorf, <em>Realistische Philosophie</em>, Göttingen 1999, 5.</li>
@@ -872,32 +875,96 @@ document.addEventListener('DOMContentLoaded', function() {
         
         header.addEventListener('click', () => {
             const isOpen = !content.classList.contains('hidden');
-            
-            accordionItems.forEach(otherItem => {
-                const otherContent = otherItem.querySelector('.accordion-content');
-                const otherIcon = otherItem.querySelector('.accordion-header i');
-                // collapse others smoothly
-                if (!otherContent.classList.contains('hidden')) {
-                    otherContent.style.maxHeight = '0px';
-                otherContent.classList.add('hidden');
-                }
-                otherIcon.classList.remove('rotate-180');
-            });
+            const clickedItem = item;
             
             if (!isOpen) {
+                // Everything happens simultaneously: close, scroll, and open
+                const closingPromises = [];
+                let hasClosingAccordion = false;
+                
+                // Step 1: Start closing other accordions
+                accordionItems.forEach(otherItem => {
+                    if (otherItem !== clickedItem) {
+                        const otherContent = otherItem.querySelector('.accordion-content');
+                        const otherIcon = otherItem.querySelector('.accordion-header i');
+                        if (!otherContent.classList.contains('hidden')) {
+                            hasClosingAccordion = true;
+                            otherContent.style.maxHeight = '0px';
+                            otherIcon.classList.remove('rotate-180');
+                            closingPromises.push(new Promise(resolve => setTimeout(resolve, 500)));
+                        }
+                    }
+                });
+                
+                // Step 2: Start opening new accordion immediately
                 content.classList.remove('hidden');
-                // expand smoothly to actual height
-                content.style.maxHeight = content.scrollHeight + 'px';
-                icon.classList.add('rotate-180');
-                // scroll the top of the accordion item to top of viewport (under fixed header)
-                setTimeout(() => {
+                requestAnimationFrame(() => {
+                    content.style.maxHeight = content.scrollHeight + 'px';
+                    icon.classList.add('rotate-180');
+                });
+                
+                // Step 3: Start scrolling simultaneously
+                if (hasClosingAccordion) {
                     const headerEl = document.getElementById('appbar');
                     const headerH = headerEl ? headerEl.offsetHeight : 80;
-                    const rect = item.getBoundingClientRect();
+                    
+                    // Calculate height of closing accordions that are ABOVE clicked item
+                    let closingHeightAbove = 0;
+                    accordionItems.forEach(otherItem => {
+                        if (otherItem !== clickedItem) {
+                            const otherContent = otherItem.querySelector('.accordion-content');
+                            if (!otherContent.classList.contains('hidden')) {
+                                const otherRect = otherItem.getBoundingClientRect();
+                                const clickedRect = clickedItem.getBoundingClientRect();
+                                if (otherRect.top < clickedRect.top) {
+                                    closingHeightAbove += otherContent.scrollHeight;
+                                }
+                            }
+                        }
+                    });
+                    
+                    const rect = clickedItem.getBoundingClientRect();
                     const current = window.scrollY || window.pageYOffset;
-                    const y = current + rect.top - headerH - 12;
-                    window.scrollTo({ top: Math.max(0, y), behavior: 'smooth' });
-                }, 10);
+                    const y = current + rect.top - closingHeightAbove - headerH - 20;
+                    
+                    // Scroll with custom duration matching close animation
+                    const start = performance.now();
+                    const startY = current;
+                    const targetY = Math.max(0, y);
+                    const distance = targetY - startY;
+                    
+                    function animateScroll(currentTime) {
+                        const elapsed = currentTime - start;
+                        const progress = Math.min(elapsed / 350, 1); // 350ms - faster than accordion
+                        const easeProgress = progress < 0.5 
+                            ? 2 * progress * progress 
+                            : 1 - Math.pow(-2 * progress + 2, 2) / 2; // easeInOutQuad
+                        
+                        window.scrollTo(0, startY + distance * easeProgress);
+                        
+                        if (progress < 1) {
+                            requestAnimationFrame(animateScroll);
+                        }
+                    }
+                    
+                    if (distance !== 0) {
+                        requestAnimationFrame(animateScroll);
+                    }
+                }
+                
+                // Clean up hidden accordions after animation completes
+                Promise.all(closingPromises).then(() => {
+                    accordionItems.forEach(otherItem => {
+                        if (otherItem !== clickedItem) {
+                            otherItem.querySelector('.accordion-content').classList.add('hidden');
+                        }
+                    });
+                });
+            } else {
+                // Just close if already open
+                content.style.maxHeight = '0px';
+                icon.classList.remove('rotate-180');
+                setTimeout(() => content.classList.add('hidden'), 500);
             }
         });
     });

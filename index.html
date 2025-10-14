@@ -6,6 +6,9 @@
     <script> window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     
+    <!-- Central Color System -->
+    <link rel="stylesheet" href="styles/colors.css">
+    
     <!-- Appbar CSS -->
     <link rel="stylesheet" href="components/appbar.css">
     
@@ -13,14 +16,15 @@
   "theme": {
     "extend": {
       "colors": {
-        "primary": "#2C2F48",
-        "secondary": "#F25C3C",
-        "accent": "#E2E6F5",
-        "text-primary": "#FFFFFF",
-        "text-secondary": "#D1D5DB",
-        "appbar-text-primary": "#111827",
-        "appbar-text-secondary": "#4B5563",
-        "background-light": "#F9FAFB"
+        "primary": "var(--color-primary)",
+        "secondary": "var(--color-secondary)",
+        "accent": "var(--color-accent)",
+        "bg-dark": "var(--color-bg-dark)",
+        "text-primary": "var(--color-text-white)",
+        "text-secondary": "var(--color-text-light)",
+        "appbar-text-primary": "var(--color-text-primary)",
+        "appbar-text-secondary": "var(--color-text-secondary)",
+        "background-light": "var(--color-bg-light)"
       },
       "fontFamily": {
         "headline": [
@@ -41,14 +45,6 @@
 };</script>
     <style>
       ::-webkit-scrollbar { display: none;}
-      
-      /* Appbar Farben für Landing Page */
-      #appbar .text-text-secondary {
-        color: #4B5563 !important;
-      }
-      #appbar .hover\:text-primary:hover {
-        color: #2C2F48 !important;
-      }
     </style>
         <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"><style>
       body {
@@ -60,8 +56,8 @@
       }
     </style><style>
   .highlighted-section {
-    outline: 2px solid #3F20FB;
-    background-color: rgba(63, 32, 251, 0.1);
+    outline: 2px solid var(--color-focus);
+    background-color: var(--color-focus-bg);
   }
 
   .edit-button {
@@ -98,7 +94,7 @@
         <section id="hero" class="relative h-[700px] min-h-[40vw] flex items-center justify-center overflow-hidden">
             <div class="absolute inset-0">
                 <img class="w-full h-full object-cover object-top scale-x-[-1] transform" src="./images/SchlatterHeader.png" alt="historical black and white portrait of Adolf Schlatter, academic theologian from 1900s, scholarly appearance, slight overlay effect">
-                <div class="absolute inset-0 bg-primary bg-opacity-70"></div>
+                <div class="absolute inset-0" style="background: var(--gradient-header-transparent);"></div>
             </div>
             <div class="relative z-10 text-center max-w-4xl mx-auto px-6 hero-content">
                 <h1 class="font-headline text-5xl lg:text-6xl font-bold text-text-primary mb-6">
@@ -196,18 +192,8 @@
             </div>
         </section>
 
-        <section id="inspiration" class="py-20 bg-secondary">
-            <div class="container mx-auto px-6">
-                <div class="max-w-4xl mx-auto text-center">
-                    <blockquote class="font-quote text-2xl lg:text-3xl text-white mb-8 italic leading-relaxed">
-                        „Wenn die Menschen leidenschaftlich werden, schreiben und leben, an die Würde glauben, Gewalt üben, Gericht halten und lieben, dann übertritt ihr Leben leicht die Erinnerung an Gott."
-                    </blockquote>
-                    <cite class="text-xl text-white font-semibold">
-                        – Adolf Schlatter
-                    </cite>
-                </div>
-            </div>
-        </section>
+        <!-- Quote Section -->
+        <div id="quote-container"></div>
     </main>
 
     <!-- Footer -->
@@ -241,6 +227,8 @@
 
 <!-- Appbar Utils -->
 <script src="components/appbar-utils.js"></script>
+<!-- Quote Utils -->
+<script src="components/quote-utils.js"></script>
 <!-- Footer Utils -->
 <script src="components/footer-utils.js"></script>
 <script>

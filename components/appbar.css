@@ -1,9 +1,84 @@
 /* Appbar Component Styles */
 
+/* Fixed Appbar Colors - Consistent across all pages */
+#appbar .text-primary,
+#appbar a .text-primary,
+#appbar button .text-primary,
+#appbar .font-bold.text-primary {
+    color: var(--color-primary) !important;
+}
+
+#appbar .text-text-secondary {
+    color: var(--color-text-secondary) !important;
+}
+
+#appbar .hover\:text-primary:hover {
+    color: var(--color-primary) !important;
+}
+
+#appbar .text-secondary {
+    color: var(--color-secondary) !important;
+}
+
+#appbar .bg-primary {
+    background-color: var(--color-primary) !important;
+}
+
+#appbar .bg-secondary {
+    background-color: var(--color-secondary) !important;
+}
+
+#appbar .border-primary {
+    border-color: var(--color-primary) !important;
+}
+
+#appbar .bg-accent {
+    background-color: var(--color-accent) !important;
+}
+
+#appbar .text-accent {
+    color: var(--color-accent) !important;
+}
+
+#appbar .hover\:bg-accent:hover {
+    background-color: var(--color-accent) !important;
+}
+
+/* Logo Icon Gradient - Consistent across all pages */
+#appbar .appbar-logo-icon {
+    background: linear-gradient(to bottom right, #2C2F48, #1F2937) !important;
+}
+
+/* Gradient backgrounds for icon containers */
+#appbar .from-primary\/10 {
+    --tw-gradient-from: rgba(44, 47, 72, 0.1) !important;
+}
+
+#appbar .to-bg-dark\/10 {
+    --tw-gradient-to: rgba(31, 41, 55, 0.1) !important;
+}
+
+#appbar .from-secondary\/10 {
+    --tw-gradient-from: rgba(242, 92, 60, 0.1) !important;
+}
+
+#appbar .to-primary\/10 {
+    --tw-gradient-to: rgba(44, 47, 72, 0.1) !important;
+}
+
+#appbar .from-accent\/20 {
+    --tw-gradient-from: rgba(226, 230, 245, 0.2) !important;
+}
+
+#appbar .to-secondary\/10 {
+    --tw-gradient-to: rgba(242, 92, 60, 0.1) !important;
+}
+
 /* Prevent flash of unstyled content */
 #appbar-container {
     opacity: 0;
     transition: opacity 0.2s ease-in-out;
+    height: 64px; /* Reserve space for fixed appbar */
 }
 
 #appbar-container.loaded {
@@ -30,27 +105,27 @@
 
 /* Hover effects for cards */
 .group:hover .group-hover\:from-primary\/20 {
-    background: linear-gradient(to bottom right, rgba(26, 54, 93, 0.2), rgba(26, 32, 44, 0.2));
+    background: var(--gradient-primary-hover);
 }
 
 .group:hover .group-hover\:to-bg-dark\/20 {
-    background: linear-gradient(to bottom right, rgba(26, 54, 93, 0.1), rgba(26, 32, 44, 0.2));
+    background: var(--gradient-primary-hover-light);
 }
 
 .group:hover .group-hover\:from-secondary\/20 {
-    background: linear-gradient(to bottom right, rgba(45, 90, 135, 0.2), rgba(26, 54, 93, 0.2));
+    background: var(--gradient-secondary-hover);
 }
 
 .group:hover .group-hover\:to-primary\/20 {
-    background: linear-gradient(to bottom right, rgba(45, 90, 135, 0.1), rgba(26, 54, 93, 0.2));
+    background: var(--gradient-secondary-hover-light);
 }
 
 .group:hover .group-hover\:from-accent\/30 {
-    background: linear-gradient(to bottom right, rgba(247, 250, 252, 0.3), rgba(26, 54, 93, 0.2));
+    background: var(--gradient-accent-hover);
 }
 
 .group:hover .group-hover\:to-secondary\/20 {
-    background: linear-gradient(to bottom right, rgba(247, 250, 252, 0.2), rgba(45, 90, 135, 0.2));
+    background: var(--gradient-accent-hover-alt);
 }
 
 /* Backdrop blur support */
@@ -69,12 +144,12 @@
 }
 
 #mobile-menu::-webkit-scrollbar-thumb {
-    background: rgba(26, 54, 93, 0.2);
+    background: var(--color-primary-transparent-20);
     border-radius: 2px;
 }
 
 #mobile-menu::-webkit-scrollbar-thumb:hover {
-    background: rgba(26, 54, 93, 0.3);
+    background: var(--color-primary-transparent-30);
 }
 
 /* Animation for mobile menu */
