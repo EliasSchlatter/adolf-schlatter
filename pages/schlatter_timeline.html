@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="../timeline-data.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;700;900&display=swap" rel="stylesheet">
+
+    <!-- Shared Styles -->
+    <link rel="stylesheet" href="../styles/colors.css">
+    <link rel="stylesheet" href="../components/appbar.css">
+    <link rel="stylesheet" href="../components/footer.css">
+
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: 'var(--color-primary)',
+                        secondary: 'var(--color-secondary-alt)',
+                        accent: 'var(--color-accent-alt)',
+                        'text-primary': 'var(--color-text-primary)',
+                        'text-secondary': 'var(--color-text-secondary)',
+                        'background-light': 'var(--color-bg-lighter)',
+                        'background-dark': 'var(--color-bg-darker)',
+                        highlight: 'var(--color-highlight)'
+                    },
+                    fontFamily: {
+                        'merriweather': ['Merriweather', 'serif'],
+                        'inter': ['Inter', 'sans-serif'],
+                        'playfair': ['Playfair Display', 'serif']
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        ::-webkit-scrollbar { display: none;}
+        .font-headline { font-family: 'Merriweather', serif; }
+        .font-body { font-family: 'Inter', sans-serif; }
+        .font-highlight { font-family: 'Playfair Display', serif; }
+        
+        /* Dual Range Slider Container */
+        .range-slider-container {
+            position: relative;
+            height: 36px;
+        }
+
+        .range-slider-track {
+            position: absolute;
+            width: 100%;
+            height: 6px;
+            background: #e5e7eb;
+            border-radius: 3px;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+
+        .range-slider-range {
+            position: absolute;
+            height: 6px;
+            background: #F25C3C;
+            border-radius: 3px;
+            top: 50%;
+            transform: translateY(-50%);
+            transition: all 0.1s ease;
+        }
+
+        .range-slider-input {
+            position: absolute;
+            width: 100%;
+            height: 6px;
+            background: transparent;
+            pointer-events: none;
+            -webkit-appearance: none;
+            appearance: none;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+
+        .range-slider-input::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: white;
+            cursor: pointer;
+            pointer-events: all;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            transition: all 0.15s ease;
+            border: 2px solid #F25C3C;
+        }
+
+        .range-slider-input::-webkit-slider-thumb:hover {
+            border-color: #d946ef;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transform: scale(1.05);
+        }
+
+        .range-slider-input::-moz-range-thumb {
+            width: 20px;
+            height: 20px;
+            border: 2px solid #F25C3C;
+            border-radius: 50%;
+            background: white;
+            cursor: pointer;
+            pointer-events: all;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            transition: all 0.15s ease;
+        }
+
+        .range-slider-input::-moz-range-thumb:hover {
+            border-color: #d946ef;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transform: scale(1.05);
+        }
+
+        .range-slider-input::-moz-range-track {
+            background: transparent;
+            border: none;
+        }
+
+        .range-slider-input:focus {
+            outline: none;
+        }
+
+        .range-slider-input:focus::-webkit-slider-thumb {
+            border-color: #d946ef;
+            box-shadow: 0 0 0 3px rgba(242, 92, 60, 0.1);
+        }
+
+        .range-slider-input:focus::-moz-range-thumb {
+            border-color: #d946ef;
+            box-shadow: 0 0 0 3px rgba(242, 92, 60, 0.1);
+        }
+    </style>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#2C2F48',
+                        secondary: '#F25C3C',
+                        accent: '#E2E6F5',
+                        'text-primary': '#111827',
+                        'text-secondary': '#4B5563',
+                        'bg-light': '#F9FAFB',
+                        'bg-dark': '#1F2937'
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="font-body bg-bg-light">
+
+<!-- Appbar -->
+<div id="appbar-container"></div>
+
+<!-- Hero Section -->
+<section id="intro" class="bg-gradient-header-diagonal relative overflow-hidden">
+    <div class="relative max-w-7xl mx-auto px-6 py-20 w-full">
+        <div class="max-w-4xl mx-auto text-center">
+            <div class="flex justify-center mb-6">
+                <div class="bg-secondary/20 backdrop-blur-sm p-4 rounded-full">
+                    <i class="fas fa-timeline text-secondary text-3xl"></i>
+                </div>
+            </div>
+            <h1 class="text-4xl md:text-5xl font-merriweather font-bold text-white mb-4">Adolf Schlatter</h1>
+            <h2 class="text-xl md:text-2xl font-playfair text-gray-300 mb-6">Biographie Timeline</h2>
+            <p class="text-lg text-gray-200 leading-relaxed max-w-3xl mx-auto">
+                Dieser interaktive Zeitstrahl rekonstruiert das Leben und Wirken Adolf Schlatters auf Grundlage des digitalisierten Schlatter-Archivs. Die Daten umfassen <span id="total-events" class="font-semibold text-white">352</span> Ereignisse.
+            </p>
+            <div class="mt-8 flex flex-wrap justify-center gap-4">
+                <div class="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-full border border-white/20">
+                    <span class="text-sm font-medium text-white"><span id="total-events-badge">352</span> Ereignisse</span>
+                </div>
+                <div class="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-full border border-white/20">
+                    <span class="text-sm font-medium text-white">1852-1938</span>
+                </div>
+                <div class="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-full border border-white/20">
+                    <span class="text-sm font-medium text-white">Interaktiv</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Timeline Section -->
+<section id="timeline" class="py-20 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-16">
+            <h2 class="font-headline text-4xl font-bold text-text-primary mb-4">Lebenslauf im Überblick</h2>
+            <p class="text-xl text-text-secondary max-w-3xl mx-auto">
+                Eine chronologische Darstellung der wichtigsten Ereignisse in Adolf Schlatters Leben, basierend auf digitalisierten Archivquellen
+            </p>
+        </div>
+
+        <!-- Enhanced Search and Filter Controls -->
+        <div class="bg-accent rounded-2xl p-8 mb-12">
+            <h3 class="font-headline text-lg font-semibold text-text-primary mb-4">Suche</h3>
+            <div class="space-y-6">
+                <!-- Suchbegriff - volle Breite -->
+                <div>
+                    <label class="block text-text-secondary font-medium mb-2">Suchbegriff</label>
+                    <div class="relative">
+                        <input type="text" id="search-input" placeholder="Suchbegriff eingeben..." class="w-full pl-10 pr-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent">
+                        <i class="fas fa-search absolute left-3 top-4 text-text-secondary"></i>
+                    </div>
+                </div>
+                
+                <!-- Zeitraum und Kategorien nebeneinander -->
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                    <!-- Zeitraum-Filter -->
+                    <div>
+                        <label class="block text-text-secondary font-medium mb-3">
+                            Zeitraum: <span id="year-range-display" class="font-normal text-text-primary">Alle</span>
+                        </label>
+                        <div class="relative">
+                            <div class="range-slider-container">
+                                <div class="range-slider-track"></div>
+                                <div class="range-slider-range" id="slider-range"></div>
+                                <input type="range" id="filter-jahr-min" min="1852" max="1938" value="1852" class="range-slider-input" oninput="updateYearFilter()">
+                                <input type="range" id="filter-jahr-max" min="1852" max="1938" value="1938" class="range-slider-input" oninput="updateYearFilter()">
+                            </div>
+                        </div>
+                        <div class="flex justify-between text-xs text-text-secondary mt-2">
+                            <span id="year-min-label">1852</span>
+                            <span id="year-max-label">1938</span>
+                        </div>
+                    </div>
+                    
+                    <!-- Kategorie-Filter -->
+                    <div>
+                        <label class="block text-text-secondary font-medium mb-3">Kategorien</label>
+                        <div class="relative">
+                            <select id="category-dropdown" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent">
+                                <option value="">Alle Kategorien</option>
+                                <option value="theologie">Theologie</option>
+                                <option value="familie">Familie</option>
+                                <option value="publikationen">Publikationen</option>
+                                <option value="reisen">Reisen</option>
+                                <option value="akademisch">Akademisch</option>
+                                <option value="pastoral">Pastoral</option>
+                                <option value="gesundheit">Gesundheit</option>
+                                <option value="politik">Politik</option>
+                                <option value="philosophie">Philosophie</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Filter-Chips (nur anzeigen wenn Filter aktiv) -->
+                <div id="filter-chips" class="flex flex-wrap gap-2 hidden">
+                    <!-- Wird dynamisch gefüllt -->
+                </div>
+                
+                <!-- Filter-Buttons -->
+                <div class="flex gap-3">
+                    <button id="search-button" class="flex-1 bg-primary hover:bg-opacity-90 text-white py-3 rounded-lg font-medium transition-colors">
+                        <i class="fas fa-search mr-2"></i>
+                        Filter anwenden
+                    </button>
+                    <button id="reset-filters" class="px-4 py-3 border border-gray-300 text-gray-700 rounded-lg hover:bg-gray-50 transition-colors">
+                        <i class="fas fa-undo mr-2"></i>
+                        Zurücksetzen
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Timeline Content -->
+        <div class="relative">
+            <!-- Timeline Line -->
+            <div class="absolute left-8 top-0 bottom-0 w-1 bg-gradient-to-b from-primary to-secondary"></div>
+            
+            <!-- Timeline Events Container -->
+            <div id="timeline-events" class="space-y-8">
+                <!-- Events will be dynamically loaded here -->
+            </div>
+        </div>
+
+    <!-- Timeline Navigation -->
+    <div class="mt-16">
+        <!-- Pagination -->
+        <div id="pagination-container" class="flex items-center justify-center space-x-2 mb-8">
+            <!-- Pagination buttons will be inserted here -->
+        </div>
+        
+        <!-- Results info -->
+        <div class="text-center text-text-secondary text-sm">
+            <span id="results-info">Zeige 1-15 von 273 Ereignissen</span>
+        </div>
+    </div>
+    </div>
+</section>
+
+<!-- Archiv-Übersicht -->
+<section class="py-16 bg-gray-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="bg-white rounded-2xl p-8 shadow-sm">
+            <h3 class="font-headline text-2xl font-bold mb-6 text-text-primary">Archiv-Übersicht</h3>
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+                <div class="text-center">
+                    <div class="text-4xl font-bold text-primary mb-2" id="events-count">352</div>
+                    <div class="text-sm text-text-secondary">Ereignisse erfasst</div>
+                </div>
+                <div class="text-center hidden">
+                    <div class="text-4xl font-bold text-primary mb-2" id="pages-count">284</div>
+                    <div class="text-sm text-text-secondary">Seiten digitalisiert</div>
+                </div>
+                <div class="text-center">
+                    <div class="text-4xl font-bold text-primary mb-2" id="years-span">130</div>
+                    <div class="text-sm text-text-secondary">Jahre abgedeckt</div>
+                </div>
+                <div class="text-center">
+                    <div class="text-4xl font-bold text-primary mb-2">86</div>
+                    <div class="text-sm text-text-secondary">Lebensjahre</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+<div id="footer-container"></div>
+
+<script>
+// Global variables
+let allEvents = [];
+let filteredEvents = [];
+let currentPage = 0;
+const eventsPerPage = 15;
+let activeFilters = {
+    jahrMin: 1852,
+    jahrMax: 1938,
+    category: ''
+};
+
+// Load data from timeline-data.js
+function loadData() {
+    try {
+        // Daten sind bereits über timeline-data.js geladen
+        if (typeof window.timelineData === 'undefined') {
+            console.error('❌ timeline-data.js nicht geladen');
+            document.getElementById('timeline-events').innerHTML = '<p class="text-center text-text-secondary">Fehler beim Laden der Daten.</p>';
+            return;
+        }
+        
+        const data = window.timelineData;
+        
+        // Flatten all events from timeline
+        allEvents = [];
+        data.timeline.forEach(yearData => {
+            yearData.ereignisse.forEach(event => {
+                allEvents.push({
+                    ...event,
+                    jahr: yearData.jahr,
+                    originalYear: yearData.jahr
+                });
+            });
+        });
+        
+        // Sort by year
+        allEvents.sort((a, b) => a.jahr - b.jahr);
+        
+        // Update statistics
+        updateStatistics(data);
+        
+        // Initialize with all events
+        filteredEvents = [...allEvents];
+        renderEvents();
+        
+        console.log(`✅ ${allEvents.length} Ereignisse geladen`);
+        
+    } catch (error) {
+        console.error('Error loading data:', error);
+        document.getElementById('timeline-events').innerHTML = '<p class="text-center text-text-secondary">Fehler beim Laden der Daten.</p>';
+    }
+}
+
+// Update statistics in hero section
+function updateStatistics(data) {
+    const meta = data.meta;
+    document.getElementById('total-events').textContent = meta.statistik.ereignisse_gesamt;
+    const totalEventsBadge = document.getElementById('total-events-badge');
+    if (totalEventsBadge) {
+        totalEventsBadge.textContent = meta.statistik.ereignisse_gesamt;
+    }
+    document.getElementById('events-count').textContent = meta.statistik.ereignisse_gesamt;
+    document.getElementById('pages-count').textContent = meta.statistik.seiten_verarbeitet;
+    
+    const years = meta.statistik.jahre_abgedeckt.split(' - ');
+    const yearSpan = parseInt(years[1]) - parseInt(years[0]);
+    document.getElementById('years-span').textContent = yearSpan;
+}
+
+// Render events with pagination
+function renderEvents() {
+    const container = document.getElementById('timeline-events');
+    container.innerHTML = '';
+    
+    const startIndex = currentPage * eventsPerPage;
+    const endIndex = startIndex + eventsPerPage;
+    const eventsToShow = filteredEvents.slice(startIndex, endIndex);
+    
+    if (eventsToShow.length === 0) {
+        container.innerHTML = '<p class="text-center text-text-secondary">Keine Ereignisse gefunden.</p>';
+        updatePagination();
+        updateResultsInfo();
+        return;
+    }
+    
+    eventsToShow.forEach((event, index) => {
+        const eventElement = createEventElement(event, startIndex + index);
+        container.appendChild(eventElement);
+    });
+    
+    // Update pagination
+    updatePagination();
+    
+    // Update results info
+    updateResultsInfo();
+}
+
+// Update pagination
+function updatePagination() {
+    const container = document.getElementById('pagination-container');
+    container.innerHTML = '';
+    
+    const totalPages = Math.ceil(filteredEvents.length / eventsPerPage);
+    
+    if (totalPages <= 1) {
+        return; // Hide pagination if only one page
+    }
+    
+    // Previous button
+    const prevBtn = document.createElement('button');
+    prevBtn.className = `px-3 py-2 rounded-lg font-medium transition-colors ${
+        currentPage === 0 
+            ? 'bg-gray-100 text-gray-400 cursor-not-allowed' 
+            : 'bg-white text-gray-700 border border-gray-300 hover:bg-gray-50'
+    }`;
+    prevBtn.innerHTML = '<i class="fas fa-chevron-left"></i>';
+    prevBtn.disabled = currentPage === 0;
+    prevBtn.onclick = () => {
+        if (currentPage > 0) {
+            currentPage--;
+            renderEvents();
+            // Scroll to top of timeline
+            document.getElementById('timeline').scrollIntoView({ 
+                behavior: 'smooth',
+                block: 'start'
+            });
+        }
+    };
+    container.appendChild(prevBtn);
+    
+    // Page numbers
+    const startPage = Math.max(0, currentPage - 2);
+    const endPage = Math.min(totalPages - 1, currentPage + 2);
+    
+    for (let i = startPage; i <= endPage; i++) {
+        const pageBtn = document.createElement('button');
+        pageBtn.className = `px-3 py-2 rounded-lg font-medium transition-colors ${
+            i === currentPage 
+                ? 'bg-primary text-white' 
+                : 'bg-white text-gray-700 border border-gray-300 hover:bg-gray-50'
+        }`;
+        pageBtn.textContent = i + 1;
+        pageBtn.onclick = () => {
+            currentPage = i;
+            renderEvents();
+            // Scroll to top of timeline
+            document.getElementById('timeline').scrollIntoView({ 
+                behavior: 'smooth',
+                block: 'start'
+            });
+        };
+        container.appendChild(pageBtn);
+    }
+    
+    // Next button
+    const nextBtn = document.createElement('button');
+    nextBtn.className = `px-3 py-2 rounded-lg font-medium transition-colors ${
+        currentPage === totalPages - 1 
+            ? 'bg-gray-100 text-gray-400 cursor-not-allowed' 
+            : 'bg-white text-gray-700 border border-gray-300 hover:bg-gray-50'
+    }`;
+    nextBtn.innerHTML = '<i class="fas fa-chevron-right"></i>';
+    nextBtn.disabled = currentPage === totalPages - 1;
+    nextBtn.onclick = () => {
+        if (currentPage < totalPages - 1) {
+            currentPage++;
+            renderEvents();
+            // Scroll to top of timeline
+            document.getElementById('timeline').scrollIntoView({ 
+                behavior: 'smooth',
+                block: 'start'
+            });
+        }
+    };
+    container.appendChild(nextBtn);
+}
+
+// Update results info
+function updateResultsInfo() {
+    const startIndex = currentPage * eventsPerPage;
+    const endIndex = Math.min(startIndex + eventsPerPage, filteredEvents.length);
+    const totalEvents = filteredEvents.length;
+    
+    document.getElementById('results-info').textContent = 
+        `Zeige ${startIndex + 1}-${endIndex} von ${totalEvents} Ereignissen`;
+}
+
+// Create event element
+function createEventElement(event, index) {
+    const div = document.createElement('div');
+    div.className = 'relative flex items-start w-full';
+    
+    // Use icon from data or fallback to auto-detection
+    const icon = event.icon || getEventIcon(event.text);
+    
+    div.innerHTML = `
+        <div class="absolute left-4 w-9 h-9 bg-primary rounded-full flex items-center justify-center z-10">
+            <i class="${icon} text-white text-sm"></i>
+        </div>
+        <div class="ml-20 w-full bg-white border-2 border-accent rounded-2xl p-8 shadow-sm hover:shadow-md transition-shadow">
+                <div class="mb-4">
+                    <h3 class="font-headline text-2xl font-bold text-text-primary mb-2">${event.titel || event.text}</h3>
+                    <div class="flex items-center gap-4 text-text-secondary flex-wrap">
+                        <span class="font-semibold text-secondary text-lg">${event.jahr}</span>
+                        ${event.datum ? `<span class="font-semibold text-secondary">${event.datum}</span>` : ''}
+                    </div>
+                </div>
+            <p class="text-text-secondary leading-relaxed mb-4 text-base">
+                ${event.text}
+            </p>
+            <div class="flex items-center gap-4 text-sm flex-wrap">
+                ${(event.tags || []).map(tag => `<span class="bg-blue-50 text-blue-700 px-3 py-1 rounded-full">${tag}</span>`).join('')}
+                ${(event.inventar_nr || []).map(nr => `<a href="../pages/archiv-interface.html?filter=inventar&search=${nr}" class="bg-green-50 text-green-700 px-3 py-1 rounded-full hover:bg-green-100 transition-colors cursor-pointer">Inventar: ${nr}</a>`).join('')}
+            </div>
+        </div>
+    `;
+    
+    return div;
+}
+
+// Get appropriate icon for event
+function getEventIcon(text) {
+    const lowerText = text.toLowerCase();
+    if (lowerText.includes('geboren') || lowerText.includes('geburt')) return 'fas fa-baby';
+    if (lowerText.includes('studium') || lowerText.includes('universität')) return 'fas fa-graduation-cap';
+    if (lowerText.includes('ordination') || lowerText.includes('pfarrer')) return 'fas fa-church';
+    if (lowerText.includes('professor') || lowerText.includes('lehre')) return 'fas fa-university';
+    if (lowerText.includes('heirat') || lowerText.includes('ehe')) return 'fas fa-heart';
+    if (lowerText.includes('tod') || lowerText.includes('gestorben')) return 'fas fa-cross';
+    if (lowerText.includes('buch') || lowerText.includes('veröffentlichung')) return 'fas fa-book';
+    if (lowerText.includes('reise') || lowerText.includes('besuch')) return 'fas fa-map-marker-alt';
+    return 'fas fa-calendar';
+}
+
+// Update year filter
+function updateYearFilter() {
+    const minSlider = document.getElementById('filter-jahr-min');
+    const maxSlider = document.getElementById('filter-jahr-max');
+    
+    let minYear = parseInt(minSlider.value);
+    let maxYear = parseInt(maxSlider.value);
+    
+    // Ensure min doesn't exceed max
+    if (minYear > maxYear) {
+        minYear = maxYear;
+        minSlider.value = minYear;
+    }
+    
+    // Ensure max doesn't go below min
+    if (maxYear < minYear) {
+        maxYear = minYear;
+        maxSlider.value = maxYear;
+    }
+    
+    activeFilters.jahrMin = minYear;
+    activeFilters.jahrMax = maxYear;
+    
+    document.getElementById('year-min-label').textContent = minYear;
+    document.getElementById('year-max-label').textContent = maxYear;
+    
+    // Update gefüllter Bereich zwischen den Handles
+    const rangeElement = document.getElementById('slider-range');
+    const minPercent = ((minYear - 1852) / (1938 - 1852)) * 100;
+    const maxPercent = ((maxYear - 1852) / (1938 - 1852)) * 100;
+    rangeElement.style.left = minPercent + '%';
+    rangeElement.style.width = (maxPercent - minPercent) + '%';
+    
+    if (minYear === 1852 && maxYear === 1938) {
+        document.getElementById('year-range-display').textContent = 'Alle';
+    } else {
+        document.getElementById('year-range-display').textContent = `${minYear}–${maxYear}`;
+    }
+    
+    updateFilterChips();
+    filterEvents();
+}
+
+// Update filter chips
+function updateFilterChips() {
+    const chipsContainer = document.getElementById('filter-chips');
+    chipsContainer.innerHTML = '';
+    
+    let hasFilters = false;
+    
+    // Jahr-Filter Chip (nur wenn nicht Standard-Bereich)
+    if (activeFilters.jahrMin !== 1852 || activeFilters.jahrMax !== 1938) {
+        hasFilters = true;
+        const chip = document.createElement('div');
+        chip.className = 'inline-flex items-center space-x-2 px-3 py-1.5 rounded-full text-sm font-medium bg-blue-50 text-blue-700';
+        chip.innerHTML = `
+            <span>Jahr: ${activeFilters.jahrMin}–${activeFilters.jahrMax}</span>
+            <button onclick="resetYearFilter()" class="rounded-full p-0.5 transition-colors hover:bg-blue-100">
+                <i class="fas fa-times text-xs"></i>
+            </button>
+        `;
+        chipsContainer.appendChild(chip);
+    }
+    
+    // Kategorie-Filter Chip
+    if (activeFilters.category) {
+        hasFilters = true;
+        const chip = document.createElement('div');
+        chip.className = 'inline-flex items-center space-x-2 px-3 py-1.5 rounded-full text-sm font-medium bg-green-50 text-green-700';
+        chip.innerHTML = `
+            <span>Kategorie: ${document.getElementById('category-dropdown').selectedOptions[0].text}</span>
+            <button onclick="resetCategoryFilter()" class="rounded-full p-0.5 transition-colors hover:bg-green-100">
+                <i class="fas fa-times text-xs"></i>
+            </button>
+        `;
+        chipsContainer.appendChild(chip);
+    }
+    
+    // Zeige/Verstecke Container basierend auf ob Filter aktiv sind
+    if (hasFilters) {
+        chipsContainer.classList.remove('hidden');
+    } else {
+        chipsContainer.classList.add('hidden');
+    }
+}
+
+// Reset year filter
+function resetYearFilter() {
+    document.getElementById('filter-jahr-min').value = 1852;
+    document.getElementById('filter-jahr-max').value = 1938;
+    activeFilters.jahrMin = 1852;
+    activeFilters.jahrMax = 1938;
+    document.getElementById('year-min-label').textContent = 1852;
+    document.getElementById('year-max-label').textContent = 1938;
+    document.getElementById('year-range-display').textContent = 'Alle';
+    
+    // Reset gefüllter Bereich
+    const rangeElement = document.getElementById('slider-range');
+    rangeElement.style.left = '0%';
+    rangeElement.style.width = '100%';
+    
+    updateFilterChips();
+    filterEvents();
+}
+
+// Reset category filter
+function resetCategoryFilter() {
+    document.getElementById('category-dropdown').value = '';
+    activeFilters.category = '';
+    updateFilterChips();
+    filterEvents();
+}
+
+// Filter events
+function filterEvents() {
+    const searchTerm = document.getElementById('search-input').value.toLowerCase();
+    const selectedCategory = document.getElementById('category-dropdown').value;
+    
+    filteredEvents = allEvents.filter(event => {
+        // Text search
+        const matchesSearch = !searchTerm || event.text.toLowerCase().includes(searchTerm);
+        
+        // Year range (use slider values)
+        const matchesYear = event.jahr >= activeFilters.jahrMin && event.jahr <= activeFilters.jahrMax;
+        
+        // Category filter
+        let matchesCategory = true;
+        if (selectedCategory) {
+            matchesCategory = (event.tags || []).some(tag => 
+                tag.toLowerCase() === selectedCategory.toLowerCase()
+            );
+        }
+        
+        return matchesSearch && matchesYear && matchesCategory;
+    });
+    
+    currentPage = 0;
+    renderEvents();
+}
+
+// Smooth scrolling
+function scrollToTimeline() {
+    document.getElementById('timeline').scrollIntoView({
+        behavior: 'smooth',
+        block: 'start'
+    });
+}
+
+// Load components
+document.addEventListener('DOMContentLoaded', function() {
+        // Load components via manager utilities
+        if (window.appbarManager) {
+            window.appbarManager.insertAppbar('appbar-container');
+        } else {
+            console.warn('AppbarManager nicht verfügbar.');
+        }
+
+        if (window.footerManager) {
+            window.footerManager.insertFooter('footer-container', {
+                description: "Interaktive Timeline der Biographie Adolf Schlatters basierend auf digitalisierten Archivquellen."
+            });
+        } else {
+            console.warn('FooterManager nicht verfügbar.');
+        }
+
+    // Load timeline data
+    loadData();
+    
+    // Search and filter
+    document.getElementById('search-button').addEventListener('click', filterEvents);
+    document.getElementById('search-input').addEventListener('input', filterEvents);
+    
+    // Category dropdown
+    document.getElementById('category-dropdown').addEventListener('change', function() {
+        activeFilters.category = this.value;
+        updateFilterChips();
+        filterEvents();
+    });
+    
+    // Initialize year slider
+    const rangeElement = document.getElementById('slider-range');
+    if (rangeElement) {
+        rangeElement.style.left = '0%';
+        rangeElement.style.width = '100%';
+    }
+    
+    // Reset filters button
+    document.getElementById('reset-filters').addEventListener('click', function() {
+        // Reset all filters
+        document.getElementById('search-input').value = '';
+        document.getElementById('category-dropdown').value = '';
+        activeFilters.category = '';
+        
+        // Reset year slider
+        document.getElementById('filter-jahr-min').value = 1852;
+        document.getElementById('filter-jahr-max').value = 1938;
+        activeFilters.jahrMin = 1852;
+        activeFilters.jahrMax = 1938;
+        document.getElementById('year-min-label').textContent = 1852;
+        document.getElementById('year-max-label').textContent = 1938;
+        document.getElementById('year-range-display').textContent = 'Alle';
+        
+        // Reset slider range
+        const rangeElement = document.getElementById('slider-range');
+        rangeElement.style.left = '0%';
+        rangeElement.style.width = '100%';
+        
+        // Reset pagination
+        currentPage = 0;
+        
+        // Update UI
+        updateFilterChips();
+        filterEvents();
+    });
+});
+</script>
+
+<!-- Appbar Utils -->
+<script src="../components/appbar-utils.js"></script>
+<!-- Footer Utils -->
+<script src="../components/footer-utils.js"></script>
+
+</body>
+</html>
+

@@ -90,6 +90,13 @@
             fill: none;
         }
         
+        .divorced-line {
+            stroke: #9ca3af;
+            stroke-width: 2;
+            stroke-dasharray: 5,5;
+            fill: none;
+        }
+        
         .parent-child-line {
             stroke: var(--color-line-secondary);
             stroke-width: 2;
@@ -214,6 +221,10 @@
                 <span class="text-gray-600">Eheverbindung</span>
             </div>
             <div class="flex items-center space-x-2">
+                <div class="w-4 h-0.5 bg-gray-400" style="border-top: 2px dashed #9ca3af;"></div>
+                <span class="text-gray-600">Geschieden</span>
+            </div>
+            <div class="flex items-center space-x-2">
                 <div class="w-4 h-0.5 bg-gray-400"></div>
                 <span class="text-gray-600">Eltern-Kind</span>
             </div>
@@ -309,18 +320,24 @@
                 { id: "P26", name: "Ruth Hecht", birth_year: 1929, death_year: null, generation_depth: 7, occupation: "", location: "", gender: "female" },
                 { id: "P24", name: "Gerhard Schlatter", birth_year: 1922, death_year: 1943, generation_depth: 7, occupation: "", location: "", gender: "male" },
                 { id: "P22", name: "Dora Schlatter", birth_year: 1920, death_year: null, generation_depth: 7, occupation: "", location: "", gender: "female" },
-                { id: "P23", name: "Leonhard", birth_year: null, death_year: null, generation_depth: 7, occupation: "", location: "Familienname unbekannt", gender: "male" },
+                { id: "P23", name: "Leonhard Goppelt", birth_year: null, death_year: null, generation_depth: 7, occupation: "", location: "", gender: "male" },
                 
-                // Generation 8 - Kinder von Theodor
+                // Generation 8 - Kinder von Theodor und Leonard
+                { id: "P92", name: "Natascha Kirchmann", birth_year: 1966, death_year: null, generation_depth: 8, occupation: "", location: "", gender: "female" },
                 { id: "P27", name: "Gerhard Schlatter", birth_year: 1955, death_year: null, generation_depth: 8, occupation: "", location: "", gender: "male" },
-                { id: "P83", name: "Natascha Kirchmann", birth_year: 1966, death_year: null, generation_depth: 8, occupation: "", location: "", gender: "female" },
+                { id: "P83", name: "Maria Wohlleben", birth_year: 1962, death_year: null, generation_depth: 8, occupation: "", location: "", gender: "female" },
                 { id: "P28", name: "Martin Schlatter", birth_year: 1957, death_year: null, generation_depth: 8, occupation: "", location: "", gender: "male" },
                 { id: "P29", name: "Dorothea Schlatter", birth_year: 1959, death_year: null, generation_depth: 8, occupation: "", location: "", gender: "female" },
                 
-                // Generation 9 - Kinder von Gerhard und Natascha
+                // Generation 9 - Kinder von Gerhard und Maria
                 { id: "P84", name: "Gabriel Schlatter", birth_year: 1991, death_year: null, generation_depth: 9, occupation: "", location: "", gender: "male" },
+                { id: "P89", name: "Melanie Schlatter", birth_year: null, death_year: null, generation_depth: 9, occupation: "", location: "", gender: "female" },
                 { id: "P85", name: "Elias Schlatter", birth_year: 1994, death_year: null, generation_depth: 9, occupation: "", location: "", gender: "male" },
-                { id: "P86", name: "Johanna Schlatter", birth_year: 1997, death_year: null, generation_depth: 9, occupation: "", location: "", gender: "female" }
+                { id: "P86", name: "Johanna Schlatter", birth_year: 1997, death_year: null, generation_depth: 9, occupation: "", location: "", gender: "female" },
+                
+                // Generation 10 - Kinder von Gabriel und Melanie
+                { id: "P90", name: "Aurelius Schlatter", birth_year: 2021, death_year: null, generation_depth: 10, occupation: "", location: "", gender: "male" },
+                { id: "P91", name: "Constantin Schlatter", birth_year: 2023, death_year: null, generation_depth: 10, occupation: "", location: "", gender: "male" }
             ],
             edges: [
                 // Ehen
@@ -347,6 +364,8 @@
                 { source: "P22", target: "P23", type: "MARRIED" },
                 { source: "P25", target: "P26", type: "MARRIED" },
                 { source: "P27", target: "P83", type: "MARRIED" },
+                { source: "P27", target: "P92", type: "DIVORCED" },
+                { source: "P84", target: "P89", type: "MARRIED" },
                 
                 // Eltern-Kind Beziehungen
                 { source: "P1", target: "P3", type: "PARENT_OF" },
@@ -425,12 +444,20 @@
                 { source: "P26", target: "P28", type: "PARENT_OF" },
                 { source: "P25", target: "P29", type: "PARENT_OF" },
                 { source: "P26", target: "P29", type: "PARENT_OF" },
+                { source: "P22", target: "P87", type: "PARENT_OF" },
+                { source: "P23", target: "P87", type: "PARENT_OF" },
+                { source: "P22", target: "P88", type: "PARENT_OF" },
+                { source: "P23", target: "P88", type: "PARENT_OF" },
                 { source: "P27", target: "P84", type: "PARENT_OF" },
-                { source: "P83", target: "P84", type: "PARENT_OF" },
+                { source: "P92", target: "P84", type: "PARENT_OF" },
                 { source: "P27", target: "P85", type: "PARENT_OF" },
-                { source: "P83", target: "P85", type: "PARENT_OF" },
+                { source: "P92", target: "P85", type: "PARENT_OF" },
                 { source: "P27", target: "P86", type: "PARENT_OF" },
-                { source: "P83", target: "P86", type: "PARENT_OF" }
+                { source: "P92", target: "P86", type: "PARENT_OF" },
+                { source: "P84", target: "P90", type: "PARENT_OF" },
+                { source: "P89", target: "P90", type: "PARENT_OF" },
+                { source: "P84", target: "P91", type: "PARENT_OF" },
+                { source: "P89", target: "P91", type: "PARENT_OF" }
             ]
         }
     };
@@ -444,8 +471,9 @@
         "P12", "P13",  // Generation 5
         "P14", "P20",  // Generation 6
         "P21", "P22", "P23", "P24", "P25", "P26", "P30",  // Generation 7
-        "P27", "P83", "P28", "P29",  // Generation 8
-        "P84", "P85", "P86"  // Generation 9
+        "P92", "P27", "P83", "P28", "P29", "P87", "P88",  // Generation 8
+        "P84", "P89", "P85", "P86",  // Generation 9
+        "P90", "P91"  // Generation 10
     ];
     
     let showMainLineOnly = true; // Standard: Hauptlinie
@@ -587,6 +615,42 @@
                 // Ordne die Kinder: ZUERST Ehepaare gruppieren (auch mit Partnern außerhalb)
                 const processedChildren = new Set();
                 
+                // Spezialbehandlung für Gerhard Schlatter (P27) - er hat zwei Ehefrauen
+                if (gen === 8) {
+                    const gerhard = children.find(c => c.id === 'P27');
+                    if (gerhard) {
+                        // Finde alle Ehefrauen von Gerhard (sowohl MARRIED als auch DIVORCED)
+                        const gerhardSpouses = [];
+                        edges.filter(e => (e.type === "MARRIED" || e.type === "DIVORCED") && e.source === 'P27').forEach(e => {
+                            const spouse = persons.find(p => p.id === e.target);
+                            if (spouse) gerhardSpouses.push(spouse);
+                        });
+                        edges.filter(e => (e.type === "MARRIED" || e.type === "DIVORCED") && e.target === 'P27').forEach(e => {
+                            const spouse = persons.find(p => p.id === e.source);
+                            if (spouse) gerhardSpouses.push(spouse);
+                        });
+                        
+                        // Sortiere Ehefrauen: Natascha (P92) zuerst, dann Maria (P83)
+                        gerhardSpouses.sort((a, b) => {
+                            if (a.id === 'P92') return -1; // Natascha zuerst
+                            if (b.id === 'P92') return 1;
+                            return 0;
+                        });
+                        
+                        // Füge Gerhard und seine Ehefrauen in der gewünschten Reihenfolge hinzu
+                        if (gerhardSpouses[0]) orderedPersons.push(gerhardSpouses[0]); // Natascha links
+                        orderedPersons.push(gerhard); // Gerhard in der Mitte
+                        if (gerhardSpouses[1]) orderedPersons.push(gerhardSpouses[1]); // Maria rechts
+                        
+                        processedChildren.add(gerhard.id);
+                        gerhardSpouses.forEach(spouse => {
+                            processedChildren.add(spouse.id);
+                            processed.add(spouse.id);
+                        });
+                        processed.add(gerhard.id);
+                    }
+                }
+                
                 children.forEach(child => {
                     if (processedChildren.has(child.id)) return;
                     
@@ -727,6 +791,22 @@
             // Gerade Linie zwischen Ehepartnern
             svg.append("line")
                 .attr("class", "marriage-line")
+                .attr("x1", spouse1.x)
+                .attr("y1", spouse1.y)
+                .attr("x2", spouse2.x)
+                .attr("y2", spouse2.y);
+        }
+    });
+    
+    // Zeichne geschiedene Ehen - gestrichelte Linien
+    edges.filter(e => e.type === "DIVORCED").forEach(edge => {
+        const spouse1 = nodes.find(n => n.id === edge.source);
+        const spouse2 = nodes.find(n => n.id === edge.target);
+        
+        if (spouse1 && spouse2) {
+            // Gestrichelte Linie zwischen geschiedenen Partnern
+            svg.append("line")
+                .attr("class", "divorced-line")
                 .attr("x1", spouse1.x)
                 .attr("y1", spouse1.y)
                 .attr("x2", spouse2.x)
@@ -1075,7 +1155,7 @@
     <div class="max-w-7xl mx-auto px-6">
         <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
             <div class="bg-gradient-to-br from-secondary/10 to-orange-100 rounded-xl shadow-sm p-6 text-center border border-secondary/20">
-                <div class="text-4xl font-bold text-secondary mb-2">9</div>
+                <div class="text-4xl font-bold text-secondary mb-2">10</div>
                 <div class="text-sm font-medium text-text-secondary">Generationen</div>
             </div>
             <div class="bg-gradient-to-br from-blue-50 to-blue-100 rounded-xl shadow-sm p-6 text-center border border-blue-200">

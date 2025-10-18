@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "heic-convert": "^1.2.4",
-    "openai": "^6.2.0",
+    "openai": "^6.5.0",
     "sharp": "^0.33.0"
   },
   "keywords": [

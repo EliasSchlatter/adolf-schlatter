@@ -737,23 +737,23 @@
             </div>
             
             <div class="bg-accent rounded-xl p-8">
-                <h4 class="font-headline text-2xl font-semibold text-primary mb-6">Bedeutende Schüler</h4>
+                <h4 class="font-headline text-2xl font-semibold text-primary mb-6">Schlatters Einfluss auf die Theologie</h4>
                 <div class="grid grid-cols-1 gap-4">
                     <div class="bg-white rounded-lg p-4 shadow-sm">
-                        <h5 class="font-semibold text-primary">Karl Barth</h5>
-                        <p class="text-sm text-text-secondary">Begründer der dialektischen Theologie</p>
+                        <h5 class="font-semibold text-primary">Dialektische Theologie</h5>
+                        <p class="text-sm text-text-secondary">Prägung der theologischen Methode und Hermeneutik</p>
                     </div>
                     <div class="bg-white rounded-lg p-4 shadow-sm">
-                        <h5 class="font-semibold text-primary">Gerhard Kittel</h5>
-                        <p class="text-sm text-text-secondary">Herausgeber des Theologischen Wörterbuchs</p>
+                        <h5 class="font-semibold text-primary">Neutestamentliche Wissenschaft</h5>
+                        <p class="text-sm text-text-secondary">Grundlegende Beiträge zur historisch-kritischen Exegese</p>
                     </div>
                     <div class="bg-white rounded-lg p-4 shadow-sm">
-                        <h5 class="font-semibold text-primary">Oscar Cullmann</h5>
-                        <p class="text-sm text-text-secondary">Neutestamentler und Ökumeniker</p>
+                        <h5 class="font-semibold text-primary">Systematische Theologie</h5>
+                        <p class="text-sm text-text-secondary">Entwicklung theologischer Konzepte und Dogmatik</p>
                     </div>
                     <div class="bg-white rounded-lg p-4 shadow-sm">
-                        <h5 class="font-semibold text-primary">Joachim Jeremias</h5>
-                        <p class="text-sm text-text-secondary">Jesus-Forscher und Paulus-Experte</p>
+                        <h5 class="font-semibold text-primary">Ökumenische Bewegung</h5>
+                        <p class="text-sm text-text-secondary">Beiträge zur interkonfessionellen Verständigung</p>
                     </div>
                 </div>
             </div>
@@ -766,7 +766,7 @@
         <h2 class="font-headline text-4xl lg:text-5xl font-bold text-white mb-6">Vorlesung anhören</h2>
         <p class="text-xl text-accent mb-12">Tauchen Sie ein in eine ausführliche Darstellung von Schlatters Leben, Werk und Wirkung</p>
         
-        <div class="bg-white rounded-2xl p-8 shadow-2xl max-w-2xl mx-auto" id="audio-player">
+        <div class="bg-white rounded-2xl p-8 shadow-2xl max-w-4xl mx-auto" id="audio-player">
             <div class="flex items-center justify-center mb-8">
                 <div class="w-24 h-24 bg-secondary rounded-full flex items-center justify-center">
                     <i id="play-icon" class="fas fa-play text-white text-2xl"></i>
@@ -776,32 +776,38 @@
             <h3 class="font-headline text-2xl font-semibold text-primary mb-4">Leben, Werk, Wirkung – Adolf Schlatter</h3>
             <p class="text-text-secondary mb-6">Eine umfassende Vorlesung über den bedeutenden Theologen</p>
             
+            
             <div class="space-y-4">
                 <div class="bg-bg-light rounded-lg p-4">
                     <div class="flex justify-between text-sm text-text-secondary mb-2">
                         <span id="current-time">00:00</span>
-                        <span id="duration">50:00</span>
+                        <span id="duration">00:00</span>
                     </div>
-                    <div class="w-full bg-gray-300 rounded-full h-2">
-                        <div id="progress-bar" class="bg-secondary h-2 rounded-full" style="width: 0%"></div>
+                    <div class="relative w-full bg-gray-300 rounded-full h-3 cursor-pointer" id="progress-container">
+                        <div id="progress-bar" class="bg-secondary h-3 rounded-full transition-all duration-200" style="width: 0%"></div>
+                        <!-- Kapitel-Markierungen werden hier dynamisch eingefügt -->
+                    </div>
+                    <div class="mt-2 text-xs text-text-secondary">
+                        <span id="current-chapter">Intro Leben</span>
                     </div>
                 </div>
                 
                 <div class="flex items-center justify-center space-x-6">
-                    <button class="w-12 h-12 bg-bg-light rounded-full flex items-center justify-center hover:bg-accent transition-colors">
-                        <i class="fas fa-backward text-primary"></i>
+                    <button id="prev-btn" class="w-12 h-12 bg-bg-light rounded-full flex items-center justify-center hover:bg-accent transition-colors">
+                        <i class="fas fa-step-backward text-primary"></i>
                     </button>
                     <button id="play-btn" class="w-16 h-16 bg-secondary rounded-full flex items-center justify-center hover:bg-opacity-90 transition-colors">
                         <i class="fas fa-play text-white text-xl"></i>
                     </button>
-                    <button class="w-12 h-12 bg-bg-light rounded-full flex items-center justify-center hover:bg-accent transition-colors">
-                        <i class="fas fa-forward text-primary"></i>
+                    <button id="next-btn" class="w-12 h-12 bg-bg-light rounded-full flex items-center justify-center hover:bg-accent transition-colors">
+                        <i class="fas fa-step-forward text-primary"></i>
                     </button>
                 </div>
                 
                 <div class="flex items-center justify-center space-x-4 text-sm text-text-secondary">
-                    <span><i class="fas fa-clock mr-1"></i>ca. 50 Minuten</span>
+                    <span><i class="fas fa-clock mr-1"></i>ca. 35 Minuten</span>
                     <span><i class="fas fa-volume-up mr-1"></i>Deutsche Sprache</span>
+                    <span><i class="fas fa-list mr-1"></i>15 Kapitel</span>
                 </div>
             </div>
         </div>
@@ -969,46 +975,289 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
     
-    const playBtn = document.getElementById('play-btn');
-    const playIcon = playBtn.querySelector('i');
-    let isPlaying = false;
-    let currentTime = 0;
-    const totalTime = 3000;
-    let interval;
-    
-    playBtn.addEventListener('click', function() {
-        if (!isPlaying) {
-            isPlaying = true;
-            playIcon.classList.remove('fa-play');
-            playIcon.classList.add('fa-pause');
+    // Audio-Player System für Multi-Kapitel
+    class AudioPlayer {
+        constructor() {
+            this.audio = new Audio();
+            this.currentChapter = 0;
+            this.isPlaying = false;
+            this.chapterDurations = []; // Wird dynamisch gefüllt
+            this.totalDuration = 0;
+            this.chapterStartTimes = [0]; // Startzeiten der Kapitel
+            this.durationsLoaded = 0; // Anzahl der geladenen Kapitel-Dauern
             
-            interval = setInterval(() => {
-                currentTime += 1;
-                const progress = (currentTime / totalTime) * 100;
-                document.getElementById('progress-bar').style.width = progress + '%';
-                
-                const minutes = Math.floor(currentTime / 60);
-                const seconds = currentTime % 60;
-                document.getElementById('current-time').textContent = 
-                    minutes.toString().padStart(2, '0') + ':' + seconds.toString().padStart(2, '0');
-                
-                if (currentTime >= totalTime) {
-                    clearInterval(interval);
-                    isPlaying = false;
-                    playIcon.classList.remove('fa-pause');
-                    playIcon.classList.add('fa-play');
-                    currentTime = 0;
-                    document.getElementById('progress-bar').style.width = '0%';
-                    document.getElementById('current-time').textContent = '00:00';
-                }
-            }, 1000);
-        } else {
-            isPlaying = false;
-            playIcon.classList.remove('fa-pause');
-            playIcon.classList.add('fa-play');
-            clearInterval(interval);
+            // Audio-Dateien in der richtigen Reihenfolge
+            this.audioFiles = [
+                '../audios/01_intro_leben.mp3',
+                '../audios/01_leben_1_combined.mp3',
+                '../audios/01_leben_2_combined.mp3',
+                '../audios/01_leben_3_combined.mp3',
+                '../audios/01_leben_4_combined.mp3',
+                '../audios/01_leben_5_combined.mp3',
+                '../audios/01_leben_6_combined.mp3',
+                '../audios/01_leben_7_combined.mp3',
+                '../audios/02_intro_werk.mp3',
+                '../audios/02_werk_1_combined.mp3',
+                '../audios/02_werk_2_combined.mp3',
+                '../audios/02_werk_3_combined.mp3',
+                '../audios/02_werk_4_combined.mp3',
+                '../audios/02_werk_5_combined.mp3',
+                '../audios/02_werk_6_combined.mp3',
+                '../audios/02_werk_7_combined.mp3',
+                '../audios/03_intro_wirkung.mp3',
+                '../audios/03_wirkung_1_combined.mp3'
+            ];
+            
+            this.chapterNames = [
+                'Intro Leben', 'Leben 1', 'Leben 2', 'Leben 3', 'Leben 4', 'Leben 5', 'Leben 6', 'Leben 7',
+                'Intro Werk', 'Werk 1', 'Werk 2', 'Werk 3', 'Werk 4', 'Werk 5', 'Werk 6', 'Werk 7',
+                'Intro Wirkung', 'Wirkung 1'
+            ];
+            
+            this.init();
         }
-    });
+        
+        init() {
+            this.setupEventListeners();
+            this.loadAudio();
+            this.preloadAllDurations();
+        }
+        
+        setupEventListeners() {
+            document.getElementById('play-btn').addEventListener('click', () => this.togglePlayPause());
+            document.getElementById('prev-btn').addEventListener('click', () => this.previousChapter());
+            document.getElementById('next-btn').addEventListener('click', () => this.nextChapter());
+            
+            // Progress Bar Click
+            document.getElementById('progress-container').addEventListener('click', (e) => {
+                const rect = e.currentTarget.getBoundingClientRect();
+                const clickX = e.clientX - rect.left;
+                const percentage = clickX / rect.width;
+                this.seekTo(percentage);
+            });
+            
+            // Audio Events
+            this.audio.addEventListener('loadedmetadata', () => this.updateDuration());
+            this.audio.addEventListener('timeupdate', () => this.updateProgress());
+            this.audio.addEventListener('ended', () => this.nextChapter());
+            this.audio.addEventListener('error', (e) => console.error('Audio error:', e));
+        }
+        
+        loadAudio() {
+            this.audio.src = this.audioFiles[this.currentChapter];
+            this.audio.load();
+        }
+        
+        preloadAllDurations() {
+            // Lade alle Audio-Dateien vor, um die Dauern zu ermitteln
+            this.audioFiles.forEach((file, index) => {
+                const tempAudio = new Audio(file);
+                tempAudio.preload = 'metadata';
+                
+                const handleLoad = () => {
+                    if (this.chapterDurations[index] === undefined) {
+                        this.chapterDurations[index] = tempAudio.duration || 0;
+                        this.durationsLoaded++;
+                        
+                        if (this.durationsLoaded === this.audioFiles.length) {
+                            this.calculateTotalDuration();
+                        }
+                    }
+                };
+                
+                const handleError = () => {
+                    if (this.chapterDurations[index] === undefined) {
+                        this.chapterDurations[index] = 0;
+                        this.durationsLoaded++;
+                        
+                        if (this.durationsLoaded === this.audioFiles.length) {
+                            this.calculateTotalDuration();
+                        }
+                    }
+                };
+                
+                tempAudio.addEventListener('loadedmetadata', handleLoad);
+                tempAudio.addEventListener('error', handleError);
+                
+                // Fallback: Nach 5 Sekunden als fehlgeschlagen markieren
+                setTimeout(() => {
+                    if (this.chapterDurations[index] === undefined) {
+                        this.chapterDurations[index] = 0;
+                        this.durationsLoaded++;
+                        
+                        if (this.durationsLoaded === this.audioFiles.length) {
+                            this.calculateTotalDuration();
+                        }
+                    }
+                }, 5000);
+            });
+        }
+        
+        calculateTotalDuration() {
+            this.totalDuration = this.chapterDurations.reduce((sum, duration) => sum + duration, 0);
+            
+            // Berechne Startzeiten
+            this.chapterStartTimes = [0];
+            for (let i = 1; i < this.chapterDurations.length; i++) {
+                this.chapterStartTimes[i] = this.chapterStartTimes[i-1] + this.chapterDurations[i-1];
+            }
+            
+            this.updateChapterMarkers();
+            this.updateDisplay();
+        }
+        
+        updateDuration() {
+            // Diese Methode wird für das aktuelle Kapitel aufgerufen
+            if (this.chapterDurations[this.currentChapter] === undefined) {
+                this.chapterDurations[this.currentChapter] = this.audio.duration;
+                this.durationsLoaded++;
+                
+                if (this.durationsLoaded === this.audioFiles.length) {
+                    this.calculateTotalDuration();
+                }
+            }
+        }
+        
+        updateChapterMarkers() {
+            const container = document.getElementById('progress-container');
+            // Entferne bestehende Markierungen
+            container.querySelectorAll('.chapter-marker').forEach(marker => marker.remove());
+            
+            if (this.totalDuration > 0) {
+                for (let i = 1; i < this.chapterStartTimes.length; i++) {
+                    const marker = document.createElement('div');
+                    marker.className = 'chapter-marker absolute top-0 w-1 h-3 bg-white rounded-full shadow-sm';
+                    marker.style.left = `${(this.chapterStartTimes[i] / this.totalDuration) * 100}%`;
+                    marker.title = this.chapterNames[i];
+                    container.appendChild(marker);
+                }
+            }
+        }
+        
+        togglePlayPause() {
+            if (this.isPlaying) {
+                this.pause();
+            } else {
+                this.play();
+            }
+        }
+        
+        play() {
+            this.isPlaying = true;
+            this.updatePlayButton();
+            
+            this.audio.play().then(() => {
+                // Audio started successfully
+            }).catch(e => {
+                console.error('Play failed:', e);
+                this.isPlaying = false;
+                this.updatePlayButton();
+            });
+        }
+        
+        pause() {
+            this.audio.pause();
+            this.isPlaying = false;
+            this.updatePlayButton();
+        }
+        
+        updatePlayButton() {
+            const playBtn = document.getElementById('play-btn');
+            
+            if (playBtn) {
+                if (this.isPlaying) {
+                    playBtn.innerHTML = '<i class="fas fa-pause text-white text-xl"></i>';
+                } else {
+                    playBtn.innerHTML = '<i class="fas fa-play text-white text-xl"></i>';
+                }
+            }
+        }
+        
+        previousChapter() {
+            if (this.currentChapter > 0) {
+                this.goToChapter(this.currentChapter - 1);
+            }
+        }
+        
+        nextChapter() {
+            if (this.currentChapter < this.audioFiles.length - 1) {
+                this.goToChapter(this.currentChapter + 1);
+            } else {
+                this.pause();
+            }
+        }
+        
+        goToChapter(chapterIndex) {
+            this.currentChapter = chapterIndex;
+            this.loadAudio();
+            this.updateDisplay();
+            
+            if (this.isPlaying) {
+                this.audio.play().then(() => {
+                    this.isPlaying = true;
+                    this.updatePlayButton();
+                }).catch(e => {
+                    console.error('Play failed after chapter change:', e);
+                    this.isPlaying = false;
+                    this.updatePlayButton();
+                });
+            }
+        }
+        
+        seekTo(percentage) {
+            if (this.totalDuration > 0) {
+                const targetTime = percentage * this.totalDuration;
+                
+                // Finde das entsprechende Kapitel
+                for (let i = 0; i < this.chapterStartTimes.length; i++) {
+                    const chapterStart = this.chapterStartTimes[i];
+                    const chapterEnd = i < this.chapterStartTimes.length - 1 ? 
+                        this.chapterStartTimes[i + 1] : this.totalDuration;
+                    
+                    if (targetTime >= chapterStart && targetTime < chapterEnd) {
+                        const localTime = targetTime - chapterStart;
+                        this.goToChapter(i);
+                        this.audio.currentTime = localTime;
+                        break;
+                    }
+                }
+            }
+        }
+        
+        updateProgress() {
+            if (this.totalDuration > 0 && this.chapterStartTimes[this.currentChapter] !== undefined) {
+                const currentTime = this.chapterStartTimes[this.currentChapter] + this.audio.currentTime;
+                const progress = (currentTime / this.totalDuration) * 100;
+                
+                document.getElementById('progress-bar').style.width = `${progress}%`;
+                
+                // Update Zeit-Anzeige
+                const minutes = Math.floor(currentTime / 60);
+                const seconds = Math.floor(currentTime % 60);
+                document.getElementById('current-time').textContent = 
+                    `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+                
+                // Update Gesamtdauer
+                const totalMinutes = Math.floor(this.totalDuration / 60);
+                const totalSeconds = Math.floor(this.totalDuration % 60);
+                document.getElementById('duration').textContent = 
+                    `${totalMinutes.toString().padStart(2, '0')}:${totalSeconds.toString().padStart(2, '0')}`;
+            } else if (this.totalDuration === 0) {
+                // Fallback: Zeige lokale Zeit des aktuellen Kapitels
+                const minutes = Math.floor(this.audio.currentTime / 60);
+                const seconds = Math.floor(this.audio.currentTime % 60);
+                document.getElementById('current-time').textContent = 
+                    `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+            }
+        }
+        
+        updateDisplay() {
+            document.getElementById('current-chapter').textContent = this.chapterNames[this.currentChapter];
+        }
+    }
+    
+    // Initialisiere den Audio-Player
+    const audioPlayer = new AudioPlayer();
     
     document.querySelectorAll('a[href^="#"]').forEach(function(anchor) {
         anchor.addEventListener('click', function (e) {

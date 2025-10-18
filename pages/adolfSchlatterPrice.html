@@ -514,8 +514,8 @@
             <p class="font-highlight text-xl text-text-secondary">Eine Übersicht bisher ausgezeichneter Arbeiten</p>
         </div>
         
-        <div class="max-w-4xl mx-auto">
-            <div class="space-y-8">
+        <div class="max-w-7xl mx-auto">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <!-- 2024 -->
                 <div class="bg-white rounded-2xl p-8 shadow-lg">
                     <div class="flex items-start space-x-6">
@@ -582,6 +582,9 @@
                         </div>
                     </div>
                 </div>
+                
+                <!-- Hidden awards (Show More) -->
+                <div id="more-foerderpreise" class="hidden contents">
 
                 <div class="bg-white rounded-2xl p-8 shadow-lg">
                     <div class="flex items-start space-x-6">
@@ -764,10 +767,50 @@
                         </div>
                     </div>
                 </div>
+                
+                </div><!-- End of more-foerderpreise -->
+            </div>
+            
+            <!-- Show More Button -->
+            <div class="text-center mt-12">
+                <button id="btn-show-more-foerderpreise" onclick="toggleMoreFoerderpreise()" class="px-8 py-3 bg-secondary text-white rounded-lg hover:bg-secondary/90 transition-colors font-medium">
+                    <i class="fas fa-chevron-down mr-2"></i>
+                    <span id="btn-text-foerderpreise">Mehr anzeigen</span>
+                </button>
             </div>
         </div>
     </div>
 </section>
+
+<script>
+function toggleMoreFoerderpreise() {
+    const moreSection = document.getElementById('more-foerderpreise');
+    const btn = document.getElementById('btn-show-more-foerderpreise');
+    const btnText = document.getElementById('btn-text-foerderpreise');
+    const btnIcon = btn.querySelector('i');
+    
+    if (moreSection.classList.contains('hidden')) {
+        moreSection.classList.remove('hidden');
+        btnText.textContent = 'Weniger anzeigen';
+        btnIcon.classList.remove('fa-chevron-down');
+        btnIcon.classList.add('fa-chevron-up');
+    } else {
+        moreSection.classList.add('hidden');
+        btnText.textContent = 'Mehr anzeigen';
+        btnIcon.classList.remove('fa-chevron-up');
+        btnIcon.classList.add('fa-chevron-down');
+        
+        // Scroll to section top
+        const section = document.getElementById('foerderpreise');
+        const headerEl = document.getElementById('appbar');
+        const headerH = headerEl ? headerEl.offsetHeight : 80;
+        const rect = section.getBoundingClientRect();
+        const current = window.scrollY || window.pageYOffset;
+        const y = current + rect.top - headerH - 20;
+        window.scrollTo({ top: Math.max(0, y), behavior: 'smooth' });
+    }
+}
+</script>
 
 
 <!-- Footer -->

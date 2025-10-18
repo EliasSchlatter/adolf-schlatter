@@ -202,7 +202,7 @@
                 <p class="text-text-secondary">Finde gezielt Werke, Briefe, Manuskripte oder andere Materialien.</p>
             </div>
 
-            <div class="bg-accent/50 rounded-lg p-6 mb-8 border border-gray-200">
+            <div class="rounded-lg p-6 mb-8" style="background-color: var(--color-bg-gray);">
                 <div class="relative mb-6">
                     <i class="fas fa-search absolute left-4 top-1/2 transform -translate-y-1/2 text-text-secondary"></i>
                     <input id="search-input" type="text" placeholder="Titel, Person, Ort oder Schlagwort suchen..." class="w-full pl-12 pr-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-secondary focus:border-transparent">
@@ -827,6 +827,22 @@
             
             console.log(`✅ ${allEntries.length} Einträge geladen`);
             
+             // URL-Parameter verarbeiten
+            const urlParams = new URLSearchParams(window.location.search);
+            const filter = urlParams.get('filter');
+            const search = urlParams.get('search');
+            
+            if (filter === 'inventar' && search) {
+                // Inventar-Nummer Filter anwenden
+                document.getElementById('search-input').value = search;
+                console.log(`🔍 Filtere nach Inventar-Nummer: ${search}`);
+                
+                // Automatisch Filter anwenden
+                setTimeout(() => {
+                    applyFilters();
+                }, 100);
+            }
+            
             // UI initialisieren
             updateTotalCount();
             populateFilterOptions();
@@ -1076,12 +1092,14 @@
                     type !== 'teil' && type !== 'sektion' && type !== 'unterabschnitt' && !(type === 'jahr' && value === 'custom')) {
                     hasFilters = true;
                     const chip = document.createElement('div');
-                    chip.className = 'inline-flex items-center space-x-2 bg-secondary text-white px-3 py-1.5 rounded-full text-sm font-medium';
+                    chip.className = 'inline-flex items-center space-x-2 px-3 py-1.5 rounded-full text-sm font-medium';
+                    chip.style.backgroundColor = 'rgba(242, 92, 60, 0.15)';
+                    chip.style.color = 'var(--color-secondary)';
                     
                     const label = type.charAt(0).toUpperCase() + type.slice(1);
                     chip.innerHTML = `
                         <span>${label}: ${value}</span>
-                        <button onclick="removeFilter('${type}')" class="hover:bg-white/20 rounded-full p-0.5 transition-colors">
+                        <button onclick="removeFilter('${type}')" class="rounded-full p-0.5 transition-colors" style="background-color: transparent; color: var(--color-secondary);" onmouseover="this.style.backgroundColor='rgba(242, 92, 60, 0.15)'" onmouseout="this.style.backgroundColor='transparent'">
                             <i class="fas fa-times text-xs"></i>
                         </button>
                     `;
@@ -1093,10 +1111,12 @@
             if (activeFilters.archivLabel) {
                 hasFilters = true;
                 const chip = document.createElement('div');
-                chip.className = 'inline-flex items-center space-x-2 bg-secondary text-white px-3 py-1.5 rounded-full text-sm font-medium';
+                chip.className = 'inline-flex items-center space-x-2 px-3 py-1.5 rounded-full text-sm font-medium';
+                chip.style.backgroundColor = 'rgba(242, 92, 60, 0.15)';
+                chip.style.color = 'var(--color-secondary)';
                 chip.innerHTML = `
                     <span>${activeFilters.archivLabel}</span>
-                    <button onclick="removeArchivFilter()" class="hover:bg-white/20 rounded-full p-0.5 transition-colors">
+                    <button onclick="removeArchivFilter()" class="rounded-full p-0.5 transition-colors" style="background-color: transparent; color: var(--color-secondary);" onmouseover="this.style.backgroundColor='rgba(242, 92, 60, 0.15)'" onmouseout="this.style.backgroundColor='transparent'">
                         <i class="fas fa-times text-xs"></i>
                     </button>
                 `;
@@ -1107,10 +1127,12 @@
             if (activeFilters.jahr === 'custom' && (activeFilters.jahrMin !== 1850 || activeFilters.jahrMax !== 2000)) {
                 hasFilters = true;
                 const chip = document.createElement('div');
-                chip.className = 'inline-flex items-center space-x-2 bg-secondary text-white px-3 py-1.5 rounded-full text-sm font-medium';
+                chip.className = 'inline-flex items-center space-x-2 px-3 py-1.5 rounded-full text-sm font-medium';
+                chip.style.backgroundColor = 'rgba(242, 92, 60, 0.15)';
+                chip.style.color = 'var(--color-secondary)';
                 chip.innerHTML = `
                     <span>Jahr: ${activeFilters.jahrMin}–${activeFilters.jahrMax}</span>
-                    <button onclick="resetYearFilter()" class="hover:bg-white/20 rounded-full p-0.5 transition-colors">
+                    <button onclick="resetYearFilter()" class="rounded-full p-0.5 transition-colors" style="background-color: transparent; color: var(--color-secondary);" onmouseover="this.style.backgroundColor='rgba(242, 92, 60, 0.15)'" onmouseout="this.style.backgroundColor='transparent'">
                         <i class="fas fa-times text-xs"></i>
                     </button>
                 `;

@@ -47,7 +47,7 @@ class AppbarManager {
         const prefix = this.getPathPrefix();
         const imgPrefix = this.getImagePrefix();
         return `
-        <header id="appbar" class="bg-white/95 backdrop-blur-md border-b border-gray-200 shadow-sm relative z-50">
+        <header id="appbar" class="bg-white/95 backdrop-blur-md border-b border-gray-200 shadow-sm fixed top-0 left-0 right-0 z-50">
             <div class="max-w-7xl mx-auto px-6 lg:px-8">
                 <div class="flex items-center justify-between h-16">
                     <!-- Logo -->
@@ -79,7 +79,7 @@ class AppbarManager {
                                                 <i class="fas fa-user text-primary"></i>
                                             </div>
                                             <div>
-                                                <h3 class="font-semibold text-primary mb-1">Biografie</h3>
+                                                <h3 class="font-semibold text-primary mb-1">Überblick</h3>
                                                 <p class="text-sm text-text-secondary">Leben und Werk Adolf Schlatters</p>
                                             </div>
                                         </a>
@@ -98,9 +98,36 @@ class AppbarManager {
                         </div>
 
                         <!-- Archiv -->
-                        <a href="${prefix}pages/archiv-interface.html" class="flex items-center space-x-2 px-4 py-2 text-text-secondary hover:text-primary transition-colors font-medium">
-                            <span>Archiv</span>
-                        </a>
+                        <div class="relative group">
+                            <button class="flex items-center space-x-2 px-4 py-2 text-text-secondary hover:text-primary transition-colors font-medium">
+                                <span>Archiv</span>
+                                <i class="fas fa-chevron-down text-xs transition-transform group-hover:rotate-180"></i>
+                            </button>
+                            <div class="absolute top-full left-0 mt-2 w-80 bg-white rounded-xl shadow-lg border border-gray-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-2 group-hover:translate-y-0">
+                                <div class="p-6">
+                                    <div class="grid grid-cols-1 gap-4">
+                                        <a href="${prefix}pages/archiv-interface.html" class="flex items-start space-x-4 p-3 rounded-lg hover:bg-accent transition-colors group">
+                                            <div class="w-12 h-12 bg-gradient-to-br from-accent/20 to-primary/10 rounded-lg flex items-center justify-center group-hover:from-accent/30 group-hover:to-primary/20 transition-colors">
+                                                <i class="fas fa-archive text-primary"></i>
+                                            </div>
+                                            <div>
+                                                <h3 class="font-semibold text-primary mb-1">Nachlass</h3>
+                                                <p class="text-sm text-text-secondary">Digitales Inventar & Recherche</p>
+                                            </div>
+                                        </a>
+                                        <a href="${prefix}pages/schlatter_timeline.html" class="flex items-start space-x-4 p-3 rounded-lg hover:bg-accent transition-colors group">
+                                            <div class="w-12 h-12 bg-gradient-to-br from-primary/10 to-bg-dark/10 rounded-lg flex items-center justify-center group-hover:from-primary/20 group-hover:to-bg-dark/20 transition-colors">
+                                                <i class="fas fa-timeline text-primary"></i>
+                                            </div>
+                                            <div>
+                                                <h3 class="font-semibold text-primary mb-1">Biographie</h3>
+                                                <p class="text-sm text-text-secondary">Chronologie des Lebens</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
                         <!-- Preis -->
                         <div class="relative group">
@@ -262,13 +289,13 @@ class AppbarManager {
                 <!-- Mobile Menu -->
                 <div id="mobile-menu" class="lg:hidden hidden border-t border-gray-200 bg-white">
                     <div class="px-6 py-4 space-y-4">
-                        <div>
-                            <h3 class="font-semibold text-primary mb-2">Über Schlatter</h3>
-                            <div class="space-y-2 ml-4">
-                                <a href="${prefix}pages/aboutSchlatter.html" class="block text-text-secondary hover:text-primary transition-colors">Biografie</a>
-                                <a href="${prefix}pages/aboutSchlatter.html#anhoeren" class="block text-text-secondary hover:text-primary transition-colors">Anhören</a>
-                            </div>
-                        </div>
+                <div>
+                    <h3 class="font-semibold text-primary mb-2">Über Schlatter</h3>
+                    <div class="space-y-2 ml-4">
+                        <a href="${prefix}pages/aboutSchlatter.html" class="block text-text-secondary hover:text-primary transition-colors">Überblick</a>
+                        <a href="${prefix}pages/aboutSchlatter.html#anhoeren" class="block text-text-secondary hover:text-primary transition-colors">Anhören</a>
+                    </div>
+                </div>
                         <div>
                             <a href="${prefix}pages/archiv-interface.html" class="block font-semibold text-primary hover:text-secondary transition-colors">Archiv</a>
                         </div>
@@ -279,13 +306,14 @@ class AppbarManager {
                                 <a href="${prefix}pages/adolfSchlatterPrice.html#preisverleihung-2017" class="block text-text-secondary hover:text-primary transition-colors">Preisverleihung 2017</a>
                             </div>
                         </div>
-                        <div>
-                            <h3 class="font-semibold text-primary mb-2">Weitere Ressourcen</h3>
-                            <div class="space-y-2 ml-4">
-                                <a href="${prefix}pages/stammbaum.html" class="block text-text-secondary hover:text-primary transition-colors">Stammbaum</a>
-                                <span class="block text-gray-400 cursor-not-allowed">Bildergalerie (bald verfügbar)</span>
-                            </div>
-                        </div>
+                <div>
+                    <h3 class="font-semibold text-primary mb-2">Archiv</h3>
+                    <div class="space-y-2 ml-4">
+                        <a href="${prefix}pages/archiv-interface.html" class="block text-text-secondary hover:text-primary transition-colors">Nachlass</a>
+                        <a href="${prefix}pages/archiv-interface.html#nachlass" class="block text-text-secondary hover:text-primary transition-colors">Nachlassübersicht</a>
+                        <a href="${prefix}pages/schlatter_timeline.html" class="block text-text-secondary hover:text-primary transition-colors">Biographie-Timeline</a>
+                    </div>
+                </div>
                         <div>
                             <h3 class="font-semibold text-primary mb-2">Preisträger</h3>
                             <div class="space-y-2 ml-4">
