@@ -4,6 +4,10 @@
 class AppbarManager {
     constructor() {
         this.appbarHTML = this.generateAppbarHTML();
+        // Google Analytics sofort beim Laden der Klasse initialisieren
+        this.loadGoogleAnalytics();
+        // Cookie Manager sofort beim Laden der Klasse initialisieren
+        this.loadCookieManager();
     }
 
     /**
@@ -38,6 +42,206 @@ class AppbarManager {
         }
         // Von Root
         return './images/';
+    }
+
+    /**
+     * Lädt Google Analytics global
+     */
+    loadGoogleAnalytics() {
+        // Prüfen ob Google Analytics bereits geladen wurde
+        if (window.gtag) {
+            return;
+        }
+
+        // Google Analytics sofort initialisieren (vor Script-Load)
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        window.gtag = gtag;
+        gtag('js', new Date());
+        
+        // Cookie Consent für Google Analytics
+        gtag('consent', 'default', {
+            'analytics_storage': 'denied'
+        });
+        
+        gtag('config', 'G-S1FQPW2481');
+
+        // Google Analytics Script laden
+        const script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.googletagmanager.com/gtag/js?id=G-S1FQPW2481';
+        document.head.appendChild(script);
+    }
+
+    /**
+     * Lädt Cookie Manager global
+     */
+    loadCookieManager() {
+        // Prüfen ob Cookie Manager bereits geladen wurde
+        if (window.cookieManager) {
+            return;
+        }
+
+        // Cookie Manager Funktionalität direkt hier implementieren
+        this.initializeCookieManager();
+    }
+
+    /**
+     * Initialisiert den Cookie Manager
+     */
+    initializeCookieManager() {
+        this.consentGiven = this.getStoredConsent();
+        this.analyticsEnabled = this.consentGiven !== 'declined';
+        
+        // Debug: Log current consent status
+        console.log('Cookie consent status:', this.consentGiven);
+        
+        // Load cookie banner if no consent stored
+        if (!this.consentGiven) {
+            console.log('Loading cookie banner...');
+            this.loadCookieBanner();
+        } else {
+            console.log('Consent already given:', this.consentGiven);
+            // Analytics already enabled/disabled based on stored consent
+            this.updateAnalyticsState();
+        }
+    }
+
+    /**
+     * Load cookie banner HTML
+     */
+    loadCookieBanner() {
+        console.log('Creating cookie banner...');
+        
+        // Cookie Banner HTML direkt hier definieren
+        const bannerHTML = `
+        <div id="cookie-banner" class="fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200 shadow-lg z-50 transform translate-y-full transition-transform duration-300">
+            <div class="max-w-7xl mx-auto px-6 py-4">
+                <div class="flex flex-col md:flex-row items-center justify-between gap-4">
+                    <div class="flex-1">
+                        <h3 class="font-semibold text-primary mb-2">🍪 Cookies</h3>
+                        <p class="text-sm text-gray-700">
+                            Diese Website verwendet Cookies, um Ihnen die bestmögliche Erfahrung zu bieten. 
+                            <a href="pages/datenschutz.html" class="text-secondary hover:text-orange-600 transition-colors underline">Weitere Informationen</a>
+                        </p>
+                    </div>
+                    <div class="flex gap-3">
+                        <button id="cookie-decline" class="px-4 py-2 text-sm text-gray-600 hover:text-gray-800 transition-colors border border-gray-300 rounded-lg">
+                            Ablehnen
+                        </button>
+                        <button id="cookie-accept" class="px-4 py-2 text-sm bg-secondary text-white hover:bg-orange-600 transition-colors rounded-lg">
+                            Akzeptieren
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>`;
+        
+        document.body.insertAdjacentHTML('beforeend', bannerHTML);
+        this.initializeBannerEvents();
+        this.showBanner();
+    }
+
+    /**
+     * Initialize banner event listeners
+     */
+    initializeBannerEvents() {
+        const acceptBtn = document.getElementById('cookie-accept');
+        const declineBtn = document.getElementById('cookie-decline');
+
+        if (acceptBtn) {
+            acceptBtn.addEventListener('click', () => {
+                this.acceptCookies();
+                this.hideBanner();
+            });
+        }
+
+        if (declineBtn) {
+            declineBtn.addEventListener('click', () => {
+                this.declineCookies();
+                this.hideBanner();
+            });
+        }
+    }
+
+    /**
+     * Show cookie banner
+     */
+    showBanner() {
+        const banner = document.getElementById('cookie-banner');
+        if (banner) {
+            setTimeout(() => {
+                banner.classList.remove('translate-y-full');
+            }, 100);
+        }
+    }
+
+    /**
+     * Hide cookie banner
+     */
+    hideBanner() {
+        const banner = document.getElementById('cookie-banner');
+        if (banner) {
+            banner.classList.add('translate-y-full');
+            setTimeout(() => {
+                banner.remove();
+            }, 300);
+        }
+    }
+
+    /**
+     * Accept cookies
+     */
+    acceptCookies() {
+        this.setStoredConsent('accepted');
+        this.consentGiven = 'accepted';
+        this.analyticsEnabled = true;
+        this.updateAnalyticsState();
+    }
+
+    /**
+     * Decline cookies
+     */
+    declineCookies() {
+        this.setStoredConsent('declined');
+        this.consentGiven = 'declined';
+        this.analyticsEnabled = false;
+        this.updateAnalyticsState();
+    }
+
+    /**
+     * Get stored consent
+     */
+    getStoredConsent() {
+        return localStorage.getItem('cookie-consent');
+    }
+
+    /**
+     * Set stored consent
+     */
+    setStoredConsent(consent) {
+        localStorage.setItem('cookie-consent', consent);
+    }
+
+    /**
+     * Update Google Analytics state based on consent
+     */
+    updateAnalyticsState() {
+        if (this.analyticsEnabled) {
+            // Enable Google Analytics
+            if (window.gtag) {
+                window.gtag('consent', 'update', {
+                    'analytics_storage': 'granted'
+                });
+            }
+        } else {
+            // Disable Google Analytics
+            if (window.gtag) {
+                window.gtag('consent', 'update', {
+                    'analytics_storage': 'denied'
+                });
+            }
+        }
     }
 
     /**

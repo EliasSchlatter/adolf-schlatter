@@ -25,6 +25,19 @@ class FooterManager {
     }
 
     /**
+     * Get the correct path prefix based on current location
+     */
+    getPathPrefix() {
+        const path = window.location.pathname;
+        // Von pages/ Unterseiten (eine Ebene tief)
+        if (path.includes('/pages/')) {
+            return '../';
+        }
+        // Von Root
+        return './';
+    }
+
+    /**
      * Insert footer into specified container
      * @param {string} containerId - ID of the container element
      * @param {Object} options - Configuration options
@@ -44,8 +57,17 @@ class FooterManager {
             return;
         }
 
+        // Get correct path prefix
+        const prefix = this.getPathPrefix();
+        
+        // Update footer HTML with correct paths
+        let updatedFooterHTML = this.footerHTML;
+        
+        // Replace all href="pages/ with the correct prefix
+        updatedFooterHTML = updatedFooterHTML.replace(/href="pages\//g, `href="${prefix}pages/`);
+
         // Insert footer HTML
-        this.footerContainer.innerHTML = this.footerHTML;
+        this.footerContainer.innerHTML = updatedFooterHTML;
 
         // Apply customizations
         this.customizeFooter(options);
@@ -110,19 +132,19 @@ class FooterManager {
             <div>
                 <h4 class="font-headline font-bold text-lg mb-6">Adolf Schlatter Stiftung</h4>
                 <ul class="space-y-3">
-                    <li><a href="aboutSchlatter.html" class="text-white/80 hover:text-white transition-colors">Über uns</a></li>
-                    <li><a href="adolfSchlatterPrice.html#kontakt" class="text-white/80 hover:text-white transition-colors">Kontakt</a></li>
-                    <li><span class="text-white/80 hover:text-white transition-colors cursor-pointer">Impressum</span></li>
-                    <li><span class="text-white/80 hover:text-white transition-colors cursor-pointer">Datenschutz</span></li>
+                    <li><a href="pages/aboutSchlatter.html" class="text-white/80 hover:text-white transition-colors">Über uns</a></li>
+                    <li><a href="pages/adolfSchlatterPrice.html#kontakt" class="text-white/80 hover:text-white transition-colors">Kontakt</a></li>
+                    <li><a href="pages/impressum.html" class="text-white/80 hover:text-white transition-colors">Impressum</a></li>
+                    <li><a href="pages/datenschutz.html" class="text-white/80 hover:text-white transition-colors">Datenschutz</a></li>
                 </ul>
             </div>
 
             <div>
                 <h4 class="font-headline font-bold text-lg mb-6">Themen</h4>
                 <ul class="space-y-3">
-                    <li><a href="aboutSchlatter.html" class="text-white/80 hover:text-white transition-colors">Biografie</a></li>
-                    <li><a href="aboutSchlatter.html#werk" class="text-white/80 hover:text-white transition-colors">Publikationen</a></li>
-                    <li><a href="adolfSchlatterPrice.html" class="text-white/80 hover:text-white transition-colors">Preis</a></li>
+                    <li><a href="pages/aboutSchlatter.html" class="text-white/80 hover:text-white transition-colors">Biografie</a></li>
+                    <li><a href="pages/aboutSchlatter.html#werk" class="text-white/80 hover:text-white transition-colors">Publikationen</a></li>
+                    <li><a href="pages/adolfSchlatterPrice.html" class="text-white/80 hover:text-white transition-colors">Preis</a></li>
                 </ul>
             </div>
         </div>
