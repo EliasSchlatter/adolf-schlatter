@@ -54,9 +54,9 @@ class PreistraegerPageBuilder {
     ${this.generateHeader()}
     ${this.generateProfileBanner()}
     ${this.generateLebenslauf()}
-    ${this.generateAkademischeLaufbahn()}
+    ${this.data.academic && this.data.academic.length > 0 ? this.generateAkademischeLaufbahn() : ''}
     ${this.generateForschungsschwerpunkte()}
-    ${this.generatePublikationen()}
+    ${this.data.publications && this.data.publications.length > 0 ? this.generatePublikationen() : ''}
     ${this.generateQuote()}
     ${this.generateFooter()}
     ${this.generateScripts()}
@@ -111,11 +111,38 @@ class PreistraegerPageBuilder {
             <div class="grid lg:grid-cols-3 gap-12">
                 <div class="lg:col-span-2">
                     <h2 class="text-4xl font-headline font-bold text-primary mb-8">Lebenslauf</h2>
+                    ${Array.isArray(this.data.biography) ? `
+                    <div class="space-y-1 mb-8">
+                        ${this.data.biography.map(item => `
+                        <div class="flex items-start border-b border-gray-200 pb-3 last:border-b-0">
+                            <div class="w-32 flex-shrink-0">
+                                <span class="text-text-secondary text-sm font-medium">${item.year || ''}</span>
+                            </div>
+                            <div class="flex-1">
+                                <span class="text-text-secondary">${item.text}</span>
+                            </div>
+                        </div>
+                        `).join('')}
+                    </div>
+                    ` : `
                     <div class="prose prose-lg max-w-none">
                         <p class="text-text-secondary leading-relaxed mb-6">
                             ${this.data.biography || 'Biografische Informationen werden in Kürze ergänzt.'}
                         </p>
                     </div>
+                    `}
+                    
+                    ${contact.video ? (() => {
+                        const embedUrl = this.getYouTubeEmbedUrl(contact.video);
+                        return `
+                    <div class="mt-8 mb-12">
+                        ${contact.videoTitle ? `<h3 class="text-2xl font-headline font-semibold text-primary mb-4">${contact.videoTitle}</h3>` : ''}
+                        <div class="aspect-video max-w-2xl">
+                            <iframe src="${embedUrl}" title="Video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="w-full h-full rounded-lg"></iframe>
+                        </div>
+                    </div>
+                    `;
+                    })() : ''}
                     
                     <div class="mt-12">
                         <h3 class="text-2xl font-headline font-semibold text-primary mb-6">Beruflicher Werdegang</h3>
@@ -147,7 +174,7 @@ class PreistraegerPageBuilder {
                             `).join('')}
                         </ul>
 
-                        ${contact.address || contact.phone || contact.website || contact.emails || contact.websites ? `
+                        ${contact.address || contact.phone || contact.website || contact.emails || contact.websites || contact.video ? `
                         <div class="mt-8 pt-8 border-t border-gray-200">
                             <h4 class="font-semibold text-primary mb-4">Kontakt</h4>
                             <div class="space-y-3 text-sm">
@@ -178,7 +205,7 @@ class PreistraegerPageBuilder {
                                 ${contact.websites ? contact.websites.map(website => `
                                 <div class="flex items-center space-x-3">
                                     <i class="fas fa-globe text-secondary"></i>
-                                    <a href="${website}" target="_blank" class="text-secondary hover:underline cursor-pointer">Website</a>
+                                    <a href="${typeof website === 'string' ? website : website.url}" target="_blank" rel="noopener noreferrer" class="text-secondary hover:underline cursor-pointer">${typeof website === 'string' ? 'Website' : (website.label || 'Website')}</a>
                                 </div>
                                 `).join('') : ''}
                             </div>
@@ -246,15 +273,31 @@ class PreistraegerPageBuilder {
             
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 ${publications.map((pub, index) => `
-                <div class="bg-white rounded-lg p-8 shadow-lg transition-shadow">
-                    <div class="flex items-start space-x-3 mb-4">
+                <div class="bg-white rounded-lg p-8 shadow-lg transition-shadow flex flex-col relative">
+                    ${pub.links ? `
+                    <div class="absolute top-4 right-4">
+                        <a href="${pub.links[0]}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center w-8 h-8 text-gray-500 hover:text-primary hover:bg-gray-100 rounded-full transition-colors">
+                            <i class="fas fa-external-link-alt text-sm"></i>
+                        </a>
+                    </div>
+                    ` : ''}
+                    <div class="flex items-start space-x-4 mb-4 ${pub.links ? 'pr-12' : ''}">
+                        ${pub.coverImage ? `
+                        <img src="${pub.coverImage}" alt="${pub.title}" class="w-16 h-24 object-cover rounded shadow-md flex-shrink-0">
+                        ` : `
                         <div class="w-10 h-10 bg-secondary rounded-lg flex items-center justify-center flex-shrink-0">
                             <i class="fas fa-book text-white"></i>
                         </div>
-                        <h3 class="text-lg font-semibold text-primary leading-tight">${pub.title}</h3>
+                        `}
+                        <div class="flex-1">
+                            <h3 class="text-lg font-semibold text-primary leading-tight mb-2">${pub.title}</h3>
+                            ${pub.coverImage ? `
+                            <p class="text-text-secondary text-sm leading-relaxed">${pub.description}</p>
+                            ` : ''}
+                        </div>
                     </div>
                     
-                    <p class="text-text-secondary text-sm mb-4 leading-relaxed">${pub.description}</p>
+                    ${!pub.coverImage ? `<p class="text-text-secondary text-sm mb-4 leading-relaxed">${pub.description}</p>` : ''}
                     
                     ${pub.details ? `<p class="text-xs text-text-secondary mb-4 italic">${pub.details}</p>` : ''}
                     
@@ -265,13 +308,8 @@ class PreistraegerPageBuilder {
                     ` : ''}
                     
                     ${pub.list ? `
-                    <ul class="space-y-2 text-text-secondary text-sm">
-                        ${pub.list.map(listItem => `
-                        <li class="flex items-start space-x-2">
-                            <i class="fas fa-circle text-[6px] text-secondary mt-1.5"></i>
-                            <span class="leading-snug">${listItem}</span>
-                        </li>
-                        `).join('')}
+                    <ul class="space-y-1 text-text-secondary text-sm list-disc list-inside">
+                        ${pub.list.map(listItem => `<li class="leading-relaxed">${listItem}</li>`).join('')}
                     </ul>
                     ` : ''}
                 </div>
@@ -403,6 +441,15 @@ class PreistraegerPageBuilder {
             }, 50);
         });
     </script>`;
+    }
+
+    // Generate YouTube embed URL from watch URL
+    getYouTubeEmbedUrl(url) {
+        const videoIdMatch = url.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([A-Za-z0-9_-]+)/);
+        if (videoIdMatch && videoIdMatch[1]) {
+            return `https://www.youtube.com/embed/${videoIdMatch[1]}`;
+        }
+        return url;
     }
 }
 

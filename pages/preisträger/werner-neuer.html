@@ -60,7 +60,7 @@ const preistraegerData = {
         "Theologie der Religionen",
         "Adolf-Schlatter-Forschung"
     ],
-    biography: "Geboren am 6. Mai 1951. Studium 1970–1972 (Geschichte, Politik, Geographie) in Heidelberg; 1973–1977 Evangelische Theologie in Heidelberg und Tübingen. 1985 Promotion (Systematische Theologie) in Marburg bei C. H. Ratschow. 1990–1997 Wiss. Assistent (Missionswissenschaft/Ökumene) in Tübingen; danach Theologischer Referent der Württembergischen Landeskirche. 2000–2016 Dozent am Theologischen Seminar St. Chrischona; Gastdozenturen u. a. an der Gustav-Siewerth-Akademie und der STH Basel. Seit 2010 Vorsitzender der Theologischen Kommission der IKBG; seit 2004 ständiger Gast im Schülerkreis Benedikt XVI. Verheiratet, sieben Kinder; wohnhaft in Schallbach.",
+    biography: "Werner Neuer (*6. Mai 1951) ist evangelischer Pfarrer und gilt als Spezialist zu Adolf Schlatter. Nach Studium der Geschichte/Politik/Geographie und Evangelischen Theologie sowie Promotion in Systematischer Theologie (1985) war er von 2000–2016 Dozent für Systematische Theologie am Theologischen Seminar St. Chrischona. Seine große Schlatter-Biographie erschien 1996.",
     career: [
         {
             title: "Dozent (Dogmatik, Ethik, Ökumene, Religionskunde, Theologie der Religionen)",
@@ -84,12 +84,7 @@ const preistraegerData = {
         "Religionstheologie",
         "Adolf Schlatter (Leben und Werk)"
     ],
-    contact: {
-        address: null,
-        phone: null,
-        emails: [],
-        websites: []
-    },
+    contact: {},
     awards: [
         {
             title: "Adolf-Schlatter-Preis",
@@ -116,28 +111,51 @@ const preistraegerData = {
     publications: [
         {
             title: "Adolf Schlatter – Ein Leben für Theologie und Kirche",
-            description: "Monografie, Stuttgart 1996",
-            tags: ["Biographie", "Adolf Schlatter"]
+            description: "Calwer Verlag, Stuttgart 1996. ISBN 978-3-7668-3390-7, 937 S.",
+            coverImage: "https://www.calwer.com/media/39/thumbnails/Cover_3390_Schlatter.png.698457.png",
+            links: [
+                "https://www.amazon.de/Adolf-Schlatter-Leben-Theologie-Kirche/dp/3766833901?utm_source=chatgpt.com"
+            ]
         },
         {
             title: "Mann und Frau in christlicher Sicht",
-            description: "5. Auflage, Gießen/Basel 1993",
-            tags: ["Ethik", "Anthropologie"]
+            description: "Brunnen Verlag, Gießen/Basel. 5., neu bearb. Aufl. 1993",
+            coverImage: "https://m.media-amazon.com/images/I/51B56wdV5JL.jpg",
+            links: [
+                "https://www.amazon.de/Mann-christlicher-Sight-Werner-Neuer/dp/3765595039"
+            ]
         },
         {
-            title: "Heil in allen Weltreligionen?",
-            description: "Zum Offenbarungs- und Heilsverständnis bei John Hick, Gießen 2009",
-            tags: ["Religionstheologie", "Pluralismusdebatte"]
+            title: "Heil in allen Weltreligionen? Das Verständnis von Offenbarung und Heil in der pluralistischen Religionstheologie John Hicks",
+            description: "Freimund Verlag, 2009. ISBN 978-3-86540-074-1",
+            coverImage: "https://www.lehmanns.de/media/64987723",
+            links: [
+                "https://www.lehmanns.de/shop/geisteswissenschaften/12192967-9783865400741-heil-in-allen-weltreligionen",
+                "https://www.amazon.de/Heil-allen-Weltreligionen-pluralistischen-Reliogionstheologie/dp/3765517550"
+            ]
         },
         {
-            title: "Der Zusammenhang von Dogmatik und Ethik bei Adolf Schlatter",
-            description: "Dissertation, Brunnen 1988",
-            tags: ["Dogmatik", "Ethik", "Schlatter"]
+            title: "Der Zusammenhang von Dogmatik und Ethik bei Adolf Schlatter. Eine Untersuchung zur Grundlegung christlicher Ethik",
+            description: "Dissertation. Brunnen Verlag, 1986. ISBN 978-3-7655-9320-8, 413 S.",
+            links: [
+                "https://www.deutsche-digitale-bibliothek.de/item/QGY323NCWERNAPTABYTE2NKH6KYZ3UWA?utm_source=chatgpt.com"
+            ]
         },
         {
-            title: "Herausgaben/Mitwirkung (Auswahl)",
-            description: "u. a. „Realistische Theologie. Eine Hinführung zu Adolf Schlatter“ (Hrsg., 2006); Sammelbände zu Schlatter (2002).",
-            tags: ["Herausgeberschaft"]
+            title: "Die Bibel verstehen. Aufsätze zur biblischen Hermeneutik",
+            description: "Brunnen Verlag, 2002. ISBN 978-3-7655-1281-0",
+            coverImage: "https://m.media-amazon.com/images/I/419-yedB1PL._SY522_.jpg",
+            links: [
+                "https://www.amazon.de/Die-Bibel-verstehen-Schlatter/dp/3765512818?utm_source=chatgpt.com"
+            ]
+        },
+        {
+            title: "Realistische Theologie. Eine Hinführung zu Adolf Schlatter",
+            description: "Brunnen Verlag, 2006. Hg. mit H. Hempelmann, J. v. Lüpke. ISBN 978-3-7655-1384-8",
+            coverImage: "https://pictures.abebooks.com/isbn/9783765513848-de.jpg",
+            links: [
+                "https://www.abebooks.de/9783765513848/Realistische-Theologie-Hinf%C3%BChrung-Adolf-Schlatter-3765513849/plp?utm_source=chatgpt.com"
+            ]
         }
     ],
     researchAreas: [
@@ -196,7 +214,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 if (window.footerManager) {
                     window.footerManager.insertFooter('footer-container', {
-                        description: "Preisträger des Adolf-Schlatter-Preises 2005: Dr. Werner Neuer, Schallbach"
+                        description: "Preisträger des Adolf-Schlatter-Preises 2005: Dr. Werner Neuer, Schallbach. Evangelischer Pfarrer und Spezialist zu Adolf Schlatter."
                     });
                 }
             }, 50);

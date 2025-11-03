@@ -59,7 +59,7 @@ const preistraegerData = {
         "Pfarramt",
         "Bibelhermeneutik"
     ],
-    biography: "Geboren 1972 in Stuttgart; aufgewachsen im Raum Ulm/Neu-Ulm. Studium der Ev. Theologie in Tübingen und Erlangen. Tätigkeit an der TU Dortmund (Neues Testament) und Promotion über Adolf Schlatters Schriftlehre. Pfarrdienst u. a. in Sindelfingen-Darmsheim; 2016–2023 Rektor des Albrecht-Bengel-Hauses in Tübingen; seit 2023/2024 Pfarrer in Öschingen.",
+    biography: "Clemens Hägele (*1972) ist evangelischer Theologe und Pfarrer. Als Rektor des Albrecht-Bengel-Hauses (2016–2023) verband er systematisch-theologische Arbeit – insbesondere zur Schriftlehre Adolf Schlatters – mit Lehre und Leitungsverantwortung. Seine Monographie Die Schrift als Gnadenmittel erschien 2007 im Calwer Verlag.",
     career: [
         {
             title: "Pfarrer",
@@ -89,15 +89,11 @@ const preistraegerData = {
         "Systematische Theologie"
     ],
     contact: {
-        address: "Bolbergstraße 60, 72116 Mössingen-Öschingen",
-        phone: "+49 7473 6362",
-        emails: [
-            "Pfarramt.Oeschingen@elkw.de",
-            "Clemens.Haegele@elkw.de"
-        ],
         websites: [
-            "https://www.gemeinde.oeschingen.elk-wue.de/ansprechpartner/pfarramt",
-            "https://www.moessingen.de/de/Stadt-Buerger/Unser-Moessingen/Glaubensgemeinschaften/Glaubensgemeinschaft?id=12&item=denomination&view=publish"
+            {
+                url: "https://www.deutsche-digitale-bibliothek.de/person/gnd/13022782X",
+                label: "Deutsche Digitale Bibliothek"
+            }
         ]
     },
     awards: [
@@ -123,11 +119,22 @@ const preistraegerData = {
     publications: [
         {
             title: "Die Schrift als Gnadenmittel: Adolf Schlatters Lehre von der Schrift in ihren Grundzügen",
-            description: "Calwer Verlag, 2007, 256 S. (ISBN 978-3-7668-3939-8)",
+            description: "Clemens Hägele. Stuttgart: Calwer, 2007. ISBN 978-3-7668-3939-8",
+            coverImage: "https://www.hugendubel.info/annotstream/9783766839398/COPL/H%C3%A4gele-Clemens/Die-Schrift-als-Gnadenmittel.png?sq=4",
             links: [
-                "https://www.amazon.de/dp/376683939X",
-                "https://www.zvab.com/9783766839398"
+                "https://www.hugendubel.info/detail/ISBN-9783766839398/H%C3%A4gele-Clemens/Die-Schrift-als-Gnadenmittel",
+                "https://www.amazon.de/Die-Schrift-als-Gnadenmittel-Schlatters/dp/376683939X",
+                "https://www.lehmanns.de/shop/geisteswissenschaften/7788596-9783766839398-die-schrift-als-gnadenmittel"
             ]
+        },
+        {
+            title: "Jesus Christus spricht: Wer zu mir kommt, den werde ich nicht abweisen. Das Lesebuch zur Jahreslosung 2022",
+            description: "Hg.: Christoph Morgner; mit Beitrag von Clemens Hägele. Brunnen Verlag, 2021. ISBN 978-3-7655-7605-8",
+            coverImage: "https://books.google.com/books/content?id=GGY7EAAAQBAJ&printsec=frontcover&img=1&zoom=1",
+            links: [
+                "https://books.google.com/books/about/Jesus_Christus_spricht_Wer_zu_mir_kommt.html?id=GGY7EAAAQBAJ"
+            ],
+            details: "Beitrag in Sammelband (Mitautor unter >40 Personen)"
         }
     ],
     researchAreas: [
@@ -181,7 +188,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 if (window.footerManager) {
                     window.footerManager.insertFooter('footer-container', {
-                        description: "Preisträger des Adolf-Schlatter-Preises 2005: Dr. Clemens Hägele, Sindelfingen"
+                        description: "Preisträger des Adolf-Schlatter-Preises 2005: Dr. Clemens Hägele. Evangelischer Theologe und Pfarrer, ehemaliger Rektor des Albrecht-Bengel-Hauses."
                     });
                 }
             }, 50);

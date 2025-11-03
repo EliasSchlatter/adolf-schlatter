@@ -77,16 +77,7 @@ const preistraegerData = {
         "Schnittstelle Theologie–Psychologie",
         "Jüngerschaft/anthropologische Theologie"
     ],
-    contact: {
-        institution: "Melbourne School of Theology",
-        address: "5 Burwood Highway, Wantirna, Victoria 3152, Australia (Post: P.O. Box 6257, Vermont South VIC 3133)",
-        phone: "+61 3 9881 7809",
-        email: "mbrautigam@mst.edu.au",
-        websites: [
-            "https://www.mst.edu.au/faculty/michael-brautigam/",
-            "https://ctp.mst.edu.au/team/michael-brautigam/"
-        ]
-    },
+    contact: {},
     awards: [
         {
             title: "Adolf-Schlatter-Preis",
@@ -115,12 +106,14 @@ const preistraegerData = {
         {
             title: "M.Th. (Theologie)",
             description: "University of Glasgow / Edinburgh Theological Seminary • 2006–2008",
-            icon: "fas fa-book"
+            icon: "fas fa-book",
+            details: "Betreuung: Prof. Donald Macleod"
         },
         {
             title: "PGDip Theological Studies",
             description: "Edinburgh Theological Seminary • 2005–2006",
-            icon: "fas fa-book-open"
+            icon: "fas fa-book-open",
+            details: "Betreuung: Prof. Donald Macleod"
         },
         {
             title: "B.A. Bible/Theology",
@@ -136,37 +129,95 @@ const preistraegerData = {
     publications: [
         {
             title: "Union with Christ: Adolf Schlatter's Relational Christology",
-            description: "Eugene, OR: Pickwick/Wipf & Stock, 2015 (Monographie)",
-            tags: ["Adolf Schlatter", "Christologie"]
+            description: "Pickwick / Wipf & Stock, 2015",
+            coverImage: "https://books.google.com/books/content?id=ZiPsCgAAQBAJ&printsec=frontcover&img=1&zoom=1",
+            links: [
+                "https://wipfandstock.com/9781498218078/union-with-christ/",
+                "https://books.google.com/books/about/Union_with_Christ.html?id=ZiPsCgAAQBAJ"
+            ]
         },
         {
-            title: "Scientific Theology? Herman Bavinck and Adolf Schlatter on the Place of Theology in the University",
-            description: "mit James P. Eglinton • Journal of Reformed Theology 7 (2013): 27–50",
-            tags: ["Bavinck", "Schlatter", "Universitätstheologie"]
+            title: "Flourishing in Tensions: Embracing Radical Discipleship",
+            description: "Wipf & Stock, 2022",
+            coverImage: "https://wipf-stock-us.imgix.net/covers/9781666735291.jpg?auto=format&w=298&dpr=2&q=100",
+            links: [
+                "https://wipfandstock.com/9781666735291/flourishing-in-tensions/",
+                "https://www.amazon.de/-/en/Flourishing-Tensions-Embracing-Radical-Discipleship/dp/1666792225"
+            ]
         },
         {
-            title: "Seeing, Thinking, and Living: Adolf Schlatter on Theology at the University",
-            description: "Scottish Bulletin of Evangelical Theology 30.2 (2012): 177–188"
+            title: "Our God is an Awesome God: Communicating Jonathan Edwards' Vision of God's Excellencies",
+            description: "in Jonathan Edwards for the Church: The Ministry and the Means of Grace, edited by William M. Schweitzer. EP Books, 2015, pp. 227–244",
+            coverImage: "https://epbooks.org/wp-content/uploads/2016/03/JONATHAN_EDWARDS_CHURCH.jpeg",
+            links: [
+                "https://epbooks.org/product/jonathan-edwards-for-the-church-edited-by-w-m-schweitzer/",
+                "https://www.amazon.com/Jonathan-Edwards-Church-William-Schweitzer/dp/1783971169"
+            ]
         },
         {
             title: "Good Will Hunting: Adolf Schlatter on Organic Volitional Sanctification",
-            description: "Journal of the Evangelical Theological Society 55/1 (2012): 125–143"
+            description: "Journal of the Evangelical Theological Society 55/1 (2012): 125–143",
+            links: [
+                "https://www.galaxie.com/article/jets55-1-08"
+            ],
+            details: "Peer-reviewed Journal"
         },
         {
-            title: "The Christian as homo politicus: Abraham Kuyper and Democratic Imbalance in Post-Democratic Times",
-            description: "in: The Kuyper Center Review, Vol. 4 (2014): 67–85"
-        },
-        {
-            title: "A Queen without a Throne? Harnack, Schlatter and Kuyper on Theology in the University",
-            description: "in: The Kuyper Center Review, Vol. 5 (2015): 104–118"
-        },
-        {
-            title: "The Pilgrimage to Kuyper? Adolf Schlatter and Abraham Kuyper on Theology, Culture and Art",
-            description: "in: The Kuyper Center Review, Vol. 3 (2013): 32–50"
+            title: "Seeing, Thinking, and Living: Adolf Schlatter on Theology at the University",
+            description: "Scottish Bulletin of Evangelical Theology 30/2 (2012): 177–188",
+            links: [
+                "https://www.biblicalstudies.org.uk/pdf/sbet/30-2_177.pdf"
+            ],
+            details: "Peer-reviewed Journal"
         },
         {
             title: "Adopted by the Triune God: The Doctrine of Adoption From a Trinitarian Perspective",
-            description: "Scottish Bulletin of Evangelical Theology 27.2 (2009): 164–175"
+            description: "Scottish Bulletin of Evangelical Theology 27/2 (2009): 164–175",
+            links: [
+                "https://www.biblicalstudies.org.uk/pdf/sbet/27-2_164.pdf"
+            ],
+            details: "Peer-reviewed Journal"
+        },
+        {
+            title: "Scientific Theology? Herman Bavinck and Adolf Schlatter on the Place of Theology in the University",
+            description: "mit James P. Eglinton als co-author • Journal of Reformed Theology 7 (2013): 27–50",
+            coverImage: "https://brill.com/coverimage?doc=%2Fjournals%2Fjrt%2F7%2F1%2Fjrt.7.issue-1.xml&width=300&type=webp",
+            links: [
+                "https://brill.com/abstract/journals/jrt/7/1/article-p27_3.xml"
+            ],
+            details: "Peer-reviewed Journal"
+        },
+        {
+            title: "Adolf Schlatter on recasting theological anthropology",
+            description: "Scottish Journal of Theology 74/4 (2022)",
+            coverImage: "https://static.cambridge.org/covers/SJT_0_0_0/scottish-journal-of-theology.jpg",
+            links: [
+                "https://www.cambridge.org/core/journals/scottish-journal-of-theology/article/abs/adolf-schlatter-on-recasting-theological-anthropology/69C8F199DFCD0BEA9A122AFE29D29687"
+            ],
+            details: "Peer-reviewed Journal"
+        },
+        {
+            title: "Rezension von The Theology of Augustine: An Introductory Guide to His Most Important Works, by Matthew Levering",
+            description: "Baker Academic, 2013, in European Journal of Theology 24/1 (2015): 94",
+            details: "Review"
+        },
+        {
+            title: "Rezension von Martin Bucer's Doctrine of Justification: Reformation Theology and Early Modern Irenicism, by Brian Lugioyo",
+            description: "Oxford University Press, 2010, in European Journal of Theology 20/1 (2011): 76–77",
+            links: [
+                "https://ejt-journal.digitheo.de/ojs/index.php/ejt/article/view/105629"
+            ],
+            details: "Review"
+        },
+        {
+            title: "Rezension von God is a Communicative Being: Divine Communicativeness and Harmony in the Theology of Jonathan Edwards, by William M. Schweitzer",
+            description: "T&T Clark, 2012, in European Journal of Theology 22/2 (2013): 179–180",
+            details: "Review"
+        },
+        {
+            title: "Rezension von Music, Modernity, and God: Essays in Listening, by Jeremy Begbie",
+            description: "Oxford University Press, 2013, in The Expository Times (2015)",
+            details: "Review"
         }
     ],
     researchAreas: [

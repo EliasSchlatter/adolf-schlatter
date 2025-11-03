@@ -376,7 +376,7 @@ class AppbarManager {
                                     <div class="grid grid-cols-2 gap-3">
                                         <a href="${prefix}pages/preistr\u00e4ger/michael-br\u00e4utigam.html" class="flex items-center space-x-3 p-3 rounded-lg hover:bg-accent transition-colors group">
                                             <div class="w-10 h-10 rounded-full overflow-hidden">
-                                                <img src="${imgPrefix}preistr\u00e4gerImages/Michael-Brautigam-Portrait-2022-500x500.jpg" alt="Dr. Michael Bräutigam" class="w-full h-full object-cover object-top">
+                                                <img src="${imgPrefix}preistr\u00e4gerImages/Michael-Brautigam-Portrait-2022-500x500.jpg" alt="Dr. Michael Bräutigam" class="w-full h-full object-cover object-center">
                                             </div>
                                             <div>
                                                 <h4 class="font-medium text-primary text-sm">Dr. Michael Bräutigam</h4>
@@ -385,7 +385,7 @@ class AppbarManager {
                                         </a>
                                         <a href="${prefix}pages/preistr\u00e4ger/oliver-gussmann.html" class="flex items-center space-x-3 p-3 rounded-lg hover:bg-accent transition-colors group">
                                             <div class="w-10 h-10 rounded-full overflow-hidden">
-                                                <img src="${imgPrefix}preistr\u00e4gerImages/Gußman.jpeg" alt="Dr. Oliver Gußmann" class="w-full h-full object-cover object-top">
+                                                <img src="${imgPrefix}preistr\u00e4gerImages/Gußman.jpeg" alt="Dr. Oliver Gußmann" class="w-full h-full object-cover object-center">
                                             </div>
                                             <div>
                                                 <h4 class="font-medium text-primary text-sm">Dr. Oliver Gußmann</h4>
@@ -394,7 +394,7 @@ class AppbarManager {
                                         </a>
                                         <a href="${prefix}pages/preistr\u00e4ger/ulrich-beuttler.html" class="flex items-center space-x-3 p-3 rounded-lg hover:bg-accent transition-colors group">
                                             <div class="w-10 h-10 rounded-full overflow-hidden">
-                                                <img src="${imgPrefix}preistr\u00e4gerImages/Passbild_Ulrich_Beuttler.jfif" alt="Dr. Ulrich Beuttler" class="w-full h-full object-cover object-top">
+                                                <img src="${imgPrefix}preistr\u00e4gerImages/Passbild_Ulrich_Beuttler.jfif" alt="Dr. Ulrich Beuttler" class="w-full h-full object-cover object-center">
                                             </div>
                                             <div>
                                                 <h4 class="font-medium text-primary text-sm">Dr. Ulrich Beuttler</h4>
@@ -403,7 +403,7 @@ class AppbarManager {
                                         </a>
                                         <a href="${prefix}pages/preistr\u00e4ger/clemens-hägele.html" class="flex items-center space-x-3 p-3 rounded-lg hover:bg-accent transition-colors group">
                                             <div class="w-10 h-10 rounded-full overflow-hidden">
-                                                <img src="${imgPrefix}preistr\u00e4gerImages/clemens-haegele.avif" alt="Dr. Clemens Hägele" class="w-full h-full object-cover object-top">
+                                                <img src="${imgPrefix}preistr\u00e4gerImages/clemens-haegele.avif" alt="Dr. Clemens Hägele" class="w-full h-full object-cover object-center">
                                             </div>
                                             <div>
                                                 <h4 class="font-medium text-primary text-sm">Dr. Clemens Hägele</h4>
@@ -412,7 +412,7 @@ class AppbarManager {
                                         </a>
                                         <a href="${prefix}pages/preistr\u00e4ger/werner-neuer.html" class="flex items-center space-x-3 p-3 rounded-lg hover:bg-accent transition-colors group">
                                             <div class="w-10 h-10 rounded-full overflow-hidden">
-                                                <img src="${imgPrefix}preistr\u00e4gerImages/dr-werner-neuer.jpg" alt="Dr. Werner Neuer" class="w-full h-full object-cover object-top">
+                                                <img src="${imgPrefix}preistr\u00e4gerImages/dr-werner-neuer.jpg" alt="Dr. Werner Neuer" class="w-full h-full object-cover object-center">
                                             </div>
                                             <div>
                                                 <h4 class="font-medium text-primary text-sm">Dr. Werner Neuer</h4>
@@ -421,7 +421,7 @@ class AppbarManager {
                                         </a>
                                         <a href="${prefix}pages/preistr\u00e4ger/roland-deines.html" class="flex items-center space-x-3 p-3 rounded-lg hover:bg-accent transition-colors group">
                                             <div class="w-10 h-10 rounded-full overflow-hidden">
-                                                <img src="${imgPrefix}preistr\u00e4gerImages/Deines.jpg" alt="Dr. Roland Deines" class="w-full h-full object-cover object-top">
+                                                <img src="${imgPrefix}preistr\u00e4gerImages/Deines.jpg" alt="Dr. Roland Deines" class="w-full h-full object-cover object-center">
                                             </div>
                                             <div>
                                                 <h4 class="font-medium text-primary text-sm">Dr. Roland Deines</h4>
@@ -430,7 +430,7 @@ class AppbarManager {
                                         </a>
                                         <a href="${prefix}pages/preistr\u00e4ger/j-gerrit-hohage.html" class="flex items-center space-x-3 p-3 rounded-lg hover:bg-accent transition-colors group">
                                             <div class="w-10 h-10 rounded-full overflow-hidden">
-                                                <img src="${imgPrefix}preistr\u00e4gerImages/Hohage.png" alt="Dr. J.-Gerrit Hohage" class="w-full h-full object-cover object-top">
+                                                <img src="${imgPrefix}preistr\u00e4gerImages/Hohage.png" alt="Dr. J.-Gerrit Hohage" class="w-full h-full object-cover object-center">
                                             </div>
                                             <div>
                                                 <h4 class="font-medium text-primary text-sm">Dr. J.-Gerrit Hohage</h4>

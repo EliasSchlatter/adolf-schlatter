@@ -61,7 +61,7 @@ const preistraegerData = {
         "Bibel & Kanon",
         "Historiographie"
     ],
-    biography: "Geboren am 7. Januar 1961 in Herrenberg. Studium der Ev. Theologie (FETA/Universität Basel, Tübingen); 1989 Erstes Theologisches Examen (Tübingen). 1990/91 Studienjahr an der Hebrew University, Jerusalem. 1991–1995 Assistent am Institutum Judaicum (Tübingen). 1995–1997 Vikariat (Württembergische Landeskirche). 1997 Promotion (NT) in Tübingen unter Martin Hengel; 2004 Habilitation (Tübingen) zu Mt 5,13–20. 2006–2016 University of Nottingham (ab 2009 Professor); seit 2017 Professor an der IHL Liebenzell, seit 2022 Prorektor für Forschung. Verheiratet, ein Sohn (geb. 1998, Jerusalem).",
+    biography: "Roland Deines (*1961) ist Neutestamentler (Matthäus, Jesusforschung, Pharisäer) und Prorektor Forschung der IHL Liebenzell. Zuvor lehrte er als Professor of New Testament Studies an der University of Nottingham. Seine Arbeiten verbinden Exegese mit frühjüdischer Religionspraxis und Kanon-/Historiographiefragen.",
     career: [
         {
             title: "Prorektor für Forschung; Professor für Biblische Theologie & Antikes Judentum",
@@ -98,12 +98,19 @@ const preistraegerData = {
         "Jüdische Archäologie des ntl. Zeitalters"
     ],
     contact: {
-        institution: "Internationale Hochschule Liebenzell (IHL)",
-        phone: "+49 7052 17-7368",
-        email: "roland.deines@ihl.eu",
         websites: [
-            "https://ihl.eu/personen/roland-deines/",
-            "https://www.nottingham.ac.uk/humanities/departments/theology-and-religious-studies/people/roland.deines"
+            {
+                url: "https://ihl.eu/personen/roland-deines/",
+                label: "IHL Liebenzell"
+            },
+            {
+                url: "https://www.nottingham.ac.uk/humanities/departments/theology-and-religious-studies/people/roland.deines",
+                label: "University of Nottingham"
+            },
+            {
+                url: "https://cjhnt-info.saw-leipzig.de/de",
+                label: "CJHNT-Projekt"
+            }
         ]
     },
     awards: [
@@ -117,7 +124,7 @@ const preistraegerData = {
         },
         {
             title: "Ehrenpreis der Adolf-Schlatter-Stiftung",
-            description: "für die Habilitationsschrift „Die Gerechtigkeit der Tora …“ • 2005"
+            description: "für die Habilitationsschrift 'Die Gerechtigkeit der Tora …' • 2005"
         }
     ],
     academic: [
@@ -134,45 +141,61 @@ const preistraegerData = {
         },
         {
             title: "Promotion Dr. theol. (NT)",
-            description: "Universität Tübingen • 1997 – „Die Pharisäer …“ (summa cum laude)",
+            description: "Universität Tübingen • 1997 – 'Die Pharisäer …' (summa cum laude)",
             icon: "fas fa-graduation-cap"
         },
         {
             title: "Habilitation (NT)",
-            description: "Universität Tübingen • 2004 – „Die Gerechtigkeit der Tora im Reich des Messias (Mt 5,13–20)“",
+            description: "Universität Tübingen • 2004 – 'Die Gerechtigkeit der Tora im Reich des Messias (Mt 5,13-20)'",
             icon: "fas fa-user-graduate"
         }
     ],
     publications: [
         {
-            title: "Jüdische Steingefäße und pharisäische Frömmigkeit",
-            description: "Mohr Siebeck, 1993",
-            tags: ["Reinheitshalacha", "Joh 2,6"]
-        },
-        {
             title: "Die Pharisäer. Ihr Verständnis im Spiegel der christlichen und jüdischen Forschung seit Wellhausen und Graetz",
             description: "WUNT 101, Mohr Siebeck, 1997 (Dissertation)",
-            tags: ["Pharisäer", "Forschungsgeschichte"]
+            coverImage: "https://books.google.com/books/content?id=VdsdEvh_klgC&printsec=frontcover&img=1&zoom=1",
+            links: [
+                "https://www.mohrsiebeck.com/buch/die-pharisaeer-9783161573484/",
+                "https://www.zvab.com/9783161468087/Pharisaer-Verstandnis-Spiegel-Christlichen-Judischen-3161468082/plp",
+                "https://books.google.com/books/about/Die_Pharis%C3%A4er.html?id=VdsdEvh_klgC"
+            ]
         },
         {
             title: "Die Gerechtigkeit der Tora im Reich des Messias: Mt 5,13–20 als Schlüsseltext der matthäischen Theologie",
             description: "WUNT 177, Mohr Siebeck, 2004 (Habilitation)",
-            tags: ["Matthäus", "Tora", "Ethik"]
+            coverImage: "https://books.google.com/books/content?id=H7D-DwAAQBAJ&printsec=frontcover&img=1&zoom=1",
+            links: [
+                "https://www.mohrsiebeck.com/buch/die-gerechtigkeit-der-tora-im-reich-des-messias-9783161484063/",
+                "https://www.amazon.de/Gerechtigkeit-Tora-Reich-Messias-Wissenschaftliche/dp/3161484061"
+            ]
         },
         {
-            title: "Acts of God in History (hg. mit C. Ochs, P. Watts)",
-            description: "Mohr Siebeck, 2013",
-            tags: ["Theologische Historiographie"]
+            title: "Jüdische Steingefäße und pharisäische Frömmigkeit. Ein archäologisch-historischer Beitrag … (Joh 2,6 / Reinheitshalacha)",
+            description: "WUNT 2/, Mohr Siebeck, 1993",
+            coverImage: "https://books.google.com/books/content?id=rDe0MNF_RfIC&printsec=frontcover&img=1&zoom=1",
+            links: [
+                "https://www.mohrsiebeck.com/buch/juedische-steingefaesse-und-pharisaeische-froemmigkeit-9783161571114/",
+                "https://books.google.com/books/about/J%C3%BCdische_Steingef%C3%A4sse_und_pharis%C3%A4isch.html?id=rDe0MNF_RfIC"
+            ]
+        },
+        {
+            title: "Acts of God in History: Studies Towards Recovering a Theological Historiography",
+            description: "Hg. mit C. Ochs, P. Watts. Mohr Siebeck, 2013",
+            coverImage: "https://cdn.mohrsiebeck.com/a0,56ad5d05fc49908f436dbcf66e4e01.png/large2.png",
+            links: [
+                "https://www.mohrsiebeck.com/buch/acts-of-god-in-history-9783161528583/",
+                "https://www.amazon.de/Acts-History-Historiography-Wissenschaftliche-Untersuchungen/dp/3161521811"
+            ]
         },
         {
             title: "Jakobus. Im Schatten des Größeren",
-            description: "Evangelische Verlagsanstalt, 2017",
-            tags: ["Biblische Gestalten", "Jakobus"]
-        },
-        {
-            title: "Herausgeberschaften (Auswahl)",
-            description: "u. a. Philo und das Neue Testament (2004); Walter Grundmann (2007); Neues Testament und hellenistisch-jüdische Alltagskultur (2011); Why does the Bible Matter? (2016)",
-            tags: ["Herausgabe", "CJHNT"]
+            description: "Evangelische Verlagsanstalt (EVA), 2017. Reihe 'Biblische Gestalten 30'",
+            coverImage: "https://books.google.com/books/content?id=pjAjEAAAQBAJ&printsec=frontcover&img=1&zoom=1",
+            links: [
+                "https://eva-leipzig.e-bookshelf.de/jakobus-13538467.html",
+                "https://books.google.com/books/about/Jakobus.html?id=pjAjEAAAQBAJ"
+            ]
         }
     ],
     researchAreas: [
@@ -231,7 +254,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 if (window.footerManager) {
                     window.footerManager.insertFooter('footer-container', {
-                        description: "Preisträger des Adolf-Schlatter-Preises 2005: Dr. Roland Deines, Nottingham/UK"
+                        description: "Preisträger des Adolf-Schlatter-Preises 2005: Prof. Dr. Roland Deines, IHL Liebenzell. Neutestamentler mit Schwerpunkt Matthäusevangelium, Jesusforschung und frühjüdische Frömmigkeit."
                     });
                 }
             }, 50);

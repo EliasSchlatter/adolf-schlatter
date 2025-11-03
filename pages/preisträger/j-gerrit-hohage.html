@@ -60,7 +60,7 @@ const preistraegerData = {
         "Bibelhermeneutik",
         "Gemeindepraxis"
     ],
-    biography: "Geboren am 22.12.1967 in Osnabrück; Schulzeit u. a. in Bonn und Konstanz. Theologiestudium 1989–1997 in Bethel, Erlangen und Heidelberg. Studienassistent am Friedrich-Hauß-Studienzentrum (Schriesheim); Promotion Dr. theol. (Heidelberg) 2005 mit einer Arbeit zur Predigtlehre im Gespräch zwischen Luther und Schlatter. 2005–2022 Pfarrer der Ev. Bonhoeffergemeinde Hemsbach; seit 09/2022 Pfarrer der Ev. Kirchengemeinde Gundelfingen (Einführung 18.09.2022). Verheiratet, Kinder.",
+    biography: "J.-Gerrit Hohage (*1967) ist evangelischer Pfarrer und promovierter Praktischer Theologe. Nach 17 Jahren in Hemsbach leitet er seit 2022 die Kirchengemeinde Gundelfingen – und schreibt über das, was Predigt und Glauben heute tragfähig macht. Seine Dissertation verbindet Luther und Schlatter zu einer Handlungslehre fürs Predigen; sein neues Buch 'Tief verwurzelt glauben' denkt Glauben gegen den Zeitgeist der Dekonstruktion – historisch informiert, apologetisch wach und pastoral geerdet.",
     career: [
         {
             title: "Pfarrer",
@@ -86,15 +86,14 @@ const preistraegerData = {
         "Gemeindeaufbau"
     ],
     contact: {
-        institution: "Evangelische Kirchengemeinde Gundelfingen",
-        address: "Kirchenwinkel 3, 79194 Gundelfingen",
-        phone: "+49 761 580480",
-        email: "pfarramt@eki-gufi.de",
         websites: [
-            "https://ev-gufi.de/",
-            "https://ev-kirche-dgv.de/gundelfingen/ueber-uns/pfarramtsteam/",
-            "https://ev-kirche-dgv.de/gundelfingen/kontakt/detail/ort/id/14605-ev-pfarramt-gundelfingen/"
-        ]
+            {
+                url: "https://www.ekbh.de/termine/einfuehrungsgottesdienst-gerrit-hohage",
+                label: "Einführung Gundelfingen"
+            }
+        ],
+        video: "https://www.youtube.com/watch?v=tv_4nLX1yQw",
+        videoTitle: "Einführung in Gundelfingen"
     },
     awards: [
         {
@@ -118,20 +117,22 @@ const preistraegerData = {
     publications: [
         {
             title: "Predigen im Spannungsfeld von Amt und Person. Ein Versuch, Luthers Amts- und Schlatters Personverständnis homiletisch ins Gespräch zu bringen",
-            description: "Neukirchener Verlag, Neukirchen-Vluyn 2005, 384 S. • ISBN 978-3-7887-2127-8",
+            description: "Neukirchener / Vandenhoeck & Ruprecht, 2005. ISBN 978-3-7887-2127-5, XI+384 S.",
+            coverImage: "https://www.vandenhoeck-ruprecht-verlage.com/media/image/40/a6/0b/978-3-7887-2127-5_600x600@2x.jpg",
             links: [
-                "https://www.thlz.com/artikel/8935",
                 "https://www.vandenhoeck-ruprecht-verlage.com/themen-entdecken/theologie-und-religion/praktische-theologie/2277/predigen-im-spannungsfeld-von-amt-und-person",
-                "https://www.amazon.de/Predigen-Spannungsfeld-von-Amt-Person/dp/3788721278"
-            ]
+                "https://www.lehmanns.de/shop/geisteswissenschaften/6774752-9783788721275-predigen-im-spannungsfeld-von-amt-und-person",
+                "https://www.buecher.de/artikel/buch/predigen-im-spannungsfeld-von-amt-und-person/14499798/"
+            ],
+            details: "Juniorpreis der Adolf-Schlatter-Stiftung 2004"
         },
         {
-            title: "Tief verwurzelt glauben: Wie man heute christlich denken kann",
-            description: "SCM Brockhaus, Witten 2024, 368 S. • ISBN 978-3-417-24185-3",
+            title: "Tief verwurzelt glauben. Wie man heute christlich denken kann",
+            description: "SCM Brockhaus, 2024. ISBN 978-3-417-24185-3, 368 S.",
+            coverImage: "https://img.scm-shop.de/SV1sUi-2VaelzgPQ06tRqZYKxF9VUvNh-XHoYAvjY1U/rs:fit:600:600:1:1/bg:255:255:255/q:80/bG9jYWw6Ly8vbWVkaWEvY2F0YWxvZy9wcm9kdWN0LzIvMi8yMjQxODUwMDAuSlBH.webp",
             links: [
                 "https://www.scm-shop.de/tief-verwurzelt-glauben.html",
-                "https://www.amazon.de/Tief-verwurzelt-glauben-christlich-denken/dp/3417241855",
-                "https://www.lehmanns.de/shop/geisteswissenschaften/63810265-9783417241853-tief-verwurzelt-glauben"
+                "https://www.thalia.de/shop/home/artikeldetails/A1070092354"
             ]
         }
     ],
@@ -191,7 +192,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 if (window.footerManager) {
                     window.footerManager.insertFooter('footer-container', {
-                        description: "Preisträger des Adolf-Schlatter-Preises 2005: Dr. J.-Gerrit Hohage, Hemsbach"
+                        description: "Preisträger des Adolf-Schlatter-Preises 2004: Dr. J.-Gerrit Hohage, Gundelfingen. Evangelischer Pfarrer und promovierter Praktischer Theologe."
                     });
                 }
             }, 50);

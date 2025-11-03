@@ -26,15 +26,13 @@
   "theme": {
     "extend": {
       "colors": {
-        "primary": "var(--color-primary)",
-        "secondary": "var(--color-secondary)",
-        "accent": "var(--color-accent)",
-        "text-primary": "var(--color-text-primary)",
-        "text-secondary": "var(--color-text-secondary)",
-        "bg-light": "var(--color-bg-light)",
-        "bg-dark": "var(--color-bg-dark)"
-      },
-      "fontFamily": {}
+        "primary": "var(--color-primary-dark)",
+        "secondary": "var(--color-secondary-dark)",
+        "accent": "var(--color-accent-light)",
+        "text-primary": "var(--color-text-primary-alt)",
+        "text-secondary": "var(--color-text-secondary-alt)",
+        "bg-dark": "var(--color-bg-dark-alt)"
+      }
     }
   }
 };</script>
@@ -55,7 +53,7 @@ const preistraegerData = {
         "Christlich-jüdischer Dialog",
         "Pilgerpastoral"
     ],
-    biography: "1963 in Nürnberg geboren. Studium der Evangelischen Theologie in Neuendettelsau, Wien, Erlangen und Bonn; Studienjahr an der Hebrew University Jerusalem. 1991 Erstes, 1994 Zweites kirchliches Examen. Promotion 2006 (Neues Testament, FAU Erlangen). Gemeindepfarrer u.a. in Lichtenfels, Rednitzhembach und Rothenburg o.d.T. Seit 2000 Gäste-, Pilger- und Touristenpfarrer an St. Jakob in Rothenburg; seit 2022/2023 zusätzlich Theologischer Referent beim Verein Begegnung Christen und Juden in Bayern (BCJ).",
+   biography: "Oliver Gußmann verbindet akademische Josephus-Forschung mit kirchlicher Gäste- und Pilgerseelsorge: Als Pfarrer an St. Jakob in Rothenburg erzählt er seit Jahren die jüdische Geschichte der Stadt – auf Führungen, in Büchern und im Netz. Wissenschaftlich hat er mit einer 500-Seiten-Studie das Priesterbild des Flavius Josephus aufgearbeitet (TSAJ 124, Mohr Siebeck), diskutiert in internationalen Fachzeitschriften. Praktisch denkt er darüber nach, wie Kirchenräume heute sprechen: von offenen Kirchen über Nachtführungen bis zu Audioguides – und wie man mit judenfeindlicher Bildtradition (\"Judensau\") verantwortungsvoll umgeht. Kurz: Brückenbauer zwischen Antikem Judentum, Kirchenpädagogik und gelebter Erinnerungskultur.",
     career: [
         {
             title: "Gäste-, Pilger- und Touristenpfarrer",
@@ -85,20 +83,7 @@ const preistraegerData = {
         "Christlich-jüdischer Dialog",
         "Pilgerpastoral"
     ],
-    contact: {
-        address: "Klostergasse 15, 91541 Rothenburg ob der Tauber",
-        phone: "+49 9861 700625",
-        emails: [
-            "Oliver_Gussmann@yahoo.com",
-            "Oliver.Gussmann@elkb.de",
-            "Oliver.Gussmann@bcj.de"
-        ],
-        websites: [
-            "https://rothenburg-evangelisch.de/gaeste-und-pilgerseelsorge/kirchenfuehrungen/gaeste-touristen-und-pilgerpfarrer",
-            "https://www.bcj.de/ueber-uns-was-wir-tun/gemeindearbeit",
-            "https://www.rothenburg-unterm-hakenkreuz.de/"
-        ]
-    },
+    contact: {},
     awards: [
         {
             title: "Adolf-Schlatter-Preis",
@@ -132,37 +117,51 @@ const preistraegerData = {
     publications: [
         {
             title: "Das Priesterverständnis des Flavius Josephus",
-            description: "Texts and Studies in Ancient Judaism 124, Mohr Siebeck, Tübingen (2008). Monografie auf Basis der Dissertation.",
-            details: "Rezension u.a. in: Journal of Jewish Studies 61 (2010) 157–160."
+            description: "TSAJ 124, Mohr Siebeck, Tübingen 2008",
+            coverImage: "https://cdn.mohrsiebeck.com/48,f94fe43e824b819726d6f2b2a6904d.png/large2.png",
+            links: [
+                "https://www.mohrsiebeck.com/en/book/das-priesterverstaendnis-des-flavius-josephus-9783161495625/"
+            ],
+            list: [
+                "Rezension: Steve Mason, Journal of Jewish Studies 61 (2010) 157–160"
+            ]
         },
         {
-            title: "Beiträge in Sammelbänden",
-            description: "u.a. in: Ostermayer/Gußmann/Roßmerkel/Töllner (Hg.): Spielraum, Freiraum, Raum für Glauben. Erfahrungen mit offenen Kirchen in Bayern, Nürnberg 2008.",
+            title: "Jüdisches Rothenburg ob der Tauber. Einladung zu einem Rundgang",
+            description: "Haigerloch: Medien & Dialog (Klaus Schubert), 2003",
+            links: [
+                "https://www.alt-rothenburg.de/juedisches-rothenburg/"
+            ]
+        },
+        {
+            title: "Spielraum – Freiraum – Raum für Glauben. Erfahrungen mit offenen Kirchen in Bayern",
+            description: "(Hrsg. mit V. Ostermayer, T. Roßmerkel, A. Töllner), Nürnberg: mabase, 2008",
+            coverImage: "https://image.jimcdn.com/app/cms/image/transf/none/path/s10866322605982b0/image/i44bf203c1043d87b/version/1467313311/image.jpg",
+            links: [
+                "https://www.mabase-verlag.de/shop/p%C3%A4dagogik/spielraum-freiraum-raum-f%C3%BCr-glauben/",
+                "https://d-nb.info/989509699/04"
+            ],
             list: [
-                "Warum evangelische Kirchen offen sein müssen",
-                "Das Judentum im christlichen Kirchenraum (mit Axel Töllner)",
-                "Modelle einer offenen Nachtkirche",
-                "Kirchenführungen mit Musik",
+                "Warum evangelische Kirchen offen sein müssen (S. 17–27)",
+                "Das Judentum im christlichen Kirchenraum – Acht Thesen (mit A. Töllner)",
+                "Modelle einer offenen Nachtkirche; Kirchenführungen mit Musik",
                 "Herberge und Kraftort – Kirchenräume für Pilger",
-                "Audioguides – das Medium der Zukunft für Kirchenführungen"
+                "Audioguides – das Medium der Zukunft für Kirchenführungen! (S. 171ff.)"
             ]
         },
         {
-            title: "Artikel in Zeitschriften",
-            description: "Verschiedene Artikel zu Kirchenpädagogik, Pilgern und Josephus-Forschung"
-        },
-        {
-            title: "Monografien & Mitwirkungen",
-            description: "Eigenständige Werke und kontinuierliche Mitarbeit",
-            list: [
-                "Jüdisches Rothenburg ob der Tauber. Einladung zu einem Rundgang (2003)",
-                "Die Bedeutung der hohepriesterlichen Genealogie und Sukzession nach Josephus (Beitrag, 2003)",
-                "Heilig-Blut-Altar und Jakobsmuschel. Touristenpfarrer in Rothenburg (2001)"
+            title: "Die Bedeutung der hohepriesterlichen Genealogie und Sukzession nach Josephus, Ant. 20,224–251",
+            description: "In: J. U. Kalms / F. Siegert (Hg.), Internationales Josephus-Kolloquium Dortmund 2002, Münster 2003, 119–131",
+            links: [
+                "https://www.adolf-schlatter-stiftung.de/adolf_schlatter_preis/preistraeger/dr_oliver_gussmann_rothenburg_o_d_t"
             ]
         },
         {
-            title: "Der alttestamentliche Kanon bei Josephus",
-            description: "Projekt/Manuskript in Vorbereitung (Kanonforschung)"
+            title: "Das sogenannte Judensau-Motiv",
+            description: "Online-Beitrag",
+            links: [
+                "https://www.christen-und-juden.de/html/judensau.htm"
+            ]
         }
     ],
     researchAreas: [

@@ -140,6 +140,11 @@
             border-color: #d946ef;
             box-shadow: 0 0 0 3px rgba(242, 92, 60, 0.1);
         }
+
+        .event-text .event-gap {
+            display: block;
+            height: 0.5rem;
+        }
     </style>
     <script>
         tailwind.config = {
@@ -217,7 +222,7 @@
                 </div>
                 
                 <!-- Zeitraum und Kategorien nebeneinander -->
-                <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                <div class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-6">
                     <!-- Zeitraum-Filter -->
                     <div>
                         <label class="block text-text-secondary font-medium mb-3">
@@ -241,18 +246,26 @@
                     <div>
                         <label class="block text-text-secondary font-medium mb-3">Kategorien</label>
                         <div class="relative">
-                            <select id="category-dropdown" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent">
+                            <select id="category-dropdown" class="w-full appearance-none pl-4 pr-10 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent">
                                 <option value="">Alle Kategorien</option>
-                                <option value="theologie">Theologie</option>
+                                <option value="allgemein">Allgemein</option>
                                 <option value="familie">Familie</option>
-                                <option value="publikationen">Publikationen</option>
-                                <option value="reisen">Reisen</option>
-                                <option value="akademisch">Akademisch</option>
                                 <option value="pastoral">Pastoral</option>
-                                <option value="gesundheit">Gesundheit</option>
-                                <option value="politik">Politik</option>
-                                <option value="philosophie">Philosophie</option>
+                                <option value="reisen">Reisen</option>
+                                <option value="theologie">Theologie</option>
                             </select>
+                            <span class="pointer-events-none absolute inset-y-0 right-3 flex items-center text-text-secondary text-xs"><i class="fas fa-chevron-down"></i></span>
+                        </div>
+                    </div>
+
+                    <!-- Abschnittstitel-Filter -->
+                    <div>
+                        <label class="block text-text-secondary font-medium mb-3">Abschnittstitel</label>
+                        <div class="relative">
+                            <select id="section-dropdown" class="w-full appearance-none pl-4 pr-10 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent">
+                                <option value="">Alle Abschnitte</option>
+                            </select>
+                            <span class="pointer-events-none absolute inset-y-0 right-3 flex items-center text-text-secondary text-xs"><i class="fas fa-chevron-down"></i></span>
                         </div>
                     </div>
                 </div>
@@ -338,10 +351,12 @@ let allEvents = [];
 let filteredEvents = [];
 let currentPage = 0;
 const eventsPerPage = 15;
+const sectionLookup = {};
 let activeFilters = {
-    jahrMin: 1852,
-    jahrMax: 1938,
-    category: ''
+    yearMin: 1852,
+    yearMax: 1938,
+    category: '',
+    section: ''
 };
 
 // Load data from timeline-data.js
@@ -359,23 +374,80 @@ function loadData() {
         // Flatten all events from timeline
         allEvents = [];
         data.timeline.forEach(yearData => {
-            yearData.ereignisse.forEach(event => {
+            const baseYear = yearData.year;
+            yearData.events.forEach(event => {
                 allEvents.push({
                     ...event,
-                    jahr: yearData.jahr,
-                    originalYear: yearData.jahr
+                    year: baseYear,
+                    originalYear: baseYear
                 });
             });
         });
         
         // Sort by year
-        allEvents.sort((a, b) => a.jahr - b.jahr);
-        
+        allEvents.sort((a, b) => a.year - b.year);
+
+        // Populate section dropdown
+        if (Array.isArray(data.chapters)) {
+            const sectionDropdown = document.getElementById('section-dropdown');
+            if (sectionDropdown) {
+                Object.keys(sectionLookup).forEach(key => delete sectionLookup[key]);
+                while (sectionDropdown.options.length > 1) {
+                    sectionDropdown.remove(1);
+                }
+                sectionDropdown.value = '';
+                activeFilters.section = '';
+                data.chapters.forEach(chapter => {
+                    sectionLookup[chapter.slug] = chapter.title;
+                    const option = document.createElement('option');
+                    option.value = chapter.slug;
+                    option.textContent = chapter.title;
+                    sectionDropdown.appendChild(option);
+                });
+            }
+        }
+
+        // Configure year slider dynamically
+        const yearValues = allEvents
+            .map(event => event.year)
+            .filter(year => Number.isFinite(year));
+
+        if (yearValues.length > 0) {
+            const minYear = Math.min(...yearValues);
+            const maxYear = Math.max(...yearValues);
+
+            activeFilters.yearMin = minYear;
+            activeFilters.yearMax = maxYear;
+
+            const minSlider = document.getElementById('filter-jahr-min');
+            const maxSlider = document.getElementById('filter-jahr-max');
+            if (minSlider && maxSlider) {
+                minSlider.min = minYear;
+                minSlider.max = maxYear;
+                minSlider.value = minYear;
+
+                maxSlider.min = minYear;
+                maxSlider.max = maxYear;
+                maxSlider.value = maxYear;
+
+                const rangeElement = document.getElementById('slider-range');
+                if (rangeElement) {
+                    rangeElement.style.left = '0%';
+                    rangeElement.style.width = '100%';
+                }
+
+                document.getElementById('year-min-label').textContent = minYear;
+                document.getElementById('year-max-label').textContent = maxYear;
+                document.getElementById('year-range-display').textContent = 'Alle';
+            }
+        }
+
         // Update statistics
         updateStatistics(data);
-        
+
         // Initialize with all events
         filteredEvents = [...allEvents];
+        updateFilterChips();
         renderEvents();
         
         console.log(`✅ ${allEvents.length} Ereignisse geladen`);
@@ -389,16 +461,16 @@ function loadData() {
 // Update statistics in hero section
 function updateStatistics(data) {
     const meta = data.meta;
-    document.getElementById('total-events').textContent = meta.statistik.ereignisse_gesamt;
+    document.getElementById('total-events').textContent = meta.stats.totalEvents;
     const totalEventsBadge = document.getElementById('total-events-badge');
     if (totalEventsBadge) {
-        totalEventsBadge.textContent = meta.statistik.ereignisse_gesamt;
+        totalEventsBadge.textContent = meta.stats.totalEvents;
     }
-    document.getElementById('events-count').textContent = meta.statistik.ereignisse_gesamt;
-    document.getElementById('pages-count').textContent = meta.statistik.seiten_verarbeitet;
+    document.getElementById('events-count').textContent = meta.stats.totalEvents;
+    document.getElementById('pages-count').textContent = meta.stats.processedPages;
     
-    const years = meta.statistik.jahre_abgedeckt.split(' - ');
-    const yearSpan = parseInt(years[1]) - parseInt(years[0]);
+    const years = meta.stats.yearsCovered.split('-').map(value => parseInt(value.trim(), 10));
+    const yearSpan = years.length === 2 && years.every(Number.isFinite) ? (years[1] - years[0]) : 0;
     document.getElementById('years-span').textContent = yearSpan;
 }
 
@@ -527,25 +599,31 @@ function createEventElement(event, index) {
     
     // Use icon from data or fallback to auto-detection
     const icon = event.icon || getEventIcon(event.text);
-    
+    const formattedText = event.text
+        .replace(/\r\n/g, '\n')
+        .replace(/\n{2,}/g, '___BR2___')
+        .replace(/\n/g, ' ')
+        .replace(/___BR2___/g, '<span class="event-gap"></span>');
+
     div.innerHTML = `
         <div class="absolute left-4 w-9 h-9 bg-primary rounded-full flex items-center justify-center z-10">
             <i class="${icon} text-white text-sm"></i>
         </div>
         <div class="ml-20 w-full bg-white border-2 border-accent rounded-2xl p-8 shadow-sm hover:shadow-md transition-shadow">
                 <div class="mb-4">
-                    <h3 class="font-headline text-2xl font-bold text-text-primary mb-2">${event.titel || event.text}</h3>
+                    <h3 class="font-headline text-2xl font-bold text-text-primary mb-2">${event.title || event.text}</h3>
                     <div class="flex items-center gap-4 text-text-secondary flex-wrap">
-                        <span class="font-semibold text-secondary text-lg">${event.jahr}</span>
-                        ${event.datum ? `<span class="font-semibold text-secondary">${event.datum}</span>` : ''}
+                        <span class="font-semibold text-secondary text-lg">${event.year}</span>
+                        ${event.date ? `<span class="font-semibold text-secondary">${event.date}</span>` : ''}
+                        
                     </div>
                 </div>
-            <p class="text-text-secondary leading-relaxed mb-4 text-base">
-                ${event.text}
+            <p class="event-text text-text-secondary leading-relaxed mb-4 text-base">
+                ${formattedText}
             </p>
             <div class="flex items-center gap-4 text-sm flex-wrap">
                 ${(event.tags || []).map(tag => `<span class="bg-blue-50 text-blue-700 px-3 py-1 rounded-full">${tag}</span>`).join('')}
-                ${(event.inventar_nr || []).map(nr => `<a href="../pages/archiv-interface.html?filter=inventar&search=${nr}" class="bg-green-50 text-green-700 px-3 py-1 rounded-full hover:bg-green-100 transition-colors cursor-pointer">Inventar: ${nr}</a>`).join('')}
+                ${(event.inventoryNumbers || []).map(number => `<a href="../pages/archiv-interface.html?filter=inventar&search=${number}" class="bg-green-50 text-green-700 px-3 py-1 rounded-full hover:bg-green-100 transition-colors cursor-pointer">Inventar: ${number}</a>`).join('')}
             </div>
         </div>
     `;
@@ -574,6 +652,9 @@ function updateYearFilter() {
     
     let minYear = parseInt(minSlider.value);
     let maxYear = parseInt(maxSlider.value);
+    const sliderMin = parseInt(minSlider.min, 10);
+    const sliderMax = parseInt(maxSlider.max, 10);
+    const sliderRange = Math.max(sliderMax - sliderMin, 1);
     
     // Ensure min doesn't exceed max
     if (minYear > maxYear) {
@@ -587,20 +668,20 @@ function updateYearFilter() {
         maxSlider.value = maxYear;
     }
     
-    activeFilters.jahrMin = minYear;
-    activeFilters.jahrMax = maxYear;
+    activeFilters.yearMin = minYear;
+    activeFilters.yearMax = maxYear;
     
     document.getElementById('year-min-label').textContent = minYear;
     document.getElementById('year-max-label').textContent = maxYear;
     
     // Update gefüllter Bereich zwischen den Handles
     const rangeElement = document.getElementById('slider-range');
-    const minPercent = ((minYear - 1852) / (1938 - 1852)) * 100;
-    const maxPercent = ((maxYear - 1852) / (1938 - 1852)) * 100;
+    const minPercent = ((minYear - sliderMin) / sliderRange) * 100;
+    const maxPercent = ((maxYear - sliderMin) / sliderRange) * 100;
     rangeElement.style.left = minPercent + '%';
     rangeElement.style.width = (maxPercent - minPercent) + '%';
     
-    if (minYear === 1852 && maxYear === 1938) {
+    if (minYear === sliderMin && maxYear === sliderMax) {
         document.getElementById('year-range-display').textContent = 'Alle';
     } else {
         document.getElementById('year-range-display').textContent = `${minYear}–${maxYear}`;
@@ -616,14 +697,18 @@ function updateFilterChips() {
     chipsContainer.innerHTML = '';
     
     let hasFilters = false;
+    const minSlider = document.getElementById('filter-jahr-min');
+    const maxSlider = document.getElementById('filter-jahr-max');
+    const sliderMin = minSlider ? parseInt(minSlider.min, 10) : activeFilters.yearMin;
+    const sliderMax = maxSlider ? parseInt(maxSlider.max, 10) : activeFilters.yearMax;
     
     // Jahr-Filter Chip (nur wenn nicht Standard-Bereich)
-    if (activeFilters.jahrMin !== 1852 || activeFilters.jahrMax !== 1938) {
+    if (activeFilters.yearMin !== sliderMin || activeFilters.yearMax !== sliderMax) {
         hasFilters = true;
         const chip = document.createElement('div');
         chip.className = 'inline-flex items-center space-x-2 px-3 py-1.5 rounded-full text-sm font-medium bg-blue-50 text-blue-700';
         chip.innerHTML = `
-            <span>Jahr: ${activeFilters.jahrMin}–${activeFilters.jahrMax}</span>
+            <span>Jahr: ${activeFilters.yearMin}–${activeFilters.yearMax}</span>
             <button onclick="resetYearFilter()" class="rounded-full p-0.5 transition-colors hover:bg-blue-100">
                 <i class="fas fa-times text-xs"></i>
             </button>
@@ -645,6 +730,21 @@ function updateFilterChips() {
         chipsContainer.appendChild(chip);
     }
     
+    // Abschnittstitel-Filter Chip
+    if (activeFilters.section) {
+        hasFilters = true;
+        const chip = document.createElement('div');
+        chip.className = 'inline-flex items-center space-x-2 px-3 py-1.5 rounded-full text-sm font-medium bg-purple-50 text-purple-700';
+        const sectionLabel = sectionLookup[activeFilters.section] || activeFilters.section;
+        chip.innerHTML = `
+            <span>Abschnitt: ${sectionLabel}</span>
+            <button onclick="resetSectionFilter()" class="rounded-full p-0.5 transition-colors hover:bg-purple-100">
+                <i class="fas fa-times text-xs"></i>
+            </button>
+        `;
+        chipsContainer.appendChild(chip);
+    }
+    
     // Zeige/Verstecke Container basierend auf ob Filter aktiv sind
     if (hasFilters) {
         chipsContainer.classList.remove('hidden');
@@ -655,18 +755,25 @@ function updateFilterChips() {
 
 // Reset year filter
 function resetYearFilter() {
-    document.getElementById('filter-jahr-min').value = 1852;
-    document.getElementById('filter-jahr-max').value = 1938;
-    activeFilters.jahrMin = 1852;
-    activeFilters.jahrMax = 1938;
-    document.getElementById('year-min-label').textContent = 1852;
-    document.getElementById('year-max-label').textContent = 1938;
+    const minSlider = document.getElementById('filter-jahr-min');
+    const maxSlider = document.getElementById('filter-jahr-max');
+    const sliderMin = parseInt(minSlider.min, 10);
+    const sliderMax = parseInt(maxSlider.max, 10);
+
+    minSlider.value = sliderMin;
+    maxSlider.value = sliderMax;
+    activeFilters.yearMin = sliderMin;
+    activeFilters.yearMax = sliderMax;
+    document.getElementById('year-min-label').textContent = sliderMin;
+    document.getElementById('year-max-label').textContent = sliderMax;
     document.getElementById('year-range-display').textContent = 'Alle';
     
     // Reset gefüllter Bereich
     const rangeElement = document.getElementById('slider-range');
-    rangeElement.style.left = '0%';
-    rangeElement.style.width = '100%';
+    if (rangeElement) {
+        rangeElement.style.left = '0%';
+        rangeElement.style.width = '100%';
+    }
     
     updateFilterChips();
     filterEvents();
@@ -680,27 +787,55 @@ function resetCategoryFilter() {
     filterEvents();
 }
 
+function resetSectionFilter() {
+    const dropdown = document.getElementById('section-dropdown');
+    if (dropdown) {
+        dropdown.value = '';
+    }
+    activeFilters.section = '';
+    updateFilterChips();
+    filterEvents();
+}
+
 // Filter events
 function filterEvents() {
-    const searchTerm = document.getElementById('search-input').value.toLowerCase();
+    const searchTerm = document.getElementById('search-input').value.toLowerCase().trim();
     const selectedCategory = document.getElementById('category-dropdown').value;
+    const selectedSection = activeFilters.section;
     
     filteredEvents = allEvents.filter(event => {
-        // Text search
-        const matchesSearch = !searchTerm || event.text.toLowerCase().includes(searchTerm);
+        // Text search across multiple fields
+        const searchTargets = [
+            event.title,
+            event.text,
+            event.date,
+            event.chapterTitle,
+            (event.tags || []).join(' '),
+            event.pageNumber ? `Seite ${event.pageNumber}` : ''
+        ];
+        const matchesSearch = !searchTerm || searchTargets.some(target =>
+            target && target.toLowerCase().includes(searchTerm)
+        );
         
         // Year range (use slider values)
-        const matchesYear = event.jahr >= activeFilters.jahrMin && event.jahr <= activeFilters.jahrMax;
+        const matchesYear = event.year >= activeFilters.yearMin && event.year <= activeFilters.yearMax;
         
         // Category filter
         let matchesCategory = true;
         if (selectedCategory) {
-            matchesCategory = (event.tags || []).some(tag => 
-                tag.toLowerCase() === selectedCategory.toLowerCase()
+            const categoryLower = selectedCategory.toLowerCase();
+            matchesCategory = (event.tags || []).some(tag =>
+                tag && tag.toLowerCase() === categoryLower
             );
         }
+
+        // Section filter
+        let matchesSection = true;
+        if (selectedSection) {
+            matchesSection = event.chapterSlug === selectedSection;
+        }
         
-        return matchesSearch && matchesYear && matchesCategory;
+        return matchesSearch && matchesYear && matchesCategory && matchesSection;
     });
     
     currentPage = 0;
@@ -745,6 +880,13 @@ document.addEventListener('DOMContentLoaded', function() {
         updateFilterChips();
         filterEvents();
     });
+
+    // Section dropdown
+    document.getElementById('section-dropdown').addEventListener('change', function() {
+        activeFilters.section = this.value;
+        updateFilterChips();
+        filterEvents();
+    });
     
     // Initialize year slider
     const rangeElement = document.getElementById('slider-range');
@@ -759,20 +901,31 @@ document.addEventListener('DOMContentLoaded', function() {
         document.getElementById('search-input').value = '';
         document.getElementById('category-dropdown').value = '';
         activeFilters.category = '';
+        const sectionDropdownEl = document.getElementById('section-dropdown');
+        if (sectionDropdownEl) {
+            sectionDropdownEl.value = '';
+        }
+        activeFilters.section = '';
         
         // Reset year slider
-        document.getElementById('filter-jahr-min').value = 1852;
-        document.getElementById('filter-jahr-max').value = 1938;
-        activeFilters.jahrMin = 1852;
-        activeFilters.jahrMax = 1938;
-        document.getElementById('year-min-label').textContent = 1852;
-        document.getElementById('year-max-label').textContent = 1938;
+        const minSlider = document.getElementById('filter-jahr-min');
+        const maxSlider = document.getElementById('filter-jahr-max');
+        const sliderMin = parseInt(minSlider.min, 10);
+        const sliderMax = parseInt(maxSlider.max, 10);
+        minSlider.value = sliderMin;
+        maxSlider.value = sliderMax;
+        activeFilters.yearMin = sliderMin;
+        activeFilters.yearMax = sliderMax;
+        document.getElementById('year-min-label').textContent = sliderMin;
+        document.getElementById('year-max-label').textContent = sliderMax;
         document.getElementById('year-range-display').textContent = 'Alle';
         
         // Reset slider range
         const rangeElement = document.getElementById('slider-range');
-        rangeElement.style.left = '0%';
-        rangeElement.style.width = '100%';
+        if (rangeElement) {
+            rangeElement.style.left = '0%';
+            rangeElement.style.width = '100%';
+        }
         
         // Reset pagination
         currentPage = 0;
