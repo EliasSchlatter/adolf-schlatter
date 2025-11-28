@@ -3,6 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adolf Schlatter – Biografische Timeline</title>
+    <meta name="description" content="Interaktive Zeitleiste zum Leben von Adolf Schlatter (1852–1938): wichtige Stationen, Ereignisse und Kontexte seiner Biografie.">
+    <meta name="robots" content="index,follow">
+    <link rel="canonical" href="https://adolf-schlatter-stiftung.de/pages/schlatter_timeline.html">
+
+    <!-- Open Graph / Social Sharing -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Adolf Schlatter Stiftung">
+    <meta property="og:title" content="Adolf Schlatter – Biografische Timeline">
+    <meta property="og:description" content="Erkunden Sie die wichtigsten Stationen im Leben des Theologen Adolf Schlatter in einer interaktiven Zeitleiste.">
+    <meta property="og:url" content="https://adolf-schlatter-stiftung.de/pages/schlatter_timeline.html">
+    <meta property="og:image" content="https://adolf-schlatter-stiftung.de/images/SchlatterHeader.png">
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Adolf Schlatter – Biografische Timeline">
+    <meta name="twitter:description" content="Chronologische Übersicht über Leben und Wirken Adolf Schlatters.">
+    <meta name="twitter:image" content="https://adolf-schlatter-stiftung.de/images/SchlatterHeader.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -303,13 +321,16 @@
     <!-- Timeline Navigation -->
     <div class="mt-16">
         <!-- Pagination -->
-        <div id="pagination-container" class="flex items-center justify-center space-x-2 mb-8">
+        <div id="pagination-container" class="flex items-center justify-center space-x-2 mb-4">
             <!-- Pagination buttons will be inserted here -->
         </div>
         
-        <!-- Results info -->
-        <div class="text-center text-text-secondary text-sm">
+        <!-- Results info + SEO helper link -->
+        <div class="flex flex-col items-center space-y-1 text-text-secondary text-sm">
             <span id="results-info">Zeige 1-15 von 273 Ereignissen</span>
+            <a href="schlatter_timeline.html?show=all" class="text-secondary hover:underline">
+                Alle Ereignisse auf einer Seite anzeigen
+            </a>
         </div>
     </div>
     </div>
@@ -350,7 +371,7 @@
 let allEvents = [];
 let filteredEvents = [];
 let currentPage = 0;
-const eventsPerPage = 15;
+let eventsPerPage = 15;
 const sectionLookup = {};
 let activeFilters = {
     yearMin: 1852,
@@ -386,6 +407,13 @@ function loadData() {
         
         // Sort by year
         allEvents.sort((a, b) => a.year - b.year);
+
+        // URL-Parameter prüfen: ?show=all → alle Events auf einer Seite (SEO-freundlich)
+        const urlParams = new URLSearchParams(window.location.search);
+        const showAll = urlParams.get('show');
+        if (showAll === 'all') {
+            eventsPerPage = allEvents.length;
+        }
 
         // Populate section dropdown
         if (Array.isArray(data.chapters)) {

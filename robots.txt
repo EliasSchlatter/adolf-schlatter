@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://adolf-schlatter-stiftung.de/sitemap.xml
+
+

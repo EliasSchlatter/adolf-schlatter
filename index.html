@@ -1,7 +1,40 @@
-<html lang="de"><head>
+<html lang="de"><!-- Primary landing page for the Adolf Schlatter Stiftung -->
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adolf Schlatter Stiftung</title>
+    <title>Adolf Schlatter Stiftung – Leben, Werk &amp; Preis</title>
+    <meta name="description" content="Offizielle Website der Adolf Schlatter Stiftung: Leben, Werk und Wirkung des Theologen Adolf Schlatter, digitales Archiv und Informationen zum Adolf Schlatter Preis.">
+    <meta name="robots" content="index,follow">
+    <link rel="canonical" href="https://adolf-schlatter-stiftung.de/">
+
+    <!-- Open Graph / Social Sharing -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Adolf Schlatter Stiftung">
+    <meta property="og:title" content="Adolf Schlatter Stiftung – Leben, Werk &amp; Preis">
+    <meta property="og:description" content="Entdecken Sie Leben, Werk und Wirkung des Theologen Adolf Schlatter, das digitale Archiv und den Adolf Schlatter Preis.">
+    <meta property="og:url" content="https://adolf-schlatter-stiftung.de/">
+    <meta property="og:image" content="https://adolf-schlatter-stiftung.de/images/SchlatterHeader.png">
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Adolf Schlatter Stiftung – Leben, Werk &amp; Preis">
+    <meta name="twitter:description" content="Offizielle Website der Adolf Schlatter Stiftung mit Biografie, Archiv und Informationen zum Adolf Schlatter Preis.">
+    <meta name="twitter:image" content="https://adolf-schlatter-stiftung.de/images/SchlatterHeader.png">
+
+    <!-- Browser & PWA meta -->
+    <meta name="theme-color" content="#1E3A8A">
+
+    <!-- Structured Data / Organization -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Adolf Schlatter Stiftung",
+      "url": "https://adolf-schlatter-stiftung.de/",
+      "logo": "https://adolf-schlatter-stiftung.de/images/SchlatterHeader.png"
+    }
+    </script>
+
     <script src="https://cdn.tailwindcss.com"></script>
     <script> window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -93,7 +126,7 @@
     <main>
         <section id="hero" class="relative h-[700px] min-h-[40vw] flex items-center justify-center overflow-hidden">
             <div class="absolute inset-0">
-                <img class="w-full h-full object-cover object-top scale-x-[-1] transform" src="./images/SchlatterHeader.png" alt="historical black and white portrait of Adolf Schlatter, academic theologian from 1900s, scholarly appearance, slight overlay effect">
+                <img class="w-full h-full object-cover object-top" src="./images/SchlatterHeader.png" alt="historical black and white portrait of Adolf Schlatter, academic theologian from 1900s, scholarly appearance, slight overlay effect">
                 <div class="absolute inset-0" style="background: var(--gradient-header-transparent);"></div>
             </div>
             <div class="relative z-10 text-center max-w-4xl mx-auto px-6 hero-content">
@@ -107,12 +140,12 @@
                     Denker, Lehrer, Glaubenszeuge. Ein Leben für die Bibel und die Wissenschaft.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
-                    <button class="bg-secondary hover:bg-orange-600 text-white font-semibold px-8 py-4 rounded-lg transition shadow-lg">
+                    <a href="#about" class="bg-secondary hover:bg-orange-600 text-white font-semibold px-8 py-4 rounded-lg transition shadow-lg inline-block">
                         Mehr erfahren
-                    </button>
-                    <button class="border-2 border-text-primary text-text-primary hover:bg-text-primary hover:text-primary font-semibold px-8 py-4 rounded-lg transition">
+                    </a>
+                    <a href="./pages/archiv-interface.html" class="border-2 border-text-primary text-text-primary hover:bg-text-primary hover:text-primary font-semibold px-8 py-4 rounded-lg transition inline-block">
                         Publikationen entdecken
-                    </button>
+                    </a>
                 </div>
             </div>
         </section>
@@ -120,19 +153,21 @@
         <section id="about" class="py-20 bg-background-light">
             <div class="container mx-auto px-6">
                 <div class="flex flex-col lg:flex-row items-center gap-12">
-                    <div class="lg:w-1/2">
-                        <img class="w-full rounded-lg shadow-lg scale-x-[-1] transform" src="./images/SchlatterVor1907.jpg" alt="Historische Aufnahme von Adolf Schlatter (vor 1907)">
-                    </div>
-                    <div class="lg:w-1/2">
+                    <div class="lg:w-1/2 lg:text-right">
                         <h2 class="font-headline text-4xl font-bold text-primary mb-6">
                             Wer war Adolf Schlatter?
                         </h2>
-                        <p class="text-lg text-gray-700 mb-8 leading-relaxed">
+                        <p class="text-lg text-gray-700 mb-8 leading-relaxed max-w-xl ml-auto">
                             Adolf Schlatter war einer der einflussreichsten evangelischen Theologen seiner Zeit. Sein Werk verbindet tiefes Bibelverständnis mit wissenschaftlicher Präzision und geistlicher Leidenschaft. Bis heute inspiriert er Theologie, Kirche und Glaubenspraxis.
                         </p>
-                        <a href="./pages/aboutSchlatter.html" class="bg-primary hover:bg-blue-900 text-text-primary font-semibold px-8 py-3 rounded-lg transition shadow inline-block">
-                            Biografie entdecken
-                        </a>
+                        <div class="flex justify-end">
+                            <a href="./pages/aboutSchlatter.html" class="bg-primary hover:bg-blue-900 text-text-primary font-semibold px-8 py-3 rounded-lg transition shadow inline-block">
+                                Biografie entdecken
+                            </a>
+                        </div>
+                    </div>
+                    <div class="lg:w-1/2">
+                        <img class="w-full rounded-lg shadow-lg" src="./images/SchlatterVor1907.jpg" alt="Historische Aufnahme von Adolf Schlatter (vor 1907)">
                     </div>
                 </div>
             </div>
@@ -156,9 +191,9 @@
                         <p class="text-gray-700 mb-6">
                             Erfahren Sie mehr über Schlatter als Denker, Lehrer und Glaubenszeugen.
                         </p>
-                        <button class="text-secondary hover:text-orange-600 font-semibold transition">
+                        <a href="./pages/aboutSchlatter.html" class="text-secondary hover:text-orange-600 font-semibold transition inline-block">
                             Mehr erfahren →
-                        </button>
+                        </a>
                     </div>
                     <div class="bg-accent rounded-lg p-8 text-center hover:shadow-lg transition">
                         <div class="w-16 h-16 bg-secondary rounded-full flex items-center justify-center mx-auto mb-6">
@@ -170,9 +205,9 @@
                         <p class="text-gray-700 mb-6">
                             Ein Überblick über Schlatters Schriften und deren Bedeutung.
                         </p>
-                        <button class="text-secondary hover:text-orange-600 font-semibold transition">
+                        <a href="./pages/archiv-interface.html" class="text-secondary hover:text-orange-600 font-semibold transition inline-block">
                             Publikationen ansehen →
-                        </button>
+                        </a>
                     </div>
                     <div class="bg-accent rounded-lg p-8 text-center hover:shadow-lg transition">
                         <div class="w-16 h-16 bg-secondary rounded-full flex items-center justify-center mx-auto mb-6">
@@ -184,9 +219,9 @@
                         <p class="text-gray-700 mb-6">
                             Förderung junger Wissenschaftlerinnen und Wissenschaftler durch den Preis.
                         </p>
-                        <button class="text-secondary hover:text-orange-600 font-semibold transition">
+                        <a href="./pages/adolfSchlatterPrice.html" class="text-secondary hover:text-orange-600 font-semibold transition inline-block">
                             Zum Preis →
-                        </button>
+                        </a>
                     </div>
                 </div>
             </div>

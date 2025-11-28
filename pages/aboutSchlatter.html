@@ -1,6 +1,26 @@
-<html><head>
+<html lang="de">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leben, Werk und Wirkung – Adolf Schlatter</title>
+    <meta name="description" content="Umfassende Einführung in Leben, Werk und Wirkung des evangelischen Theologen Adolf Schlatter (1852–1938) mit Biografie, Hauptwerken, Timeline und Online-Ressourcen.">
+    <meta name="robots" content="index,follow">
+    <link rel="canonical" href="https://adolf-schlatter-stiftung.de/pages/aboutSchlatter.html">
+
+    <!-- Open Graph / Social Sharing -->
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Adolf Schlatter Stiftung">
+    <meta property="og:title" content="Leben, Werk und Wirkung – Adolf Schlatter">
+    <meta property="og:description" content="Entdecken Sie Biografie, theologische Schriften und die Wirkung des Theologen Adolf Schlatter.">
+    <meta property="og:url" content="https://adolf-schlatter-stiftung.de/pages/aboutSchlatter.html">
+    <meta property="og:image" content="https://adolf-schlatter-stiftung.de/images/SchlatterHeader.png">
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Leben, Werk und Wirkung – Adolf Schlatter">
+    <meta name="twitter:description" content="Vertiefen Sie Ihr Wissen über Adolf Schlatters Leben, seine Theologie und sein geistliches Erbe.">
+    <meta name="twitter:image" content="https://adolf-schlatter-stiftung.de/images/SchlatterHeader.png">
+
     <script src="https://cdn.tailwindcss.com"></script>
     <script> window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -817,8 +837,8 @@
 <section id="resources" class="py-20 bg-bg-light">
     <div class="max-w-7xl mx-auto px-6 lg:px-8">
         <div class="text-center mb-16">
-            <h2 class="font-headline text-4xl lg:text-5xl font-bold text-primary mb-6">Weiterführende Ressourcen</h2>
-            <p class="text-xl text-text-secondary">Vertiefen Sie Ihr Wissen über Adolf Schlatter</p>
+            <h2 class="font-headline text-4xl lg:text-5xl font-bold text-primary mb-6">Mehr über Adolf Schlatter</h2>
+            <p class="text-xl text-text-secondary">Vertiefen Sie Ihr Wissen zu Leben, Werk und Wirkung</p>
             <div class="w-24 h-1 bg-secondary mx-auto mt-6"></div>
         </div>
         
@@ -841,12 +861,9 @@
                     <i class="fas fa-graduation-cap text-white text-2xl"></i>
                 </div>
                 <h3 class="font-headline text-xl font-semibold text-primary mb-4 text-center">Akademische Arbeiten</h3>
-                <ul class="text-text-secondary space-y-2">
-                    <li>• Dissertationen über Schlatter</li>
-                    <li>• Forschungsprojekte</li>
-                    <li>• Wissenschaftliche Artikel</li>
-                    <li>• Konferenzbeiträge</li>
-                </ul>
+                <p class="text-text-secondary mb-2">
+                    An vielen theologischen Fakultäten wird zu Schlatter geforscht: Dissertationen und Habilitationen vertiefen einzelne Aspekte seines Lebens, seiner Exegese und seiner Dogmatik.
+                </p>
             </div>
             
             <div class="bg-white rounded-xl p-8 shadow-md hover:shadow-lg transition-shadow">
@@ -854,12 +871,9 @@
                     <i class="fas fa-link text-primary text-2xl"></i>
                 </div>
                 <h3 class="font-headline text-xl font-semibold text-primary mb-4 text-center">Online-Ressourcen</h3>
-                <ul class="text-text-secondary space-y-2">
-                    <li>• Digitale Bibliothek</li>
-                    <li>• Forschungsdatenbank</li>
-                    <li>• Biografische Archive</li>
-                    <li>• Multimedia-Inhalte</li>
-                </ul>
+                <p class="text-text-secondary mb-2">
+                    Über die digitale Bibliothek und weitere Angebote dieser Website erhalten Sie einen fundierten Überblick über Schlatters Schriften, Briefe und die wichtigsten Stationen seiner Wirkungsgeschichte.
+                </p>
             </div>
         </div>
     </div>
@@ -985,6 +999,8 @@ document.addEventListener('DOMContentLoaded', function() {
             this.totalDuration = 0;
             this.chapterStartTimes = [0]; // Startzeiten der Kapitel
             this.durationsLoaded = 0; // Anzahl der geladenen Kapitel-Dauern
+            this.pauseBetweenChapters = 1; // 1 Sekunde Pause zwischen Kapiteln
+            this.isPausing = false; // Flag für aktuelle Pause
             
             // Audio-Dateien in der richtigen Reihenfolge
             this.audioFiles = [
@@ -1094,12 +1110,21 @@ document.addEventListener('DOMContentLoaded', function() {
         }
         
         calculateTotalDuration() {
-            this.totalDuration = this.chapterDurations.reduce((sum, duration) => sum + duration, 0);
+            // Berechne Gesamtdauer inklusive Pausen zwischen Kapiteln
+            let total = 0;
+            for (let i = 0; i < this.chapterDurations.length; i++) {
+                total += this.chapterDurations[i];
+                // Füge Pause nach jedem Kapitel hinzu (außer nach dem letzten)
+                if (i < this.chapterDurations.length - 1) {
+                    total += this.pauseBetweenChapters;
+                }
+            }
+            this.totalDuration = total;
             
-            // Berechne Startzeiten
+            // Berechne Startzeiten (inklusive Pausen)
             this.chapterStartTimes = [0];
             for (let i = 1; i < this.chapterDurations.length; i++) {
-                this.chapterStartTimes[i] = this.chapterStartTimes[i-1] + this.chapterDurations[i-1];
+                this.chapterStartTimes[i] = this.chapterStartTimes[i-1] + this.chapterDurations[i-1] + this.pauseBetweenChapters;
             }
             
             this.updateChapterMarkers();
@@ -1181,7 +1206,14 @@ document.addEventListener('DOMContentLoaded', function() {
         
         nextChapter() {
             if (this.currentChapter < this.audioFiles.length - 1) {
-                this.goToChapter(this.currentChapter + 1);
+                // Pause einlegen bevor zum nächsten Kapitel gesprungen wird
+                this.isPausing = true;
+                this.audio.pause();
+                
+                setTimeout(() => {
+                    this.isPausing = false;
+                    this.goToChapter(this.currentChapter + 1);
+                }, this.pauseBetweenChapters * 1000);
             } else {
                 this.pause();
             }
@@ -1211,8 +1243,9 @@ document.addEventListener('DOMContentLoaded', function() {
                 // Finde das entsprechende Kapitel
                 for (let i = 0; i < this.chapterStartTimes.length; i++) {
                     const chapterStart = this.chapterStartTimes[i];
+                    // Kapitelende ist Startzeit des nächsten Kapitels minus Pause
                     const chapterEnd = i < this.chapterStartTimes.length - 1 ? 
-                        this.chapterStartTimes[i + 1] : this.totalDuration;
+                        this.chapterStartTimes[i + 1] - this.pauseBetweenChapters : this.totalDuration;
                     
                     if (targetTime >= chapterStart && targetTime < chapterEnd) {
                         const localTime = targetTime - chapterStart;
@@ -1225,6 +1258,11 @@ document.addEventListener('DOMContentLoaded', function() {
         }
         
         updateProgress() {
+            if (this.isPausing) {
+                // Während der Pause keine Updates
+                return;
+            }
+            
             if (this.totalDuration > 0 && this.chapterStartTimes[this.currentChapter] !== undefined) {
                 const currentTime = this.chapterStartTimes[this.currentChapter] + this.audio.currentTime;
                 const progress = (currentTime / this.totalDuration) * 100;

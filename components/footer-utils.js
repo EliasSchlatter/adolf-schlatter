@@ -130,21 +130,21 @@ class FooterManager {
             </div>
 
             <div>
-                <h4 class="font-headline font-bold text-lg mb-6">Adolf Schlatter Stiftung</h4>
+                <h4 class="font-headline font-bold text-lg mb-6">Adolf Schlatter</h4>
                 <ul class="space-y-3">
-                    <li><a href="pages/aboutSchlatter.html" class="text-white/80 hover:text-white transition-colors">Über uns</a></li>
-                    <li><a href="pages/adolfSchlatterPrice.html#kontakt" class="text-white/80 hover:text-white transition-colors">Kontakt</a></li>
-                    <li><a href="pages/impressum.html" class="text-white/80 hover:text-white transition-colors">Impressum</a></li>
-                    <li><a href="pages/datenschutz.html" class="text-white/80 hover:text-white transition-colors">Datenschutz</a></li>
+                    <li><a href="pages/aboutSchlatter.html" class="text-white/80 hover:text-white transition-colors">Leben & Werk</a></li>
+                    <li><a href="pages/aboutSchlatter.html#werk" class="text-white/80 hover:text-white transition-colors">Publikationen</a></li>
+                    <li><a href="pages/archiv-interface.html" class="text-white/80 hover:text-white transition-colors">Archiv</a></li>
+                    <li><a href="pages/schlatter_timeline.html" class="text-white/80 hover:text-white transition-colors">Timeline</a></li>
                 </ul>
             </div>
 
             <div>
-                <h4 class="font-headline font-bold text-lg mb-6">Themen</h4>
+                <h4 class="font-headline font-bold text-lg mb-6">Stiftung</h4>
                 <ul class="space-y-3">
-                    <li><a href="pages/aboutSchlatter.html" class="text-white/80 hover:text-white transition-colors">Biografie</a></li>
-                    <li><a href="pages/aboutSchlatter.html#werk" class="text-white/80 hover:text-white transition-colors">Publikationen</a></li>
                     <li><a href="pages/adolfSchlatterPrice.html" class="text-white/80 hover:text-white transition-colors">Preis</a></li>
+                    <li><a href="pages/impressum.html" class="text-white/80 hover:text-white transition-colors">Impressum</a></li>
+                    <li><a href="pages/datenschutz.html" class="text-white/80 hover:text-white transition-colors">Datenschutz</a></li>
                 </ul>
             </div>
         </div>

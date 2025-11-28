@@ -3,7 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adolf Schlatter Archiv - Digitales Inventar</title>
+    <title>Adolf Schlatter Archiv – Digitales Inventar &amp; Recherche</title>
+    <meta name="description" content="Digitales Inventar des Adolf Schlatter Archivs: durchsuchbare Nachlassdaten, Filterfunktionen und strukturierte Übersicht über Schriften, Briefe und Materialien.">
+    <meta name="robots" content="index,follow">
+    <link rel="canonical" href="https://adolf-schlatter-stiftung.de/pages/archiv-interface.html">
+
+    <!-- Open Graph / Social Sharing -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Adolf Schlatter Stiftung">
+    <meta property="og:title" content="Adolf Schlatter Archiv – Digitales Inventar &amp; Recherche">
+    <meta property="og:description" content="Recherchieren Sie im digitalen Inventar des Adolf Schlatter Archivs mit Filtern, Volltextsuche und Strukturansicht.">
+    <meta property="og:url" content="https://adolf-schlatter-stiftung.de/pages/archiv-interface.html">
+    <meta property="og:image" content="https://adolf-schlatter-stiftung.de/images/SchlatterHeader.png">
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Adolf Schlatter Archiv – Digitales Inventar &amp; Recherche">
+    <meta name="twitter:description" content="Digitales Archiv-Interface zum Nachlass Adolf Schlatters mit umfangreichen Filter- und Recherchefunktionen.">
+    <meta name="twitter:image" content="https://adolf-schlatter-stiftung.de/images/SchlatterHeader.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <script> window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -321,6 +338,9 @@
                                     <option value="100">100</option>
                                 </select>
                             </div>
+                            <a href="archiv-interface.html?show=all" class="text-secondary text-sm hover:underline">
+                                Alle Einträge auf einer Seite anzeigen
+                            </a>
                         </div>
                         <div id="pagination-controls" class="flex items-center space-x-2">
                             <!-- Wird dynamisch gefüllt -->
@@ -831,6 +851,7 @@
             const urlParams = new URLSearchParams(window.location.search);
             const filter = urlParams.get('filter');
             const search = urlParams.get('search');
+            const showAll = urlParams.get('show');
             
             if (filter === 'inventar' && search) {
                 // Inventar-Nummer Filter anwenden
@@ -843,6 +864,11 @@
                 }, 100);
             }
             
+            // Wenn ?show=all gesetzt ist, alle Einträge auf einer Seite anzeigen (SEO-freundlich)
+            if (showAll === 'all') {
+                entriesPerPage = allEntries.length;
+            }
+
             // UI initialisieren
             updateTotalCount();
             populateFilterOptions();
