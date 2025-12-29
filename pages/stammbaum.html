@@ -347,13 +347,8 @@
                 
                 // Generation 9 - Kinder von Gerhard und Maria
                 { id: "P84", name: "Gabriel Schlatter", birth_year: 1991, death_year: null, generation_depth: 9, occupation: "", location: "", gender: "male" },
-                { id: "P89", name: "Melanie Schlatter", birth_year: null, death_year: null, generation_depth: 9, occupation: "", location: "", gender: "female" },
                 { id: "P85", name: "Elias Schlatter", birth_year: 1994, death_year: null, generation_depth: 9, occupation: "", location: "", gender: "male" },
-                { id: "P86", name: "Johanna Schlatter", birth_year: 1997, death_year: null, generation_depth: 9, occupation: "", location: "", gender: "female" },
-                
-                // Generation 10 - Kinder von Gabriel und Melanie
-                { id: "P90", name: "Aurelius Schlatter", birth_year: 2021, death_year: null, generation_depth: 10, occupation: "", location: "", gender: "male" },
-                { id: "P91", name: "Constantin Schlatter", birth_year: 2023, death_year: null, generation_depth: 10, occupation: "", location: "", gender: "male" }
+                { id: "P86", name: "Johanna Schlatter", birth_year: 1997, death_year: null, generation_depth: 9, occupation: "", location: "", gender: "female" }
             ],
             edges: [
                 // Ehen
@@ -381,7 +376,6 @@
                 { source: "P25", target: "P26", type: "MARRIED" },
                 { source: "P27", target: "P83", type: "MARRIED" },
                 { source: "P27", target: "P92", type: "DIVORCED" },
-                { source: "P84", target: "P89", type: "MARRIED" },
                 
                 // Eltern-Kind Beziehungen
                 { source: "P1", target: "P3", type: "PARENT_OF" },
@@ -469,11 +463,7 @@
                 { source: "P27", target: "P85", type: "PARENT_OF" },
                 { source: "P92", target: "P85", type: "PARENT_OF" },
                 { source: "P27", target: "P86", type: "PARENT_OF" },
-                { source: "P92", target: "P86", type: "PARENT_OF" },
-                { source: "P84", target: "P90", type: "PARENT_OF" },
-                { source: "P89", target: "P90", type: "PARENT_OF" },
-                { source: "P84", target: "P91", type: "PARENT_OF" },
-                { source: "P89", target: "P91", type: "PARENT_OF" }
+                { source: "P92", target: "P86", type: "PARENT_OF" }
             ]
         }
     };
@@ -488,8 +478,7 @@
         "P14", "P20",  // Generation 6
         "P21", "P22", "P23", "P24", "P25", "P26", "P30",  // Generation 7
         "P92", "P27", "P83", "P28", "P29", "P87", "P88",  // Generation 8
-        "P84", "P89", "P85", "P86",  // Generation 9
-        "P90", "P91"  // Generation 10
+        "P84", "P85", "P86"  // Generation 9
     ];
     
     let showMainLineOnly = true; // Standard: Hauptlinie

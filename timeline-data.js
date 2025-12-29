@@ -60,7 +60,7 @@ const timelineData = {
           "filterDate": "1852-08-16",
           "title": "Geburt in St. Gallen",
           "date": "16. August",
-          "text": "Adolf Schlatter, geboren in St. Gallen\nals siebtes von acht Kindern des Kauf-\nmanns Stephan Schlatter und dessen Ehe-\nfrau Wilhelmine Schlatter geborene\nSteinmann.",
+          "text": "Adolf Schlatter, geboren in St. Gallen\nals siebtes von acht Kindern des Kaufmanns Stephan Schlatter und dessen Ehefrau Wilhelmine Schlatter geborene\nSteinmann.",
           "icon": "fas fa-baby",
           "tags": [
             "Familie"
@@ -81,7 +81,7 @@ const timelineData = {
           "filterDate": "1858-04-01",
           "title": "Beginn der Elementarschule",
           "date": "Ab Frühjahr",
-          "text": "Besuch der Elementarschule St. Gallen.\nErste Erfahrung des Eingebunden-Seins\nin Volk und Staat durch Ablieferung eines\nPflichtbeitrags zum Ankauf des Rütli durch\ndie Eidgenossenschaft.\n\nReligiöse Prägung durch regelmäßigen Kirch-\ngang mit der Mutter und das christliche Fa-\nmilienleben im Haus des freikirchlichen, aber\ndennoch im Glauben an Jesus mit Frau und\nKindern liebend verbundenen Vaters.\n\nSchon als Kind empfängt Adolf Schlatter\nstarke Eindrücke von der Natur als Schöpfung\nGottes, auf Familienspaziergängen beim\nSammeln von Blumen und Heilkräutern (sein\nVater war gelernter Apotheker) und bei aus-\ngedehnten Wanderungen in der schweizeri-\nschen Bergwelt.",
+          "text": "Besuch der Elementarschule St. Gallen.\nErste Erfahrung des Eingebunden-Seins\nin Volk und Staat durch Ablieferung eines\nPflichtbeitrags zum Ankauf des Rütli durch\ndie Eidgenossenschaft.\n\nReligiöse Prägung durch regelmäßigen Kirchgang mit der Mutter und das christliche Familienleben im Haus des freikirchlichen, aber\ndennoch im Glauben an Jesus mit Frau und\nKindern liebend verbundenen Vaters.\n\nSchon als Kind empfängt Adolf Schlatter\nstarke Eindrücke von der Natur als Schöpfung\nGottes, auf Familienspaziergängen beim\nSammeln von Blumen und Heilkräutern (sein\nVater war gelernter Apotheker) und bei ausgedehnten Wanderungen in der schweizerischen Bergwelt.",
           "icon": "fas fa-graduation-cap",
           "tags": [
             "Allgemein"
@@ -102,7 +102,7 @@ const timelineData = {
           "filterDate": "1864-01-01",
           "title": "Gedichtsammlung im Schulheft",
           "date": "",
-          "text": "Der Zwölfjährige schreibt in ein Schulheft\n48 Gedichte von schweizerischen und deut-\nschen Dichtern: \"Gedichte, gesammelt von\nAdolf Schlatter im Jahre 1864 und 65\"\n(Inventar-Nr 152).",
+          "text": "Der Zwölfjährige schreibt in ein Schulheft\n48 Gedichte von schweizerischen und deutschen Dichtern: \"Gedichte, gesammelt von\nAdolf Schlatter im Jahre 1864 und 65\"\n(Inventar-Nr 152).",
           "icon": "fas fa-book",
           "tags": [
             "Allgemein"
@@ -125,7 +125,7 @@ const timelineData = {
           "filterDate": "1865-04-01",
           "title": "Gymnasium St. Gallen; Entscheidung für Theologie",
           "date": "Ab Frühjahr",
-          "text": "Besuch des Gymnasiums St. Gallen bis\nzum Abitur im Frühjahr 1871.\n\nSein Lehrer in Latein und Griechisch,\nFranz Misteli, rät ihm zum Studium der\nPhilologie. Adolf entscheidet sich jedoch da-\nzu, Theologie zu werden. Seine Mutter hat\nwesentlichen Anteil an dieser Entscheidung;\nausgelöst wird sie durch ein Gespräch mit\nseiner ältesten Schwester Lydia, Lehrerin\nin St. Gallen.",
+          "text": "Besuch des Gymnasiums St. Gallen bis\nzum Abitur im Frühjahr 1871.\n\nSein Lehrer in Latein und Griechisch,\nFranz Misteli, rät ihm zum Studium der\nPhilologie. Adolf entscheidet sich jedoch dazu, Theologie zu werden. Seine Mutter hat\nwesentlichen Anteil an dieser Entscheidung;\nausgelöst wird sie durch ein Gespräch mit\nseiner ältesten Schwester Lydia, Lehrerin\nin St. Gallen.",
           "icon": "fas fa-graduation-cap",
           "tags": [
             "Theologie",
@@ -169,7 +169,7 @@ const timelineData = {
           "filterDate": "1873-05-06",
           "title": "Immatrikulation in Tübingen",
           "date": "6. Mai",
-          "text": "Immatrikulation in Tübingen.\nBesuch von 15 Vorlesungen in 3 Semestern,\ndarunter Neutestamentliche Einleitung und\nDogmengeschichte bei Weizsäcker; Christ-\nliche Ethik, Glaubenslehre und Neutesta-\nmentliche Exegese (Epheser, Timotheus)\nbei J.T. Beck.\n\nStarker Eindruck von Persönlichkeit und\nLehre J.T. Becks.\n\nMitglied der mit \"Schwizerhüsli\" verbun-\ndenen Studentenverbindung \"Wingolf\".",
+          "text": "Immatrikulation in Tübingen.\nBesuch von 15 Vorlesungen in 3 Semestern,\ndarunter Neutestamentliche Einleitung und\nDogmengeschichte bei Weizsäcker; Christliche Ethik, Glaubenslehre und Neutestamentliche Exegese (Epheser, Timotheus)\nbei J.T. Beck.\n\nStarker Eindruck von Persönlichkeit und\nLehre J.T. Becks.\n\nMitglied der mit \"Schwizerhüsli\" verbundenen Studentenverbindung \"Wingolf\".",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -313,7 +313,7 @@ const timelineData = {
           "filterDate": "1876-12-01",
           "title": "Abschied von Neumünster",
           "date": "Dezember",
-          "text": "Abschied von Neumünster.\n\nDie von der Aufhebung bedrohte 2. Pfarr-\nstelle kann dank des aufbauenden Wirkens\nSchlatters gehalten und nach seinem Weg-\nfang wieder besetzt werden.",
+          "text": "Abschied von Neumünster.\n\nDie von der Aufhebung bedrohte 2. Pfarrstelle kann dank des aufbauenden Wirkens\nSchlatters gehalten und nach seinem Wegfang wieder besetzt werden.",
           "icon": "fas fa-church",
           "tags": [
             "Pastoral"
@@ -444,7 +444,7 @@ const timelineData = {
           "filterDate": "1880-04-01",
           "title": "Umzug nach Bern und Lehrtätigkeiten",
           "date": "Frühjahr",
-          "text": "Umzug des Ehepaars Schlatter nach Bern,\nRabbenthal.\nEintritt in das Freie Gymnasium (Lerber-\nschule) Bern als Lehrer für Religion und\nHebräisch an den beiden oberen Klassen.\n\nLehrauftrag für Religion am Evang. Lehrer-\nseminar auf dem Muristalden bei Bern.",
+          "text": "Umzug des Ehepaars Schlatter nach Bern,\nRabbenthal.\nEintritt in das Freie Gymnasium (Lerberschule) Bern als Lehrer für Religion und\nHebräisch an den beiden oberen Klassen.\n\nLehrauftrag für Religion am Evang. Lehrerseminar auf dem Muristalden bei Bern.",
           "icon": "fas fa-map-marker-alt",
           "tags": [
             "Allgemein",
@@ -522,7 +522,7 @@ const timelineData = {
           "filterDate": "1880-12-01",
           "title": "Licentiatsexamen magna cum laude",
           "date": "Dezember",
-          "text": "Schlatter besteht magna cum laude das\nLicentiatsexamen, zu dem er schrift-\nliche Arbeiten in 7 Fächern vorzulegen\nhat und in 5 Fächern mündlich geprüft\nwird. Sein hauptsächlicher Gegner,\nProfessor Nippold, gibt ihm in Kirchen-\ngeschichte und Dogmengeschichte je summa\ncum laude. (Fakultätsprotokoll vom 18.\nund 22. Dezember 1880, Inventar-Nr 848).",
+          "text": "Schlatter besteht magna cum laude das\nLicentiatsexamen, zu dem er schriftliche Arbeiten in 7 Fächern vorzulegen\nhat und in 5 Fächern mündlich geprüft\nwird. Sein hauptsächlicher Gegner,\nProfessor Nippold, gibt ihm in Kirchengeschichte und Dogmengeschichte je summa\ncum laude. (Fakultätsprotokoll vom 18.\nund 22. Dezember 1880, Inventar-Nr 848).",
           "icon": "fas fa-graduation-cap",
           "tags": [
             "Theologie"
@@ -545,7 +545,7 @@ const timelineData = {
           "filterDate": "1881-01-05",
           "title": "Venia docendi verliehen",
           "date": "5. Januar",
-          "text": "Auf Antrag der Fakultät vom 22. Dezember\n1880 um \"Genehmigung seiner Habilitation\"\nverleiht die Erziehungsdirektion des Kan-\ntons Bern an Adolf Schlatter die Venia\ndocendi in neutestamentlicher Exegese und\nDogmengeschichte.",
+          "text": "Auf Antrag der Fakultät vom 22. Dezember\n1880 um \"Genehmigung seiner Habilitation\"\nverleiht die Erziehungsdirektion des Kantons Bern an Adolf Schlatter die Venia\ndocendi in neutestamentlicher Exegese und\nDogmengeschichte.",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -560,7 +560,7 @@ const timelineData = {
           "filterDate": "1881-01-27",
           "title": "Fakultät beauftragt Schlatter",
           "date": "27. Januar",
-          "text": "Die Fakultät beauftragt den Privatdozen-\nten Schlatter, ein dogmengeschichtliches\nConversatorium sowie anstelle des erkran-\nkten Professors Oettli eine vierstündige\nVorlesung über Genesis zu halten.",
+          "text": "Die Fakultät beauftragt den Privatdozenten Schlatter, ein dogmengeschichtliches\nConversatorium sowie anstelle des erkrankten Professors Oettli eine vierstündige\nVorlesung über Genesis zu halten.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -590,7 +590,7 @@ const timelineData = {
           "filterDate": "1881-10-01",
           "title": "Vorlesungen und Übungen ab Wintersemester 1881/1882",
           "date": "Wintersemester",
-          "text": "Ab Wintersemester 1881/1882 hält Schlatter\nüberwiegend neutestamentliche und dogmen-\ngeschichtliche Vorlesungen und Übungen.\nInventar-Nr 805; auch 732",
+          "text": "Ab Wintersemester 1881/1882 hält Schlatter\nüberwiegend neutestamentliche und dogmengeschichtliche Vorlesungen und Übungen.\nInventar-Nr 805; auch 732",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -629,7 +629,7 @@ const timelineData = {
           "filterDate": "1882-12-01",
           "title": "Monographie bei der Haager Gesellschaft eingereicht",
           "date": "Dezember",
-          "text": "Schlatter reicht der Haager Gesellschaft\nzur Verteidigung der christlichen Reli-\ngion für den von ihr ausgeschriebenen\nPreis eine Monographie \"Glaube und\nGlauben in den Schriften des Neuen\nTestaments\" ein. Manuskript: Inventar-\nNr. 174",
+          "text": "Schlatter reicht der Haager Gesellschaft\nzur Verteidigung der christlichen Religion für den von ihr ausgeschriebenen\nPreis eine Monographie \"Glaube und\nGlauben in den Schriften des Neuen\nTestaments\" ein. Manuskript: InventarNr. 174",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -652,7 +652,7 @@ const timelineData = {
           "filterDate": "1883-04-28",
           "title": "Privatdozentenhonorar bewilligt",
           "date": "28. April",
-          "text": "Auf Antrag von Schlatter und Empfehlung\nder Fakultät gewährt ihm die Erziehungs-\ndirektion Bern das im Hochschulgesetz\nvorgesehene Privatdozentenhonorar von\nSfr. 580,—, nicht ohne kritischen Hin-\nweis auf seine Stellung \"als spezieller\nRepräsentant der Orthodoxie und des\nEvangelisch-kirchlichen Vereins\", jedoch\n\"mit Rücksicht auf den Erfolg seiner\nLehrtätigkeit und aus Gründen der Billig-\nkeit gegenüber der von ihm repräsentierten\ntheologischen Richtung.\n\nBisher hat Schlatter seinen Lebensunter-\nhalt aus den Vorlesungsgeldern seiner\n(von dreizehn auf fünfunddreissig gewachse-\nnen) Hörer, seiner Tätigkeit an der Lehrer-\nschule und dem Lehrerseminar sowie einer\njährlichen Kollekte des Evangelisch-kirchli-\nchen Vereins bestritten.\n\nMit der Gewährung des Dozentengehalts bekommt Schlatter (erst) Sitz und Stimme in der Fakultät.",
+          "text": "Auf Antrag von Schlatter und Empfehlung\nder Fakultät gewährt ihm die Erziehungsdirektion Bern das im Hochschulgesetz\nvorgesehene Privatdozentenhonorar von\nSfr. 580,—, nicht ohne kritischen Hinweis auf seine Stellung \"als spezieller\nRepräsentant der Orthodoxie und des\nEvangelisch-kirchlichen Vereins\", jedoch\n\"mit Rücksicht auf den Erfolg seiner\nLehrtätigkeit und aus Gründen der Billigkeit gegenüber der von ihm repräsentierten\ntheologischen Richtung.\n\nBisher hat Schlatter seinen Lebensunterhalt aus den Vorlesungsgeldern seiner\n(von dreizehn auf fünfunddreissig gewachsenen) Hörer, seiner Tätigkeit an der Lehrerschule und dem Lehrerseminar sowie einer\njährlichen Kollekte des Evangelisch-kirchlichen Vereins bestritten.\n\nMit der Gewährung des Dozentengehalts bekommt Schlatter (erst) Sitz und Stimme in der Fakultät.",
           "icon": "fas fa-university",
           "tags": [
             "Theologie",
@@ -668,7 +668,7 @@ const timelineData = {
           "filterDate": "1883-09-17",
           "title": "Preis der Haager Gesellschaft",
           "date": "17. September",
-          "text": "Beschluß der Haager Gesellschaft,\nSchlatter den ausgeschriebenen Preis\nvon Gulden 400 für seine Abhandlung\n\"Glaube und Glauben in den Schriften\ndes Neuen Testaments\" zu verleihen,\nmit der Auflage, sie entsprechend der\nim \"Programma voor het jaar 1883\" ge-\nmachten Bemerkungen teilweise umzu-\narbeiten.",
+          "text": "Beschluß der Haager Gesellschaft,\nSchlatter den ausgeschriebenen Preis\nvon Gulden 400 für seine Abhandlung\n\"Glaube und Glauben in den Schriften\ndes Neuen Testaments\" zu verleihen,\nmit der Auflage, sie entsprechend der\nim \"Programma voor het jaar 1883\" gemachten Bemerkungen teilweise umzuarbeiten.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -689,7 +689,7 @@ const timelineData = {
           "filterDate": "1884-01-06",
           "title": "Zwingli-Feier in Bern",
           "date": "6. Januar",
-          "text": "Zwingli-Feier in Bern. Hier wohl Vor-\ntrag \"Zum Gedächtnistag Zwinglis\".\nInventar-Nr 256",
+          "text": "Zwingli-Feier in Bern. Hier wohl Vortrag \"Zum Gedächtnistag Zwinglis\".\nInventar-Nr 256",
           "icon": "fas fa-church",
           "tags": [
             "Theologie"
@@ -706,7 +706,7 @@ const timelineData = {
           "filterDate": "1884-04-01",
           "title": "Besuch Stöckers; Weiterarbeit an Abhandlung",
           "date": "April",
-          "text": "Besuch von Hofprediger Stöcker im Lehrer-\nseminar Muristalden.\n\nWeiterarbeit an der Abhandlung vom\nGlauben.",
+          "text": "Besuch von Hofprediger Stöcker im Lehrerseminar Muristalden.\n\nWeiterarbeit an der Abhandlung vom\nGlauben.",
           "icon": "fas fa-calendar",
           "tags": [
             "Allgemein"
@@ -727,7 +727,7 @@ const timelineData = {
           "filterDate": "1885-01-01",
           "title": "Der Glaube im Neuen Testament erscheint",
           "date": "",
-          "text": "In beträchtlich erweiterter Form er-\nscheint:\n\"Der Glaube im Neuen Testament. Gekrönte\nPreisschrift von A. Schlatter, Lic.theol.\nDozent in Bern.\"\nMit \"Programma voor het jaar 1883 und\n1884\".\nE.J. Brill, Leiden 1885.\n\nWeiteres dazu siehe 1927.\nProfessor D. Karl von Weiß kommt nach Bern, um die Möglichkeit eines Rufs von Schlatter nach Halle zu sondieren. Eine Berufung kommt nicht zustande.\nIm gleichen Jahr erscheint das Calwer Bibellexikon mit 43 Artikeln von Schlatter. Dieser erhält vom Calwer Verlag den Auftrag, die \"Einleitung zur Bibel\" zu verfassen.\nGeburt des ersten Kindes Theodor Adolf.",
+          "text": "In beträchtlich erweiterter Form erscheint:\n\"Der Glaube im Neuen Testament. Gekrönte\nPreisschrift von A. Schlatter, Lic.theol.\nDozent in Bern.\"\nMit \"Programma voor het jaar 1883 und\n1884\".\nE.J. Brill, Leiden 1885.\n\nWeiteres dazu siehe 1927.\nProfessor D. Karl von Weiß kommt nach Bern, um die Möglichkeit eines Rufs von Schlatter nach Halle zu sondieren. Eine Berufung kommt nicht zustande.\nIm gleichen Jahr erscheint das Calwer Bibellexikon mit 43 Artikeln von Schlatter. Dieser erhält vom Calwer Verlag den Auftrag, die \"Einleitung zur Bibel\" zu verfassen.\nGeburt des ersten Kindes Theodor Adolf.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -800,7 +800,7 @@ const timelineData = {
           "filterDate": "1887-12-19",
           "title": "Antrag auf Beförderung zum außerordentlichen Professor in Bern",
           "date": "19. Dezember",
-          "text": "Antrag der Evang.-Theologischen\nFakultät an die Erziehungsdirektion\nBern, \"den Privatdozenten Herrn\nLic. theol Adolf Schlatter zum außer-\nordentlichen Professor an hiesiger\nFakultät zu befördern.\"",
+          "text": "Antrag der Evang.-Theologischen\nFakultät an die Erziehungsdirektion\nBern, \"den Privatdozenten Herrn\nLic. theol Adolf Schlatter zum außerordentlichen Professor an hiesiger\nFakultät zu befördern.\"",
           "icon": "fas fa-university",
           "tags": [
             "Theologie",
@@ -838,7 +838,7 @@ const timelineData = {
           "filterDate": "1888-03-14",
           "title": "Ernennung zum außerordentlichen Professor",
           "date": "14. März",
-          "text": "Ernennung von Schlatter zum außer-\nordentlichen Professor \"für neutesta-\nmentliche und systematische Theologie\".\nDiese Bezeichnung erfolgt auf seinen\nausdrücklichen Wunsch.",
+          "text": "Ernennung von Schlatter zum außerordentlichen Professor \"für neutestamentliche und systematische Theologie\".\nDiese Bezeichnung erfolgt auf seinen\nausdrücklichen Wunsch.",
           "icon": "fas fa-university",
           "tags": [
             "Theologie",
@@ -854,7 +854,7 @@ const timelineData = {
           "filterDate": "1888-07-01",
           "title": "Berufung nach Greifswald zum ordentlichen Professor",
           "date": "Anfang Juli",
-          "text": "Berufung durch die preußische Regierung\nzum ordentlichen Professor für neutesta-\nmentliche Exegese in Greifswald.",
+          "text": "Berufung durch die preußische Regierung\nzum ordentlichen Professor für neutestamentliche Exegese in Greifswald.",
           "icon": "fas fa-university",
           "tags": [
             "Theologie",
@@ -886,7 +886,7 @@ const timelineData = {
           "filterDate": "1888-07-07",
           "title": "Entlassung durch die Erziehungsdirektion Bern",
           "date": "7. Juli",
-          "text": "Die Erziehungsdirektion Bern erteilt\nauf sein Gesuch vom 6. Juli 1888 die\nEntlassung \"in allen Ehren\".\n\nGesuche Schlatters und Erlasse der Er-\nziehungsdirektion des Kantons Bern siehe\nDossier des Staatsarchivs Bern über\n\"Schlatter, Adolf. Neutestamentliche und\nsystematische Theologie 1880-1888\"\nInventar-Nr 838",
+          "text": "Die Erziehungsdirektion Bern erteilt\nauf sein Gesuch vom 6. Juli 1888 die\nEntlassung \"in allen Ehren\".\n\nGesuche Schlatters und Erlasse der Erziehungsdirektion des Kantons Bern siehe\nDossier des Staatsarchivs Bern über\n\"Schlatter, Adolf. Neutestamentliche und\nsystematische Theologie 1880-1888\"\nInventar-Nr 838",
           "icon": "fas fa-university",
           "tags": [
             "Theologie",
@@ -997,7 +997,7 @@ const timelineData = {
           "filterDate": "1890-06-01",
           "title": "Vortrag in Berlin; Ablehnung von Berufungen; Fokus auf jüdische Zeitgeschichte; Geburt von Dora",
           "date": "Juni",
-          "text": "Vortrag über \"Die Kirche und die negative Kritik\" auf der Berliner Pastoral-\nkonferenz unter Vorsitz von Adolf Stöcker.\n\nSchlatter lehnt eine Berufung nach Bonn ab wie auch vorangegangene Berufungen nach Basel, Heidelberg und Marburg.\n\nDie exegetische Arbeit am Neuen Testament veranlaßt Schlatter in steigendem Maß zur Beschäftigung mit der jüdischen Zeitgeschichte, besonders mit Josephus.\n\nGeburt des vierten Kindes Dora.",
+          "text": "Vortrag über \"Die Kirche und die negative Kritik\" auf der Berliner Pastoralkonferenz unter Vorsitz von Adolf Stöcker.\n\nSchlatter lehnt eine Berufung nach Bonn ab wie auch vorangegangene Berufungen nach Basel, Heidelberg und Marburg.\n\nDie exegetische Arbeit am Neuen Testament veranlaßt Schlatter in steigendem Maß zur Beschäftigung mit der jüdischen Zeitgeschichte, besonders mit Josephus.\n\nGeburt des vierten Kindes Dora.",
           "icon": "fas fa-calendar",
           "tags": [
             "Theologie",
@@ -1060,7 +1060,7 @@ const timelineData = {
           "filterDate": "1892-10-12",
           "title": "Gegenerklärung zur Harnack-Schrift",
           "date": "12. Oktober",
-          "text": "Die Schrift \"Das apostolische Glaubens-\nbekenntnis\" von Adolf von Harnack ver-\nanlaßt den Vorstand der Freunde der\nPositiven Union (darunter: Adolf Stöcker)\nBerlin zu einer Gegenerklärung.",
+          "text": "Die Schrift \"Das apostolische Glaubensbekenntnis\" von Adolf von Harnack veranlaßt den Vorstand der Freunde der\nPositiven Union (darunter: Adolf Stöcker)\nBerlin zu einer Gegenerklärung.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -1090,7 +1090,7 @@ const timelineData = {
           "filterDate": "1892-12-19",
           "title": "Kreuzzeitung-Notiz zur Professur und Harnack-Affaire",
           "date": "19. Dezember",
-          "text": "Notiz der Kreuzzeitung Berlin, wonach für die neue Professur in der hiesigen theologischen Fakultät Martin Kähler, Halle, aber auch noch andere Namen im Gespräch seien; dies werde mit der \"Harnack-Affaire\" in Zusammenhang ge-\nbracht. (Gemeint waren Reinhold Seeberg und Hermann Cremer,)",
+          "text": "Notiz der Kreuzzeitung Berlin, wonach für die neue Professur in der hiesigen theologischen Fakultät Martin Kähler, Halle, aber auch noch andere Namen im Gespräch seien; dies werde mit der \"Harnack-Affaire\" in Zusammenhang gebracht. (Gemeint waren Reinhold Seeberg und Hermann Cremer,)",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -1126,7 +1126,7 @@ const timelineData = {
           "filterDate": "1893-03-05",
           "title": "Zusage an Althoff und Veröffentlichung Palästina-Buch",
           "date": "Anfang März",
-          "text": "Nach endgültiger Ablehnung Cremers be-\nsucht Althoff Schlatter in Greifswald\nund ringt ihm seine Zusage ab.\n\nSchlatter bleibt im Sommersemester 1893\nnoch in Greifswald und läßt sein nach\nder Palästinareise begonnenes Buch er-\nscheinen: \"Die Topographie und Geschichte\nPalästinas.\" Calwer Verlag 1893.\n\nDas Werk ist \"Der theologischen Fakultät\nHalle gewidmet als Zeichen des Danks für\ndie dem Verfasser gewährte Doktorwürde\".",
+          "text": "Nach endgültiger Ablehnung Cremers besucht Althoff Schlatter in Greifswald\nund ringt ihm seine Zusage ab.\n\nSchlatter bleibt im Sommersemester 1893\nnoch in Greifswald und läßt sein nach\nder Palästinareise begonnenes Buch erscheinen: \"Die Topographie und Geschichte\nPalästinas.\" Calwer Verlag 1893.\n\nDas Werk ist \"Der theologischen Fakultät\nHalle gewidmet als Zeichen des Danks für\ndie dem Verfasser gewährte Doktorwürde\".",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -1141,7 +1141,7 @@ const timelineData = {
           "filterDate": "1893-04-20",
           "title": "Erlass zur Versetzung an die Universität Berlin",
           "date": "20. April",
-          "text": "Erlass des Unterrichtsministeriums Berlin\n\"An den königlichen ordentlichen Professor\nHerrn D. Adolf Schlatter Hochwürden zu\nGreifswald\" betreffend Versetzung \"vom\n1. Oktober dieses Jahres ab in die theo-\nlogische Fakultät der Königlichen Fried-\nrich-Wilhelms-Universität zu Berlin ... mit dem\nLehrauftrage für systematische Theologie\nund, soweit Ihnen dies Bedürfnis ist, auch\nfür die neutestamentlichen Disziplinen.\"",
+          "text": "Erlass des Unterrichtsministeriums Berlin\n\"An den königlichen ordentlichen Professor\nHerrn D. Adolf Schlatter Hochwürden zu\nGreifswald\" betreffend Versetzung \"vom\n1. Oktober dieses Jahres ab in die theologische Fakultät der Königlichen Friedrich-Wilhelms-Universität zu Berlin ... mit dem\nLehrauftrage für systematische Theologie\nund, soweit Ihnen dies Bedürfnis ist, auch\nfür die neutestamentlichen Disziplinen.\"",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -1156,7 +1156,7 @@ const timelineData = {
           "filterDate": "1893-10-24",
           "title": "Antrittsvorlesung",
           "date": "Montag, 24. Oktober",
-          "text": "Antrittsvorlesung nachmittags, 4 Uhr.\n\"Das Auditorium, das etwa 110 Sitz-\nplätze faßt, bot für die Zuhörer keinen\ngenügenden Raum. ... Professor D. Schlatter\n... hielt nicht, wie erwartet, eine ein-\nleitende Ansprache, sondern ging sofort\nzu dem Gegenstande seiner Vorlesung, der\nneutestamentlichen Theologie, über. Er\nlas nicht, sondern trug frei und lebendig\nvor.\" (Kreuzzeitung vom 24.10.1893) In-\nventar-Nr 811",
+          "text": "Antrittsvorlesung nachmittags, 4 Uhr.\n\"Das Auditorium, das etwa 110 Sitzplätze faßt, bot für die Zuhörer keinen\ngenügenden Raum. ... Professor D. Schlatter\n... hielt nicht, wie erwartet, eine einleitende Ansprache, sondern ging sofort\nzu dem Gegenstande seiner Vorlesung, der\nneutestamentlichen Theologie, über. Er\nlas nicht, sondern trug frei und lebendig\nvor.\" (Kreuzzeitung vom 24.10.1893) Inventar-Nr 811",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -1173,7 +1173,7 @@ const timelineData = {
           "filterDate": "1893-11-01",
           "title": "Beginn der Lehrtätigkeit",
           "date": "Wintersemester 1893/1894",
-          "text": "Schlatter beginnt seine Lehrtätigkeit mit\nVorlesungen über Matthäus und Neutestament-\nliche Theologie sowie einem Seminar über\nDogmatik.",
+          "text": "Schlatter beginnt seine Lehrtätigkeit mit\nVorlesungen über Matthäus und Neutestamentliche Theologie sowie einem Seminar über\nDogmatik.",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -1194,7 +1194,7 @@ const timelineData = {
           "filterDate": "1894-04-01",
           "title": "Christliche Ethik; Verhältnis zu Harnack",
           "date": "1894 Sommersemester",
-          "text": "Schlatter liest erstmals \"Christliche\nEthik\".\nAdolf von Harnack distanziert sich von\nProfessor Schürers Abwertung der \"Topo-\ngraphie\". Daraus entwickelt sich ein\nfreundschaftliches Verhältnis, während\ndie Haltung der übrigen Kollegen gegen-\nüber Schlatter kühl bleibt.",
+          "text": "Schlatter liest erstmals \"Christliche\nEthik\".\nAdolf von Harnack distanziert sich von\nProfessor Schürers Abwertung der \"Topographie\". Daraus entwickelt sich ein\nfreundschaftliches Verhältnis, während\ndie Haltung der übrigen Kollegen gegenüber Schlatter kühl bleibt.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -1209,7 +1209,7 @@ const timelineData = {
           "filterDate": "1894-06-02",
           "title": "Würdigung durch Adolf Stöcker",
           "date": "2. Juni",
-          "text": "Adolf Stöcker würdigt in seiner Deutschen\nEvangelischen Kirchenzeitung den Vortrag\nvon Schlatter über \"Die Sünde wider den\nHeiligen Geist\" vor der Berliner Pastoral-\nKonferenz am 24. Mai 1894. Inventar-\nnr 809\n\nTod von Wilhelmine Schlatter geborene Steinmann. Schlatter war mit seiner Mutter eng verbunden. Er schrieb ihr bis zuletzt regelmäßig Briefe mit Be- richten über seine Arbeit. Inventar- Nr 450 ff.",
+          "text": "Adolf Stöcker würdigt in seiner Deutschen\nEvangelischen Kirchenzeitung den Vortrag\nvon Schlatter über \"Die Sünde wider den\nHeiligen Geist\" vor der Berliner PastoralKonferenz am 24. Mai 1894. Inventarnr 809\n\nTod von Wilhelmine Schlatter geborene Steinmann. Schlatter war mit seiner Mutter eng verbunden. Er schrieb ihr bis zuletzt regelmäßig Briefe mit Be- richten über seine Arbeit. Inventar- Nr 450 ff.",
           "icon": "fas fa-church",
           "tags": [
             "Theologie",
@@ -1376,7 +1376,7 @@ const timelineData = {
           "filterDate": "1897-05-01",
           "title": "Erinnerungsmedaille verliehen",
           "date": "Mai",
-          "text": "Unterrichtsminister Bosse verleiht\nProdekan Schlatter die Erinnerungs-\nmedaille zum 100. Geburtstag Kaiser\nWilhelms I.",
+          "text": "Unterrichtsminister Bosse verleiht\nProdekan Schlatter die Erinnerungsmedaille zum 100. Geburtstag Kaiser\nWilhelms I.",
           "icon": "fas fa-university",
           "tags": [
             "Allgemein"
@@ -1391,7 +1391,7 @@ const timelineData = {
           "filterDate": "1897-07-27",
           "title": "Tübinger Fakultät schlägt Schlatter vor",
           "date": "27. Juli",
-          "text": "Die Tübinger Evang.-Theologische Fakultät\nbeschließt, für die 6. Professur, die für\ndie neutestamentlichenDisziplinen neu er-\nrichtet ist, \"Professor Schlatter in\nBerlin\" an erster Stelle vorzuschlagen.",
+          "text": "Die Tübinger Evang.-Theologische Fakultät\nbeschließt, für die 6. Professur, die für\ndie neutestamentlichenDisziplinen neu errichtet ist, \"Professor Schlatter in\nBerlin\" an erster Stelle vorzuschlagen.",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -1406,7 +1406,7 @@ const timelineData = {
           "filterDate": "1897-08-01",
           "title": "Aufenthalt in Braunlage/Harz; Pläne für Theologische Wochen",
           "date": "August",
-          "text": "Schlatter ist Gast im Ferienquartier Vater\nBodelschwinghs in Braunlage/Harz. Hier ver-\ntieft sich die Freundschaft der beiden, und\nes reift der Plan, regelmäßige Theologische\nWochen in Bethel zu halten. Theologie am\nOrt der Diakonie - das zündet bei ihm.\n\nEin ähnliches Motiv läßt ihn auch die\n- wesentlich losere - Verbindung mit dem\nkirchlich und politisch umstritten gewor-\ndenen Adolf Stöcker nicht abbrechen. Er\nschätzt ihn nicht so sehr als ehemaligen,\nschon 1890 beim Kaiser in Ungnade gefalle-\nnen Hofprediger, auch nicht so sehr als den\nmitreißenden Volkstribun, sondern als den\nuner müdlichen Leiter der Berliner Stadt-\nmission. Christlich-soziale Bewegung, die\nsich im Dienst für das Volk bewährt,\nbleibt für Adolf Schlatter ebenfalls ein\nwesentliches Motiv seines Denkens und\nHandelns.",
+          "text": "Schlatter ist Gast im Ferienquartier Vater\nBodelschwinghs in Braunlage/Harz. Hier vertieft sich die Freundschaft der beiden, und\nes reift der Plan, regelmäßige Theologische\nWochen in Bethel zu halten. Theologie am\nOrt der Diakonie - das zündet bei ihm.\n\nEin ähnliches Motiv läßt ihn auch die\n- wesentlich losere - Verbindung mit dem\nkirchlich und politisch umstritten gewordenen Adolf Stöcker nicht abbrechen. Er\nschätzt ihn nicht so sehr als ehemaligen,\nschon 1890 beim Kaiser in Ungnade gefallenen Hofprediger, auch nicht so sehr als den\nmitreißenden Volkstribun, sondern als den\nuner müdlichen Leiter der Berliner Stadtmission. Christlich-soziale Bewegung, die\nsich im Dienst für das Volk bewährt,\nbleibt für Adolf Schlatter ebenfalls ein\nwesentliches Motiv seines Denkens und\nHandelns.",
           "icon": "fas fa-map-marker-alt",
           "tags": [
             "Reisen",
@@ -1423,7 +1423,7 @@ const timelineData = {
           "filterDate": "1897-10-01",
           "title": "Lehre im Wintersemester 1897/1898 in Berlin",
           "date": "Wintersemester 1897/1898",
-          "text": "Schlatter liest im letzten Berliner Se-\nmester über Matthäusevangelium und Dog-\nmatik I. Auch nimmt er weiter seine Mit-\narbeit im Evangelischen Verein für kirch-\nliche Zwecke und im CVJM Berlin wahr.",
+          "text": "Schlatter liest im letzten Berliner Semester über Matthäusevangelium und Dogmatik I. Auch nimmt er weiter seine Mitarbeit im Evangelischen Verein für kirchliche Zwecke und im CVJM Berlin wahr.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -1438,7 +1438,7 @@ const timelineData = {
           "filterDate": "1897-11-04",
           "title": "Annahme der Berufung",
           "date": "4. November",
-          "text": "Nach mehrfachem Schriftwechsel zur ge-\nnaueren Klärung seines künftigen Lehr-\nauftrags (Neues Testament, zusätzlich\nsystematische Theologie, keine praktische\nTheologie) schreibt Schlatter abschließend\ndem Dekan der Evang.-Theologischen Fakultät\nTübingen: \"Ich habe heute dem Herrn Minister\ngeschrieben, daß ich die Berufung annehme.\"",
+          "text": "Nach mehrfachem Schriftwechsel zur genaueren Klärung seines künftigen Lehrauftrags (Neues Testament, zusätzlich\nsystematische Theologie, keine praktische\nTheologie) schreibt Schlatter abschließend\ndem Dekan der Evang.-Theologischen Fakultät\nTübingen: \"Ich habe heute dem Herrn Minister\ngeschrieben, daß ich die Berufung annehme.\"",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -1453,7 +1453,7 @@ const timelineData = {
           "filterDate": "1897-11-05",
           "title": "Hörsaal-Plan mit Eventual-Einträgen",
           "date": "5. November",
-          "text": "Im Hörsaal-Plan des Evang. Stifts Tübingen,\nin welchem die Vorlesungen der Evang.-Theo-\nlogischen Fakultät stattfinden, finden sich\nbereits für das Sommersemester 1897 Even-\ntual-Einträge \"Professor Schlatter\". Inven-\ntar-Nr. 837",
+          "text": "Im Hörsaal-Plan des Evang. Stifts Tübingen,\nin welchem die Vorlesungen der Evang.-Theologischen Fakultät stattfinden, finden sich\nbereits für das Sommersemester 1897 Eventual-Einträge \"Professor Schlatter\". Inventar-Nr. 837",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -1470,7 +1470,7 @@ const timelineData = {
           "filterDate": "1897-11-08",
           "title": "Berufung nach Tübingen durch Ministerium",
           "date": "8. November",
-          "text": "Das Kirchen- und Schulministerium Stuttgart\nberuft Schlatter mit Wirkung vom 1. April\n1898 nach Tübingen auf die \"neu errichtete\nordentliche Professur für die neutestament-\nlichen Disziplinen\". Dabei wird ihm frei-\ngestellt, \"im Benehmen mit der Fakultät\nunter Umständen auch über Dogmatik zu lesen\nund sich soweit möglich an der praktischen\nUnterweisung der Studierenden zu beteili-\ngen\". Inventar-Nr. 828",
+          "text": "Das Kirchen- und Schulministerium Stuttgart\nberuft Schlatter mit Wirkung vom 1. April\n1898 nach Tübingen auf die \"neu errichtete\nordentliche Professur für die neutestamentlichen Disziplinen\". Dabei wird ihm freigestellt, \"im Benehmen mit der Fakultät\nunter Umständen auch über Dogmatik zu lesen\nund sich soweit möglich an der praktischen\nUnterweisung der Studierenden zu beteiligen\". Inventar-Nr. 828",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -1493,7 +1493,7 @@ const timelineData = {
           "filterDate": "1898-01-21",
           "title": "Zeitungsmeldung zur Professur-Besetzung",
           "date": "21. Januar",
-          "text": "Meldung der Kreuz-Zeitung zu Aus-\neinandersetzungen über die Besetzung\nder freiwerdenden Professur von\nSchlatter, da Hermann Cremer in Greifs-\nwald bleiben will.",
+          "text": "Meldung der Kreuz-Zeitung zu Auseinandersetzungen über die Besetzung\nder freiwerdenden Professur von\nSchlatter, da Hermann Cremer in Greifswald bleiben will.",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -1508,7 +1508,7 @@ const timelineData = {
           "filterDate": "1898-03-01",
           "title": "Mitteilung des Unterrichtsministeriums",
           "date": "1. März",
-          "text": "Das Unterrichtsministerium teilt dem\nEvang. Oberkirchenrat Berlin seine Ab-\nsicht mit, Professor D. Seeberg auf das\nzur Erledigung kommende Ordinariat für\nsystematische Theologie zu berufen.\nInventar- № 814",
+          "text": "Das Unterrichtsministerium teilt dem\nEvang. Oberkirchenrat Berlin seine Absicht mit, Professor D. Seeberg auf das\nzur Erledigung kommende Ordinariat für\nsystematische Theologie zu berufen.\nInventar- № 814",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -1540,7 +1540,7 @@ const timelineData = {
           "filterDate": "1898-04-18",
           "title": "Eintritt in die Tübinger Fakultät",
           "date": "18. April",
-          "text": "Schlatter tritt in die Evang.-Theolo-\ngische Fakultät Tübingen ein.",
+          "text": "Schlatter tritt in die Evang.-Theologische Fakultät Tübingen ein.",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -1555,7 +1555,7 @@ const timelineData = {
           "filterDate": "1898-05-11",
           "title": "Jahresversammlung der Evang.-kirchlichen Vereinigung (Stuttgart)",
           "date": "11. Mai",
-          "text": "Schlatter spricht bei der Jahresversammlung\nder Evang.-kirchlichen Vereinigung in\nStuttgart über \"Christi Versöhnen und\nChristi Vergeben\".\n\nDie Evang.-kirchliche Vereinigung (Dekan\nChr. Römer) war in Verbindung mit Kreisen\ndes württ. Pietismus (Stadtpfarrer Friedrich\nJehle) an seiner Berufung maßgeblich be-\nteiligt.",
+          "text": "Schlatter spricht bei der Jahresversammlung\nder Evang.-kirchlichen Vereinigung in\nStuttgart über \"Christi Versöhnen und\nChristi Vergeben\".\n\nDie Evang.-kirchliche Vereinigung (Dekan\nChr. Römer) war in Verbindung mit Kreisen\ndes württ. Pietismus (Stadtpfarrer Friedrich\nJehle) an seiner Berufung maßgeblich beteiligt.",
           "icon": "fas fa-church",
           "tags": [
             "Theologie",
@@ -1571,7 +1571,7 @@ const timelineData = {
           "filterDate": "1898-06-16",
           "title": "Akademische Antrittsrede",
           "date": "16. Juni",
-          "text": "Akademische Antrittsrede: Das Neue Testa-\nment und die zeitgenössische Theologie\nJerusalems. Manuskript, 20 Blätter. Inven-\ntar- Nr. 770.",
+          "text": "Akademische Antrittsrede: Das Neue Testament und die zeitgenössische Theologie\nJerusalems. Manuskript, 20 Blätter. Inventar- Nr. 770.",
           "icon": "fas fa-graduation-cap",
           "tags": [
             "Theologie"
@@ -1588,7 +1588,7 @@ const timelineData = {
           "filterDate": "1898-08-14",
           "title": "Erste Theologische Woche in Bethel",
           "date": "14. - 20. August",
-          "text": "Erste Theologische Woche (\"Theologischer Kursus\") in Bethel. Schlatter spricht\nüber \"Die Wirkung des Heiligen Geistes\nin den Gläubigen\", in dem er wesentliche\nFragen der christlichen Ethik anschneidet.\nVon da ab ist Schlatter bis einschließlich\n1932 an fast allen der meist im zweijähri-\ngen Turnus stattfindenden Theologischen\nWochen in Bethel mit Vorträgen und An-\ndachten beteiligt. Gesamtaufstellung von\nPastor Jaspers. Inventar-Nr 679",
+          "text": "Erste Theologische Woche (\"Theologischer Kursus\") in Bethel. Schlatter spricht\nüber \"Die Wirkung des Heiligen Geistes\nin den Gläubigen\", in dem er wesentliche\nFragen der christlichen Ethik anschneidet.\nVon da ab ist Schlatter bis einschließlich\n1932 an fast allen der meist im zweijährigen Turnus stattfindenden Theologischen\nWochen in Bethel mit Vorträgen und Andachten beteiligt. Gesamtaufstellung von\nPastor Jaspers. Inventar-Nr 679",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -1611,7 +1611,7 @@ const timelineData = {
           "filterDate": "1899-03-01",
           "title": "Erster Tübinger Licentiat und weitere Licentiaten",
           "date": "März",
-          "text": "Angesichts der kühlen Zurückhaltung des\nSchlatters erster Tübinger Licentiat ein\nRepetent ist: Traub. (Möglicherweise han-\ndelt es sich um Friedrich Traub, den spä-\nteren Ephorus.)\nWeitere Licentiaten folgen in den nächsten\nJahren, darunter cand. theol. H.A. Hesse\n(magna cum laude).\nZusammenstellung der sorgfältigen, aus-\nführlichen Gutachten von Schlatter: Inven-\ntar-Nr 825",
+          "text": "Angesichts der kühlen Zurückhaltung des\nSchlatters erster Tübinger Licentiat ein\nRepetent ist: Traub. (Möglicherweise handelt es sich um Friedrich Traub, den späteren Ephorus.)\nWeitere Licentiaten folgen in den nächsten\nJahren, darunter cand. theol. H.A. Hesse\n(magna cum laude).\nZusammenstellung der sorgfältigen, ausführlichen Gutachten von Schlatter: Inventar-Nr 825",
           "icon": "fas fa-graduation-cap",
           "tags": [
             "Theologie"
@@ -1643,7 +1643,7 @@ const timelineData = {
           "filterDate": "1899-09-27",
           "title": "Plochinger Konferenz: Vortrag über die Bedeutung des Denkens",
           "date": "27. September",
-          "text": "Schlatters Vortrag bei der Plochinger\nKonferenz über \"Die Bedeutung des Denkens\nfür den Glaubensstand\" steht im Zusammen-\nhang mit der viel beachteten Herausgabe\nvon:",
+          "text": "Schlatters Vortrag bei der Plochinger\nKonferenz über \"Die Bedeutung des Denkens\nfür den Glaubensstand\" steht im Zusammenhang mit der viel beachteten Herausgabe\nvon:",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -1700,7 +1700,7 @@ const timelineData = {
           "filterDate": "1901-01-27",
           "title": "Rede zum Kaisersgeburtstag; Buchveröffentlichung",
           "date": "27. Januar",
-          "text": "Für die in diesem Jahr der Evang.-Theologischen Fakultät zufallende Rede zum Geburtstag des Kaisers von der Universität Tübingen wählt Schlatter das Thema: \"Was ist heute die religiöse Aufgabe der Universitäten?\"\n\nIm Calwer Verlag erscheint 1901 seine \"Geschichte Israels von Alexander dem Großen bis Hadrian\" als Frucht langjähriger Studien. Vgl. seine gleichnamige Vorlesung im Wintersemester 1899/1900 und ähnlich schon in Greifswald 1892/1893 \"Von Herodes bis Hadrian\".\n\nSpäterer Nachdruck der Wissenschaft-\nlichen Buchgesellschaft in Darmstadt\n1972 mit Vorbemerkung von Professor\nLeonhard Goppelt, München, Mann von\nSchlatters Enkelin Dora geborene\nSchlatter.\n\nGroßes Echo in ca. 30 Rezensionen,\ndavon je eine in Südafrika (Durham)\nund U.S.A. (Cambridge Mass.).",
+          "text": "Für die in diesem Jahr der Evang.-Theologischen Fakultät zufallende Rede zum Geburtstag des Kaisers von der Universität Tübingen wählt Schlatter das Thema: \"Was ist heute die religiöse Aufgabe der Universitäten?\"\n\nIm Calwer Verlag erscheint 1901 seine \"Geschichte Israels von Alexander dem Großen bis Hadrian\" als Frucht langjähriger Studien. Vgl. seine gleichnamige Vorlesung im Wintersemester 1899/1900 und ähnlich schon in Greifswald 1892/1893 \"Von Herodes bis Hadrian\".\n\nSpäterer Nachdruck der Wissenschaftlichen Buchgesellschaft in Darmstadt\n1972 mit Vorbemerkung von Professor\nLeonhard Goppelt, München, Mann von\nSchlatters Enkelin Dora geborene\nSchlatter.\n\nGroßes Echo in ca. 30 Rezensionen,\ndavon je eine in Südafrika (Durham)\nund U.S.A. (Cambridge Mass.).",
           "icon": "fas fa-calendar",
           "tags": [
             "Theologie"
@@ -1715,7 +1715,7 @@ const timelineData = {
           "filterDate": "1901-04-01",
           "title": "Vorlesung \"Leben Jesu\" fortgeführt",
           "date": "Sommersemester",
-          "text": "Schlatter knüpft mit \"Leben Jesu\" an\nVorlesungen 1889 und 1894 (Greifswald)\nan und führt sie in regelmäßigen Ab-\nständen fort bis 1927/1928.",
+          "text": "Schlatter knüpft mit \"Leben Jesu\" an\nVorlesungen 1889 und 1894 (Greifswald)\nan und führt sie in regelmäßigen Abständen fort bis 1927/1928.",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -1730,7 +1730,7 @@ const timelineData = {
           "filterDate": "1901-10-01",
           "title": "Geschichte der apostolischen Kirche und Matthäusvorlesung",
           "date": "Wintersemester 1901/1902",
-          "text": "Erstmals liest er \"Geschichte der\napostolischen Kirche\".\n\nDie regelmäßig wiederkehrende Matthäus-\nvorlesung heißt diesmal \"Matthäusevange-\nlium mit Berücksichtigung der synopti-\nschen Parallelen\".\n\nEs ist anzunehmen, daß er auch sonst\njeweils Markus und Lukas einbezogen hat.",
+          "text": "Erstmals liest er \"Geschichte der\napostolischen Kirche\".\n\nDie regelmäßig wiederkehrende Matthäusvorlesung heißt diesmal \"Matthäusevangelium mit Berücksichtigung der synoptischen Parallelen\".\n\nEs ist anzunehmen, daß er auch sonst\njeweils Markus und Lukas einbezogen hat.",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -1938,7 +1938,7 @@ const timelineData = {
           "filterDate": "1906-01-01",
           "title": "Veröffentlichung der Cartesius-Vorlesung; weitere Auflagen und Echo",
           "date": "",
-          "text": "Seine Cartesius-Vorlesung von 1905/1906, mit der Schlatter teilweise auch Anerkennung bei Stiftlern und Stiftsrepetenten gewinnt, erscheint unter dem Titel \"Die philosophische Arbeit seit Cartesius nach ihrem ethischen und religiösem Ertrag\" als Heft 10/ 1906 der 'Beiträge'.\n\nWeitere Auflagen 1910 und 1923 sowie eine von Theodor Schlatter mit Vorwort von Helmut Thielicke in Calwer Verlag 1959 herausgegebene 4. Auflage zeigen ein breites Echo, das sich bis 1924 in 35, ab 1959 in 8 Rezensionen aus dem Bereich von\n\nTheologie und Philosophie (4 Rezensi-\n- onen) zeigt. Die Auflage von 1923\nwird mit einem Geleitwort von Hans\nStroh 1981 im Brunnen-Verlag Gießen/\nBasel nachgedruckt.",
+          "text": "Seine Cartesius-Vorlesung von 1905/1906, mit der Schlatter teilweise auch Anerkennung bei Stiftlern und Stiftsrepetenten gewinnt, erscheint unter dem Titel \"Die philosophische Arbeit seit Cartesius nach ihrem ethischen und religiösem Ertrag\" als Heft 10/ 1906 der 'Beiträge'.\n\nWeitere Auflagen 1910 und 1923 sowie eine von Theodor Schlatter mit Vorwort von Helmut Thielicke in Calwer Verlag 1959 herausgegebene 4. Auflage zeigen ein breites Echo, das sich bis 1924 in 35, ab 1959 in 8 Rezensionen aus dem Bereich von\n\nTheologie und Philosophie (4 Rezensi- onen) zeigt. Die Auflage von 1923\nwird mit einem Geleitwort von Hans\nStroh 1981 im Brunnen-Verlag Gießen/\nBasel nachgedruckt.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -1953,7 +1953,7 @@ const timelineData = {
           "filterDate": "1906-03-17",
           "title": "Vortrag: Paulus und das Griechentum (Aarau)",
           "date": "17. März",
-          "text": "Der Vortrag \"Paulus und das Griechentum\"\nbei der 10. Schweizerischen Christlichen\nStudentenkonferenz Aarau bildet den Auf-\ntakt für Schlatters künftige (ab 1908)\nMitarbeit bei den Allgemeinen Süddeutschen\nChristlichen Studentenkonferenzen.",
+          "text": "Der Vortrag \"Paulus und das Griechentum\"\nbei der 10. Schweizerischen Christlichen\nStudentenkonferenz Aarau bildet den Auftakt für Schlatters künftige (ab 1908)\nMitarbeit bei den Allgemeinen Süddeutschen\nChristlichen Studentenkonferenzen.",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -1968,7 +1968,7 @@ const timelineData = {
           "filterDate": "1906-04-01",
           "title": "Vorlesung \"Jesus und Paulus\" und verwandte Vorträge",
           "date": "Sommersemester",
-          "text": "Das Thema berührt sich mit seiner von\nTheodor Schlatter 1940 bei Kohlhammer\nStuttgart herausgegebenen Vorlesung\n\"Jesus und Paulus\" von 1906.\n\nKarl Heinrich Rengstorf hält sie für wich-\ntig genug, um sie sechs Jahrzehnte später\nabzudrucken. In: Das Paulusbild in der\nneueren Forschung. Wissenschaftliche Buch-\ngemeinschaft Darmstadt, 21969.\n\nIn ähnliche Richtung weist auch der Vortrag\n\"Paulus und Timotheus\" bei der Jahresver-\nsammlung 1906 des für Schlatters Wirken dank-\nbaren Vereins evang. Lehrer in Württemberg.",
+          "text": "Das Thema berührt sich mit seiner von\nTheodor Schlatter 1940 bei Kohlhammer\nStuttgart herausgegebenen Vorlesung\n\"Jesus und Paulus\" von 1906.\n\nKarl Heinrich Rengstorf hält sie für wichtig genug, um sie sechs Jahrzehnte später\nabzudrucken. In: Das Paulusbild in der\nneueren Forschung. Wissenschaftliche Buchgemeinschaft Darmstadt, 21969.\n\nIn ähnliche Richtung weist auch der Vortrag\n\"Paulus und Timotheus\" bei der Jahresversammlung 1906 des für Schlatters Wirken dankbaren Vereins evang. Lehrer in Württemberg.",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -1989,7 +1989,7 @@ const timelineData = {
           "filterDate": "1907-06-01",
           "title": "Vortrag in Potsdam: Die Messianität Jesu",
           "date": "Pfingsten",
-          "text": "Im Zusammenhang mit dem Erscheinen von\n\"Der Zweifel an der Messianität Jesu\" in\nHeft 4/1907 der \"Beiträge\" steht der Vor-\ntrag bei der Theologischen Konferenz der\nEisenacher Gemeinschaftskonferenz in\nPotsdam über \"Die Messianität Jesu in\nihrer geschichtlichen Bedeutung\".",
+          "text": "Im Zusammenhang mit dem Erscheinen von\n\"Der Zweifel an der Messianität Jesu\" in\nHeft 4/1907 der \"Beiträge\" steht der Vortrag bei der Theologischen Konferenz der\nEisenacher Gemeinschaftskonferenz in\nPotsdam über \"Die Messianität Jesu in\nihrer geschichtlichen Bedeutung\".",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -2004,7 +2004,7 @@ const timelineData = {
           "filterDate": "1907-07-09",
           "title": "Tod von Susanna Schlatter",
           "date": "9. Juli",
-          "text": "Tod seiner Ehefrau Susanna Schlatter.\nNachruf Schlatters für seine Frau:\nInventar-Nr: 158\n\nDer Verlust seiner erst 52jährigen\nLebensgefährtin trifft ihn und auch\ndie Kinder schwer. Seine Töchter Hedwig\nund Dora führen ihm künftig den Haus-\nhalt und begleiten ihn hilfreich in\nseinem Wirken. Mit sorgfältigem Sammeln\nund Ordnen seiner Manuskripte und seines\nBriefwechsels haben sie zusammen mit\nihrem Bruder Theodor die spätere Aufbe-\nreitung seines umfangreichen Nachlasses\nin einem Schlatter-Archiv wesentlich er-\nleichtert.",
+          "text": "Tod seiner Ehefrau Susanna Schlatter.\nNachruf Schlatters für seine Frau:\nInventar-Nr: 158\n\nDer Verlust seiner erst 52jährigen\nLebensgefährtin trifft ihn und auch\ndie Kinder schwer. Seine Töchter Hedwig\nund Dora führen ihm künftig den Haushalt und begleiten ihn hilfreich in\nseinem Wirken. Mit sorgfältigem Sammeln\nund Ordnen seiner Manuskripte und seines\nBriefwechsels haben sie zusammen mit\nihrem Bruder Theodor die spätere Aufbereitung seines umfangreichen Nachlasses\nin einem Schlatter-Archiv wesentlich erleichtert.",
           "icon": "fas fa-heart",
           "tags": [
             "Familie"
@@ -2027,7 +2027,7 @@ const timelineData = {
           "filterDate": "1908-05-31",
           "title": "Allgemeine Süddeutsche Christliche Studentenkonferenz in Freudenstadt",
           "date": "Pfingsten",
-          "text": "Allgemeine Süddeutsche Christliche\nStudenten konferenz in Freudenstadt.\n\nSchlatter referiert über \"Studium und\nGlaube\". Die weiteren \"Freudenstädter\nKonferenzen\" und die späteren \"Tübinger\nPfingstkonferenzen\" mit Studenten aller\nFakultäten sind zunehmend geprägt durch\ndie von Schlatter gehaltenen Vorträge,\nMorgenandachten und zusammenfassenden\nSchlußworte.\n\nDie Themen der weiteren Vorträge sind:\nIn Freudenstadt:\n1910: Unsere persönliche Stellung zu\nChristus\n1912: Wir Akademiker und unsere evange-\nlische Kirche\n1914: Unsere Vollkommenheit.\n\nIn Tübingen:\n1917: Der Glaube und die Geschichte\n1920: Das Unser Vater und unsere ge-\ngenwärtige Lage.\n\nDie Mitarbeit bei den Christlichen Stu-\ndentenkonferenzen korrespondiert mit dem\nintensiven Dienst von Schlatter an der\nstudentischen Jugend in Tübingen, vor-\nwiegend der Württ. und Deutschen Christ-\nlichen Studentenvereinigung (DCSV), aber\nauch dem Tübinger Bibelkranz (EK).\n\nDer Tübinger CSV-Kreis bildet 1907 eine\nvon Theodor Schlatter geleitete Haus-\nkommission, der Adolf Schlatter als Ver-\ntreter der der Evang.-Theologischen Fakul-\ntät und der im eng verbundenen Rendanten Hptm.\nKieser als Vertreter des Stifts angehören.\nIm Benehmen mit der Hauskommission erwirbt\nder Württ. Altfreundeverband der DCSV mit\nHilfe von Altfreund Jakob Ziegler die\nHäuser Österbergstraße 2 und 2 1/2 und\nschafft ein vorläufiges Heim für den\nTübinger CSV-Kreis.",
+          "text": "Allgemeine Süddeutsche Christliche\nStudenten konferenz in Freudenstadt.\n\nSchlatter referiert über \"Studium und\nGlaube\". Die weiteren \"Freudenstädter\nKonferenzen\" und die späteren \"Tübinger\nPfingstkonferenzen\" mit Studenten aller\nFakultäten sind zunehmend geprägt durch\ndie von Schlatter gehaltenen Vorträge,\nMorgenandachten und zusammenfassenden\nSchlußworte.\n\nDie Themen der weiteren Vorträge sind:\nIn Freudenstadt:\n1910: Unsere persönliche Stellung zu\nChristus\n1912: Wir Akademiker und unsere evangelische Kirche\n1914: Unsere Vollkommenheit.\n\nIn Tübingen:\n1917: Der Glaube und die Geschichte\n1920: Das Unser Vater und unsere gegenwärtige Lage.\n\nDie Mitarbeit bei den Christlichen Studentenkonferenzen korrespondiert mit dem\nintensiven Dienst von Schlatter an der\nstudentischen Jugend in Tübingen, vorwiegend der Württ. und Deutschen Christlichen Studentenvereinigung (DCSV), aber\nauch dem Tübinger Bibelkranz (EK).\n\nDer Tübinger CSV-Kreis bildet 1907 eine\nvon Theodor Schlatter geleitete Hauskommission, der Adolf Schlatter als Vertreter der der Evang.-Theologischen Fakultät und der im eng verbundenen Rendanten Hptm.\nKieser als Vertreter des Stifts angehören.\nIm Benehmen mit der Hauskommission erwirbt\nder Württ. Altfreundeverband der DCSV mit\nHilfe von Altfreund Jakob Ziegler die\nHäuser Österbergstraße 2 und 2 1/2 und\nschafft ein vorläufiges Heim für den\nTübinger CSV-Kreis.",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -2048,7 +2048,7 @@ const timelineData = {
           "filterDate": "1909-01-01",
           "title": "Theologie des Neuen Testaments (2 Bände)",
           "date": "",
-          "text": "Im Calwer Verlag erscheint die \"Theologie\ndes Neuen Testaments\" in 2 Bänden:\nI Das Wort Jesu - II Die Lehre der Apostel.\n\nDem Werk gehen die seit Greifswald 1889/\n1890 periodisch wiederkehrenden Vorlesun-\ngen von Schlatter über Neutestamentliche\nTheologie voraus; schon 1881/1882 hat er\nin Bern ein Seminar über \"Ausgewählte Ab-\nschnitte neutestamentlicher Theologie\" ge-\nhalten.\n\nDie Zahl der Rezensionen (ca. 45, darunter H. Holtzmann, R. Bultmann, R. Knopf und M. Dibelius) übertrifft die aller seiner bisherigen und künftigen Veröffentlichungen.\n\nIm gleichen Jahr veröffentlicht Schlatter \"Die Theologie des Neuen Testaments und die Dogmatik\" in Heft 4 der \"Beiträge\".\n\nDie Schrift wird 1975 in \"Wege der Forschung\", Band 567, Darmstädter Wissenschaftliche Buchgesellschaft, aufgenommen. Mit dem Essay von Trede \"Über Aufgabe und Methode der sogenannten \"neutestamentlichen Theologie\" ist sie 1973 englisch in SCM-Press London erschienen.",
+          "text": "Im Calwer Verlag erscheint die \"Theologie\ndes Neuen Testaments\" in 2 Bänden:\nI Das Wort Jesu - II Die Lehre der Apostel.\n\nDem Werk gehen die seit Greifswald 1889/\n1890 periodisch wiederkehrenden Vorlesungen von Schlatter über Neutestamentliche\nTheologie voraus; schon 1881/1882 hat er\nin Bern ein Seminar über \"Ausgewählte Abschnitte neutestamentlicher Theologie\" gehalten.\n\nDie Zahl der Rezensionen (ca. 45, darunter H. Holtzmann, R. Bultmann, R. Knopf und M. Dibelius) übertrifft die aller seiner bisherigen und künftigen Veröffentlichungen.\n\nIm gleichen Jahr veröffentlicht Schlatter \"Die Theologie des Neuen Testaments und die Dogmatik\" in Heft 4 der \"Beiträge\".\n\nDie Schrift wird 1975 in \"Wege der Forschung\", Band 567, Darmstädter Wissenschaftliche Buchgesellschaft, aufgenommen. Mit dem Essay von Trede \"Über Aufgabe und Methode der sogenannten \"neutestamentlichen Theologie\" ist sie 1973 englisch in SCM-Press London erschienen.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -2176,7 +2176,7 @@ const timelineData = {
           "filterDate": "1912-04-01",
           "title": "Hörerzahlen im Sommersemester",
           "date": "Sommersemester",
-          "text": "Dies weisen beispielsweise seine Hörer-\nzahlen von 1912 aus: 76 bei der vier-\nstündigen Neutestamentlichen Theologie,\n123 bei der vierstündigen Römerbrief-\nvorlesung, 237 beim fünfstündigen Matthäus-\nevangelium, 141 bei der zweistündigen Ein-\nführung in das theologische Studium; 76\nbeim Unterkurs und 43 beim Oberkurs des\nneutestamentlichen Seminars.",
+          "text": "Dies weisen beispielsweise seine Hörerzahlen von 1912 aus: 76 bei der vierstündigen Neutestamentlichen Theologie,\n123 bei der vierstündigen Römerbriefvorlesung, 237 beim fünfstündigen Matthäusevangelium, 141 bei der zweistündigen Einführung in das theologische Studium; 76\nbeim Unterkurs und 43 beim Oberkurs des\nneutestamentlichen Seminars.",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -2191,7 +2191,7 @@ const timelineData = {
           "filterDate": "1912-04-29",
           "title": "Vortrag und Veröffentlichungen",
           "date": "29. April",
-          "text": "Ein Beispiel für seine aktive Teilnahme\nan der Arbeit der Äußeren Mission ist sein\nVortrag bei der Horber Missionskonferenz\nüber \"Die Gemeinde in der apostolischen\nZeit und im Missionsgebiet\", der überarbei-\nIn Heft 6/1912 folgt \"Das Alte Testament\nin der Apokalypse\". Beide Veröffentlichungen\nlösen zahlreiche Rezensionen aus.",
+          "text": "Ein Beispiel für seine aktive Teilnahme\nan der Arbeit der Äußeren Mission ist sein\nVortrag bei der Horber Missionskonferenz\nüber \"Die Gemeinde in der apostolischen\nZeit und im Missionsgebiet\", der überarbeiIn Heft 6/1912 folgt \"Das Alte Testament\nin der Apokalypse\". Beide Veröffentlichungen\nlösen zahlreiche Rezensionen aus.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie",
@@ -2207,7 +2207,7 @@ const timelineData = {
           "filterDate": "1912-05-29",
           "title": "Ehrenkreuz der Württembergischen Krone",
           "date": "29. Mai",
-          "text": "Zu seinem bevorstehenden 60. Geburtstag\nverleiht ihm der König das Ehrenkreuz des\nOrdens der Württembergischen Krone, ver-\nbunden mit dem Personaladel. Adolf von\nSchlatter hat seinen Adelstitel nie in\nAnspruch genommen.",
+          "text": "Zu seinem bevorstehenden 60. Geburtstag\nverleiht ihm der König das Ehrenkreuz des\nOrdens der Württembergischen Krone, verbunden mit dem Personaladel. Adolf von\nSchlatter hat seinen Adelstitel nie in\nAnspruch genommen.",
           "icon": "fas fa-calendar",
           "tags": [
             "Allgemein"
@@ -2222,7 +2222,7 @@ const timelineData = {
           "filterDate": "1912-07-01",
           "title": "CVJM Tübingen: Vorstand und Jahresbericht",
           "date": "Juli",
-          "text": "Der in der außerordentlichen Mitgliederver-\nsammlung des Christlichen Vereins Junger\nMänner (CVJM) Tübingen vom 20. Januar 1912\nanstelle des zurückgetretenen Dekans Mäder\nals Vorstand gewählte Schlatter gibt im\nMonatsanzeiger des Tübinger CVJM den Jahres-\nbericht 1911/1912 heraus.",
+          "text": "Der in der außerordentlichen Mitgliederversammlung des Christlichen Vereins Junger\nMänner (CVJM) Tübingen vom 20. Januar 1912\nanstelle des zurückgetretenen Dekans Mäder\nals Vorstand gewählte Schlatter gibt im\nMonatsanzeiger des Tübinger CVJM den Jahresbericht 1911/1912 heraus.",
           "icon": "fas fa-church",
           "tags": [
             "Pastoral"
@@ -2237,7 +2237,7 @@ const timelineData = {
           "filterDate": "1912-10-21",
           "title": "Wahl zum Ersatzmann der Landessynode",
           "date": "21. Oktober",
-          "text": "Die Evang.-Theologische Fakultät wählt Schlatter als Ersatzmann des Abgeord-\nneten zur Evang. Landessynode.",
+          "text": "Die Evang.-Theologische Fakultät wählt Schlatter als Ersatzmann des Abgeordneten zur Evang. Landessynode.",
           "icon": "fas fa-church",
           "tags": [
             "Pastoral"
@@ -2252,7 +2252,7 @@ const timelineData = {
           "filterDate": "1912-10-30",
           "title": "CVJM-Unterhaltungsabend im Museum",
           "date": "30. Oktober",
-          "text": "Anläßlich der im Winter 1911/1912 be-\ngonnenen Arbeit der Soldaten-Abteilung des Tübinger CVJM im Vereinshaus Hech-\nhalde 2 findet im Museum ein Unterhal-\ntungsabend unter Mitwirkung der Regi-\nmusik statt, bei dem Schlatter als Vor-\nsitzender \"das gesamte Offizierskorps, das Bataillon, viele Veteranen und die beiden Militärgeistlichen\" sowie \"insbesondere die jungen Rekruten an ihrem Ehrentag\" begrüßen kann. Sekretär Eisenmann wirbt für die Er-\nrichtung eines Soldatenheims in Tübingen (Tübinger Chronik vom 31.10.1912, Inven-\ntar-Nr. 567).",
+          "text": "Anläßlich der im Winter 1911/1912 begonnenen Arbeit der Soldaten-Abteilung des Tübinger CVJM im Vereinshaus Hechhalde 2 findet im Museum ein Unterhaltungsabend unter Mitwirkung der Regimusik statt, bei dem Schlatter als Vorsitzender \"das gesamte Offizierskorps, das Bataillon, viele Veteranen und die beiden Militärgeistlichen\" sowie \"insbesondere die jungen Rekruten an ihrem Ehrentag\" begrüßen kann. Sekretär Eisenmann wirbt für die Errichtung eines Soldatenheims in Tübingen (Tübinger Chronik vom 31.10.1912, Inventar-Nr. 567).",
           "icon": "fas fa-calendar",
           "tags": [
             "Allgemein",
@@ -2270,7 +2270,7 @@ const timelineData = {
           "filterDate": "1912-11-04",
           "title": "Vortrag: Mission und Islam",
           "date": "4. November",
-          "text": "Im Akademischen Missions- und Gustav-Adolf-\nVerein spricht Schlatter im Kleinen Muse-\nums-Saal über \"Mission und Islam\". Der Vor-\ntrag erscheint heute aufs Neue aktuell (Tübinger Chronik vom 5.11.1912, Inven-\ntar-Nr. 567).",
+          "text": "Im Akademischen Missions- und Gustav-AdolfVerein spricht Schlatter im Kleinen Museums-Saal über \"Mission und Islam\". Der Vortrag erscheint heute aufs Neue aktuell (Tübinger Chronik vom 5.11.1912, Inventar-Nr. 567).",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -2293,7 +2293,7 @@ const timelineData = {
           "filterDate": "1913-01-01",
           "title": "1913: Monatsanzeiger des Tübinger CVJM",
           "date": "",
-          "text": "Ab November 1912 gibt Schlatter regelmäßig bis Dezember 1919 den Monatsanzeiger des Tübinger CVJM heraus.\n\nSein schon lange vorher geübter, jetzt noch verstärkter Dienst auch an der noch stü-\ndentischen Jugend ist nur ein, wenn auch be-\nsonderer Teil seiner ununterbrochenen Zu-\nwendung zu den Laien in Kirche und Gemeinde.\n\nDazu gehören auch viele Andachten und Reden vor Frauen, angefangen bei dem von einer seiner Töchter geleiteten Kreis Tübinger Hausgehilfinnen bis hin zu Vorträgen vor Lehrerinnen, Sein mit seelsorgerlicher Beratung und biblischer Unterweisung unermüdlicher Ein-\nsatz hat sich in zahllosen Briefen an Schlatter von Laien aller Altersstufen aus ganz Deutschland und der deutschen Schweiz niedergeschlagen.",
+          "text": "Ab November 1912 gibt Schlatter regelmäßig bis Dezember 1919 den Monatsanzeiger des Tübinger CVJM heraus.\n\nSein schon lange vorher geübter, jetzt noch verstärkter Dienst auch an der noch stüdentischen Jugend ist nur ein, wenn auch besonderer Teil seiner ununterbrochenen Zuwendung zu den Laien in Kirche und Gemeinde.\n\nDazu gehören auch viele Andachten und Reden vor Frauen, angefangen bei dem von einer seiner Töchter geleiteten Kreis Tübinger Hausgehilfinnen bis hin zu Vorträgen vor Lehrerinnen, Sein mit seelsorgerlicher Beratung und biblischer Unterweisung unermüdlicher Einsatz hat sich in zahllosen Briefen an Schlatter von Laien aller Altersstufen aus ganz Deutschland und der deutschen Schweiz niedergeschlagen.",
           "icon": "fas fa-book",
           "tags": [
             "Allgemein",
@@ -2309,7 +2309,7 @@ const timelineData = {
           "filterDate": "1913-01-28",
           "title": "Vortrag im Evang. Vereinshaus; Artikel in der Allgemeinen Ev.-Luth. Kirchenzeitung",
           "date": "28. Januar",
-          "text": "Im Saal des Evang. Vereinshauses spricht Schlatter im Rahmen einer vom Deutsch-\nEvangelischen Frauenbund veranstalteten Vortragsreihe über 'Erinnerungen an Pastor F. V. Bodelschwingh'.\n\nIn der Allgemeinen Evangelisch-Luthe-\nrischen Kirchenzeitung gibt D. Wilhelm Laible eine Artikelserie von zwölf deutschen Theologen über 'Die Wahrheit des apostolischen Glaubensbekenntnisses' heraus.\nDarunter: Adolf Schlatter 'Aufgefahren gen Himmel, wo er sitzet zur Rechten Gottes'. Allgemeine Evangelisch-Luthe-\nrische Kirchenzeitung Nr 46 (1913).\n\nDie Bedeutung des Artikels ist auf dem Hintergrund der Erfahrungen beim Berliner Apostolikumstreit 1892 und dem Religions-\ngespräch zwischen Christoph Schrempf und den Tübinger Theologen 1911 zu verstehen.",
+          "text": "Im Saal des Evang. Vereinshauses spricht Schlatter im Rahmen einer vom DeutschEvangelischen Frauenbund veranstalteten Vortragsreihe über 'Erinnerungen an Pastor F. V. Bodelschwingh'.\n\nIn der Allgemeinen Evangelisch-Lutherischen Kirchenzeitung gibt D. Wilhelm Laible eine Artikelserie von zwölf deutschen Theologen über 'Die Wahrheit des apostolischen Glaubensbekenntnisses' heraus.\nDarunter: Adolf Schlatter 'Aufgefahren gen Himmel, wo er sitzet zur Rechten Gottes'. Allgemeine Evangelisch-Lutherische Kirchenzeitung Nr 46 (1913).\n\nDie Bedeutung des Artikels ist auf dem Hintergrund der Erfahrungen beim Berliner Apostolikumstreit 1892 und dem Religionsgespräch zwischen Christoph Schrempf und den Tübinger Theologen 1911 zu verstehen.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie",
@@ -2325,7 +2325,7 @@ const timelineData = {
           "filterDate": "1913-11-01",
           "title": "Vorlesung im Wintersemester 1913/1914",
           "date": "Wintersemester 1913/1914",
-          "text": "Mit seiner Vorlesung über \"Ausgewählte\nProbleme aus der religiösen Anthropologie\"\nnimmt Schlatter die Kritik am Einstieg\nseines Christlichen Dogmas auf, um dann\nanschließend über dessen Kernstücke \"Schöpfung\nund Erlösung\" zu lesen - beides ein Nach-\nklang zu seinen inzwischen eingestellten\nDogmatik-Vorlesungen.",
+          "text": "Mit seiner Vorlesung über \"Ausgewählte\nProbleme aus der religiösen Anthropologie\"\nnimmt Schlatter die Kritik am Einstieg\nseines Christlichen Dogmas auf, um dann\nanschließend über dessen Kernstücke \"Schöpfung\nund Erlösung\" zu lesen - beides ein Nachklang zu seinen inzwischen eingestellten\nDogmatik-Vorlesungen.",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -2363,7 +2363,7 @@ const timelineData = {
           "filterDate": "1914-04-01",
           "title": "Seminar im Sommersemester",
           "date": "Sommersemester",
-          "text": "Im Seminar stellt er\nmit \"Probleme aus der Geschichte der neu-\ntestamentlichen Ethik\" den Zusammenhang mit\nseiner \"Christlichen Ethik\" her.",
+          "text": "Im Seminar stellt er\nmit \"Probleme aus der Geschichte der neutestamentlichen Ethik\" den Zusammenhang mit\nseiner \"Christlichen Ethik\" her.",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -2378,7 +2378,7 @@ const timelineData = {
           "filterDate": "1914-05-07",
           "title": "Einweihung des DCSV-Hauses in Tübingen",
           "date": "7. Mai",
-          "text": "Der mit Unterstützung von Fabrikant Lechler und größeren Darlehen von Adolf Schlatter auf dem Grundstück von Österbergstraße 2 und 2 1/2 erbaute Neubau des DCSV-Hauses in Tübingen wird an Pfingsten eingeweiht, u. a. mit Grußworten des Rektors der Universität, des Tübinger Dekans, des Vorsitzenden der DCSV Unterstaatssekretär Dr. Georg Michaelis aus Berlin und des Dekans der Evang.-Theologischen Fakultät Professor Schlatter über 2. Korinther 3, 17 und 18.\n\nNach dem Tod von Adolf Schlatter wird das Haus, um es vor dem Zugriff des Nationalsozialismus zu schützen, von der Württ- Landeskirche übernommen und erhält bei der feierlichen Übernahme durch Landesbischof\n\nWurm November 1938 den Namen \"Adolf-\nSchlatter-Haus der Evangelischen Stu-\ndentengemeinde\". Seine Geschichte und\nseine unvergleichlich segensreiche Wir-\nkung ist in der Festschrift von 1964\n\"Das Adolf-Schlatter-Haus in Tübingen\"\ndargestellt.",
+          "text": "Der mit Unterstützung von Fabrikant Lechler und größeren Darlehen von Adolf Schlatter auf dem Grundstück von Österbergstraße 2 und 2 1/2 erbaute Neubau des DCSV-Hauses in Tübingen wird an Pfingsten eingeweiht, u. a. mit Grußworten des Rektors der Universität, des Tübinger Dekans, des Vorsitzenden der DCSV Unterstaatssekretär Dr. Georg Michaelis aus Berlin und des Dekans der Evang.-Theologischen Fakultät Professor Schlatter über 2. Korinther 3, 17 und 18.\n\nNach dem Tod von Adolf Schlatter wird das Haus, um es vor dem Zugriff des Nationalsozialismus zu schützen, von der Württ- Landeskirche übernommen und erhält bei der feierlichen Übernahme durch Landesbischof\n\nWurm November 1938 den Namen \"AdolfSchlatter-Haus der Evangelischen Studentengemeinde\". Seine Geschichte und\nseine unvergleichlich segensreiche Wirkung ist in der Festschrift von 1964\n\"Das Adolf-Schlatter-Haus in Tübingen\"\ndargestellt.",
           "icon": "fas fa-map-marker-alt",
           "tags": [
             "Allgemein"
@@ -2393,7 +2393,7 @@ const timelineData = {
           "filterDate": "1914-05-08",
           "title": "Nachruf am Grab von D. Paul Buder",
           "date": "8. Mai",
-          "text": "Am Grab von Ephorus D. Paul Buder hält\nSchlatter den Nachruf namens der Evang.-\nTheologischen Fakultät.",
+          "text": "Am Grab von Ephorus D. Paul Buder hält\nSchlatter den Nachruf namens der Evang.Theologischen Fakultät.",
           "icon": "fas fa-church",
           "tags": [
             "Pastoral"
@@ -2408,7 +2408,7 @@ const timelineData = {
           "filterDate": "1914-08-09",
           "title": "Predigt zum Kriegsbeginn; Familienereignisse",
           "date": "9. August",
-          "text": "Im Zeichen des ausgebrochenen Ersten Welt-\nkriegs steht seine \"Predigt am Bettag beim\nBeginn des Krieges, Hebräer 4, 16\", er-\nschienen als Sonderdruck im Verlag der\nEvang. Gesellschaft Stuttgart 1914.\n\nTochter Ruth reist Ende Juli nach Edinburg\nzum Eintritt ins dortige Missionsseminar\nund wird dort vom Ausbruch des Krieges über-\nrascht, Sohn Paul wird zum Heeresdienst ein-",
+          "text": "Im Zeichen des ausgebrochenen Ersten Weltkriegs steht seine \"Predigt am Bettag beim\nBeginn des Krieges, Hebräer 4, 16\", erschienen als Sonderdruck im Verlag der\nEvang. Gesellschaft Stuttgart 1914.\n\nTochter Ruth reist Ende Juli nach Edinburg\nzum Eintritt ins dortige Missionsseminar\nund wird dort vom Ausbruch des Krieges überrascht, Sohn Paul wird zum Heeresdienst ein-",
           "icon": "fas fa-church",
           "tags": [
             "Pastoral",
@@ -2446,7 +2446,7 @@ const timelineData = {
           "filterDate": "1915-01-01",
           "title": "1915: Rede, Artikel und Vortragsreihe",
           "date": "",
-          "text": "Daß sich Schlatter schon früh mit der\nKriegsschuldfrage beschäftigt, zeigt seine\nRede vor der Universität am Geburtstag des\nKaisers über \"Recht und Schuld in der Ge-\nschichte\", veröffentlicht in Heft 1/1915\nder \"Beiträge\".\n\nThematisch bedeutsam erscheint auch sein\nArtikel über Biblisches Christentum in\nAllgemeine Evangelisch-Lutherische Kirchen-\nzeitung Nr 48 (1915) mit dem Untertitel \"Was\nhaben unsere Theologen für den kommenden\nFrieden zu sagen?\"\n\nIm Saal des evang. Vereinshauses veranstal-\ntet der Deutsch-Evangelische Frauenbund fünf\nVorträge von Schlatter zur \"Geschichte und\nArbeit des Apostels Paulus\". Darunter:",
+          "text": "Daß sich Schlatter schon früh mit der\nKriegsschuldfrage beschäftigt, zeigt seine\nRede vor der Universität am Geburtstag des\nKaisers über \"Recht und Schuld in der Geschichte\", veröffentlicht in Heft 1/1915\nder \"Beiträge\".\n\nThematisch bedeutsam erscheint auch sein\nArtikel über Biblisches Christentum in\nAllgemeine Evangelisch-Lutherische Kirchenzeitung Nr 48 (1915) mit dem Untertitel \"Was\nhaben unsere Theologen für den kommenden\nFrieden zu sagen?\"\n\nIm Saal des evang. Vereinshauses veranstaltet der Deutsch-Evangelische Frauenbund fünf\nVorträge von Schlatter zur \"Geschichte und\nArbeit des Apostels Paulus\". Darunter:",
           "icon": "fas fa-book",
           "tags": [
             "Theologie",
@@ -2501,7 +2501,7 @@ const timelineData = {
           "filterDate": "1916-01-01",
           "title": "1916: Vortragsreihe \"Die Frau in der apostolischen Gemeinde\"",
           "date": "",
-          "text": "Im gleichen Rahmen hält Schlatter vier Vor-\nträge über \"Die Frau in der apostolischen\nGemeinde\", und zwar",
+          "text": "Im gleichen Rahmen hält Schlatter vier Vorträge über \"Die Frau in der apostolischen\nGemeinde\", und zwar",
           "icon": "fas fa-university",
           "tags": [
             "Theologie",
@@ -2579,7 +2579,7 @@ const timelineData = {
           "filterDate": "1916-03-01",
           "title": "Korrespondenz und Reaktionen auf Solidaritäts-Aufruf",
           "date": "März",
-          "text": "Jean Massart, Académie royale de Belgique,\nspricht die 93 deutschen Gelehrten und\nKünstler, darunter Adolf Schlatter, auf\nden Solidaritäts-Aufruf vom September\n1914 an. Später bittet Dr. Hans Wehberg,\nDeutsche Liga für Völkerbund Berlin mit\nSchreiben vom 14. April 1919, Schlatter\nmöge \"im Interesse der Wiederanknüpfung\nder wissenschaftlichen Beziehungen mit\ndem Ausland\" zusammen mit anderen Gelehr-\nten eine Erklärung abgeben, daß \"heute\nnicht mehr auf dem Boden jenes Aufrufes\"\nstehe.\n\nZusammen mit zwei weiteren diesbezüglichen\nAuslandsbriefen 1916 und 1919: Inventar-\nNr 428/2\n\nWie schon 1914 und 1915 spiegelt sich das\nKriegsgeschehen - ohne freilich andere The-\nmen zu überwiegen - in den von Schlatter\nherausgegebenen Monatsanzeigern des CVJM\nTübingen.",
+          "text": "Jean Massart, Académie royale de Belgique,\nspricht die 93 deutschen Gelehrten und\nKünstler, darunter Adolf Schlatter, auf\nden Solidaritäts-Aufruf vom September\n1914 an. Später bittet Dr. Hans Wehberg,\nDeutsche Liga für Völkerbund Berlin mit\nSchreiben vom 14. April 1919, Schlatter\nmöge \"im Interesse der Wiederanknüpfung\nder wissenschaftlichen Beziehungen mit\ndem Ausland\" zusammen mit anderen Gelehrten eine Erklärung abgeben, daß \"heute\nnicht mehr auf dem Boden jenes Aufrufes\"\nstehe.\n\nZusammen mit zwei weiteren diesbezüglichen\nAuslandsbriefen 1916 und 1919: InventarNr 428/2\n\nWie schon 1914 und 1915 spiegelt sich das\nKriegsgeschehen - ohne freilich andere Themen zu überwiegen - in den von Schlatter\nherausgegebenen Monatsanzeigern des CVJM\nTübingen.",
           "icon": "fas fa-calendar",
           "tags": [
             "Allgemein"
@@ -2596,7 +2596,7 @@ const timelineData = {
           "filterDate": "1916-10-17",
           "title": "Vorträge in Wiesbaden und Beiträge in Nachrichten",
           "date": "17. und 18. Oktober",
-          "text": "Der Frage nach dem tieferen Sinn der Kriegs-\nzeit gelten seine Vorträge auf der 14. Ta-\ngung des Eisenacher Bundes in Wiesbaden:\n\"Der lebendige Gott und seine Führung mit\nunserem Volk\"; \"Das Evangelium Jesu Christi\nund unser Volk\".\n\nSein seelsorgerliches Bemühen um die Sol-\ndaten und ihre Angehörigen spricht aus drei\nBeiträgen in den Nachrichten des Württ.\nAltfreundeverbandes der DCSV, Heft 12/\n\n\"Das Gebet im Krieg\".\n\"Wir alle mit aufgedecktem Angesicht,\n2. Korinther 3, 18\".\n\"Philipper 1, 6. Abendandacht für Stu-\ndenten hinter der Front.\"\n\nSchlatter traut seine jüngste Tochter\nRuth mit Pfarrer Friedrich Hinderer,\nHausen bei Brackenheim. Das Pfarrhaus\ndes Schwiegersohns, vor allem ab 1926\nin Laichingen, ist ihm häufig oft ein-\nRefugium für Arbeit und Entspannung.",
+          "text": "Der Frage nach dem tieferen Sinn der Kriegszeit gelten seine Vorträge auf der 14. Tagung des Eisenacher Bundes in Wiesbaden:\n\"Der lebendige Gott und seine Führung mit\nunserem Volk\"; \"Das Evangelium Jesu Christi\nund unser Volk\".\n\nSein seelsorgerliches Bemühen um die Soldaten und ihre Angehörigen spricht aus drei\nBeiträgen in den Nachrichten des Württ.\nAltfreundeverbandes der DCSV, Heft 12/\n\n\"Das Gebet im Krieg\".\n\"Wir alle mit aufgedecktem Angesicht,\n2. Korinther 3, 18\".\n\"Philipper 1, 6. Abendandacht für Studenten hinter der Front.\"\n\nSchlatter traut seine jüngste Tochter\nRuth mit Pfarrer Friedrich Hinderer,\nHausen bei Brackenheim. Das Pfarrhaus\ndes Schwiegersohns, vor allem ab 1926\nin Laichingen, ist ihm häufig oft einRefugium für Arbeit und Entspannung.",
           "icon": "fas fa-university",
           "tags": [
             "Theologie",
@@ -2618,7 +2618,7 @@ const timelineData = {
           "filterDate": "1917-01-01",
           "title": "1917: Vortragsreihe \"Die Mutter Jesu\"",
           "date": "",
-          "text": "Erneut hält Schlatter vier vom Deutsch-\nEvangelischen Frauenbund veranstaltete Vor-\nträge, diesmal über \"Die Mutter Jesu\", und zwar",
+          "text": "Erneut hält Schlatter vier vom DeutschEvangelischen Frauenbund veranstaltete Vorträge, diesmal über \"Die Mutter Jesu\", und zwar",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -2693,7 +2693,7 @@ const timelineData = {
           "filterDate": "1917-02-25",
           "title": "Wilhelmskreuz und Veröffentlichung",
           "date": "25. Februar",
-          "text": "Der König von Württemberg verleiht Adolf\nvon Schlatter das Wilhelmskreuz.\n\nDie Hörsäle sind leer geworden, aber\nSchlatter beteiligt sich am Theologischen\nKriegshochschulkursus in Lothringen. Den Vor-\ntrag veröffentlicht er unter dem Titel:\n\"Die Gründe der christlichen Gewißheit\",\nCalwer Verlag 1917.",
+          "text": "Der König von Württemberg verleiht Adolf\nvon Schlatter das Wilhelmskreuz.\n\nDie Hörsäle sind leer geworden, aber\nSchlatter beteiligt sich am Theologischen\nKriegshochschulkursus in Lothringen. Den Vortrag veröffentlicht er unter dem Titel:\n\"Die Gründe der christlichen Gewißheit\",\nCalwer Verlag 1917.",
           "icon": "fas fa-calendar",
           "tags": [
             "Allgemein",
@@ -2724,7 +2724,7 @@ const timelineData = {
           "filterDate": "1917-09-01",
           "title": "Reformationsjubiläum: Vorträge und Schrift",
           "date": "September",
-          "text": "Das 400. Jahr nach Luthers Thesenan-\nschlag gibt auch seiner Arbeit beson-\ndere Akzente. Bei einer Missionsver-\nanstaltung spricht er über Luther und\ndie Mission, und sein Vortrag bei der\nTheologischen Woche Bethel heißt: \"Das\nWirken des Heiligen Geistes in der Re-\nformation.\"\n\nVon grundsätzlicher Bedeutung ist:\n\"Luthers Deutung des Römerbriefs. Ein\nBeitrag zur vierten Säularfeier der\nReformation\", Heft 7/1917 der \"Beiträge\".\n\nIn dieser Schrift beschäftigt sich Schlatter\nerneut mit der Rechtfertigungslehre, deren\nlutherischer Ansatz durch den Einfluß\nLuthers, mehr noch von Luthers Nachfolgern\nübernommene radikale Lehre Augustins von\nder Erbsünde verändert erschien, mit der\nFolge einer Entwertung der Schöpfergüte\nGottes, deren Kraft auch in der gefallenen\nWelt und Menschheit positiv wirksam bleibt.\nDies habe in den Kirchen der Reformation zu\neiner verkürzten, weil den ersten Glaubens-\nartikeln vernachlässigenden Verkündigung des\nEvangeliums geführt.\n\nDer spätere Prälat Ludwig Vöhringer, damals\nStadtpfarrer in Reutlingen, gewinnt Schlatter\nfür den Plan regelmäßiger Konferenzen für die\naus den Freudenstädter und Tübinger Studen-\n­tenkonferenzen erwachsene Akademikerschaft.",
+          "text": "Das 400. Jahr nach Luthers Thesenanschlag gibt auch seiner Arbeit besondere Akzente. Bei einer Missionsveranstaltung spricht er über Luther und\ndie Mission, und sein Vortrag bei der\nTheologischen Woche Bethel heißt: \"Das\nWirken des Heiligen Geistes in der Reformation.\"\n\nVon grundsätzlicher Bedeutung ist:\n\"Luthers Deutung des Römerbriefs. Ein\nBeitrag zur vierten Säularfeier der\nReformation\", Heft 7/1917 der \"Beiträge\".\n\nIn dieser Schrift beschäftigt sich Schlatter\nerneut mit der Rechtfertigungslehre, deren\nlutherischer Ansatz durch den Einfluß\nLuthers, mehr noch von Luthers Nachfolgern\nübernommene radikale Lehre Augustins von\nder Erbsünde verändert erschien, mit der\nFolge einer Entwertung der Schöpfergüte\nGottes, deren Kraft auch in der gefallenen\nWelt und Menschheit positiv wirksam bleibt.\nDies habe in den Kirchen der Reformation zu\neiner verkürzten, weil den ersten Glaubensartikeln vernachlässigenden Verkündigung des\nEvangeliums geführt.\n\nDer spätere Prälat Ludwig Vöhringer, damals\nStadtpfarrer in Reutlingen, gewinnt Schlatter\nfür den Plan regelmäßiger Konferenzen für die\naus den Freudenstädter und Tübinger Studen­tenkonferenzen erwachsene Akademikerschaft.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -2917,7 +2917,7 @@ const timelineData = {
           "filterDate": "1919-05-11",
           "title": "Vortrag: Die Zukunft unserer Kirche; Anzeige in der Tübinger Chronik",
           "date": "11. Mai",
-          "text": "\"Die Zukunft unserer Kirche\".\n\nDie Tübinger Chronik, deren Anzeigenteil die Themen der Vortragsreihen beim Deutsch-\nEvangelischen Frauenbund 1915, 1916, 1917 und 1919 entnommen sind, zeigt Mai 1919\nauch Versammlungen \"Evangelischer Männer\" im Saal der DCSV, Oesterberg 2\" mit Vor-\nträgen und Aussprache an:\n\nDie Gleiche Anzeige der Tübinger Chronik weist hin auf einen \"Gottesdienst für die männliche Jugend\", Sonntag, 4. Mai, im evang. Vereinshaus mit Predigt von Stadtpfarrer Schlatter. Inventar-Nr 553\n\nWohl um diese Zeit hat Adolf Schlatter seinen Vorsitz im Tübinger CVJM und die Redaktion des Monatlichen Anzeigers des CVJM an seinen Sohn Theodor Schlatter, Stadtpfarrer in Tübingen abgegeben.",
+          "text": "\"Die Zukunft unserer Kirche\".\n\nDie Tübinger Chronik, deren Anzeigenteil die Themen der Vortragsreihen beim DeutschEvangelischen Frauenbund 1915, 1916, 1917 und 1919 entnommen sind, zeigt Mai 1919\nauch Versammlungen \"Evangelischer Männer\" im Saal der DCSV, Oesterberg 2\" mit Vorträgen und Aussprache an:\n\nDie Gleiche Anzeige der Tübinger Chronik weist hin auf einen \"Gottesdienst für die männliche Jugend\", Sonntag, 4. Mai, im evang. Vereinshaus mit Predigt von Stadtpfarrer Schlatter. Inventar-Nr 553\n\nWohl um diese Zeit hat Adolf Schlatter seinen Vorsitz im Tübinger CVJM und die Redaktion des Monatlichen Anzeigers des CVJM an seinen Sohn Theodor Schlatter, Stadtpfarrer in Tübingen abgegeben.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie",
@@ -3047,7 +3047,7 @@ const timelineData = {
           "filterDate": "1922-01-01",
           "title": "Neujahrsartikel, Buch-Neubearbeitung und Ehrung",
           "date": "1. Januar",
-          "text": "\"Neujahrswünsche für unser Volk\",\nArtikel von Schlatter in dem jetzt von\nStadtpfarrer Theodor Schlatter heraus-\ngegebenen Monatsanzeiger des CVJM Tübingen.\n\nNeubearbeitung von Band II der Theologie\ndes Neuen Testaments:\n\"Die Lehre der Apostel\", Calwer Verlag\n21922.\nNachgedruckt 1977 mit Vorwort von Hans Stroh\nund Peter Stuhlmacher.\n\nSchlatter schreibt seine Rezension zu Karl\nBarths Römerbrief in Heft 12/1922 der Monat-\nschrift Die Furche.\n\nDie Ortsgruppe des Schwäbischen Albvereins\nverleiht \"Prof. Dr. v. Schlatter das Ehren-\nzeichen für ununterbrochene 25jährige\nVereins-Zugehörigkeit\". Es ist ein sprechen-\ndes Zeichen für seine Naturverbundenheit\nnicht nur mit dem schwäbischen, sondern\nauch dem ihm zur zweiten Heimat gewordenen\nwürtt. Land. Inventar-nr 167/1",
+          "text": "\"Neujahrswünsche für unser Volk\",\nArtikel von Schlatter in dem jetzt von\nStadtpfarrer Theodor Schlatter herausgegebenen Monatsanzeiger des CVJM Tübingen.\n\nNeubearbeitung von Band II der Theologie\ndes Neuen Testaments:\n\"Die Lehre der Apostel\", Calwer Verlag\n21922.\nNachgedruckt 1977 mit Vorwort von Hans Stroh\nund Peter Stuhlmacher.\n\nSchlatter schreibt seine Rezension zu Karl\nBarths Römerbrief in Heft 12/1922 der Monatschrift Die Furche.\n\nDie Ortsgruppe des Schwäbischen Albvereins\nverleiht \"Prof. Dr. v. Schlatter das Ehrenzeichen für ununterbrochene 25jährige\nVereins-Zugehörigkeit\". Es ist ein sprechendes Zeichen für seine Naturverbundenheit\nnicht nur mit dem schwäbischen, sondern\nauch dem ihm zur zweiten Heimat gewordenen\nwürtt. Land. Inventar-nr 167/1",
           "icon": "fas fa-book",
           "tags": [
             "Theologie",
@@ -3095,7 +3095,7 @@ const timelineData = {
           "filterDate": "1922-08-16",
           "title": "70. Geburtstag – Glückwunschbriefe",
           "date": "16. August",
-          "text": "Ehrende Briefe von Universität und Fakultät\nund viele Freundesbriefe zu seinem 70. Ge-\nburtstag.",
+          "text": "Ehrende Briefe von Universität und Fakultät\nund viele Freundesbriefe zu seinem 70. Geburtstag.",
           "icon": "fas fa-calendar",
           "tags": [
             "Allgemein"
@@ -3178,7 +3178,7 @@ const timelineData = {
           "filterDate": "1923-01-01",
           "title": "Schreibt \"Erlebtes\" und arbeitet am Bibellexikon",
           "date": "",
-          "text": "In dem etwas stilleren Jahr nach der\nEmeritierung schreibt Schlatter sein\n\"Erlebtes\", das 1924 erscheinen wird, und\narbeitet an seinen vielen Artikeln\nfür die kommende Neubearbeitung des\nCalwer Bibellexikons.\n\nSeine kontinuierliche Beschäftigung mit\nJosephus zeigt sich in Heft 1/1923 der\n\"Beiträge\": \"Der Bericht über das Ende\nJerusalems. Ein Dialog mit Wilhelm Weber.\"\nKarl Heinrich Rengstorf nimmt die Abhand-\nlung 1970 in \"Kleinere Schriften zu Flavius\nJosephus\" (wissenschaftliche Buchgesell-\nschaft Darmstadt) auf).",
+          "text": "In dem etwas stilleren Jahr nach der\nEmeritierung schreibt Schlatter sein\n\"Erlebtes\", das 1924 erscheinen wird, und\narbeitet an seinen vielen Artikeln\nfür die kommende Neubearbeitung des\nCalwer Bibellexikons.\n\nSeine kontinuierliche Beschäftigung mit\nJosephus zeigt sich in Heft 1/1923 der\n\"Beiträge\": \"Der Bericht über das Ende\nJerusalems. Ein Dialog mit Wilhelm Weber.\"\nKarl Heinrich Rengstorf nimmt die Abhandlung 1970 in \"Kleinere Schriften zu Flavius\nJosephus\" (wissenschaftliche Buchgesellschaft Darmstadt) auf).",
           "icon": "fas fa-book",
           "tags": [
             "Theologie",
@@ -3218,7 +3218,7 @@ const timelineData = {
           "filterDate": "1924-01-01",
           "title": "Publikationen und Vorträge",
           "date": "",
-          "text": "\"Erlebtes. Erzählt von Adolf Schlatter\",\nFurche-Verlag Berlin 1924.\nDie lebhafte Nachfrage nach dieser auto-\nbiographischen Schrift erfordert noch im\nselben Jahr 2 weitere Auflagen, denen 1925\ndie 4. Auflage, 1929 eine erweiterte 5. Auf-\nlage folgen. In deutschen und schweizeri-\nschen Kirchenblättern, aber auch in der\ntheologischen Fachliteratur, findet die\nSchrift mit insgesamt 74 Rezensionen ver-\nbreitete Beachtung.\n\nIm Calwer Verlag erscheint die 4., voll-\nständig neu bearbeitete Auflage des Calwer\nBibellexikons, herausgegeben von D. Th.\nHermann. Unter den einundzwanzig Mitarbei-\ntern ist Schlatter mit ca. 80 Artikeln über Bi-\nbelkunde, Neues Testament und neutestamentliche\nZeitgeschichte vertreten.\n\nDer Artikel \"Paulus\" wird 1959 von Karl\nHeinrich Rengstorf in \"Das Paulusbild in\nder neueren deutschen Forschung\", Wissen-\nschaftliche Buchgesellschaft Darmstadt, auf-\ngenommen.\n\nMit dem Vortrag \"Wort und Schrift\" bei der\nTheologischen Woche in Bethel und einer\nBibelbesprechung über Römer 6 - 8 bei der\n8. Tagung Christlicher Akademiker Württem-\nbergs bleibt Schlatter diesen wichtigen\nzweijährig stattfindenden Tagungen weiter-\nhin treu.",
+          "text": "\"Erlebtes. Erzählt von Adolf Schlatter\",\nFurche-Verlag Berlin 1924.\nDie lebhafte Nachfrage nach dieser autobiographischen Schrift erfordert noch im\nselben Jahr 2 weitere Auflagen, denen 1925\ndie 4. Auflage, 1929 eine erweiterte 5. Auflage folgen. In deutschen und schweizerischen Kirchenblättern, aber auch in der\ntheologischen Fachliteratur, findet die\nSchrift mit insgesamt 74 Rezensionen verbreitete Beachtung.\n\nIm Calwer Verlag erscheint die 4., vollständig neu bearbeitete Auflage des Calwer\nBibellexikons, herausgegeben von D. Th.\nHermann. Unter den einundzwanzig Mitarbeitern ist Schlatter mit ca. 80 Artikeln über Bibelkunde, Neues Testament und neutestamentliche\nZeitgeschichte vertreten.\n\nDer Artikel \"Paulus\" wird 1959 von Karl\nHeinrich Rengstorf in \"Das Paulusbild in\nder neueren deutschen Forschung\", Wissenschaftliche Buchgesellschaft Darmstadt, aufgenommen.\n\nMit dem Vortrag \"Wort und Schrift\" bei der\nTheologischen Woche in Bethel und einer\nBibelbesprechung über Römer 6 - 8 bei der\n8. Tagung Christlicher Akademiker Württembergs bleibt Schlatter diesen wichtigen\nzweijährig stattfindenden Tagungen weiterhin treu.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie",
@@ -3278,7 +3278,7 @@ const timelineData = {
           "filterDate": "1926-01-01",
           "title": "Publikationen 1926: Geschichte der ersten Christenheit; Gesammelte Arbeiten zur Schriftfrage",
           "date": "",
-          "text": "Wie die \"Geschichte Israels\" findet auch\nSchlatters \"Die Geschichte der ersten Chri-\nstenheit\", Heft II der \"Beiträge\", 2. Reihe,\nmit je 2 Auflagen 1925 und 1927, beachtliche\nResonanz (20 Rezensionen). Das Buch wird 1971\nim Calwer Verlag nachgedruckt; schon 1955\nist es in London unter dem Titel The Church\nin the New Testament period in englischer\nÜbersetzung erschienen.\n\nMit der 1. Auflage von \"Hilfe in Bibelnot\"\nbeginnt der Treuzeiten-Verlag Velbert\nSchlatters \"Gesammelte Arbeiten zur Schrift-\nfrage\" herauszubringen. 1927 erscheint ein\nErgänzungsband, 1928 ein Gesamtband mit 28\nAufsätzen. Der von Pfarrern und Laien viel-\ngelesene, auch in der Fachliteratur be-\nsprochene Band erscheint nach seinem Tod in\n2. und 1953 in 3. erweiterter Auflage\n(jetzt: Treuzeiten-Verlag Gladbeck).",
+          "text": "Wie die \"Geschichte Israels\" findet auch\nSchlatters \"Die Geschichte der ersten Christenheit\", Heft II der \"Beiträge\", 2. Reihe,\nmit je 2 Auflagen 1925 und 1927, beachtliche\nResonanz (20 Rezensionen). Das Buch wird 1971\nim Calwer Verlag nachgedruckt; schon 1955\nist es in London unter dem Titel The Church\nin the New Testament period in englischer\nÜbersetzung erschienen.\n\nMit der 1. Auflage von \"Hilfe in Bibelnot\"\nbeginnt der Treuzeiten-Verlag Velbert\nSchlatters \"Gesammelte Arbeiten zur Schriftfrage\" herauszubringen. 1927 erscheint ein\nErgänzungsband, 1928 ein Gesamtband mit 28\nAufsätzen. Der von Pfarrern und Laien vielgelesene, auch in der Fachliteratur besprochene Band erscheint nach seinem Tod in\n2. und 1953 in 3. erweiterter Auflage\n(jetzt: Treuzeiten-Verlag Gladbeck).",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -3339,7 +3339,7 @@ const timelineData = {
           "filterDate": "1926-09-01",
           "title": "Ökumene und autobiographischer Beitrag",
           "date": "September",
-          "text": "Schlatter über den Gegensatz von\n\"liberal\" und \"positiv\" hinweg im gemein-\nsamen Blick auf die Ökumene verbunden\nweiß.\n\nWenig beachtet wird Schlatters theologisch\nbedeutsamer autobiographischer Beitrag\n\"Die mir gegebenen Ziele\" in dem von Erich\nStange im Felix Meiner-Verlag Leipzig 1925\nherausgegebenen Buch \"Die Religionswissen-\nschaft der Gegenwart in Selbstdarstellungen\".",
+          "text": "Schlatter über den Gegensatz von\n\"liberal\" und \"positiv\" hinweg im gemeinsamen Blick auf die Ökumene verbunden\nweiß.\n\nWenig beachtet wird Schlatters theologisch\nbedeutsamer autobiographischer Beitrag\n\"Die mir gegebenen Ziele\" in dem von Erich\nStange im Felix Meiner-Verlag Leipzig 1925\nherausgegebenen Buch \"Die Religionswissenschaft der Gegenwart in Selbstdarstellungen\".",
           "icon": "fas fa-book",
           "tags": [
             "Theologie",
@@ -3355,7 +3355,7 @@ const timelineData = {
           "filterDate": "1926-09-01",
           "title": "Vorträge und Publikationen in Bethel",
           "date": "September",
-          "text": "Bedeutsam erscheinen seine Vorträge\n\"Das Gott wohlgefällige Opfer\" bei der\nTheologischen Woche in Bethel (Verlags-\nhandlung Bethel 1926), später unter dem\nTitel \"Opfer - ein Verzicht?\" von Robert\nFrick bearbeitet (MBK-Verlag Bad Salzuflen\n1958). Die für diese Woche vorgesehene\nMitwirkung von Karl Barth kam wegen dessen\nAbsage nicht zustande. 3 Briefe Barths an\nSchlatter, Inventar-Nr 425.\n\nTheodor Schlatter druckt in Heft 18 der\nBetheler \"Blicke aus Gottes Haus in\nGottes Welt\" 2 Aufsätze seines Vaters ab:\n1. Der Idealismus und die Erweckungsbewe-\ngung. 2. Wittigs Leben Jesu.\nManuskript zu einer größeren Arbeit \"Der\nIdealismus und die Erweckungsbewegung in\nmeiner Jugend\", 115 Blätter: Inventar-\nNr 769.857",
+          "text": "Bedeutsam erscheinen seine Vorträge\n\"Das Gott wohlgefällige Opfer\" bei der\nTheologischen Woche in Bethel (Verlagshandlung Bethel 1926), später unter dem\nTitel \"Opfer - ein Verzicht?\" von Robert\nFrick bearbeitet (MBK-Verlag Bad Salzuflen\n1958). Die für diese Woche vorgesehene\nMitwirkung von Karl Barth kam wegen dessen\nAbsage nicht zustande. 3 Briefe Barths an\nSchlatter, Inventar-Nr 425.\n\nTheodor Schlatter druckt in Heft 18 der\nBetheler \"Blicke aus Gottes Haus in\nGottes Welt\" 2 Aufsätze seines Vaters ab:\n1. Der Idealismus und die Erweckungsbewegung. 2. Wittigs Leben Jesu.\nManuskript zu einer größeren Arbeit \"Der\nIdealismus und die Erweckungsbewegung in\nmeiner Jugend\", 115 Blätter: InventarNr 769.857",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -3403,7 +3403,7 @@ const timelineData = {
           "filterDate": "1926-10-16",
           "title": "Vortrag in Freudenstadt",
           "date": "16. - 18. Oktober",
-          "text": "Schlatters Vortrag bei der 9. Tagung christ-\nlicher Akademiker in Freudenstadt \"Der An-\nteil der Christenheit an der Gestaltung\nunseres Volkstums\" läßt erstmals seine Be-\nschäftigung mit den Zielsetzungen der\nchristlich-sozialen Gesinnungsgruppen er-\nkennen.",
+          "text": "Schlatters Vortrag bei der 9. Tagung christlicher Akademiker in Freudenstadt \"Der Anteil der Christenheit an der Gestaltung\nunseres Volkstums\" läßt erstmals seine Beschäftigung mit den Zielsetzungen der\nchristlich-sozialen Gesinnungsgruppen erkennen.",
           "icon": "fas fa-calendar",
           "tags": [
             "Theologie"
@@ -3533,7 +3533,7 @@ const timelineData = {
           "filterDate": "1927-10-01",
           "title": "Letzte Vorlesungen und Seminarinhalte",
           "date": "Wintersemester 1927/1928",
-          "text": "Schlatter hält die letzte seiner 12 Vor-\nlesungen über \"Leben Jesu\" (teilweise \"Ge-\nschichte Jesu\"), die er (nur) in seiner\nTübinger Zeit gehalten hat. Ausführliche\nManuskripte: Inventar-Nr 198\n\nIm neutestamentlichen Seminar behandelt er\nnoch einmal \"Die johanneische Frage\".\n\nNach längerer Pause seit 1919 hält er die\nletzte seiner insgesamt 10 Vorlesungen\n(die erste in Bern 1881) über die Korinther-\nbriefe.",
+          "text": "Schlatter hält die letzte seiner 12 Vorlesungen über \"Leben Jesu\" (teilweise \"Geschichte Jesu\"), die er (nur) in seiner\nTübinger Zeit gehalten hat. Ausführliche\nManuskripte: Inventar-Nr 198\n\nIm neutestamentlichen Seminar behandelt er\nnoch einmal \"Die johanneische Frage\".\n\nNach längerer Pause seit 1919 hält er die\nletzte seiner insgesamt 10 Vorlesungen\n(die erste in Bern 1881) über die Korintherbriefe.",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -3572,7 +3572,7 @@ const timelineData = {
           "filterDate": "1928-01-01",
           "title": "Christlicher Volksdienst in Württemberg; Leitsätze von Prälat Wurm",
           "date": "",
-          "text": "In Württemberg haben sich Gemeinschafts-\nkreise, Evangelische Lehrer, Christliche\nAkademiker und auch Pfarrer, darunter Stadt-\npfarrer Martin Haug, Tübingen, und der Lei-\nter der Synodalgruppe I, Pfarrer Reiff, Mit-\nteltal, dem Christlichen Volksdienst an-\ngeschlossen.\n\nPrälat Wurm veröffentlicht Leitsätze, in\ndenen er vor einer zu engen Verbindung von\nKirche und Politik warnt.",
+          "text": "In Württemberg haben sich Gemeinschaftskreise, Evangelische Lehrer, Christliche\nAkademiker und auch Pfarrer, darunter Stadtpfarrer Martin Haug, Tübingen, und der Leiter der Synodalgruppe I, Pfarrer Reiff, Mitteltal, dem Christlichen Volksdienst angeschlossen.\n\nPrälat Wurm veröffentlicht Leitsätze, in\ndenen er vor einer zu engen Verbindung von\nKirche und Politik warnt.",
           "icon": "fas fa-calendar",
           "tags": [
             "Allgemein",
@@ -3588,7 +3588,7 @@ const timelineData = {
           "filterDate": "1928-02-18",
           "title": "Schlatters Widerspruch gegen Prälat Wurm (Artikel)",
           "date": "18. Februar",
-          "text": "Mit dem Artikel 'Offene und verbundene\nAugen? Zu den Leitsätzen von Prälat Wurm'\nerhebt Schlatter in der Zeitschrift 'Christ-\nlicher Volksdienst' 7/1928 dagegen Wider-\nspruch. Der Artikel erscheint als Flugblatt\nmit dem Titel: 'Warum Christlichen Volks-\ndienst? Eine Antwort von Univ.Prof. D. A.\nSchlatter an Prälat Wurm.' Außerdem wird\ner in der ersten Ausgabe von 'Volksdienst-\nliches Wochenblatt der Christlich-So-",
+          "text": "Mit dem Artikel 'Offene und verbundene\nAugen? Zu den Leitsätzen von Prälat Wurm'\nerhebt Schlatter in der Zeitschrift 'Christlicher Volksdienst' 7/1928 dagegen Widerspruch. Der Artikel erscheint als Flugblatt\nmit dem Titel: 'Warum Christlichen Volksdienst? Eine Antwort von Univ.Prof. D. A.\nSchlatter an Prälat Wurm.' Außerdem wird\ner in der ersten Ausgabe von 'Volksdienstliches Wochenblatt der Christlich-So-",
           "icon": "fas fa-book",
           "tags": [
             "Theologie",
@@ -3604,7 +3604,7 @@ const timelineData = {
           "filterDate": "1928-02-25",
           "title": "Eintrag 25. Februar",
           "date": "25. Februar",
-          "text": "zialen Gesinnungsgemeinschaften West-\nfalens und der Hochbargebiete\" abge-\ndruckt, Vgl. Inventar-Nr 628",
+          "text": "zialen Gesinnungsgemeinschaften Westfalens und der Hochbargebiete\" abgedruckt, Vgl. Inventar-Nr 628",
           "icon": "fas fa-calendar",
           "tags": [
             "Allgemein"
@@ -3619,7 +3619,7 @@ const timelineData = {
           "filterDate": "1928-04-01",
           "title": "Übungen im Seminar beendet",
           "date": "Sommersemester",
-          "text": "Mit dem Thema \"Gnosis und Christentum in\nder neutestamentlichen Zeit\" beendet\nSchlatter seine Übungen im neutestament-\nlichen Seminar.",
+          "text": "Mit dem Thema \"Gnosis und Christentum in\nder neutestamentlichen Zeit\" beendet\nSchlatter seine Übungen im neutestamentlichen Seminar.",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -3670,7 +3670,7 @@ const timelineData = {
           "filterDate": "1929-01-02",
           "title": "Freizeiten-Verlag Veröffentlichungen und Tagung Schönblick",
           "date": "2.-5. Januar",
-          "text": "Der Freizeiten-Verlag Velbert veröffent-\nlicht als Freizeit-Buch Nr. 3 unter dem\nTitel \"Ich will ihn loben bis zum Tod\"\neine Auswahl von 45 Predigten Schlatters\nüber neutestamentliche Texte, ferner als\nFreizeit-Blätter Nr. 1 \"Die Botschaft des\nPaulus. Eine Übersicht über den Römerbrief\",\nNr. 2 \"Unsere Abendmahlseiner\" und Nr. 4\n\"Die Gabe des Christus. Eine Auslegung der\nBergpredigt\" nach einem Vortrag auf der\n10. Tagung Christlicher Akademiker auf dem\nSchönblick.\nZu diesen 4 Veröffentlichungen vgl. die Re-\nzensionen von H. Rendtorff in der Theologi-\nschen Literaturzeitung 54/1929.",
+          "text": "Der Freizeiten-Verlag Velbert veröffentlicht als Freizeit-Buch Nr. 3 unter dem\nTitel \"Ich will ihn loben bis zum Tod\"\neine Auswahl von 45 Predigten Schlatters\nüber neutestamentliche Texte, ferner als\nFreizeit-Blätter Nr. 1 \"Die Botschaft des\nPaulus. Eine Übersicht über den Römerbrief\",\nNr. 2 \"Unsere Abendmahlseiner\" und Nr. 4\n\"Die Gabe des Christus. Eine Auslegung der\nBergpredigt\" nach einem Vortrag auf der\n10. Tagung Christlicher Akademiker auf dem\nSchönblick.\nZu diesen 4 Veröffentlichungen vgl. die Rezensionen von H. Rendtorff in der Theologischen Literaturzeitung 54/1929.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -3685,7 +3685,7 @@ const timelineData = {
           "filterDate": "1929-02-18",
           "title": "Vortrag in Tübingen und Mitarbeit im CV",
           "date": "18. Februar",
-          "text": "Mit dem Vortrag \"Was fordert die Lage unseres Volkes von unserer evangelischen Christenheit?\" in Tübingen bleibt Schlatter bei seiner Mitarbeit im Christlichen Volksdienst, der bei der württ. Landtagswahl 1928 drei Mandate errungen hat. Der Vortrag erscheint mit einem Vorwort von Martin Haus, damals Landesleiter des CV, im Verlag des CV Korntal-Stuttgart.\n\nIn der Neubearbeitung der Christlichen Ethik, Calwer Verlag 3/1929 findet Schlatters Mitwirkung im politischen Bereich ihren Niederschlag, besonders im Abschnitt \"Über das Recht der natürlichen Gemeinschaft\", dessen\n\nUnterabschnitte an Deutlichkeit nichts\nzu wünschen übrig lassen: Die Arbeit\nfür den Staat; Der Anteil an der Regierung;\nDie Teilnahme an der Rechtspflege; Die Ge-\nmeinschaft der Völker; Die Christenheit\nals politischer Verband.\n\nIm Vergleich zu seiner neutestamentlichen\nArbeit findet dieser heute noch aktuelle\nethische Ansatz weniger Beachtung; den\n18 Rezensionen zur 1. (1914) und 2. (1924)\nAuflage folgen nur je 1 Rezension in Deutsch-\nland (1930 Werner de Boor in der Zeitschrift\nfür Theologie und Kirche) und den U.S.A.\n1931 in Theological Magazine, Wartburg\nPublishing House, Chicago.\n\nDen späteren 4. Auflage 1961 ergeht es mit\n2 Rezensionen in der Fachtheologie kaum\nbesser; von weiteren 3 ist das Interesse\ndes Deutschen Ärzteblattes 1964 bemerkenswert.\n\nDie breite Palette seiner Vortragsthemen\nspiegelt sich in den Sammlungen der Drei-\nbücher des Velbert-Verlags: Nr. 4/1929 \"Ge-\nsunde Lehre\" und Nr. 5/1929 \"Der Einzige und\nwir anderen\".\n\nDen Seelsorger Schlatter zeigen die seit\n1925 im Bethel-Verlag erscheinenden Sonder-\ndrucke \"Aus meiner Sprechstunde\". Einer Zu-\nsammenfassung 1929 folgt die auf 32 Themen\nerweiterte Zusammenfassung 1933 und zum\n100. Geburtstag 1952.\n\nViel beachtet wird auch sein Vortrag bei der\nTübinger Tagung der Südwestdeutschen Kon-\nferenz für Innere Mission, gedruckt im Quell-\nVerlag Stuttgart 1929.",
+          "text": "Mit dem Vortrag \"Was fordert die Lage unseres Volkes von unserer evangelischen Christenheit?\" in Tübingen bleibt Schlatter bei seiner Mitarbeit im Christlichen Volksdienst, der bei der württ. Landtagswahl 1928 drei Mandate errungen hat. Der Vortrag erscheint mit einem Vorwort von Martin Haus, damals Landesleiter des CV, im Verlag des CV Korntal-Stuttgart.\n\nIn der Neubearbeitung der Christlichen Ethik, Calwer Verlag 3/1929 findet Schlatters Mitwirkung im politischen Bereich ihren Niederschlag, besonders im Abschnitt \"Über das Recht der natürlichen Gemeinschaft\", dessen\n\nUnterabschnitte an Deutlichkeit nichts\nzu wünschen übrig lassen: Die Arbeit\nfür den Staat; Der Anteil an der Regierung;\nDie Teilnahme an der Rechtspflege; Die Gemeinschaft der Völker; Die Christenheit\nals politischer Verband.\n\nIm Vergleich zu seiner neutestamentlichen\nArbeit findet dieser heute noch aktuelle\nethische Ansatz weniger Beachtung; den\n18 Rezensionen zur 1. (1914) und 2. (1924)\nAuflage folgen nur je 1 Rezension in Deutschland (1930 Werner de Boor in der Zeitschrift\nfür Theologie und Kirche) und den U.S.A.\n1931 in Theological Magazine, Wartburg\nPublishing House, Chicago.\n\nDen späteren 4. Auflage 1961 ergeht es mit\n2 Rezensionen in der Fachtheologie kaum\nbesser; von weiteren 3 ist das Interesse\ndes Deutschen Ärzteblattes 1964 bemerkenswert.\n\nDie breite Palette seiner Vortragsthemen\nspiegelt sich in den Sammlungen der Dreibücher des Velbert-Verlags: Nr. 4/1929 \"Gesunde Lehre\" und Nr. 5/1929 \"Der Einzige und\nwir anderen\".\n\nDen Seelsorger Schlatter zeigen die seit\n1925 im Bethel-Verlag erscheinenden Sonderdrucke \"Aus meiner Sprechstunde\". Einer Zusammenfassung 1929 folgt die auf 32 Themen\nerweiterte Zusammenfassung 1933 und zum\n100. Geburtstag 1952.\n\nViel beachtet wird auch sein Vortrag bei der\nTübinger Tagung der Südwestdeutschen Konferenz für Innere Mission, gedruckt im QuellVerlag Stuttgart 1929.",
           "icon": "fas fa-calendar",
           "tags": [
             "Allgemein",
@@ -3738,7 +3738,7 @@ const timelineData = {
           "filterDate": "1930-01-01",
           "title": "Leitsätze des Christlich-Sozialen Volksdienstes",
           "date": "",
-          "text": "Ob Schlatter an den Leitsätzen des Christlich-Sozialen Volksdienstes (Ergebnis der Verhandlungen zwischen Christlichem Volksdienst und Christlich-sozialer Reichsvereinigung Ende 1929 mit dem Ziel der Beteiligung an der Reichstagswahl am 14. September 1930, abgedruckt in Heft Nr. 5 des Christlichen Volksdienstes, Konstanz 1930) direkt beteiligt war, läßt sich nicht nachweisen. Die Zielsetzung der Leitsätze und des ihnen angeschlossenen Aufrufs deckt sich jedoch weitgehend mit seiner Einstellung. Zu seiner Mitarbeit im Christlichen Volksdienst im Ganzen siehe auch Paul Bausch,\n\nLebenserinnerungen und Erkenntnisse eines\nschwäbischen Abgeordneten\", Selbstverlag\nKorntal 21969 mit Bemerkungen über\nSchlatter Seite 80, 86, 106, 289 sowie Karl\nHeim, Martin Haug und Theodor Haug: In-\nventar-Nr: 503",
+          "text": "Ob Schlatter an den Leitsätzen des Christlich-Sozialen Volksdienstes (Ergebnis der Verhandlungen zwischen Christlichem Volksdienst und Christlich-sozialer Reichsvereinigung Ende 1929 mit dem Ziel der Beteiligung an der Reichstagswahl am 14. September 1930, abgedruckt in Heft Nr. 5 des Christlichen Volksdienstes, Konstanz 1930) direkt beteiligt war, läßt sich nicht nachweisen. Die Zielsetzung der Leitsätze und des ihnen angeschlossenen Aufrufs deckt sich jedoch weitgehend mit seiner Einstellung. Zu seiner Mitarbeit im Christlichen Volksdienst im Ganzen siehe auch Paul Bausch,\n\nLebenserinnerungen und Erkenntnisse eines\nschwäbischen Abgeordneten\", Selbstverlag\nKorntal 21969 mit Bemerkungen über\nSchlatter Seite 80, 86, 106, 289 sowie Karl\nHeim, Martin Haug und Theodor Haug: Inventar-Nr: 503",
           "icon": "fas fa-calendar",
           "tags": [
             "Allgemein"
@@ -3753,7 +3753,7 @@ const timelineData = {
           "filterDate": "1930-01-02",
           "title": "Vorträge in Sebastiansweiler",
           "date": "2.-5. Januar",
-          "text": "Von Schlatters Anliegen, das Evangelium\nim öffentlichen Leben wirksam werden zu\nlassen, zeugen auch seine Vorträge \"Das\nGesetz und das Evangelium in der Schule\"\nbei einer Pädagogisch-theologischen Kurs-\nzeit für Lehrerinnen in Sebastiansweiler,",
+          "text": "Von Schlatters Anliegen, das Evangelium\nim öffentlichen Leben wirksam werden zu\nlassen, zeugen auch seine Vorträge \"Das\nGesetz und das Evangelium in der Schule\"\nbei einer Pädagogisch-theologischen Kurszeit für Lehrerinnen in Sebastiansweiler,",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -3768,7 +3768,7 @@ const timelineData = {
           "filterDate": "1930-03-03",
           "title": "Studientagung \"Wir Christen und die Juden\" in Stuttgart",
           "date": "3.-5. März",
-          "text": "\"Wir Christen und die Juden\" bei der\n5. Studientagung zur Judenfrage in Stuttgart.\n\nAußer 16 Vorlesungen über das Johannes-\nevangelium hat Schlatter auch etliche Se-\nminare über die johanneische Frage gehalten.\nÜber den jetzt im Calwer Verlag erscheinen-\nden Kommentar \"Der Evangelist Johannes: 'Wie er\nspricht, denkt und glaubt' \" hinaus zeigen\numfassende Sammlungen seine intensive\nArbeit über den ganzen Bereich des Corpus\nJohanneum: Inventar-Nr 317 - 323. Zusammen\nmit 2948 erfährt der Kommentar 13 Rezension-\nen; zwei weitere Auflagen folgen 1960 und\n1975.",
+          "text": "\"Wir Christen und die Juden\" bei der\n5. Studientagung zur Judenfrage in Stuttgart.\n\nAußer 16 Vorlesungen über das Johannesevangelium hat Schlatter auch etliche Seminare über die johanneische Frage gehalten.\nÜber den jetzt im Calwer Verlag erscheinenden Kommentar \"Der Evangelist Johannes: 'Wie er\nspricht, denkt und glaubt' \" hinaus zeigen\numfassende Sammlungen seine intensive\nArbeit über den ganzen Bereich des Corpus\nJohanneum: Inventar-Nr 317 - 323. Zusammen\nmit 2948 erfährt der Kommentar 13 Rezensionen; zwei weitere Auflagen folgen 1960 und\n1975.",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -3787,7 +3787,7 @@ const timelineData = {
           "filterDate": "1930-07-01",
           "title": "Abschiedspredigt in der Tübinger Stiftskirche",
           "date": "Juli",
-          "text": "Nach über 30jähriger Tätigkeit als Früh-\nprediger in der Tübinger Stiftskirche hält\nSchlatter seine Abschiedspredigt über\nMatthäus 16, 24-28: \"Gehorsam ist besser\nals Leben\".",
+          "text": "Nach über 30jähriger Tätigkeit als Frühprediger in der Tübinger Stiftskirche hält\nSchlatter seine Abschiedspredigt über\nMatthäus 16, 24-28: \"Gehorsam ist besser\nals Leben\".",
           "icon": "fas fa-church",
           "tags": [
             "Pastoral"
@@ -3858,7 +3858,7 @@ const timelineData = {
           "filterDate": "1931-08-01",
           "title": "Theologische Woche in Bethel; Aufsatz zu Bodelschwingh",
           "date": "August",
-          "text": "Noch wie vor wirkt er bei der Theologischen Woche in Bethel mit und schreibt in diesem Zusammenhang 'Ein dankbares Wort zum 100. Geburtstag von Pastor Friedrich von Bodelschwingh'. Der kleine Aufsatz hat zugleich auch autobiographischen Charakter. Manuskript: Inventar-Nr. 156, 661\n\nImmer noch ist er für die Theologiestuden-\nten und die Christlichen Akademiker da:\n\"Erfolg und Mißerfolg im theologischen\nStudium. Eine Rede an die evangelisch-\ntheologische Fachschaft in Tübingen im\nJahr 1931\" sowie\n\"Drei Erzählungen Jesu\", Bibelarbeiten aus\nTexten des Lukasevangeliums mit Ausspra-\nchen bei der 14. Württ. Akademikertagung.",
+          "text": "Noch wie vor wirkt er bei der Theologischen Woche in Bethel mit und schreibt in diesem Zusammenhang 'Ein dankbares Wort zum 100. Geburtstag von Pastor Friedrich von Bodelschwingh'. Der kleine Aufsatz hat zugleich auch autobiographischen Charakter. Manuskript: Inventar-Nr. 156, 661\n\nImmer noch ist er für die Theologiestudenten und die Christlichen Akademiker da:\n\"Erfolg und Mißerfolg im theologischen\nStudium. Eine Rede an die evangelischtheologische Fachschaft in Tübingen im\nJahr 1931\" sowie\n\"Drei Erzählungen Jesu\", Bibelarbeiten aus\nTexten des Lukasevangeliums mit Aussprachen bei der 14. Württ. Akademikertagung.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -3876,7 +3876,7 @@ const timelineData = {
           "filterDate": "1931-10-10",
           "title": "Auseinandersetzung mit Karl Heim",
           "date": "10. - 14. Oktober",
-          "text": "Viel Aufsehen erregt seine in der Monats-\nschrift für Pastoraltheologie 1931/1932 ver-\nöffentlichte Auseinandersetzung mit Karl\nHeim, ausgelöst durch Schlatters Artikel\n\"Idealismus oder Theologie\", veranlaßt durch\nKarl Heims \"Denken und Glauben\".",
+          "text": "Viel Aufsehen erregt seine in der Monatsschrift für Pastoraltheologie 1931/1932 veröffentlichte Auseinandersetzung mit Karl\nHeim, ausgelöst durch Schlatters Artikel\n\"Idealismus oder Theologie\", veranlaßt durch\nKarl Heims \"Denken und Glauben\".",
           "icon": "fas fa-book",
           "tags": [
             "Theologie",
@@ -3898,7 +3898,7 @@ const timelineData = {
           "filterDate": "1932-02-01",
           "title": "Vortrag \"Christ und Politik\" und Flugschriften",
           "date": "1. Februar",
-          "text": "Letztmalig dient Schlatter dem Christlichen\nVolksdienst mit dem Vortrag \"Christ und Poli-\ntik\" bei dessen Theologischer Arbeitsgemein-\nschaft im Hans Sachs-Haus Stuttgart. Er ge-\nlaubt die Verbreitung des Vortrags in einem\nFlugblatt. In einem weiteren Flugblatt direkt\nzu den Reichspräsidentenwahlen im März/April\n1932 \"Was ist Wahrheit? Eine Untersuchung\ndes weltanschaulichen Wahrheitsgehalts und\ndes politischen Tatsachengehalts der Hitler-\nbewegung vom christlichen, nationalen und\nsozialen Standpunkt aus betrachtet\" übt der\nChristlich-soziale Volksdienst scharfe\nKritik am Nationalsozialismus und stellt\ndie Position seiner Vertreter in den Land-\ntagen und im Reichstag (14) heraus.",
+          "text": "Letztmalig dient Schlatter dem Christlichen\nVolksdienst mit dem Vortrag \"Christ und Politik\" bei dessen Theologischer Arbeitsgemeinschaft im Hans Sachs-Haus Stuttgart. Er gelaubt die Verbreitung des Vortrags in einem\nFlugblatt. In einem weiteren Flugblatt direkt\nzu den Reichspräsidentenwahlen im März/April\n1932 \"Was ist Wahrheit? Eine Untersuchung\ndes weltanschaulichen Wahrheitsgehalts und\ndes politischen Tatsachengehalts der Hitlerbewegung vom christlichen, nationalen und\nsozialen Standpunkt aus betrachtet\" übt der\nChristlich-soziale Volksdienst scharfe\nKritik am Nationalsozialismus und stellt\ndie Position seiner Vertreter in den Landtagen und im Reichstag (14) heraus.",
           "icon": "fas fa-book",
           "tags": [
             "Allgemein",
@@ -3929,7 +3929,7 @@ const timelineData = {
           "filterDate": "1932-10-01",
           "title": "Vortrag: Menschengemeinschaft - Gottesgemeinschaft",
           "date": "Oktober 1932",
-          "text": "\"Menschengemeinschaft - Gottesgemeinschaft\" (16. Freudenstädter Tagung);\n\njenigen, die nur den Titel lesen, stempeln\nSchlatter freilich damals schon als Sym-\npathisanten der \"Deutschen Christen\" ab.",
+          "text": "\"Menschengemeinschaft - Gottesgemeinschaft\" (16. Freudenstädter Tagung);\n\njenigen, die nur den Titel lesen, stempeln\nSchlatter freilich damals schon als Sympathisanten der \"Deutschen Christen\" ab.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -3965,7 +3965,7 @@ const timelineData = {
           "filterDate": "1933-02-05",
           "title": "Briefe und Publikationen",
           "date": "5. Februar",
-          "text": "Theodor Schlatter berichtet seinem Vater, daß er zur Abwehr der zunehmenden NS-Agitation ein Flugblatt des Christlich-sozialen Volksdienstes veröffentlicht habe. Seine Briefe von 1930 - 1933 zeigen, daß die Weiterführung der Theologischen Schule mehrfach in Frage gestellt war, und enthalten u.a. auf Grund seiner engen Verbindungen mit Bodelschwingh viele Einzelheiten über die kirchlich-politische Lage, über die er sich mit seinem Vater austauscht.\n\nWieder erscheint ein Kommentar: \"Der Brief des Jakobus, ausgelegt.\" Unter den Manuskripten zu Jakobus zeigt ein Band besonders deut-\nlich von Schlatters Akribie: \"Der Wortschatz des Jakobus; Silbenzählung zum Jakobusbrief.\" Inventar-Nr. 347\n\nEin wesentlich größeres Echo als der Kommentar zu dem vom Ethiker Schlatter geschätzten Jakobusbrief löst \"Die Theologie des Judentums nach dem Bericht des Josephus\" (\"Beiträge\", 2. Reihe, Band 25) mit 24 Rezensionen aus, darunter in deutschen und ausländischen theologischen Fachzeitschriften, auch in der Orientalischen Literaturzeitung (H. Dielius) und in The Jewish quarterly review London (Cohen). Was er hier auf 270 Seiten verfaßt, die Frucht jahrelanger Arbeit, die sich in einer Fülle von Studien und Sammlungen bis hin zu einem \"Lexikon des Josephus\" niedergeschlagen hat, Inventar-nr. 370-333. 398-408.",
+          "text": "Theodor Schlatter berichtet seinem Vater, daß er zur Abwehr der zunehmenden NS-Agitation ein Flugblatt des Christlich-sozialen Volksdienstes veröffentlicht habe. Seine Briefe von 1930 - 1933 zeigen, daß die Weiterführung der Theologischen Schule mehrfach in Frage gestellt war, und enthalten u.a. auf Grund seiner engen Verbindungen mit Bodelschwingh viele Einzelheiten über die kirchlich-politische Lage, über die er sich mit seinem Vater austauscht.\n\nWieder erscheint ein Kommentar: \"Der Brief des Jakobus, ausgelegt.\" Unter den Manuskripten zu Jakobus zeigt ein Band besonders deutlich von Schlatters Akribie: \"Der Wortschatz des Jakobus; Silbenzählung zum Jakobusbrief.\" Inventar-Nr. 347\n\nEin wesentlich größeres Echo als der Kommentar zu dem vom Ethiker Schlatter geschätzten Jakobusbrief löst \"Die Theologie des Judentums nach dem Bericht des Josephus\" (\"Beiträge\", 2. Reihe, Band 25) mit 24 Rezensionen aus, darunter in deutschen und ausländischen theologischen Fachzeitschriften, auch in der Orientalischen Literaturzeitung (H. Dielius) und in The Jewish quarterly review London (Cohen). Was er hier auf 270 Seiten verfaßt, die Frucht jahrelanger Arbeit, die sich in einer Fülle von Studien und Sammlungen bis hin zu einem \"Lexikon des Josephus\" niedergeschlagen hat, Inventar-nr. 370-333. 398-408.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie",
@@ -4047,7 +4047,7 @@ const timelineData = {
           "filterDate": "1933-08-14",
           "title": "Ehrendoktorwürde Berlin",
           "date": "14. August",
-          "text": "Dagegen wird Schlatter von der Philosophi-\nschen Fakultät Berlin mit dem Doktor phil.\nh.c. ausgezeichnet. Die Würdigung schließt\nmit dem Satz: \"Die Fakultät ehrt in Professor\nvon Schlatter den Vertreter und Erhalter\neiner Philologia sacra im guten alten Sinne,\ndie sich von der genauen und getreuen Auf-\nfassung des Sprachlichen und Geschichtlichen\nzu einer lebensvollen und Leben weckenden\nGesamtsansicht der neutestamentlichen Über-\nlieferung erhebt.\" Inventar-Nr 832",
+          "text": "Dagegen wird Schlatter von der Philosophischen Fakultät Berlin mit dem Doktor phil.\nh.c. ausgezeichnet. Die Würdigung schließt\nmit dem Satz: \"Die Fakultät ehrt in Professor\nvon Schlatter den Vertreter und Erhalter\neiner Philologia sacra im guten alten Sinne,\ndie sich von der genauen und getreuen Auffassung des Sprachlichen und Geschichtlichen\nzu einer lebensvollen und Leben weckenden\nGesamtsansicht der neutestamentlichen Überlieferung erhebt.\" Inventar-Nr 832",
           "icon": "fas fa-university",
           "tags": [
             "Theologie"
@@ -4064,7 +4064,7 @@ const timelineData = {
           "filterDate": "1933-08-16",
           "title": "80. Geburtstag und Auszeichnungen",
           "date": "16. August",
-          "text": "Zu seinem 80. Geburtstag erhält der Jubilar\neine Fülle von dankbaren Glückwunschbriefen\naus ganz Deutschland und der Schweiz. Die\nReihe repräsentativer Glückwünsche aus\nStaat, Kirche und Universität wird von\nReichspräsident von Hindenburg und dem\nwürtt. Staatspräsidenten Dr. Dehlinger an-\ngeführt; unter ihnen ist auch der Bürger-\nrat von St. Gallen. Inventar-Nr 167, 832,853.\n\nDie von der Evang.-Theologischen Fakultät\nTübingen für Adolf von Schlatter (und Karl\nMüller) beantragte Verleihung des Hals-\nschildes des Deutschen Reiches, den von\nTheologieprofessoren bisher nur Adolf von\nHarnack erhalten hatte, wird von Berlin\nnicht gewährt. Inventar-Nr 830",
+          "text": "Zu seinem 80. Geburtstag erhält der Jubilar\neine Fülle von dankbaren Glückwunschbriefen\naus ganz Deutschland und der Schweiz. Die\nReihe repräsentativer Glückwünsche aus\nStaat, Kirche und Universität wird von\nReichspräsident von Hindenburg und dem\nwürtt. Staatspräsidenten Dr. Dehlinger angeführt; unter ihnen ist auch der Bürgerrat von St. Gallen. Inventar-Nr 167, 832,853.\n\nDie von der Evang.-Theologischen Fakultät\nTübingen für Adolf von Schlatter (und Karl\nMüller) beantragte Verleihung des Halsschildes des Deutschen Reiches, den von\nTheologieprofessoren bisher nur Adolf von\nHarnack erhalten hatte, wird von Berlin\nnicht gewährt. Inventar-Nr 830",
           "icon": "fas fa-calendar",
           "tags": [
             "Allgemein"
@@ -4084,7 +4084,7 @@ const timelineData = {
           "filterDate": "1933-08-26",
           "title": "Theologische Leitsätze und \"Betheler Bekenntnis\"",
           "date": "26. August",
-          "text": "Bodelschwingh versendet an eine Reihe von\nTheologieprofessoren, darunter Adolf Schlatter\nund Karl Barth, eine Reihe ausführlicher theo-\nologischer Leitsätze, die als Grundlage zur\nAuseinandersetzung mit den \"Deutschen Chri-\nsten\" dienen sollen. Hauptsächliche Verfasser\nsind Dietrich Bonhoeffer und Hermann Sasse.\nWeitere Mitarbeiter sind Georg Merz und Wil-\nhelm Vischer, letzterer zur Judenfrage. Se-\nkretär des Unternehmens ist Gerhard Stra-\ntenwerth. Schlatter ist, wie später (ge-\nüber Barmen, skeptisch gegenüber der Idee\neiner theologischen Konfrontation durch eine\nneue Bekenntnisbildung. Er kommentiert auch\nden Entwurf sorgfältig. Schlatter und Barth\nhaben von allen Befragten sich am ausführ-\nlichsten geäußert.\n\n\"Betheler\" Bekenntnis\", Heft \"Professor\nSchlatter\", mit seinen handschriftlichen Be-\nmerkungen, dazu Briefwechsel mit Bodel-\nschwingh und Stratenwerth. Inventar 695\n\nAusführliche Darstellung des Ganzen mit Hintergrund-Informationen in Bethges Bonhoeffer-Biographie, 3 1969 Chr. Kaiser-Verlag München.",
+          "text": "Bodelschwingh versendet an eine Reihe von\nTheologieprofessoren, darunter Adolf Schlatter\nund Karl Barth, eine Reihe ausführlicher theoologischer Leitsätze, die als Grundlage zur\nAuseinandersetzung mit den \"Deutschen Christen\" dienen sollen. Hauptsächliche Verfasser\nsind Dietrich Bonhoeffer und Hermann Sasse.\nWeitere Mitarbeiter sind Georg Merz und Wilhelm Vischer, letzterer zur Judenfrage. Sekretär des Unternehmens ist Gerhard Stratenwerth. Schlatter ist, wie später (geüber Barmen, skeptisch gegenüber der Idee\neiner theologischen Konfrontation durch eine\nneue Bekenntnisbildung. Er kommentiert auch\nden Entwurf sorgfältig. Schlatter und Barth\nhaben von allen Befragten sich am ausführlichsten geäußert.\n\n\"Betheler\" Bekenntnis\", Heft \"Professor\nSchlatter\", mit seinen handschriftlichen Bemerkungen, dazu Briefwechsel mit Bodelschwingh und Stratenwerth. Inventar 695\n\nAusführliche Darstellung des Ganzen mit Hintergrund-Informationen in Bethges Bonhoeffer-Biographie, 3 1969 Chr. Kaiser-Verlag München.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -4189,7 +4189,7 @@ const timelineData = {
           "filterDate": "1934-01-25",
           "title": "Briefe im Umfeld der Barmer Erklärung",
           "date": "25. Januar",
-          "text": "Briefe Schlatters vor der Barmer Erklärung\nan Pfarrer Karl Dürr (Baden) und\nan Pastor von Bodelschwingh (Bethel)\nsowie vor allem nach der Barmer Erklärung\nvom 31. Mai 1934\nan Pfarrer Wolfgang Metzger (Württemberg)\nlassen erkennen, daß er - ähnlich wie 1933\nbeim Entwurf zum \"Betheler Bekenntnis\" -\nes den Auftrag der Kirche nicht für ange-\nmessen hält, mit neuer Bekenntnisbildung\nden Herausforderungen der Zeit zu begegnen.",
+          "text": "Briefe Schlatters vor der Barmer Erklärung\nan Pfarrer Karl Dürr (Baden) und\nan Pastor von Bodelschwingh (Bethel)\nsowie vor allem nach der Barmer Erklärung\nvom 31. Mai 1934\nan Pfarrer Wolfgang Metzger (Württemberg)\nlassen erkennen, daß er - ähnlich wie 1933\nbeim Entwurf zum \"Betheler Bekenntnis\" es den Auftrag der Kirche nicht für angemessen hält, mit neuer Bekenntnisbildung\nden Herausforderungen der Zeit zu begegnen.",
           "icon": "fas fa-church",
           "tags": [
             "Theologie",
@@ -4205,7 +4205,7 @@ const timelineData = {
           "filterDate": "1934-05-04",
           "title": "Briefe im Umfeld der Barmer Erklärung",
           "date": "4. Mai",
-          "text": "Briefe Schlatters vor der Barmer Erklärung\nan Pfarrer Karl Dürr (Baden) und\nan Pastor von Bodelschwingh (Bethel)\nsowie vor allem nach der Barmer Erklärung\nvom 31. Mai 1934\nan Pfarrer Wolfgang Metzger (Württemberg)\nlassen erkennen, daß er - ähnlich wie 1933\nbeim Entwurf zum \"Betheler Bekenntnis\" -\nes den Auftrag der Kirche nicht für ange-\nmessen hält, mit neuer Bekenntnisbildung\nden Herausforderungen der Zeit zu begegnen.",
+          "text": "Briefe Schlatters vor der Barmer Erklärung\nan Pfarrer Karl Dürr (Baden) und\nan Pastor von Bodelschwingh (Bethel)\nsowie vor allem nach der Barmer Erklärung\nvom 31. Mai 1934\nan Pfarrer Wolfgang Metzger (Württemberg)\nlassen erkennen, daß er - ähnlich wie 1933\nbeim Entwurf zum \"Betheler Bekenntnis\" es den Auftrag der Kirche nicht für angemessen hält, mit neuer Bekenntnisbildung\nden Herausforderungen der Zeit zu begegnen.",
           "icon": "fas fa-church",
           "tags": [
             "Theologie",
@@ -4221,7 +4221,7 @@ const timelineData = {
           "filterDate": "1934-07-01",
           "title": "Veröffentlichungen und Reden",
           "date": "1. Juli",
-          "text": "Zugleich ringt er auf seine Art um Klarheit:\n\"Das Alte Testament und der Talmud\", ein Bei-\ntrag zu \"Das Alte Testament als Buch der\nKirche\", Heft 7/1934 von \"Bekennende Kirche\",\nChristian Kaiser-Verlag, München (August 1934);\n\"Der Kampf des Paulus gegen die Gleichma-\nchung\", Rede vor der Evang.-Theologischen\nFakultät Tübingen;\n\"Das Evangelium und das Bekenntnis\", Rede in\neinem studentischen Kreis.",
+          "text": "Zugleich ringt er auf seine Art um Klarheit:\n\"Das Alte Testament und der Talmud\", ein Beitrag zu \"Das Alte Testament als Buch der\nKirche\", Heft 7/1934 von \"Bekennende Kirche\",\nChristian Kaiser-Verlag, München (August 1934);\n\"Der Kampf des Paulus gegen die Gleichmachung\", Rede vor der Evang.-Theologischen\nFakultät Tübingen;\n\"Das Evangelium und das Bekenntnis\", Rede in\neinem studentischen Kreis.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -4236,7 +4236,7 @@ const timelineData = {
           "filterDate": "1934-11-04",
           "title": "Telegramm der Hochschullehrer",
           "date": "4. November",
-          "text": "Ca. 120 deutsche evangelisch-theologische\nHochschullehrer fordern Reichsbischof Ludwig\nMüller telegraphisch zum Rücktritt auf.\nAuf dem Telegramm der Professoren der Evang.-\nTheologischen Fakultät Tübingen steht auch\nSchlatters Name. Inventar-Nr. 320",
+          "text": "Ca. 120 deutsche evangelisch-theologische\nHochschullehrer fordern Reichsbischof Ludwig\nMüller telegraphisch zum Rücktritt auf.\nAuf dem Telegramm der Professoren der Evang.Theologischen Fakultät Tübingen steht auch\nSchlatters Name. Inventar-Nr. 320",
           "icon": "fas fa-university",
           "tags": [
             "Allgemein"
@@ -4253,7 +4253,7 @@ const timelineData = {
           "filterDate": "1934-11-08",
           "title": "Ablehnungsschreiben des Reichsbischofs",
           "date": "8. November",
-          "text": "Das hektographische Ablehnungsschreiben des\nReichsbischofs an Schlatter trägt den Stem-\npel \"Deutsche Evangelische Kirche\" mit\nLuther-Rose und Hakenkreuz. Inventar-Nr.\n159/3",
+          "text": "Das hektographische Ablehnungsschreiben des\nReichsbischofs an Schlatter trägt den Stempel \"Deutsche Evangelische Kirche\" mit\nLuther-Rose und Hakenkreuz. Inventar-Nr.\n159/3",
           "icon": "fas fa-church",
           "tags": [
             "Allgemein"
@@ -4276,7 +4276,7 @@ const timelineData = {
           "filterDate": "1935-01-01",
           "title": "1935: Kommentare und Vorträge",
           "date": "",
-          "text": "Der nächste Kommentar: \"Markus, der Evange- list für die Griechen.\"\n\nAuch dahinter steht mehr Arbeit als die bei Schlatter fehlenden gesonderten Vorlesungen über das Markusevangelium vermuten lassen: 3 Bände exegetische Sammlungen zu Markus, Inventar-Nr: 314\n\nVon größerer Wirkung als der Markuskommentar, der ohne weitere Auflagen bleibt, ist der im gleichen Jahr erscheinende Kommentar zum Römerbrief unter dem Titel: \"Gottes Gerechtigkeit\".\n\nSeit seinen Vorträgen vor Männern in Bern hat sich Schlatter intensiv mit dem Römer- brief beschäftigt und zwischen 1884 und 1927 sechzehnmal Vorlesungen darüber gehalten. Im Nachlass finden sich 5 Bände von Studien und Sammlungen über den Römerbrief, Inven- tar-Nr: 326-328\n\n4 weitere Auflagen bis 1975 zeigen die be- achtliche Wirkung des Kommentars; ob die theologisch bedeutsame, Luther korrigieren- de Auslegung von \"Gottes Gerechtigkeit\" Römer 1, 16 sich wirklich durchsetzen konnte, steht dahin.\n\nUnter mancherlei Vorträgen und Bibelar- beiten hebt sich heraus Schlatters Vortrag bei einer Studentinnen-Freizeit \"Was sagt das Neue Testament der Frau\", der in der Stu- dienreihe des Burckhardthauses 3 Auflagen erreicht, und\n\nseine Bibelarbeit \"Das Unser Vaten\", die\nvon der DCSV in ihren Mitteilungen 1935\nabgedruckt wird und später im Furche-Ver-\nlag Berlin 1938 erscheint.",
+          "text": "Der nächste Kommentar: \"Markus, der Evange- list für die Griechen.\"\n\nAuch dahinter steht mehr Arbeit als die bei Schlatter fehlenden gesonderten Vorlesungen über das Markusevangelium vermuten lassen: 3 Bände exegetische Sammlungen zu Markus, Inventar-Nr: 314\n\nVon größerer Wirkung als der Markuskommentar, der ohne weitere Auflagen bleibt, ist der im gleichen Jahr erscheinende Kommentar zum Römerbrief unter dem Titel: \"Gottes Gerechtigkeit\".\n\nSeit seinen Vorträgen vor Männern in Bern hat sich Schlatter intensiv mit dem Römer- brief beschäftigt und zwischen 1884 und 1927 sechzehnmal Vorlesungen darüber gehalten. Im Nachlass finden sich 5 Bände von Studien und Sammlungen über den Römerbrief, Inven- tar-Nr: 326-328\n\n4 weitere Auflagen bis 1975 zeigen die be- achtliche Wirkung des Kommentars; ob die theologisch bedeutsame, Luther korrigieren- de Auslegung von \"Gottes Gerechtigkeit\" Römer 1, 16 sich wirklich durchsetzen konnte, steht dahin.\n\nUnter mancherlei Vorträgen und Bibelar- beiten hebt sich heraus Schlatters Vortrag bei einer Studentinnen-Freizeit \"Was sagt das Neue Testament der Frau\", der in der Stu- dienreihe des Burckhardthauses 3 Auflagen erreicht, und\n\nseine Bibelarbeit \"Das Unser Vaten\", die\nvon der DCSV in ihren Mitteilungen 1935\nabgedruckt wird und später im Furche-Verlag Berlin 1938 erscheint.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -4294,7 +4294,7 @@ const timelineData = {
           "filterDate": "1935-01-10",
           "title": "Anfrage von Reichsjugendpfarrer Zahn",
           "date": "10. Januar",
-          "text": "Reichsjugendpfarrer Zahn bittet (den mit\nihm durch Theodor Zahn verwandten) Schlatter\num die Erlaubnis, in der Jugendzeitung \"Das\nWort\" Teile aus \"Erlebtes\" abzudrucken,\nsowie um einen Artikel in dieser Zeitung,\nder eine Hilfe zur Überwindung der Abend-\nmahlsscheu von Konfirmanden und Jugendlichen\ngeben soll.\n\nZahn legt seinem Brief \"streng vertraulich\"\ndie \"Denkschrift des Reichsjungendpfarrers\nvom 25. Juli 1934\" zu den \"Spannungen zwi-\nschen Evangelischer Kirche und Hitlerjugend\"\nbei - ein erschütterndes Dokument über die\nFolgen der ab Ende 1933, schließlich durch\nKirchengesetz vom 2. Mai 1934 durchgeführten\nEingliederung der Evangelischen Jugend in\ndie Hitlerjugend. Inventar-Nr 169/5",
+          "text": "Reichsjugendpfarrer Zahn bittet (den mit\nihm durch Theodor Zahn verwandten) Schlatter\num die Erlaubnis, in der Jugendzeitung \"Das\nWort\" Teile aus \"Erlebtes\" abzudrucken,\nsowie um einen Artikel in dieser Zeitung,\nder eine Hilfe zur Überwindung der Abendmahlsscheu von Konfirmanden und Jugendlichen\ngeben soll.\n\nZahn legt seinem Brief \"streng vertraulich\"\ndie \"Denkschrift des Reichsjungendpfarrers\nvom 25. Juli 1934\" zu den \"Spannungen zwischen Evangelischer Kirche und Hitlerjugend\"\nbei - ein erschütterndes Dokument über die\nFolgen der ab Ende 1933, schließlich durch\nKirchengesetz vom 2. Mai 1934 durchgeführten\nEingliederung der Evangelischen Jugend in\ndie Hitlerjugend. Inventar-Nr 169/5",
           "icon": "fas fa-church",
           "tags": [
             "Theologie",
@@ -4312,7 +4312,7 @@ const timelineData = {
           "filterDate": "1935-12-01",
           "title": "Weihnachtsschrift \"Wird der Jude über uns siegen?\" und Beschlagnahme",
           "date": "Dezember",
-          "text": "Schlatters Wort für die Weihnachtszeit \"Wird\nder Jude über uns siegen?\", Freizeit-Blätter\nNr. 8, Velbert 1935 mit 2. Auflage 1936 er-\nfährt wegen seines provozierenden mißver-\nständlichen Titels mit 40 000 Exemplaren Verbrei-\ntung auch in Parteikreisen, wird aber durch\nErlaß der Preußischen Geheimen Staatspolizei\nvom 13. Mai 1936 im Einvernehmen mit dem\nReichsminister für die kirchlichen Angelegen-\nheiten beschlagnahmt und eingezogen. Inven-\ntar-Nr 169/6\n\nAuch eifrige Bekenntnischristen haben,\nsoweit sie sich auf die Lektüre des auf-\nreizenden Titels beschränkt haben, sich\nin jenem absurden Urteil über Schlatter\nals einen \"Großvater der Deutschen Chri-\nsten\", das bis heute unter manchen Theo-\nlogen grassiert, bestärkt gefühlt.",
+          "text": "Schlatters Wort für die Weihnachtszeit \"Wird\nder Jude über uns siegen?\", Freizeit-Blätter\nNr. 8, Velbert 1935 mit 2. Auflage 1936 erfährt wegen seines provozierenden mißverständlichen Titels mit 40 000 Exemplaren Verbreitung auch in Parteikreisen, wird aber durch\nErlaß der Preußischen Geheimen Staatspolizei\nvom 13. Mai 1936 im Einvernehmen mit dem\nReichsminister für die kirchlichen Angelegenheiten beschlagnahmt und eingezogen. Inventar-Nr 169/6\n\nAuch eifrige Bekenntnischristen haben,\nsoweit sie sich auf die Lektüre des aufreizenden Titels beschränkt haben, sich\nin jenem absurden Urteil über Schlatter\nals einen \"Großvater der Deutschen Christen\", das bis heute unter manchen Theologen grassiert, bestärkt gefühlt.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie",
@@ -4336,7 +4336,7 @@ const timelineData = {
           "filterDate": "1936-01-01",
           "title": "Kommentar: Die Kirche der Griechen",
           "date": "",
-          "text": "Wieder ein Kommentar: \"Die Kirche der\nGriechen im Urteil des Paulus. Eine Ausle-\ngung seiner Briefe an Timotheus und Titus.\"\n\nUnter den 12 Zeitschriften mit Rezensionen\nfällt die bei den anderen Kommentaren feh-\nlende Monatsschrift Gottesdienst und kirch-\nliche Kunst Göttingen (Kunze) auf, 1958 folgt\neine 2. Auflage.\n\nTrotz weniger Vorlesungen und Übungen liegen\nim Nachlaß 2 Bünde exegetische Sammlungen\n\"zu 1. und 2. Tim. und Titus\" vor, dazu je\n1 Bund \"Wörter Past\", \"Philemon\" und \"Pa-\nstoraltheologie\" (Steno). Inventar-Nr 336-339",
+          "text": "Wieder ein Kommentar: \"Die Kirche der\nGriechen im Urteil des Paulus. Eine Auslegung seiner Briefe an Timotheus und Titus.\"\n\nUnter den 12 Zeitschriften mit Rezensionen\nfällt die bei den anderen Kommentaren fehlende Monatsschrift Gottesdienst und kirchliche Kunst Göttingen (Kunze) auf, 1958 folgt\neine 2. Auflage.\n\nTrotz weniger Vorlesungen und Übungen liegen\nim Nachlaß 2 Bünde exegetische Sammlungen\n\"zu 1. und 2. Tim. und Titus\" vor, dazu je\n1 Bund \"Wörter Past\", \"Philemon\" und \"Pastoraltheologie\" (Steno). Inventar-Nr 336-339",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -4353,7 +4353,7 @@ const timelineData = {
           "filterDate": "1936-02-01",
           "title": "Februar: Flammenzeichen-Artikel",
           "date": "Februar",
-          "text": "Im Heft 5 der \"Flammenzeichen\" erscheint ein\nhäßlicher Artikel über Schlatter als Ver-\nfasser von \"Wird der Jude über uns siegen?\".\nInventar-Nr 833\n\nDie langsam nachlassende physische Kraft er-\nlaubt dem \"Alten\", wie er im Tübinger Dozi-\nrtenkreis und bei den Christlichen Akademi-\nkern genannt wird, keine Teilnahme an der neu-\nentstandenen Akademikerkonferenz mehr. Seine dafür\nvorbereitete Auslegung der drei letzten Glau-\n\nnisse Jesu (Matthäus 24, 45 - 25, 30) er-\nscheint als Heft 2 von \"Kirche im Aufbau\",\nStauda-Verlag Kassel 1936 unter dem Titel\n\"Die Kirche wie Jesus sie sah\".\n\nDieser Schau entspricht auch die Schrift\n\"Müssen wir heute lutherisch oder refor-\nmiert sein?\", mit welcher der Treizeiten-\nVerlag 1936 die früheren Vorträge \"Die\nGrenzen der kirchlichen Gemeinschaft\" und\n\"Das Evangelium und das Bekenntnis\" zu-\nsammen mit weiteren Beiträgen von Wilhelm\nLütgert und Hermann Strathmann \"zur Frage\neiner neuen kirchlichen Einheit\" heraus-\ngibt.",
+          "text": "Im Heft 5 der \"Flammenzeichen\" erscheint ein\nhäßlicher Artikel über Schlatter als Verfasser von \"Wird der Jude über uns siegen?\".\nInventar-Nr 833\n\nDie langsam nachlassende physische Kraft erlaubt dem \"Alten\", wie er im Tübinger Dozirtenkreis und bei den Christlichen Akademikern genannt wird, keine Teilnahme an der neuentstandenen Akademikerkonferenz mehr. Seine dafür\nvorbereitete Auslegung der drei letzten Glau\nnisse Jesu (Matthäus 24, 45 - 25, 30) erscheint als Heft 2 von \"Kirche im Aufbau\",\nStauda-Verlag Kassel 1936 unter dem Titel\n\"Die Kirche wie Jesus sie sah\".\n\nDieser Schau entspricht auch die Schrift\n\"Müssen wir heute lutherisch oder reformiert sein?\", mit welcher der TreizeitenVerlag 1936 die früheren Vorträge \"Die\nGrenzen der kirchlichen Gemeinschaft\" und\n\"Das Evangelium und das Bekenntnis\" zusammen mit weiteren Beiträgen von Wilhelm\nLütgert und Hermann Strathmann \"zur Frage\neiner neuen kirchlichen Einheit\" herausgibt.",
           "icon": "fas fa-book",
           "tags": [
             "Allgemein",
@@ -4371,7 +4371,7 @@ const timelineData = {
           "filterDate": "1936-06-01",
           "title": "Beitrag \"Theologie, Konfession und Glaube\"",
           "date": "1. Juni",
-          "text": "Der Beitrag \"Theologie, Konfession und\nGlaube. Sechs mir gestellte Fragen und\nmeine Antwort\" steht ebenfalls in diesem\nZusammenhang. Vgl. dazu auch Schlatters Ein-\nstellung zur Theologischen Erklärung von\nBarmen 1934. Im Bekenntniskampf immerhin be-\nwährt, ist sie ihm doch keine ausreichende\nBasis für \"die Kirche, wie Jesus sie sah\".\n\nFür das jährliche, im Stauda- Verlag er-\nscheinende, von Wilhelm Stählin herausge-\ngebene \"Gottesjahr\" (1936), schreibt Schlatter\nden Beitrag \"Heilung\".",
+          "text": "Der Beitrag \"Theologie, Konfession und\nGlaube. Sechs mir gestellte Fragen und\nmeine Antwort\" steht ebenfalls in diesem\nZusammenhang. Vgl. dazu auch Schlatters Einstellung zur Theologischen Erklärung von\nBarmen 1934. Im Bekenntniskampf immerhin bewährt, ist sie ihm doch keine ausreichende\nBasis für \"die Kirche, wie Jesus sie sah\".\n\nFür das jährliche, im Stauda- Verlag erscheinende, von Wilhelm Stählin herausgegebene \"Gottesjahr\" (1936), schreibt Schlatter\nden Beitrag \"Heilung\".",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -4407,7 +4407,7 @@ const timelineData = {
           "filterDate": "1937-01-01",
           "title": "Letzter Kommentar und Buch \"Kennen wir Jesus?\"",
           "date": "",
-          "text": "Der letzte der seit 1929 im Calwer Verlag erschienenen neun Kommentare: \"Petrus und Paulus. Nach dem 1. Petrusbrief.\" \n\nUnter den entsprechenden 4 Bänden im Nach- laß ist auch das Manuskript zu diesem Kommen- tar: Inventar-Nr. 348 \n\nDas wegen der Einbeziehung des Paulus bedeu- same Werk bleibt ohne erkennbare Wirkung; es bleibt bei dieser einen Auflage. \n\nDagegen hat sein letztes zu Lebzeiten ver- öffentliches Buch eine starke Ausstrahlung: \"Kennen wir Jesus? Ein Gang durch ein Jahr im Gespräch mit ihm.\" Mit 1937 und 1938 im Calwer Verlag erschienen, verzeichnet es noch 12 Rezensionen, darunter Otto Michel in der Theologischen Literaturzeitung 1939.\n\nZu seinem 100. Geburtstag erscheint 1952\ndie 3. Auflage im Freizeitverlag Glad-\nbeck; mit einem Vorwort von Hans Ströh\nbringt der Brunnenverlag Gießen 1982 eine\n4. Auflage heraus.\n\nDer Titel spricht die Frage aus, die Adolf\nSchlatter, sich einschließend, allen Chri-\nsten, der ganzen Kirche und ihren Theolo-\ngen lebenslang gestellt hat und heute noch\nstellt.",
+          "text": "Der letzte der seit 1929 im Calwer Verlag erschienenen neun Kommentare: \"Petrus und Paulus. Nach dem 1. Petrusbrief.\" \n\nUnter den entsprechenden 4 Bänden im Nach- laß ist auch das Manuskript zu diesem Kommen- tar: Inventar-Nr. 348 \n\nDas wegen der Einbeziehung des Paulus bedeu- same Werk bleibt ohne erkennbare Wirkung; es bleibt bei dieser einen Auflage. \n\nDagegen hat sein letztes zu Lebzeiten ver- öffentliches Buch eine starke Ausstrahlung: \"Kennen wir Jesus? Ein Gang durch ein Jahr im Gespräch mit ihm.\" Mit 1937 und 1938 im Calwer Verlag erschienen, verzeichnet es noch 12 Rezensionen, darunter Otto Michel in der Theologischen Literaturzeitung 1939.\n\nZu seinem 100. Geburtstag erscheint 1952\ndie 3. Auflage im Freizeitverlag Gladbeck; mit einem Vorwort von Hans Ströh\nbringt der Brunnenverlag Gießen 1982 eine\n4. Auflage heraus.\n\nDer Titel spricht die Frage aus, die Adolf\nSchlatter, sich einschließend, allen Christen, der ganzen Kirche und ihren Theologen lebenslang gestellt hat und heute noch\nstellt.",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -4424,7 +4424,7 @@ const timelineData = {
           "filterDate": "1937-04-09",
           "title": "Adresse zum Geburtstag Wilhelm Lütgerts",
           "date": "9. April",
-          "text": "Zum Geburtstag Wilhelm Lütgerts verfaßt er\neine \"Adresse\", mit welcher er das theo-\nlogische Lebenswerk Lütgerts würdigt. Sie\nwird Lütgert von Hermann Strathmann mit einer\ngesegneten Zuschrift vieler Freunde am\n9. Mai 1937 überreicht, und Lütgerts Antwort\nauf die Gesamt-Zuschrift in seinen Artikel\n\"Wilhelm Lütgert als Theologe\" einbezogen.\nNach beider Tod erschienen in Heft 1/1938\n(20. September 1938) den \"Beiträge\": Adolf\nSchlatter und Wilhelm Lütgert zum Gedächt-\nnis, zusammen mit der Gedenkrede von Gerhard\nKittel für Schlatter und dem Artikel \"Adolf\nSchlatters Gabe an die systematische Theo-\nlogie\" von Paul Althaus. Inventar-\nNr 39",
+          "text": "Zum Geburtstag Wilhelm Lütgerts verfaßt er\neine \"Adresse\", mit welcher er das theologische Lebenswerk Lütgerts würdigt. Sie\nwird Lütgert von Hermann Strathmann mit einer\ngesegneten Zuschrift vieler Freunde am\n9. Mai 1937 überreicht, und Lütgerts Antwort\nauf die Gesamt-Zuschrift in seinen Artikel\n\"Wilhelm Lütgert als Theologe\" einbezogen.\nNach beider Tod erschienen in Heft 1/1938\n(20. September 1938) den \"Beiträge\": Adolf\nSchlatter und Wilhelm Lütgert zum Gedächtnis, zusammen mit der Gedenkrede von Gerhard\nKittel für Schlatter und dem Artikel \"Adolf\nSchlatters Gabe an die systematische Theologie\" von Paul Althaus. InventarNr 39",
           "icon": "fas fa-book",
           "tags": [
             "Theologie"
@@ -4441,7 +4441,7 @@ const timelineData = {
           "filterDate": "1937-04-29",
           "title": "Erklärungen zu Orden und Abstammung",
           "date": "29. April",
-          "text": "Schlatter muß Erklärungen abgeben über den\nBesitz von Orden und Ehrenzeichen, die\nNichtzugehörigkeit zu einer Freimaurer-Orga-\nisation und seine arische Abstammung.\n\nNoch einmal ein kurzes autobiographisches\nWort: \"Mein Studium: Der Theologieprofessor\".",
+          "text": "Schlatter muß Erklärungen abgeben über den\nBesitz von Orden und Ehrenzeichen, die\nNichtzugehörigkeit zu einer Freimaurer-Orgaisation und seine arische Abstammung.\n\nNoch einmal ein kurzes autobiographisches\nWort: \"Mein Studium: Der Theologieprofessor\".",
           "icon": "fas fa-calendar",
           "tags": [
             "Allgemein"
@@ -4456,7 +4456,7 @@ const timelineData = {
           "filterDate": "1937-10-01",
           "title": "Engagement im DCSV und Manuskript",
           "date": "Herbst",
-          "text": "Schlatter schreibt es für die Mitteilungen\nder DCSV, für die er schon in seiner\nBerliner Zeit tätig war und der er dann in\nTübingen weiter, ab 1908 ununterbrochen mit\nWort und Schrift, Rat und Tat gedient hat.\n\nNeben zahlreichen Berichten und Zeugnissen\nseiner Schüler und Freunde über diese viel-\nfältige Tätigkeit und seinen Äußerungen\ndarüber im \"Rückblick\" und in \"Beteläuten\"\ngibt es im Nachlaß auch sein (vermutlich\nca. 1920 geschriebenes) Manuskript: \"Meine\nBegegnungen mit der CSV\", Inventar-Nr. 152\n\nEin bleibendes Zeichen darin ist das Haus\ndes Tübinger DCSV-Kreises und Württ. Alt-\nfreundeverbandes auf dem Österberg. Seine\nÜbernahme durch die Evang. Landeskirche als\n\"Adolf-Schlatter-Haus der evang. Studenten-\ngemeinde\" im November 1938 hat er nicht mehr\nerlebt.",
+          "text": "Schlatter schreibt es für die Mitteilungen\nder DCSV, für die er schon in seiner\nBerliner Zeit tätig war und der er dann in\nTübingen weiter, ab 1908 ununterbrochen mit\nWort und Schrift, Rat und Tat gedient hat.\n\nNeben zahlreichen Berichten und Zeugnissen\nseiner Schüler und Freunde über diese vielfältige Tätigkeit und seinen Äußerungen\ndarüber im \"Rückblick\" und in \"Beteläuten\"\ngibt es im Nachlaß auch sein (vermutlich\nca. 1920 geschriebenes) Manuskript: \"Meine\nBegegnungen mit der CSV\", Inventar-Nr. 152\n\nEin bleibendes Zeichen darin ist das Haus\ndes Tübinger DCSV-Kreises und Württ. Altfreundeverbandes auf dem Österberg. Seine\nÜbernahme durch die Evang. Landeskirche als\n\"Adolf-Schlatter-Haus der evang. Studentengemeinde\" im November 1938 hat er nicht mehr\nerlebt.",
           "icon": "fas fa-university",
           "tags": [
             "Allgemein",
@@ -4545,7 +4545,7 @@ const timelineData = {
           "filterDate": "1938-05-23",
           "title": "Beisetzung in Tübingen",
           "date": "23. Mai",
-          "text": "\"Im Beisein einer gewaltigen Gemeinde von Jungen und Alten, von Studenten, Pfarrern und Professoren und schlichten Männern und Frauen aus dem Volk ist er am Vormittag des 23. Mai auf dem Friedhof in Tübingen beige- setzt worden.\" So schreibt Samuel Oettli jr. in \"Professor D. Adolf Schlatter, 1852-1938\", H. Tschudi & Co., St. Gallen 1939, Seite 19.\nDer Sohn, Prälat Theodor Schlatter, hält die Grabrede über Jesu Wort in der Abschieds- rede, den, Johannes 15, 8: \"Darin wird mein Vater geehrt, daß ihr viel Frucht bringet und werdet meine Jünger.\"\n\nfür die Evang. Kirchengemeinde Tübingen, Pastor\nvon Bodelschwingh für die Bethe-\nler Gemeinde und Stadtpfarrer Frohmayer\nfür den Calwer Verlag. Nachrufe der Evang.\nTheologischen Fachschaft, der DGSV, des\nChristlichen Akademikerverbands, des Tübin-\nger Wingolf und des CVJM Tübingen schließen\nsich an.\n\nBei der akademischen Feier am Nachmittag\nzeichnet Professor Gerhard Kittel in seiner\nebenso brillanten wie bewegenden Gedenkrede\ndas Bild eines Theologen, der wußte: 'Vor\nunserem eigenen Bilden ... steht das Empfan-\ngen, derjenige Vorgang, den wir das Sehen\nheißen.'\n\nBei der Nachfeier im Haus der DGSV rundet\nsich mit vielen frei geäußerten Gedanken und\nErinnerungen das Bild von Adolf Schlatter,\nder als wissenschaftlicher Theologe ein Leh-\nrer und Prediger der Kirche, ein Seelsorger\nund Berater vieler Studenten, Laien und\nPfarrer, ein Mann der Diakonie, Mission und\nÖkumene, ein Freund der Natur und Diener\nfür Volk und Staat, in dem allem nicht zu-\nletzt ein 'Kritiker der Kritik' war: ein\n'positiver' Theologe im tiefsten Sinn dieses\nWortes.\n\nErnst Bock",
+          "text": "\"Im Beisein einer gewaltigen Gemeinde von Jungen und Alten, von Studenten, Pfarrern und Professoren und schlichten Männern und Frauen aus dem Volk ist er am Vormittag des 23. Mai auf dem Friedhof in Tübingen beige- setzt worden.\" So schreibt Samuel Oettli jr. in \"Professor D. Adolf Schlatter, 1852-1938\", H. Tschudi & Co., St. Gallen 1939, Seite 19.\nDer Sohn, Prälat Theodor Schlatter, hält die Grabrede über Jesu Wort in der Abschieds- rede, den, Johannes 15, 8: \"Darin wird mein Vater geehrt, daß ihr viel Frucht bringet und werdet meine Jünger.\"\n\nfür die Evang. Kirchengemeinde Tübingen, Pastor\nvon Bodelschwingh für die Betheler Gemeinde und Stadtpfarrer Frohmayer\nfür den Calwer Verlag. Nachrufe der Evang.\nTheologischen Fachschaft, der DGSV, des\nChristlichen Akademikerverbands, des Tübinger Wingolf und des CVJM Tübingen schließen\nsich an.\n\nBei der akademischen Feier am Nachmittag\nzeichnet Professor Gerhard Kittel in seiner\nebenso brillanten wie bewegenden Gedenkrede\ndas Bild eines Theologen, der wußte: 'Vor\nunserem eigenen Bilden ... steht das Empfangen, derjenige Vorgang, den wir das Sehen\nheißen.'\n\nBei der Nachfeier im Haus der DGSV rundet\nsich mit vielen frei geäußerten Gedanken und\nErinnerungen das Bild von Adolf Schlatter,\nder als wissenschaftlicher Theologe ein Lehrer und Prediger der Kirche, ein Seelsorger\nund Berater vieler Studenten, Laien und\nPfarrer, ein Mann der Diakonie, Mission und\nÖkumene, ein Freund der Natur und Diener\nfür Volk und Staat, in dem allem nicht zuletzt ein 'Kritiker der Kritik' war: ein\n'positiver' Theologe im tiefsten Sinn dieses\nWortes.\n\nErnst Bock",
           "icon": "fas fa-church",
           "tags": [
             "Pastoral",

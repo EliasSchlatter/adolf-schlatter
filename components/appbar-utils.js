@@ -251,7 +251,7 @@ class AppbarManager {
         const prefix = this.getPathPrefix();
         const imgPrefix = this.getImagePrefix();
         return `
-        <header id="appbar" class="bg-white/95 backdrop-blur-md border-b border-gray-200 shadow-sm fixed top-0 left-0 right-0 z-50">
+        <header id="appbar" class="bg-white backdrop-blur-md border-b border-gray-200 shadow-sm fixed top-0 left-0 right-0 z-50">
             <div class="max-w-7xl mx-auto px-6 lg:px-8">
                 <div class="flex items-center justify-between h-16">
                     <!-- Logo -->
@@ -460,13 +460,12 @@ class AppbarManager {
                             <div class="absolute top-full right-0 mt-2 w-80 bg-white rounded-xl shadow-lg border border-gray-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-2 group-hover:translate-y-0">
                                 <div class="p-6">
                                     <div class="grid grid-cols-1 gap-4">
-                                        <a href="${prefix}pages/stammbaum.html" class="flex items-start space-x-4 p-3 rounded-lg hover:bg-accent transition-colors group">
+                                        <a href="${prefix}pages/stammbaum.html" class="flex items-center space-x-4 p-3 rounded-lg hover:bg-accent transition-colors group">
                                             <div class="w-12 h-12 bg-gradient-to-br from-primary/10 to-bg-dark/10 rounded-lg flex items-center justify-center group-hover:from-primary/20 group-hover:to-bg-dark/20 transition-colors">
                                                 <i class="fas fa-sitemap text-primary"></i>
                                             </div>
                                             <div>
                                                 <h3 class="font-semibold text-primary mb-1">Stammbaum</h3>
-                                                <p class="text-sm text-text-secondary">Familie Schlatter ab 1699</p>
                                             </div>
                                         </a>
                                         <a href="#" class="flex items-start space-x-4 p-3 rounded-lg hover:bg-accent transition-colors group opacity-50 cursor-not-allowed">
@@ -491,43 +490,44 @@ class AppbarManager {
                 </div>
 
                 <!-- Mobile Menu -->
-                <div id="mobile-menu" class="lg:hidden hidden border-t border-gray-200 bg-white">
-                    <div class="px-6 py-4 space-y-4">
-                <div>
-                    <h3 class="font-semibold text-primary mb-2">Über Schlatter</h3>
-                    <div class="space-y-2 ml-4">
-                        <a href="${prefix}pages/aboutSchlatter.html" class="block text-text-secondary hover:text-primary transition-colors">Überblick</a>
-                        <a href="${prefix}pages/aboutSchlatter.html#anhoeren" class="block text-text-secondary hover:text-primary transition-colors">Anhören</a>
-                    </div>
-                </div>
+                <div id="mobile-menu" class="lg:hidden hidden border-t border-gray-200 bg-white" style="background-color: #ffffff !important;">
+                    <div class="px-6 py-4 space-y-4" style="background-color: #ffffff !important;">
                         <div>
-                            <a href="${prefix}pages/archiv-interface.html" class="block font-semibold text-primary hover:text-secondary transition-colors">Archiv</a>
+                            <h3 class="font-semibold text-primary mb-2">Über Schlatter</h3>
+                            <div class="space-y-2 ml-4">
+                                <a href="${prefix}pages/aboutSchlatter.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Überblick</a>
+                                <a href="${prefix}pages/aboutSchlatter.html#anhoeren" class="block text-text-secondary hover:text-primary transition-colors break-words">Anhören</a>
+                            </div>
+                        </div>
+                        <div>
+                            <a href="${prefix}pages/archiv-interface.html" class="block font-semibold text-primary hover:text-secondary transition-colors break-words">Archiv</a>
                         </div>
                         <div>
                             <h3 class="font-semibold text-primary mb-2">Preis</h3>
                             <div class="space-y-2 ml-4">
-                                <a href="${prefix}pages/adolfSchlatterPrice.html" class="block text-text-secondary hover:text-primary transition-colors">Über den Preis</a>
-                                <a href="${prefix}pages/adolfSchlatterPrice.html#preisverleihung-2017" class="block text-text-secondary hover:text-primary transition-colors">Preisverleihung 2017</a>
+                                <a href="${prefix}pages/adolfSchlatterPrice.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Über den Preis</a>
+                                <a href="${prefix}pages/adolfSchlatterPrice.html#preisverleihung-2017" class="block text-text-secondary hover:text-primary transition-colors break-words">Preisverleihung 2017</a>
                             </div>
                         </div>
-                <div>
-                    <h3 class="font-semibold text-primary mb-2">Archiv</h3>
-                    <div class="space-y-2 ml-4">
-                        <a href="${prefix}pages/archiv-interface.html" class="block text-text-secondary hover:text-primary transition-colors">Nachlass</a>
-                        <a href="${prefix}pages/archiv-interface.html#nachlass" class="block text-text-secondary hover:text-primary transition-colors">Nachlassübersicht</a>
-                        <a href="${prefix}pages/schlatter_timeline.html" class="block text-text-secondary hover:text-primary transition-colors">Biographie-Timeline</a>
-                    </div>
-                </div>
+                        <div>
+                            <h3 class="font-semibold text-primary mb-2">Ressourcen</h3>
+                            <div class="space-y-2 ml-4">
+                                <a href="${prefix}pages/archiv-interface.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Nachlass</a>
+                                <a href="${prefix}pages/archiv-interface.html#nachlass" class="block text-text-secondary hover:text-primary transition-colors break-words">Nachlassübersicht</a>
+                                <a href="${prefix}pages/schlatter_timeline.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Biographie-Timeline</a>
+                                <a href="${prefix}pages/stammbaum.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Stammbaum</a>
+                            </div>
+                        </div>
                         <div>
                             <h3 class="font-semibold text-primary mb-2">Preisträger</h3>
                             <div class="space-y-2 ml-4">
-                                <a href="${prefix}pages/preistr\u00e4ger/michael-bräutigam.html" class="block text-text-secondary hover:text-primary transition-colors">Dr. Michael Bräutigam (2015)</a>
-                                <a href="${prefix}pages/preistr\u00e4ger/oliver-gussmann.html" class="block text-text-secondary hover:text-primary transition-colors">Dr. Oliver Gußmann (2009)</a>
-                                <a href="${prefix}pages/preistr\u00e4ger/ulrich-beuttler.html" class="block text-text-secondary hover:text-primary transition-colors">Dr. Ulrich Beuttler (2007)</a>
-                                <a href="${prefix}pages/preistr\u00e4ger/clemens-hägele.html" class="block text-text-secondary hover:text-primary transition-colors">Dr. Clemens Hägele (2005)</a>
-                                <a href="${prefix}pages/preistr\u00e4ger/werner-neuer.html" class="block text-text-secondary hover:text-primary transition-colors">Dr. Werner Neuer (2005)</a>
-                                <a href="${prefix}pages/preistr\u00e4ger/roland-deines.html" class="block text-text-secondary hover:text-primary transition-colors">Dr. Roland Deines (2005)</a>
-                                <a href="${prefix}pages/preistr\u00e4ger/j-gerrit-hohage.html" class="block text-text-secondary hover:text-primary transition-colors">Dr. J.-Gerrit Hohage (2005)</a>
+                                <a href="${prefix}pages/preistr\u00e4ger/michael-bräutigam.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Dr. Michael Bräutigam (2015)</a>
+                                <a href="${prefix}pages/preistr\u00e4ger/oliver-gussmann.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Dr. Oliver Gußmann (2009)</a>
+                                <a href="${prefix}pages/preistr\u00e4ger/ulrich-beuttler.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Dr. Ulrich Beuttler (2007)</a>
+                                <a href="${prefix}pages/preistr\u00e4ger/clemens-hägele.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Dr. Clemens Hägele (2005)</a>
+                                <a href="${prefix}pages/preistr\u00e4ger/werner-neuer.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Dr. Werner Neuer (2005)</a>
+                                <a href="${prefix}pages/preistr\u00e4ger/roland-deines.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Dr. Roland Deines (2005)</a>
+                                <a href="${prefix}pages/preistr\u00e4ger/j-gerrit-hohage.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Dr. J.-Gerrit Hohage (2005)</a>
                             </div>
                         </div>
                     </div>

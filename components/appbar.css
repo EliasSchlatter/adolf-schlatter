@@ -136,25 +136,38 @@
 
 /* Custom scrollbar for mobile menu */
 #mobile-menu::-webkit-scrollbar {
-    width: 4px;
+    display: block !important;
+    width: 8px !important;
 }
 
 #mobile-menu::-webkit-scrollbar-track {
-    background: transparent;
+    background: #e5e7eb !important;
+    border-radius: 4px;
 }
 
 #mobile-menu::-webkit-scrollbar-thumb {
-    background: var(--color-primary-transparent-20);
-    border-radius: 2px;
+    background: var(--color-primary) !important;
+    border-radius: 4px;
 }
 
 #mobile-menu::-webkit-scrollbar-thumb:hover {
-    background: var(--color-primary-transparent-30);
+    background: var(--color-secondary) !important;
 }
 
 /* Animation for mobile menu */
 #mobile-menu {
     transition: all 0.3s ease-in-out;
+    background-color: #ffffff !important;
+    scrollbar-width: thin !important;
+    scrollbar-color: var(--color-primary) #e5e7eb !important;
+}
+
+#mobile-menu * {
+    background-color: transparent;
+}
+
+#mobile-menu > div {
+    background-color: #ffffff !important;
 }
 
 #mobile-menu.hidden {
@@ -164,8 +177,23 @@
 }
 
 #mobile-menu:not(.hidden) {
-    max-height: 500px;
+    max-height: 70vh;
     opacity: 1;
+    overflow-y: scroll !important;
+    overflow-x: hidden !important;
+}
+
+/* Scroll indicator gradient at bottom */
+#mobile-menu:not(.hidden)::after {
+    content: '';
+    position: sticky;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 30px;
+    background: linear-gradient(to top, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+    pointer-events: none;
+    display: block;
 }
 
 /* Enhanced hover effects */
