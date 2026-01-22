@@ -1,0 +1,329 @@
+{
+  "sourceFile": "page_176.json",
+  "pageNumber": "152",
+  "context": {
+    "teil": "Anhang",
+    "sektion": "Abschnitt I: Ungedrucktes",
+    "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+    "unterkategorie": "C Verschiedenes"
+  },
+  "entriesCount": 10,
+  "entries": [
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "Nr. 430/3: Briefe Theodor Schlatters an seinen Vater aus seiner Tätigkeit als Dekan von Esslingen und Prälat in Ludwigsburg.\nDarin: Material über Kirchenkampf in Württemberg und der\n\tDeutschen Evang. Kirche aus der Zeit von 1934 - 1938.\n\tDazu auch Briefe aus Nr. 430/2 von Bethel\n\tab ca. 1932.",
+      "nummer": "430/3",
+      "titel": "Briefe Theodor Schlatters an seinen Vater",
+      "beschreibung": "Briefe an seinen Vater aus Schlatters Tätigkeit als Dekan von Esslingen und Prälat in Ludwigsburg. Enthält Material zum Kirchenkampf in Württemberg und der Deutschen Evangelischen Kirche aus der Zeit 1934-1938. Beinhaltet zudem Briefe aus Nr. 430/2 von Bethel (ab ca. 1932).",
+      "typ": "Korrespondenz",
+      "zeitraum": "1934-1938",
+      "untereintraege": [
+        {
+          "rawText": "Material über Kirchenkampf in Württemberg und der Deutschen Evang. Kirche aus der Zeit von 1934 - 1938.",
+          "beschreibung": "Materialsammlung zum Kirchenkampf in Württemberg und der Deutschen Evangelischen Kirche, ca. 1934-1938."
+        },
+        {
+          "rawText": "Dazu auch Briefe aus Nr. 430/2 von Bethel ab ca. 1932.",
+          "beschreibung": "Verweis/Beigaben: Briefe aus Nr. 430/2 (Bethel), ab ca. 1932.",
+          "verweis": "430/2"
+        }
+      ],
+      "_quelldatei": "page_176.json",
+      "_pageNumber": "152"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "689: Walter Grundmann, Bekenntnis und Wahrheit. Teil seines Manuskripts einer Autobiographie, mit Würdigung Schlatters.",
+      "nummer": "689",
+      "titel": "Bekenntnis und Wahrheit (Teil des Manuskripts einer Autobiographie)",
+      "beschreibung": "Teil des Manuskripts einer Autobiographie von Walter Grundmann; enthält eine Würdigung Schlatters.",
+      "typ": "Manuskript",
+      "beteiligte": [
+        {
+          "name": "Walter Grundmann",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_176.json",
+      "_pageNumber": "152"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "695: Entwurf zum Betheler Bekenntnis. Fotokopie des Handexemplars\nvon Schlatter mit dessen kommentierenden Bemerkungen.\n\nBegleitbrief Friedrich von Bodelschwingh an Schlatter\n26.8.1933.\n\nBriefwechsel Gerhard Stratenwerth mit Schlatter September\n1933.\n\nMeinungsäußerung von Schlatter zum Entwurf des Betheler Be-\nkenntnisses an Bodelschwingh 24.9.1933.\n\nBrief von Bodelschwingh an Karl Barth, 13.9.1933, mit Dank\nfür dessen Äußerung zum Entwurf des Betheler Bekenntnisses.",
+      "nummer": "695",
+      "titel": "Entwurf zum Betheler Bekenntnis (Handexemplar mit Kommentaren)",
+      "beschreibung": "Fotokopie des Handexemplars von Schlatter zum Entwurf des Betheler Bekenntnisses, mit seinen kommentierenden Bemerkungen. Enthält Begleit- und verwandte Korrespondenzen.",
+      "typ": "Manuskript",
+      "untereintraege": [
+        {
+          "rawText": "Begleitbrief Friedrich von Bodelschwingh an Schlatter 26.8.1933.",
+          "titel": "Begleitbrief Friedrich von Bodelschwingh an Schlatter",
+          "datum": "1933-08-26",
+          "typ": "Brief",
+          "beteiligte": [
+            {
+              "name": "Friedrich von Bodelschwingh",
+              "rolle": "Absender",
+              "entity": "Person",
+              "zusatz": ""
+            },
+            {
+              "name": "Theodor Schlatter",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Briefwechsel Gerhard Stratenwerth mit Schlatter September 1933.",
+          "titel": "Briefwechsel Gerhard Stratenwerth mit Schlatter",
+          "jahr": 1933,
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Gerhard Stratenwerth",
+              "rolle": "Korrespondent",
+              "entity": "Person"
+            },
+            {
+              "name": "Theodor Schlatter",
+              "rolle": "Korrespondent",
+              "entity": "Person"
+            }
+          ],
+          "anmerkung": "Monat angegeben: September 1933."
+        },
+        {
+          "rawText": "Meinungsäußerung von Schlatter zum Entwurf des Betheler Bekenntnisses an Bodelschwingh 24.9.1933.",
+          "titel": "Meinungsäußerung von Schlatter zum Entwurf des Betheler Bekenntnisses",
+          "datum": "1933-09-24",
+          "typ": "Schreiben/Meinungsäußerung",
+          "beteiligte": [
+            {
+              "name": "Theodor Schlatter",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Friedrich von Bodelschwingh",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Brief von Bodelschwingh an Karl Barth, 13.9.1933, mit Dank für dessen Äußerung zum Entwurf des Betheler Bekenntnisses.",
+          "titel": "Brief von Bodelschwingh an Karl Barth",
+          "datum": "1933-09-13",
+          "typ": "Brief",
+          "beteiligte": [
+            {
+              "name": "Friedrich von Bodelschwingh",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Karl Barth",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ],
+          "anmerkung": "Enthält Dank für Barths Äußerung zum Entwurf des Betheler Bekenntnisses."
+        }
+      ],
+      "_quelldatei": "page_176.json",
+      "_pageNumber": "152"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "705: \"Gegen Professor D. Schlatter, Tübingen\".\nAus: Wahldienst der Evang. Landeskirche in Württemberg 1937,\nSeite 8 - 9, zum Angriff gegen Schlatter in \"Flammenzeichen\", Heft 5 und 7, wegen seiner Schrift \"Wird der Jude über uns siegen?\"",
+      "nummer": "705",
+      "titel": "Gegen Professor D. Schlatter, Tübingen",
+      "beschreibung": "Beitrag/Artikel aus 'Wahldienst der Evang. Landeskirche in Württemberg' (1937), S. 8-9; behandelt den Angriff gegen Schlatter in der Zeitschrift 'Flammenzeichen' (Hefte 5 und 7) wegen seiner Schrift 'Wird der Jude über uns siegen?'.",
+      "typ": "Artikel",
+      "jahr": 1937,
+      "seiten": "8-9",
+      "zeitschrift": "Wahldienst der Evang. Landeskirche in Württemberg",
+      "anmerkung": "Bezieht sich auf Angriffe in 'Flammenzeichen', Hefte 5 und 7.",
+      "_quelldatei": "page_176.json",
+      "_pageNumber": "152"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "728: Brief Wolfgang Metzger an Ernst Bock 1980 über Schlatters\nablehnende Haltung gegenüber den Deutschen Christen auf der\nFreudenstädter Tagung Oktober 1933.",
+      "nummer": "728",
+      "titel": "Brief Wolfgang Metzger an Ernst Bock über Schlatters Haltung (Freudenstädter Tagung 1933)",
+      "beschreibung": "Brief von Wolfgang Metzger an Ernst Bock (1980) über Schlatters ablehnende Haltung gegenüber den Deutschen Christen bei der Freudenstädter Tagung im Oktober 1933.",
+      "typ": "Brief",
+      "jahr": 1980,
+      "beteiligte": [
+        {
+          "name": "Wolfgang Metzger",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Ernst Bock",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "Bezieht sich auf seine ablehnende Haltung gegenüber den Deutschen Christen (Freudenstädter Tagung Oktober 1933)."
+        }
+      ],
+      "_quelldatei": "page_176.json",
+      "_pageNumber": "152"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "767: Entwurf eines Vortrags (ohne Titel), u. a. über Kirche als\nDienstgemeinschaft im Unterschied zur völkischen Gemein-\nschaft, mit Abgrenzung gegen Alfred Rosenberg. Ca. 1935",
+      "nummer": "767",
+      "titel": "Entwurf eines Vortrags (ohne Titel) über Kirche als Dienstgemeinschaft",
+      "beschreibung": "Vortragsentwurf (ohne Titel) u.a. über die Kirche als Dienstgemeinschaft im Unterschied zur völkischen Gemeinschaft, mit Abgrenzung gegen Alfred Rosenberg.",
+      "typ": "Vortrag",
+      "jahr": 1935,
+      "anmerkung": "Datierung ca. 1935 (ungefähr).",
+      "_quelldatei": "page_176.json",
+      "_pageNumber": "152"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "820: Telegramme von ca. 120 deutschen Theologieprofessoren Novem-\nber 1934 an Ludwig Müller, als Reichsbischof zurückzutreten.\nAus Tübingen: 14 Professoren, darunter Schlatter",
+      "nummer": "820",
+      "titel": "Telegramme deutscher Theologieprofessoren an Ludwig Müller (Rücktrittsforderung)",
+      "beschreibung": "Sammlung von ca. 120 Telegrammen (November 1934) deutscher Theologieprofessoren mit der Aufforderung an Ludwig Müller, als Reichsbischof zurückzutreten. Aus Tübingen wurden 14 Professoren genannt, darunter Schlatter.",
+      "typ": "Sammlung",
+      "jahr": 1934,
+      "anmerkung": "Monat: November 1934; Anzahl: ca. 120 Telegramme; Tübinger Unterzeichner: 14 Professoren, darunter Theodor Schlatter.",
+      "beteiligte": [
+        {
+          "name": "Ludwig Müller",
+          "rolle": "Adressat",
+          "entity": "Person",
+          "zusatz": "Reichsbischof"
+        },
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_176.json",
+      "_pageNumber": "152"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "1203: Brief an Friedrich von Bodelschwingh (Sohn), 27.6.1933, nach\ndessen Rücktritt als Reichsbischof.",
+      "nummer": "1203",
+      "titel": "Brief an Friedrich von Bodelschwingh (Sohn)",
+      "beschreibung": "Brief (vermutlich von Schlatter) an Friedrich von Bodelschwingh (Sohn) datiert nach dessen Rücktritt als Reichsbischof.",
+      "typ": "Brief",
+      "datum": "1933-06-27",
+      "beteiligte": [
+        {
+          "name": "Friedrich von Bodelschwingh",
+          "rolle": "Adressat",
+          "entity": "Person",
+          "zusatz": "Sohn"
+        },
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Absender",
+          "entity": "Person",
+          "zusatz": "vermutlich"
+        }
+      ],
+      "_quelldatei": "page_176.json",
+      "_pageNumber": "152"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "1206: Brief an Karl Dürr, 23.1.1934, zu Fragen des Kirchenkampfes.",
+      "nummer": "1206",
+      "titel": "Brief an Karl Dürr",
+      "beschreibung": "Brief zu Fragen des Kirchenkampfes.",
+      "typ": "Brief",
+      "datum": "1934-01-23",
+      "beteiligte": [
+        {
+          "name": "Karl Dürr",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Absender",
+          "entity": "Person",
+          "zusatz": "vermutlich"
+        }
+      ],
+      "_quelldatei": "page_176.json",
+      "_pageNumber": "152"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "1213: Brief an Wolfgang Metzger, 1.7.1934, mit Kritik an der Be-\nkenntnisbildung (Barmen).",
+      "nummer": "1213",
+      "titel": "Brief an Wolfgang Metzger (Kritik an der Bekenntnisbildung)",
+      "beschreibung": "Brief an Wolfgang Metzger vom 1.7.1934 mit Kritik an der Bekenntnisbildung (Barmen).",
+      "typ": "Brief",
+      "datum": "1934-07-01",
+      "beteiligte": [
+        {
+          "name": "Wolfgang Metzger",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Absender",
+          "entity": "Person",
+          "zusatz": "vermutlich"
+        }
+      ],
+      "anmerkung": "Bezieht sich auf die Bekenntnisbildung (Barmen).",
+      "_quelldatei": "page_176.json",
+      "_pageNumber": "152"
+    }
+  ],
+  "notes": "Seitenfooter zeigt '152'. OCR-Qualität gut; keine neue Überschrift erkannt."
+}

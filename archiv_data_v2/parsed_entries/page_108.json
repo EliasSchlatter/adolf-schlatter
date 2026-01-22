@@ -1,0 +1,328 @@
+{
+  "sourceFile": "page_108.json",
+  "pageNumber": "84",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "4 Systematische Theologie und Philosophie",
+    "unterkategorie": "C Verschiedenes"
+  },
+  "entriesCount": 13,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "Nr. 654: Brief von Karl Müller an Hans Lietzmann 8.2.1925 mit Hinweis\nauf Schlatter.\nAus: Glanz und Niedergang der deutschen Universität\nVerlag de Gruyter, Berlin 1979",
+      "nummer": "654",
+      "titel": "Brief von Karl Müller an Hans Lietzmann",
+      "beschreibung": "Brief mit Hinweis auf Schlatter; Auszug/Abdruck in: Glanz und Niedergang der deutschen Universität",
+      "typ": "Brief",
+      "datum": "1925-02-08",
+      "verlag": "de Gruyter",
+      "ort": "Berlin",
+      "jahr": 1979,
+      "anmerkung": "Im Werk 'Glanz und Niedergang der deutschen Universität' veröffentlicht",
+      "_quelldatei": "page_108.json",
+      "_pageNumber": "84"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "655: Alex Funke, Über die Entwicklung der kirchlichen Hochschule\nund die Theologischen Wochen.\nIn: Arbeitsbericht 1977/1978, von Bodelschwinghsche Anstalten\nin Bethel",
+      "nummer": "655",
+      "titel": "Über die Entwicklung der kirchlichen Hochschule und die Theologischen Wochen",
+      "beschreibung": "Beitrag von Alex Funke in den Arbeitsbericht(en) der Bodelschwinghschen Anstalten in Bethel",
+      "typ": "Aufsatz",
+      "beteiligte": [
+        {
+          "name": "Alex Funke",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "zeitraum": "1977-1978",
+      "in": "Arbeitsbericht",
+      "anmerkung": "Herausgeber: Bodelschwinghsche Anstalten in Bethel",
+      "_quelldatei": "page_108.json",
+      "_pageNumber": "84"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "656: Robert Stupperich, Unterlagen über Verhandlungen zur Berufung\nvon Adolf Schlatter nach Heidelberg 1890.",
+      "nummer": "656",
+      "titel": "Unterlagen über Verhandlungen zur Berufung von Adolf Schlatter nach Heidelberg",
+      "beschreibung": "Sammlung von Unterlagen/Materialien zu den Verhandlungen",
+      "typ": "Material",
+      "jahr": 1890,
+      "beteiligte": [
+        {
+          "name": "Robert Stupperich",
+          "rolle": "Zusammensteller",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_108.json",
+      "_pageNumber": "84"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "657: Robert Stupperich, Protokolle von Sitzungen der Theol. Fakultät\nMarburg über Berufung von Adolf Schlatter nach Marburg\n1892.",
+      "nummer": "657",
+      "titel": "Protokolle von Sitzungen der Theologischen Fakultät Marburg über Berufung von Adolf Schlatter",
+      "beschreibung": "Protokolle der Fakultätssitzungen bezüglich der Berufung",
+      "typ": "Protokoll",
+      "jahr": 1892,
+      "beteiligte": [
+        {
+          "name": "Robert Stupperich",
+          "rolle": "Zusammensteller",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_108.json",
+      "_pageNumber": "84"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "658: Robert Stupperich, Adolf Schlatters Berufungen.\nZeitschrift für Theologie und Kirche, Heft 1/1979, Sonderdruck",
+      "nummer": "658",
+      "titel": "Adolf Schlatters Berufungen",
+      "beschreibung": "Aufsatz/Beitrag von Robert Stupperich, erschienen als Sonderdruck",
+      "typ": "Aufsatz",
+      "beteiligte": [
+        {
+          "name": "Robert Stupperich",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "zeitschrift": "Zeitschrift für Theologie und Kirche",
+      "heft": "1/1979",
+      "jahr": 1979,
+      "anmerkung": "Sonderdruck",
+      "_quelldatei": "page_108.json",
+      "_pageNumber": "84"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "659: Adolf Schlatter, Vorlesung über Dogmatik, wahrscheinlich in\nGreifswald. Kollegheft",
+      "nummer": "659",
+      "titel": "Vorlesung über Dogmatik",
+      "beschreibung": "Kollegheft / Vorlesungsnachschrift von Adolf Schlatter; Ort wahrscheinlich Greifswald",
+      "typ": "Vorlesung",
+      "anmerkung": "Wahrscheinlich in Greifswald; Format: Kollegheft",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Vortragender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_108.json",
+      "_pageNumber": "84"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "660: K. Ebert, Kurzbericht über Gedächtnisvorlesung von Walter\nGrundmann für Adolf Schlatter.\nRede Schlatters am 13. Juli 1927 beim Festakt der Evang.-\ntheol. Fachschaft Tübingen zu seinem 75. Geburtstag.\nIn: Deutsches Christentum, Wochenzeitung der Deutschen Chris-\nten - Nationalkirchliche Einung. 12.6.1938. Seite 5",
+      "nummer": "660",
+      "titel": "Kurzbericht über Gedächtnisvorlesung / Rede Schlatters (Sammlung)",
+      "beschreibung": "Enthält: (a) Kurzbericht von K. Ebert über die Gedächtnisvorlesung von Walter Grundmann für Adolf Schlatter; (b) Rede Adolf Schlatters am 13. Juli 1927 beim Festakt der Evang.-theol. Fachschaft Tübingen (75. Geburtstag), veröffentlicht in Deutsches Christentum",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "K. Ebert, Kurzbericht über Gedächtnisvorlesung von Walter Grundmann für Adolf Schlatter.",
+          "titel": "Kurzbericht über Gedächtnisvorlesung von Walter Grundmann für Adolf Schlatter",
+          "beschreibung": "Kurzbericht von K. Ebert",
+          "typ": "Bericht",
+          "beteiligte": [
+            {
+              "name": "K. Ebert",
+              "rolle": "Autor",
+              "entity": "Person"
+            },
+            {
+              "name": "Walter Grundmann",
+              "rolle": "Vortragender",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Rede Schlatters am 13. Juli 1927 beim Festakt der Evang.-theol. Fachschaft Tübingen zu seinem 75. Geburtstag. In: Deutsches Christentum ... 12.6.1938. Seite 5",
+          "titel": "Rede Adolf Schlatters am 13. Juli 1927",
+          "beschreibung": "Rede gehalten am 13. Juli 1927; Abdruck in 'Deutsches Christentum'",
+          "typ": "Rede",
+          "jahr": 1927,
+          "beteiligte": [
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Redner",
+              "entity": "Person"
+            }
+          ],
+          "zeitschrift": "Deutsches Christentum",
+          "datum": "1938-06-12",
+          "seiten": "5",
+          "anmerkung": "Erscheinungsdatum der Zeitung: 12.6.1938 (Abdruck)"
+        }
+      ],
+      "_quelldatei": "page_108.json",
+      "_pageNumber": "84"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "661: Adolf Schlatter, Dekapolis.\nFotokopie des Manuskripts, ca. 460 Blätter, ca. 1916.\nOriginal im Privatbesitz von Karl-Heinrich Rengstorf",
+      "nummer": "661",
+      "titel": "Dekapolis",
+      "beschreibung": "Fotokopie des Manuskripts von Adolf Schlatter; Original im Privatbesitz",
+      "typ": "Manuskript",
+      "umfang": "ca. 460 Blätter",
+      "jahr": 1916,
+      "anmerkung": "Original im Privatbesitz von Karl-Heinrich Rengstorf",
+      "beteiligte": [
+        {
+          "name": "Karl-Heinrich Rengstorf",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "Privatbesitz des Originals"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_108.json",
+      "_pageNumber": "84"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "662: Julius Schieder, Memorabilia, unveröffentlicht, Auszug aus\nKapitel \"Tübingen\".",
+      "nummer": "662",
+      "titel": "Memorabilia (Auszug aus Kapitel 'Tübingen')",
+      "beschreibung": "Unveröffentlichter Auszug aus dem Kapitel 'Tübingen' von Julius Schieder",
+      "typ": "Manuskript",
+      "anmerkung": "unveröffentlicht",
+      "beteiligte": [
+        {
+          "name": "Julius Schieder",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_108.json",
+      "_pageNumber": "84"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "663: Hans Stroh, Das Erbe Adolf Schlatters für unsere Zeit.\nIn: Für Arbeit und Besinnung, 15.6.1979",
+      "nummer": "663",
+      "titel": "Das Erbe Adolf Schlatters für unsere Zeit",
+      "beschreibung": "Beitrag von Hans Stroh, erschienen in der Zeitschrift 'Für Arbeit und Besinnung'",
+      "typ": "Aufsatz",
+      "beteiligte": [
+        {
+          "name": "Hans Stroh",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "zeitschrift": "Für Arbeit und Besinnung",
+      "datum": "1979-06-15",
+      "_quelldatei": "page_108.json",
+      "_pageNumber": "84"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "664: Adolf Schlatter, Schöpfung und Erlösung.\nKollegnachschrift von Martin Stroh. Tübingen 1922",
+      "nummer": "664",
+      "titel": "Schöpfung und Erlösung",
+      "beschreibung": "Kollegnachschrift (Vorlesungsnachschrift) von Martin Stroh zu Vorlesungen von Adolf Schlatter",
+      "typ": "Vorlesung",
+      "jahr": 1922,
+      "ort": "Tübingen",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Vortragender",
+          "entity": "Person"
+        },
+        {
+          "name": "Martin Stroh",
+          "rolle": "Zusammensteller",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_108.json",
+      "_pageNumber": "84"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "665: Schlatter-Suchnotiz.\nIn: Die Zeichen der Zeit, Ostberlin, Heft 5/1979",
+      "nummer": "665",
+      "titel": "Schlatter-Suchnotiz",
+      "beschreibung": "Suchnotiz zu Schlatter, erschienen in der Zeitschrift 'Die Zeichen der Zeit'",
+      "typ": "Aufsatz",
+      "zeitschrift": "Die Zeichen der Zeit",
+      "ort": "Ostberlin",
+      "heft": "5/1979",
+      "jahr": 1979,
+      "_quelldatei": "page_108.json",
+      "_pageNumber": "84"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "666: Adolf Schlatter, Jason von Kyrene.\nFestschrift im Auftrag der Theologischen Fakultät Greifswald\nzum 25jährigen Jubiläum von Otto Zöckler (4.11.1891).\nC. H. Beck'sche Verlagsbuchhandlung, München 1891",
+      "nummer": "666",
+      "titel": "Jason von Kyrene",
+      "beschreibung": "Festschriftbeitrag / Publikation von Adolf Schlatter zum 25jährigen Jubiläum von Otto Zöckler",
+      "typ": "Aufsatz",
+      "anlass": "25jähriges Jubiläum von Otto Zöckler",
+      "datum": "1891-11-04",
+      "verlag": "C. H. Beck'sche Verlagsbuchhandlung",
+      "ort": "München",
+      "jahr": 1891,
+      "anmerkung": "Festschrift im Auftrag der Theologischen Fakultät Greifswald",
+      "_quelldatei": "page_108.json",
+      "_pageNumber": "84"
+    }
+  ],
+  "notes": ""
+}

@@ -1,0 +1,314 @@
+{
+  "sourceFile": "page_105.json",
+  "pageNumber": "",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "4 Systematische Theologie und Philosophie",
+    "unterkategorie": "C Verschiedenes"
+  },
+  "entriesCount": 11,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "Nr. 614-\n\t617: Wilhelm Bender, Verschiedene Schlatter-Unterlagen.\n\tDarunter: Druckschrift von der Übergabe des Adolf Schlatter-\n\tHauses in Tübingen am 27.11.1938 und Vortragsma-\n\tnuskript \"Ich glaube an eine heilige christliche\n\tKirche\". Pfingsten 1935",
+      "nummer": "614-617",
+      "titel": "Wilhelm Bender, Verschiedene Schlatter-Unterlagen",
+      "beschreibung": "Verschiedene Unterlagen von Wilhelm Bender. Darunter: Druckschrift von der Übergabe des Adolf Schlatter-Hauses in Tübingen am 27.11.1938; Vortragsmanuskript \"Ich glaube an eine heilige christliche Kirche\" (Pfingsten 1935).",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "Druckschrift von der Übergabe des Adolf Schlatter-Hauses in Tübingen am 27.11.1938",
+          "titel": "Druckschrift: Übergabe des Adolf Schlatter-Hauses in Tübingen",
+          "datum": "1938-11-27",
+          "typ": "Druckschrift"
+        },
+        {
+          "rawText": "Vortragsmanuskript \"Ich glaube an eine heilige christliche Kirche\". Pfingsten 1935",
+          "titel": "Ich glaube an eine heilige christliche Kirche",
+          "beschreibung": "Vortragsmanuskript",
+          "jahr": 1935,
+          "typ": "Manuskript"
+        }
+      ],
+      "_quelldatei": "page_105.json",
+      "_pageNumber": ""
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "618: Peter Stuhlmacher, Adolf Schlatters Schriftauslegung.\n\tManuskript des Vortrags beim Universitäts-Jubiläum Tübingen\n\t1977.",
+      "nummer": "618",
+      "titel": "Adolf Schlatters Schriftauslegung",
+      "beteiligte": [
+        {
+          "name": "Peter Stuhlmacher",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "beschreibung": "Manuskript des Vortrags beim Universitäts-Jubiläum Tübingen.",
+      "typ": "Manuskript",
+      "jahr": 1977,
+      "_quelldatei": "page_105.json",
+      "_pageNumber": ""
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "619: Theodor Brandt, \"Adolf Schlatter 16.8.1852 - 19.5.1938\".\n\tManuskript für Artikel in Zeitschrift \"Schritte\".\n\tHerausgeber U. Parzany, Heft 5/1978, Seite 19 - 21",
+      "nummer": "619",
+      "titel": "Adolf Schlatter 16.8.1852 - 19.5.1938",
+      "beschreibung": "Manuskript für einen Artikel in der Zeitschrift \"Schritte\". Heft 5/1978, Seite 19-21.",
+      "typ": "Manuskript",
+      "beteiligte": [
+        {
+          "name": "Theodor Brandt",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "U. Parzany",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        }
+      ],
+      "zeitschrift": "Schritte",
+      "heft": "5/1978",
+      "seiten": "19-21",
+      "jahr": 1978,
+      "_quelldatei": "page_105.json",
+      "_pageNumber": ""
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "620: Ernst Bock, Besprechung der Dissertation von Irmgard Kindt\n\t\"Der Gedanke der Einheit, Adolf Schlatters Theologie und ihre\n\thistorischen Voraussetzungen\".\n\tCalwer Verlag 1978.\n\tIn: Für Arbeit und Besinnung 15.2.1979",
+      "nummer": "620",
+      "titel": "Besprechung der Dissertation von Irmgard Kindt: Der Gedanke der Einheit, Adolf Schlatters Theologie und ihre historischen Voraussetzungen",
+      "beteiligte": [
+        {
+          "name": "Ernst Bock",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Irmgard Kindt",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "Verfasserin der besprochenen Dissertation"
+        }
+      ],
+      "beschreibung": "Besprechung der Dissertation (Calwer Verlag 1978). Erschienen in: Für Arbeit und Besinnung, 15.2.1979.",
+      "typ": "Aufsatz",
+      "zeitschrift": "Für Arbeit und Besinnung",
+      "datum": "1979-02-15",
+      "verlag": "Calwer Verlag",
+      "jahr": 1978,
+      "anmerkung": "Dissertation erschien 1978 (Calwer Verlag); die Besprechung erschien 15.2.1979.",
+      "_quelldatei": "page_105.json",
+      "_pageNumber": ""
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "621: Peter Stuhlmacher, \"Zusammenfassung der Sozietätsergebnisse\n\tam 31.1.1977\".\n\tManuskript",
+      "nummer": "621",
+      "titel": "Zusammenfassung der Sozietätsergebnisse am 31.1.1977",
+      "beteiligte": [
+        {
+          "name": "Peter Stuhlmacher",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "beschreibung": "Manuskript.",
+      "typ": "Manuskript",
+      "datum": "1977-01-31",
+      "_quelldatei": "page_105.json",
+      "_pageNumber": ""
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "622: Hans Stroh, Das Erbe Adolf Schlatters für unsere Zeit.\n\tManuskript des Vortrags vom 5.11.1977 in Stuttgart",
+      "nummer": "622",
+      "titel": "Das Erbe Adolf Schlatters für unsere Zeit",
+      "beteiligte": [
+        {
+          "name": "Hans Stroh",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "beschreibung": "Manuskript des Vortrags vom 5.11.1977 in Stuttgart.",
+      "typ": "Manuskript",
+      "datum": "1977-11-05",
+      "ort": "Stuttgart",
+      "anlass": "Vortrag",
+      "_quelldatei": "page_105.json",
+      "_pageNumber": ""
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "623: Hans Stroh, Aus Adolf Schlatters letzten Lebensjahren.\n\tAus: Deutsches Pfarrerblatt 1952, Teil I, Seite 515 - 516;\n\tTeil II, Seite 542 - 543. Dazu unveröffentlichtes\n\tManuskript für Teil III: \"Was ihm zuletzt noch Sorgen\n\tmachte.\"",
+      "nummer": "623",
+      "titel": "Aus Adolf Schlatters letzten Lebensjahren",
+      "beteiligte": [
+        {
+          "name": "Hans Stroh",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "beschreibung": "Erschienen in: Deutsches Pfarrerblatt 1952, Teil I, S.515-516; Teil II, S.542-543. Dazu ein unveröffentlichtes Manuskript für Teil III mit dem Titel \"Was ihm zuletzt noch Sorgen machte.\"",
+      "typ": "Aufsatz",
+      "jahr": 1952,
+      "untereintraege": [
+        {
+          "rawText": "Deutsches Pfarrerblatt 1952, Teil I, Seite 515 - 516",
+          "in": "Deutsches Pfarrerblatt",
+          "jahr": 1952,
+          "beschreibung": "Teil I, Seiten 515-516"
+        },
+        {
+          "rawText": "Deutsches Pfarrerblatt 1952, Teil II, Seite 542 - 543",
+          "in": "Deutsches Pfarrerblatt",
+          "jahr": 1952,
+          "beschreibung": "Teil II, Seiten 542-543"
+        },
+        {
+          "rawText": "Unveröffentlichtes Manuskript für Teil III: \"Was ihm zuletzt noch Sorgen machte.\"",
+          "titel": "Was ihm zuletzt noch Sorgen machte.",
+          "beschreibung": "Unveröffentlichtes Manuskript (Teil III).",
+          "typ": "Manuskript",
+          "anmerkung": "Unveröffentlicht"
+        }
+      ],
+      "_quelldatei": "page_105.json",
+      "_pageNumber": ""
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "624: Gottlob Lang, Erinnerungen an Adolf Schlatter.\n\tAus: Evang. Allianzblatt Mai 1952",
+      "nummer": "624",
+      "titel": "Erinnerungen an Adolf Schlatter",
+      "beteiligte": [
+        {
+          "name": "Gottlob Lang",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "beschreibung": "Erschienen in: Evang. Allianzblatt, Mai 1952.",
+      "typ": "Aufsatz",
+      "jahr": 1952,
+      "anmerkung": "Monat angegeben (Mai 1952); kein genauer Tag.",
+      "_quelldatei": "page_105.json",
+      "_pageNumber": ""
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "625: Adolf Wischmann, Aufzeichnungen von seiner Assistententätig-\n\tkeit bei Karl Fezer in Tübingen 1934 und 1935.\n\tDazu: Hans Stroh, Äußerung zur Arbeitsverbindung von Wisch-\n\tmann mit Schlatter.",
+      "nummer": "625",
+      "titel": "Aufzeichnungen von Adolf Wischmann über seine Assistententätigkeit bei Karl Fezer in Tübingen",
+      "beteiligte": [
+        {
+          "name": "Adolf Wischmann",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Karl Fezer",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "beschreibung": "Aufzeichnungen über die Assistententätigkeit in Tübingen 1934-1935. Dazu eine Äußerung von Hans Stroh zur Arbeitsverbindung von Wischmann mit Schlatter.",
+      "typ": "Notiz",
+      "zeitraum": "1934-1935",
+      "untereintraege": [
+        {
+          "rawText": "Hans Stroh, Äußerung zur Arbeitsverbindung von Wischmann mit Schlatter",
+          "beteiligte": [
+            {
+              "name": "Hans Stroh",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ],
+          "beschreibung": "Äußerung zur Arbeitsverbindung von Wischmann mit Schlatter."
+        }
+      ],
+      "_quelldatei": "page_105.json",
+      "_pageNumber": ""
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "626: Martin Stroh, Gemeindevortrag 1952 über Adolf Schlatter.\n\tManuskript",
+      "nummer": "626",
+      "titel": "Gemeindevortrag über Adolf Schlatter",
+      "beteiligte": [
+        {
+          "name": "Martin Stroh",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "beschreibung": "Gemeindevortrag 1952. Manuskript.",
+      "typ": "Manuskript",
+      "jahr": 1952,
+      "anlass": "Gemeindevortrag",
+      "_quelldatei": "page_105.json",
+      "_pageNumber": ""
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "627: Adolf Schlatter, Der Anteil der Christenheit an der Gestal-\n\ttung unseres Volkstums.\n\tIn: Was will der Christliche Volksdienst?\n\tChristlicher Volksdienst-Verlag Korntal, Schrift Nr. 1",
+      "nummer": "627",
+      "titel": "Der Anteil der Christenheit an der Gestaltung unseres Volkstums",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "beschreibung": "Erschienen in: Was will der Christliche Volksdienst? Christlicher Volksdienst-Verlag Korntal, Schrift Nr. 1.",
+      "typ": "Druckschrift",
+      "verlag": "Christlicher Volksdienst-Verlag Korntal",
+      "reihe": "Schrift Nr. 1",
+      "_quelldatei": "page_105.json",
+      "_pageNumber": ""
+    }
+  ],
+  "notes": "Header: 'Teil II: B Druckschriften und Manuskripte Nr. 614 - 627'. Fußnoten/Seitenzahl '81' am Seitenende."
+}

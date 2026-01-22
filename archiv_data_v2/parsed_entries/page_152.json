@@ -1,0 +1,342 @@
+{
+  "sourceFile": "page_152.json",
+  "pageNumber": "128",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "C Briefe",
+    "unterabschnitt": "4. Bildmaterial",
+    "unterkategorie": "a) Zugänge 1979 - 1986; b) Zugänge 1987, St. Gallen und Kessweil"
+  },
+  "entriesCount": 14,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "4. Bildmaterial",
+      "unterkategorie": "a) Zugänge 1979 - 1986; b) Zugänge 1987, St. Gallen und Kessweil",
+      "rawText": "Nr. 1401: 3 Fotos, Adolf Schlatter:\n   am Katheder, Tübingen 1926;\n   vor Haus Olgastraße 2, Tübingen;\n   im Festzug (wahrscheinlich beim Universitätsjubiläum\n   Tübingen 1927).",
+      "nummer": "1401",
+      "titel": "3 Fotos, Adolf Schlatter",
+      "beschreibung": "Drei Fotografien von Adolf Schlatter: am Katheder (Tübingen), vor Haus Olgastraße 2 (Tübingen), im Festzug (wahrscheinlich beim Universitätsjubiläum Tübingen).",
+      "typ": "Fotografie",
+      "umfang": "3 Fotos",
+      "zeitraum": "1926, 1927",
+      "untereintraege": [
+        {
+          "rawText": "am Katheder, Tübingen 1926",
+          "beschreibung": "Schlatter am Katheder, Aufnahme Tübingen 1926",
+          "typ": "Fotografie",
+          "jahr": 1926
+        },
+        {
+          "rawText": "vor Haus Olgastraße 2, Tübingen",
+          "beschreibung": "Schlatter vor Haus Olgastraße 2, Tübingen",
+          "typ": "Fotografie"
+        },
+        {
+          "rawText": "im Festzug (wahrscheinlich beim Universitätsjubiläum Tübingen 1927)",
+          "beschreibung": "Schlatter im Festzug (vermutlich Universitätsjubiläum Tübingen 1927)",
+          "typ": "Fotografie",
+          "jahr": 1927
+        }
+      ],
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_152.json",
+      "_pageNumber": "128"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "4. Bildmaterial",
+      "unterkategorie": "a) Zugänge 1979 - 1986; b) Zugänge 1987, St. Gallen und Kessweil",
+      "rawText": "1402: 1 Foto, Schlatter, Steintreppe hinabsteigend.",
+      "nummer": "1402",
+      "titel": "1 Foto, Schlatter",
+      "beschreibung": "Schlatter, die Steintreppe hinabsteigend.",
+      "typ": "Fotografie",
+      "umfang": "1 Foto",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_152.json",
+      "_pageNumber": "128"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "4. Bildmaterial",
+      "unterkategorie": "a) Zugänge 1979 - 1986; b) Zugänge 1987, St. Gallen und Kessweil",
+      "rawText": "1403: 3 Fotos, Schlatter:\n   Vorlesung haltend;\n   in hohem Alter, mit Tochter Dora;\n   in hohem Alter.",
+      "nummer": "1403",
+      "titel": "3 Fotos, Schlatter",
+      "beschreibung": "Drei Aufnahmen von Schlatter: beim Vorlesung halten; in hohem Alter mit Tochter Dora; in hohem Alter.",
+      "typ": "Fotografie",
+      "umfang": "3 Fotos",
+      "untereintraege": [
+        {
+          "rawText": "Vorlesung haltend",
+          "beschreibung": "Schlatter beim Vorlesung halten",
+          "typ": "Fotografie"
+        },
+        {
+          "rawText": "in hohem Alter, mit Tochter Dora",
+          "beschreibung": "Schlatter in hohem Alter zusammen mit Tochter Dora",
+          "typ": "Fotografie",
+          "beteiligte": [
+            {
+              "name": "Dora",
+              "rolle": "Erwähnt",
+              "entity": "Person",
+              "zusatz": "Tochter (Schlatter)"
+            }
+          ]
+        },
+        {
+          "rawText": "in hohem Alter",
+          "beschreibung": "Schlatter in hohem Alter",
+          "typ": "Fotografie"
+        }
+      ],
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_152.json",
+      "_pageNumber": "128"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "4. Bildmaterial",
+      "unterkategorie": "a) Zugänge 1979 - 1986; b) Zugänge 1987, St. Gallen und Kessweil",
+      "rawText": "1404: 2 Fotos (Reproduktionen) der beiden Gebäude des späteren\n   Schlatter-Hauses.",
+      "nummer": "1404",
+      "titel": "2 Fotos (Reproduktionen) der beiden Gebäude des späteren Schlatter-Hauses",
+      "beschreibung": "Zwei Reproduktionsfotos der beiden Gebäude des späteren Schlatter-Hauses.",
+      "typ": "Fotografie",
+      "umfang": "2 Fotos (Reproduktionen)",
+      "_quelldatei": "page_152.json",
+      "_pageNumber": "128"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "4. Bildmaterial",
+      "unterkategorie": "a) Zugänge 1979 - 1986; b) Zugänge 1987, St. Gallen und Kessweil",
+      "rawText": "1405: Scherenschnitt \"Prof. Dr. v. Schlatter, Tübingen\"",
+      "nummer": "1405",
+      "titel": "Scherenschnitt \"Prof. Dr. v. Schlatter, Tübingen\"",
+      "beschreibung": "Scherenschnitt mit der Beschriftung 'Prof. Dr. v. Schlatter, Tübingen'.",
+      "typ": "Scherenschnitt",
+      "_quelldatei": "page_152.json",
+      "_pageNumber": "128"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "4. Bildmaterial",
+      "unterkategorie": "a) Zugänge 1979 - 1986; b) Zugänge 1987, St. Gallen und Kessweil",
+      "rawText": "1406/1: 1 Foto, Schlatter in hohem Alter mit jungen Frauen und\n   Männern.",
+      "nummer": "1406/1",
+      "titel": "1 Foto, Schlatter in hohem Alter mit jungen Frauen und Männern",
+      "beschreibung": "Fotografie: Schlatter in hohem Alter zusammen mit jungen Frauen und Männern.",
+      "typ": "Fotografie",
+      "umfang": "1 Foto",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_152.json",
+      "_pageNumber": "128"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "4. Bildmaterial",
+      "unterkategorie": "a) Zugänge 1979 - 1986; b) Zugänge 1987, St. Gallen und Kessweil",
+      "rawText": "1406/2: 1 Foto, Schlatter gibt Autogramme.",
+      "nummer": "1406/2",
+      "titel": "1 Foto, Schlatter gibt Autogramme",
+      "beschreibung": "Schlatter beim Autogramme geben.",
+      "typ": "Fotografie",
+      "umfang": "1 Foto",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_152.json",
+      "_pageNumber": "128"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "4. Bildmaterial",
+      "unterkategorie": "a) Zugänge 1979 - 1986; b) Zugänge 1987, St. Gallen und Kessweil",
+      "rawText": "1407: 1 Foto, Landesbischof Wurm nach Bekenntnisversammlung\n   Leonhardskirche Stuttgart. 11.11.1934",
+      "nummer": "1407",
+      "titel": "1 Foto, Landesbischof Wurm",
+      "beschreibung": "Fotografie von Landesbischof Wurm nach einer Bekenntnisversammlung in der Leonhardskirche, Stuttgart.",
+      "typ": "Fotografie",
+      "umfang": "1 Foto",
+      "datum": "1934-11-11",
+      "ort": "Leonhardskirche, Stuttgart",
+      "anlass": "Bekenntnisversammlung",
+      "beteiligte": [
+        {
+          "name": "Landesbischof Wurm",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_152.json",
+      "_pageNumber": "128"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "4. Bildmaterial",
+      "unterkategorie": "a) Zugänge 1979 - 1986; b) Zugänge 1987, St. Gallen und Kessweil",
+      "rawText": "1408: 1 Porträtfoto, Adolf Schlatter in Berlin.",
+      "nummer": "1408",
+      "titel": "1 Porträtfoto, Adolf Schlatter",
+      "beschreibung": "Porträtfoto von Adolf Schlatter in Berlin.",
+      "typ": "Fotografie",
+      "umfang": "1 Foto",
+      "ort": "Berlin",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_152.json",
+      "_pageNumber": "128"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "4. Bildmaterial",
+      "unterkategorie": "a) Zugänge 1979 - 1986; b) Zugänge 1987, St. Gallen und Kessweil",
+      "rawText": "Nr. 1410: 2 Fotos, Kirche St. Laurenzen in St. Gallen. Hier Ordinationspredigt von Adolf Schlatter. 9.5.1875",
+      "nummer": "1410",
+      "titel": "2 Fotos, Kirche St. Laurenzen in St. Gallen",
+      "beschreibung": "Zwei Fotos der Kirche St. Laurenzen in St. Gallen; Ort der Ordinationspredigt von Adolf Schlatter.",
+      "typ": "Fotografie",
+      "umfang": "2 Fotos",
+      "ort": "St. Laurenzen, St. Gallen",
+      "datum": "1875-05-09",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Vortragender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_152.json",
+      "_pageNumber": "128"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "4. Bildmaterial",
+      "unterkategorie": "a) Zugänge 1979 - 1986; b) Zugänge 1987, St. Gallen und Kessweil",
+      "rawText": "1411: 2 Fotos, Haus Familie Schlatter \"Hinterm Turm\" von\n   St. Laurenzen. Gedenktafel für Adolf Schlatter.",
+      "nummer": "1411",
+      "titel": "2 Fotos, Haus Familie Schlatter 'Hinterm Turm'",
+      "beschreibung": "Zwei Fotos: Haus der Familie Schlatter 'Hinterm Turm' in St. Laurenzen; Gedenktafel für Adolf Schlatter.",
+      "typ": "Fotografie",
+      "umfang": "2 Fotos",
+      "ort": "St. Laurenzen",
+      "_quelldatei": "page_152.json",
+      "_pageNumber": "128"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "4. Bildmaterial",
+      "unterkategorie": "a) Zugänge 1979 - 1986; b) Zugänge 1987, St. Gallen und Kessweil",
+      "rawText": "1412: 2 Fotos Kirche St. Mangen. Hier Taufe von Adolf Schlatter 22.10.1852.",
+      "nummer": "1412",
+      "titel": "2 Fotos, Kirche St. Mangen",
+      "beschreibung": "Zwei Fotos der Kirche St. Mangen; hier Taufe von Adolf Schlatter.",
+      "typ": "Fotografie",
+      "umfang": "2 Fotos",
+      "ort": "St. Mangen",
+      "datum": "1852-10-22",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_152.json",
+      "_pageNumber": "128"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "4. Bildmaterial",
+      "unterkategorie": "a) Zugänge 1979 - 1986; b) Zugänge 1987, St. Gallen und Kessweil",
+      "rawText": "1413: 2 Fotos, Vadian-Denkmal. Gedenktafel für Joachim von Watt\n   1484 - 1551, \"Bürgermeister seiner Stadt, Förderer der\n   Reformation\".",
+      "nummer": "1413",
+      "titel": "2 Fotos, Vadian-Denkmal",
+      "beschreibung": "Zwei Fotos des Vadian-Denkmals; Gedenktafel für Joachim von Watt (1484-1551) mit Inschrift 'Bürgermeister seiner Stadt, Förderer der Reformation'.",
+      "typ": "Fotografie",
+      "umfang": "2 Fotos",
+      "beteiligte": [
+        {
+          "name": "Joachim von Watt",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "1484-1551"
+        }
+      ],
+      "_quelldatei": "page_152.json",
+      "_pageNumber": "128"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "4. Bildmaterial",
+      "unterkategorie": "a) Zugänge 1979 - 1986; b) Zugänge 1987, St. Gallen und Kessweil",
+      "rawText": "1414: 2 Fotos, Denkmal von Gallus, Gründer vom Kloster St. Gal-\n   len.",
+      "nummer": "1414",
+      "titel": "2 Fotos, Denkmal von Gallus",
+      "beschreibung": "Zwei Fotos des Denkmals des Heiligen Gallus, Gründer des Klosters St. Gallen.",
+      "typ": "Fotografie",
+      "umfang": "2 Fotos",
+      "beteiligte": [
+        {
+          "name": "Gallus",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "Gründer des Klosters St. Gallen"
+        }
+      ],
+      "_quelldatei": "page_152.json",
+      "_pageNumber": "128"
+    }
+  ],
+  "notes": "Seite enthält die Unterüberschrift '4. Bildmaterial' mit den Unterkategorien a) Zugänge 1979 - 1986 und b) Zugänge 1987, St. Gallen und Kessweil. Inventarnummer 1409 fehlt auf dieser Seite."
+}

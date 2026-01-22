@@ -1,0 +1,294 @@
+{
+  "sourceFile": "page_121.json",
+  "pageNumber": "97",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 12,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 797: Gerhard Vetter und Johannes Schottky, Schlatter-Erinnerungen.",
+      "nummer": "797",
+      "titel": "Gerhard Vetter und Johannes Schottky, Schlatter-Erinnerungen",
+      "beschreibung": "Erinnerungen von Gerhard Vetter und Johannes Schottky an Adolf Schlatter.",
+      "typ": "Erinnerungen/Memoiren",
+      "beteiligte": [
+        {
+          "name": "Gerhard Vetter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Johannes Schottky",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_121.json",
+      "_pageNumber": "97"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "798: Hermann Schneller, Schlatter-Erinnerungen.\nDabei: Anekdote über Schlatters Verhalten bei Überreichung\ndes Königlich-württembergischen Friedrichsordens",
+      "nummer": "798",
+      "titel": "Hermann Schneller, Schlatter-Erinnerungen",
+      "beschreibung": "Enthält eine Anekdote über Schlatters Verhalten bei der Überreichung des Königlich-württembergischen Friedrichsordens.",
+      "typ": "Erinnerungen/Memoiren",
+      "beteiligte": [
+        {
+          "name": "Hermann Schneller",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_121.json",
+      "_pageNumber": "97"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "799: Gottlob Lang, Erinnerungen an Adolf Schlatter (1852 - 1938).\nAus: Im Streite zur Seite,\nRundbrief des Tübinger Bibelkreises, Herbst 1952",
+      "nummer": "799",
+      "titel": "Gottlob Lang, Erinnerungen an Adolf Schlatter (1852-1938)",
+      "beschreibung": "Veröffentlicht in: Im Streite zur Seite, Rundbrief des Tübinger Bibelkreises, Herbst 1952.",
+      "typ": "Erinnerungen/Memoiren",
+      "jahr": 1952,
+      "beteiligte": [
+        {
+          "name": "Gottlob Lang",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_121.json",
+      "_pageNumber": "97"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "800: Gustav Stählin, Brief 21.4.1979 an Ernst Bock mit Schlatter-\nErinnerungen und Hinweisen auf Schlatter-Zitate in Biographien.\nAus: Karl Heim, Ich gedenke der vorigen Zeiten.\nFurche-Verlag Hamburg 1952, Seite 140;\nWilhelm Stählin, Via Vitae,\nStauda-Verlag, Kassel 1968, Seite 233;\nWalter Künneth, Lebensführungen,\nBrockhaus-Verlag, Wuppertal 1979, Seite 52 - 53.",
+      "nummer": "800",
+      "titel": "Gustav Stählin, Brief an Ernst Bock (Schlatter-Erinnerungen)",
+      "beschreibung": "Brief mit Schlatter-Erinnerungen und Hinweisen auf Schlatter-Zitate in Biographien. Zitiert/Bezieht sich auf: Karl Heim, Ich gedenke der vorigen Zeiten (Furche-Verlag Hamburg 1952, S.140); Wilhelm Stählin, Via Vitae (Stauda-Verlag Kassel 1968, S.233); Walter Künneth, Lebensführungen (Brockhaus-Verlag Wuppertal 1979, S.52-53).",
+      "typ": "Brief",
+      "datum": "1979-04-21",
+      "beteiligte": [
+        {
+          "name": "Gustav Stählin",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Ernst Bock",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_121.json",
+      "_pageNumber": "97"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "801: Kurt Thieringer, \"Persönliche Erinnerungen an Adolf Schlatter\".",
+      "nummer": "801",
+      "titel": "Persönliche Erinnerungen an Adolf Schlatter",
+      "beschreibung": "Erinnerungen von Kurt Thieringer an Adolf Schlatter.",
+      "typ": "Erinnerungen/Memoiren",
+      "beteiligte": [
+        {
+          "name": "Kurt Thieringer",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_121.json",
+      "_pageNumber": "97"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "802/1: \"Prof. D. Dr. Adolf Schlatter\".\nArtikel im Schwäbischen Merkur 21.5.1938",
+      "nummer": "802/1",
+      "titel": "Prof. D. Dr. Adolf Schlatter",
+      "beschreibung": "Artikel im Schwäbischen Merkur über Adolf Schlatter.",
+      "typ": "Artikel",
+      "datum": "1938-05-21",
+      "zeitschrift": "Schwäbischer Merkur",
+      "_quelldatei": "page_121.json",
+      "_pageNumber": "97"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "802/2: \"Das Zwiegespräch\".\nArtikel im Neukirchner Kalender 17.10.1980 über eine Begeg-\nung mit Adolf Schlatter",
+      "nummer": "802/2",
+      "titel": "Das Zwiegespräch",
+      "beschreibung": "Artikel im Neukirchner Kalender über eine Begegnung mit Adolf Schlatter.",
+      "typ": "Artikel",
+      "datum": "1980-10-17",
+      "zeitschrift": "Neukirchner Kalender",
+      "_quelldatei": "page_121.json",
+      "_pageNumber": "97"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "803: Adolf Schlatter, Wird der Jude über uns siegen?\nFreizeiten-Verlag Velbert 1935",
+      "nummer": "803",
+      "titel": "Wird der Jude über uns siegen?",
+      "beschreibung": "Druckschrift von Adolf Schlatter.",
+      "typ": "Druckschrift",
+      "jahr": 1935,
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Freizeiten-Verlag Velbert",
+      "_quelldatei": "page_121.json",
+      "_pageNumber": "97"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "804: Margarete Gailichs, Brief 18.1.1981 an Hans Stroh, mit Erinne-\nrung an Schlatters Hilfsbereitschaft in der Notzeit 1923",
+      "nummer": "804",
+      "titel": "Margarete Gailichs, Brief an Hans Stroh (Erinnerung an Schlatters Hilfsbereitschaft 1923)",
+      "beschreibung": "Brief mit Erinnerung an Schlatters Hilfsbereitschaft in der Notzeit 1923.",
+      "typ": "Brief",
+      "datum": "1981-01-18",
+      "beteiligte": [
+        {
+          "name": "Margarete Gailichs",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Hans Stroh",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "jahr": 1923,
+      "_quelldatei": "page_121.json",
+      "_pageNumber": "97"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "805: Simon Kuert, Landesbibliothek Bern, Mitteilung 14.10.1981 mit\nAufstellung über die Vorlesungen von Adolf Schlatter während\nseiner Berner Zeit (1880 - 1888).",
+      "nummer": "805",
+      "titel": "Simon Kuert, Mitteilung mit Aufstellung über Schlatters Vorlesungen (Berner Zeit)",
+      "beschreibung": "Mitteilung von Simon Kuert (Landesbibliothek Bern) mit Aufstellung über die Vorlesungen von Adolf Schlatter während seiner Berner Zeit.",
+      "typ": "Mitteilung",
+      "datum": "1981-10-14",
+      "beteiligte": [
+        {
+          "name": "Simon Kuert",
+          "rolle": "Zusammensteller",
+          "entity": "Person",
+          "zusatz": "Landesbibliothek Bern"
+        }
+      ],
+      "zeitraum": "1880-1888",
+      "_quelldatei": "page_121.json",
+      "_pageNumber": "97"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "806: Adolf Schlatter, Das Wort vom Kreuz und das soziale Evangelium.\nIn: Evangelium und Dienst am Volk.\nVerlagsbuchhandlung P. Ott, Gotha. Sonderdruck 1932",
+      "nummer": "806",
+      "titel": "Das Wort vom Kreuz und das soziale Evangelium",
+      "beschreibung": "Sonderdruck von Adolf Schlatter. Erschienen in: Evangelium und Dienst am Volk. Verlagsbuchhandlung P. Ott, Gotha.",
+      "typ": "Sonderdruck",
+      "jahr": 1932,
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Verlagsbuchhandlung P. Ott, Gotha",
+      "in": "Evangelium und Dienst am Volk",
+      "_quelldatei": "page_121.json",
+      "_pageNumber": "97"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "807: Adolf Schlatter, verschiedene Schriften:\n\nDer vergrabene Schatz im christlichen Sakrament.\nFreizeiten-Verlag Velbert 1929\n\nUnsere Abendmahlsfeier.\nFreizeiten-Verlag Velbert 1928\n\nDie Offenbarung des heiligen Geistes in der deutschen Refor-\nmation.\nAlbert Zutavern-Verlag, Pforzheim 1925",
+      "nummer": "807",
+      "titel": "Adolf Schlatter, verschiedene Schriften",
+      "beschreibung": "Sammlung mehrerer Schriften von Adolf Schlatter (siehe Untereinträge).",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Der vergrabene Schatz im christlichen Sakrament. Freizeiten-Verlag Velbert 1929",
+          "titel": "Der vergrabene Schatz im christlichen Sakrament",
+          "verlag": "Freizeiten-Verlag Velbert",
+          "jahr": 1929,
+          "typ": "Druckschrift"
+        },
+        {
+          "rawText": "Unsere Abendmahlsfeier. Freizeiten-Verlag Velbert 1928",
+          "titel": "Unsere Abendmahlsfeier",
+          "verlag": "Freizeiten-Verlag Velbert",
+          "jahr": 1928,
+          "typ": "Druckschrift"
+        },
+        {
+          "rawText": "Die Offenbarung des heiligen Geistes in der deutschen Reformation. Albert Zutavern-Verlag, Pforzheim 1925",
+          "titel": "Die Offenbarung des heiligen Geistes in der deutschen Reformation",
+          "verlag": "Albert Zutavern-Verlag, Pforzheim",
+          "jahr": 1925,
+          "typ": "Druckschrift"
+        }
+      ],
+      "_quelldatei": "page_121.json",
+      "_pageNumber": "97"
+    }
+  ],
+  "notes": "Keine neuen Überschriften erkannt; Kontext unverändert (Teil II, B Druckschriften und Manuskripte, 6. Regesten zu Briefen der Gruppe 2, h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.). OCR-Zeilenumbrüche wurden beibehalten."
+}

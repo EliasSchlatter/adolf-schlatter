@@ -1,0 +1,305 @@
+{
+  "sourceFile": "page_122.json",
+  "pageNumber": "98",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 5,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 807: Das Gott wohlgefällige Opfer. Vier Reden.\nSchriftenniederlage der Anstalt Bethel\n\nDie Dienstpflicht des Christen in der apostolischen Gemeinde.\nVortrag 7.10.1929.\nQuell-Verlag Stuttgart\n\nDas Alte Testament und der Talmud.\nIn: Bekennende Kirche, Heft 7, Chr.-Kaiser-Verlag, München\n1934\n\nDie Verkündigung der Rechtfertigung unter allen Völkern.\nZwei Andachten (22. und 23.10.1934). (Gesamtverband der\nDeutschen Missionskonferenzen).\nSonderdruck Schrepper & Co., Essen",
+      "nummer": "807",
+      "titel": "Sammlung: Das Gott wohlgefällige Opfer. Vier Reden (u.a.)",
+      "beschreibung": "Sammlung von Schriften/Reden und Sonderdrucken; Schriftenniederlage der Anstalt Bethel. Enthält mehrere Einzeltitel (siehe Untereinträge).",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "Das Gott wohlgefällige Opfer. Vier Reden. Schriftenniederlage der Anstalt Bethel",
+          "titel": "Das Gott wohlgefällige Opfer. Vier Reden",
+          "beschreibung": "Schriftenniederlage der Anstalt Bethel (Verlag/Institution: Anstalt Bethel).",
+          "typ": "Druckschrift",
+          "beteiligte": [
+            {
+              "name": "Anstalt Bethel",
+              "rolle": "Herausgebende Stelle",
+              "entity": "Institution"
+            }
+          ]
+        },
+        {
+          "rawText": "Die Dienstpflicht des Christen in der apostolischen Gemeinde. Vortrag 7.10.1929. Quell-Verlag Stuttgart",
+          "titel": "Die Dienstpflicht des Christen in der apostolischen Gemeinde",
+          "beschreibung": "Vortrag; Quell-Verlag Stuttgart (Verlag).",
+          "typ": "Druckschrift",
+          "datum": "1929-10-07",
+          "beteiligte": [
+            {
+              "name": "Quell-Verlag Stuttgart",
+              "rolle": "Verlag",
+              "entity": "Institution"
+            }
+          ]
+        },
+        {
+          "rawText": "Das Alte Testament und der Talmud. In: Bekennende Kirche, Heft 7, Chr.-Kaiser-Verlag, München 1934",
+          "titel": "Das Alte Testament und der Talmud",
+          "beschreibung": "Erschienen in: Bekennende Kirche, Heft 7; Chr.-Kaiser-Verlag, München.",
+          "typ": "Artikel",
+          "jahr": 1934,
+          "beteiligte": [
+            {
+              "name": "Bekennende Kirche",
+              "rolle": "Zeitschrift",
+              "entity": "Institution"
+            },
+            {
+              "name": "Chr.-Kaiser-Verlag, München",
+              "rolle": "Verlag",
+              "entity": "Institution"
+            }
+          ]
+        },
+        {
+          "rawText": "Die Verkündigung der Rechtfertigung unter allen Völkern. Zwei Andachten (22. und 23.10.1934). (Gesamtverband der Deutschen Missionskonferenzen). Sonderdruck Schrepper & Co., Essen",
+          "titel": "Die Verkündigung der Rechtfertigung unter allen Völkern",
+          "beschreibung": "Zwei Andachten, gehalten am 22.10.1934 und 23.10.1934; Sonderdruck für den Gesamtverband der Deutschen Missionskonferenzen.",
+          "typ": "Druckschrift",
+          "jahr": 1934,
+          "beteiligte": [
+            {
+              "name": "Gesamtverband der Deutschen Missionskonferenzen",
+              "rolle": "Herausgebende Stelle",
+              "entity": "Organisation"
+            },
+            {
+              "name": "Schrepper & Co., Essen",
+              "rolle": "Verlag",
+              "entity": "Institution"
+            }
+          ],
+          "anmerkung": "Enthält zwei Andachtsdaten: 22.10.1934 und 23.10.1934."
+        }
+      ],
+      "_quelldatei": "page_122.json",
+      "_pageNumber": "98"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "808: Erwin Milhaupt, \"Schlatter, Exegetica und Einführung in die Theologie.\" Band mit Nachschriften von Schlatter-Vorlesungen.\n\n808/1: Matthäus (1923 - 1924)\n\n808/2: Johannes (1923)\n\n808/3: Römerbrief (1926 - 1927)\n\n808/4: Neutestamentliche Theologie (1926)\n\n808/5: Einführung in die Theologie (1924)",
+      "nummer": "808",
+      "titel": "Erwin Milhaupt: 'Schlatter, Exegetica und Einführung in die Theologie' (Band mit Nachschriften)",
+      "beschreibung": "Band mit Nachschriften von Schlatter-Vorlesungen, zusammengestellt/verfasst von Erwin Milhaupt. Enthält mehrere Teile zu einzelnen Vorlesungsreihen.",
+      "typ": "Sammlung",
+      "beteiligte": [
+        {
+          "name": "Erwin Milhaupt",
+          "rolle": "Zusammensteller/Autor",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "808/1: Matthäus (1923 - 1924)",
+          "titel": "Matthäus",
+          "beschreibung": "Nachschrift von Vorlesungen über das Matthäusevangelium.",
+          "typ": "Vorlesung",
+          "zeitraum": "1923-1924"
+        },
+        {
+          "rawText": "808/2: Johannes (1923)",
+          "titel": "Johannes",
+          "beschreibung": "Nachschrift von Vorlesungen über das Johannesevangelium.",
+          "typ": "Vorlesung",
+          "jahr": 1923
+        },
+        {
+          "rawText": "808/3: Römerbrief (1926 - 1927)",
+          "titel": "Römerbrief",
+          "beschreibung": "Nachschrift von Vorlesungen zum Römerbrief.",
+          "typ": "Vorlesung",
+          "zeitraum": "1926-1927"
+        },
+        {
+          "rawText": "808/4: Neutestamentliche Theologie (1926)",
+          "titel": "Neutestamentliche Theologie",
+          "beschreibung": "Nachschrift einer Vorlesung/Dozentenschaft.",
+          "typ": "Vorlesung",
+          "jahr": 1926
+        },
+        {
+          "rawText": "808/5: Einführung in die Theologie (1924)",
+          "titel": "Einführung in die Theologie",
+          "beschreibung": "Nachschrift von Vorlesungen zur Einführung in die Theologie.",
+          "typ": "Vorlesung",
+          "jahr": 1924
+        }
+      ],
+      "_quelldatei": "page_122.json",
+      "_pageNumber": "98"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "809: Adolf Schlatter, Die Kirche und die negative Kritik.\nVortrag bei der Berliner Pastoralkonferenz 4.6.1890.\nAus: Deutsche Evang. Kirchenzeitung 14.6.1890,\nHerausgeber Adolf Stöcker\n\nAdolf Schlatter, \"Die Sünde wider den Heiligen Geist\".\nVortrag bei der Berliner Pastoralkonferenz 23./24.5.1894.\nAus: Deutsche Evang. Kirchenzeitung 2.6.1894",
+      "nummer": "809",
+      "titel": "Adolf Schlatter: Vorträge (Auszüge/Publikationen)",
+      "beschreibung": "Einzelne Vorträge von Adolf Schlatter, publiziert in der Deutschen Evangelischen Kirchenzeitung; Angaben zu Vortragsdaten und Publikationsdaten.",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor/Vortragender",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Stöcker",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        },
+        {
+          "name": "Deutsche Evang. Kirchenzeitung",
+          "rolle": "Zeitschrift",
+          "entity": "Institution"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Die Kirche und die negative Kritik. Vortrag bei der Berliner Pastoralkonferenz 4.6.1890. Aus: Deutsche Evang. Kirchenzeitung 14.6.1890, Herausgeber Adolf Stöcker",
+          "titel": "Die Kirche und die negative Kritik",
+          "beschreibung": "Vortrag bei der Berliner Pastoralkonferenz; publiziert in der Deutschen Evangelischen Kirchenzeitung.",
+          "typ": "Vortrag/Artikel",
+          "datum": "1890-06-04",
+          "verlag": "Deutsche Evang. Kirchenzeitung",
+          "beteiligte": [
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Vortragender/Autor",
+              "entity": "Person"
+            },
+            {
+              "name": "Adolf Stöcker",
+              "rolle": "Herausgeber",
+              "entity": "Person"
+            }
+          ],
+          "anmerkung": "Publikationsdatum in Zeitung: 14.06.1890"
+        },
+        {
+          "rawText": "Adolf Schlatter, \"Die Sünde wider den Heiligen Geist\". Vortrag bei der Berliner Pastoralkonferenz 23./24.5.1894. Aus: Deutsche Evang. Kirchenzeitung 2.6.1894",
+          "titel": "Die Sünde wider den Heiligen Geist",
+          "beschreibung": "Vortrag bei der Berliner Pastoralkonferenz (Datum 23./24.5.1894 angegeben); publiziert in Deutsche Evang. Kirchenzeitung.",
+          "typ": "Vortrag/Artikel",
+          "jahr": 1894,
+          "verlag": "Deutsche Evang. Kirchenzeitung",
+          "beteiligte": [
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Vortragender/Autor",
+              "entity": "Person"
+            }
+          ],
+          "anmerkung": "Vortragsdatum als ‚23./24.5.1894‘ angegeben; Publikationsdatum in Zeitung: 02.06.1894"
+        }
+      ],
+      "_quelldatei": "page_122.json",
+      "_pageNumber": "98"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "810: Der Fall Hamack. Erklärung des Vorstands der landeskirch-\nlichen Vereinigung der Freunde der positiven Union.\nAus: Deutsche Evang. Kirchenzeitung 22.10.1892\n\nWarum können wir das Apostolische Glaubensbekenntnis nicht\naufgeben? Vortrag von Hermann Cremer - Greifswald.\nAus: Deutsche Evang. Kirchenzeitung 15.4.1893",
+      "nummer": "810",
+      "titel": "Sammlung: Beiträge/Aufsätze zu kirchlichen Fragen",
+      "beschreibung": "Enthält Zeitungsbeiträge und Vortragsnotizen, publiziert in der Deutschen Evangelischen Kirchenzeitung.",
+      "typ": "Druckschrift",
+      "untereintraege": [
+        {
+          "rawText": "Der Fall Hamack. Erklärung des Vorstands der landeskirchlichen Vereinigung der Freunde der positiven Union. Aus: Deutsche Evang. Kirchenzeitung 22.10.1892",
+          "titel": "Der Fall Hamack. Erklärung des Vorstands der landeskirchlichen Vereinigung der Freunde der positiven Union",
+          "beschreibung": "Erklärung des Vorstands der landeskirchlichen Vereinigung der Freunde der positiven Union; publiziert in Deutsche Evang. Kirchenzeitung.",
+          "typ": "Artikel",
+          "datum": "1892-10-22",
+          "verlag": "Deutsche Evang. Kirchenzeitung",
+          "beteiligte": [
+            {
+              "name": "Vereinigung der Freunde der positiven Union",
+              "rolle": "Herausgebende Stelle",
+              "entity": "Organisation"
+            }
+          ]
+        },
+        {
+          "rawText": "Warum können wir das Apostolische Glaubensbekenntnis nicht aufgeben? Vortrag von Hermann Cremer - Greifswald. Aus: Deutsche Evang. Kirchenzeitung 15.4.1893",
+          "titel": "Warum können wir das Apostolische Glaubensbekenntnis nicht aufgeben?",
+          "beschreibung": "Vortrag von Hermann Cremer (Greifswald); publiziert in Deutsche Evang. Kirchenzeitung.",
+          "typ": "Vortrag/Artikel",
+          "datum": "1893-04-15",
+          "beteiligte": [
+            {
+              "name": "Hermann Cremer",
+              "rolle": "Vortragender/Autor",
+              "entity": "Person",
+              "zusatz": "Greifswald"
+            }
+          ],
+          "verlag": "Deutsche Evang. Kirchenzeitung"
+        }
+      ],
+      "_quelldatei": "page_122.json",
+      "_pageNumber": "98"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "811: Unterlagen über geplante Berufung Adolf Schlatters nach Bonn 1890 und nach Berlin 1893.\n\nNotiz über versuchte Berufung von Martin Kähler, Halle, nach\nBerlin.\nAus: Kreuz-Zeitung 19.12.1892",
+      "nummer": "811",
+      "titel": "Unterlagen und Notizen zu Berufungen (Schlatter, Kähler)",
+      "beschreibung": "Materialsammlung zu versuchten/plangemäßen Berufungen Adolf Schlatters (Bonn 1890, Berlin 1893) sowie Notiz über versuchte Berufung von Martin Kähler; enthält Zeitungsnotiz.",
+      "typ": "Material",
+      "untereintraege": [
+        {
+          "rawText": "Unterlagen über geplante Berufung Adolf Schlatters nach Bonn 1890 und nach Berlin 1893.",
+          "titel": "Unterlagen über geplante Berufung Adolf Schlatters",
+          "beschreibung": "Unterlagen zu geplanten Berufungen nach Bonn (1890) und nach Berlin (1893).",
+          "typ": "Material",
+          "anmerkung": "Jahre im Text: 1890 (Bonn) und 1893 (Berlin)."
+        },
+        {
+          "rawText": "Notiz über versuchte Berufung von Martin Kähler, Halle, nach Berlin. Aus: Kreuz-Zeitung 19.12.1892",
+          "titel": "Notiz über versuchte Berufung von Martin Kähler, Halle, nach Berlin",
+          "beschreibung": "Zeitungsnotiz in der Kreuz-Zeitung.",
+          "typ": "Artikel",
+          "datum": "1892-12-19",
+          "verlag": "Kreuz-Zeitung",
+          "beteiligte": [
+            {
+              "name": "Martin Kähler",
+              "rolle": "Erwähnt",
+              "entity": "Person",
+              "zusatz": "Halle"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_122.json",
+      "_pageNumber": "98"
+    }
+  ],
+  "notes": "OCR-Anmerkungen: Worttrennung/Hyphenation 'landeskirch- lichen' erkannt; Seitenkopf wiederholt Abschnitt 'Teil II: B Druckschriften und Manuskripte'. Keine neue Überschrift auf dieser Seite."
+}

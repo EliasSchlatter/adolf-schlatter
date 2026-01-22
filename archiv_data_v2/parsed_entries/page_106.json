@@ -1,0 +1,353 @@
+{
+  "sourceFile": "page_106.json",
+  "pageNumber": "82",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "4 Systematische Theologie und Philosophie",
+    "unterkategorie": "C Verschiedenes"
+  },
+  "entriesCount": 12,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "Nr. 628: Adolf Schlatter, \"Offene oder verbundene Augen. Zu den Leit- sätzen von Prälat Wurm\". Aus: Christlicher Volksdienst, Evangelisch-soziales Wochen- blatt Süddeutschlands, Korntal-Stuttgart 18.2.1928",
+      "nummer": "628",
+      "titel": "Offene oder verbundene Augen. Zu den Leitsätzen von Prälat Wurm",
+      "beschreibung": "Erschienen in: Christlicher Volksdienst, Evangelisch-soziales Wochenblatt Süddeutschlands; Korntal-Stuttgart",
+      "typ": "Artikel",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "zeitschrift": "Christlicher Volksdienst, Evangelisch-soziales Wochenblatt Süddeutschlands",
+      "ort": "Korntal-Stuttgart",
+      "datum": "1928-02-18",
+      "_quelldatei": "page_106.json",
+      "_pageNumber": "82"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "629: Adolf Schlatter, Was fordert die Lage unseres Volkes von der christlichen Gemeinde? Manuskript des Vortrags vom 18.2.1928",
+      "nummer": "629",
+      "titel": "Was fordert die Lage unseres Volkes von der christlichen Gemeinde?",
+      "beschreibung": "Manuskript des Vortrags",
+      "typ": "Manuskript",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "datum": "1928-02-18",
+      "_quelldatei": "page_106.json",
+      "_pageNumber": "82"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "630: Adolf Schlatter, Rede zu seinem 75. Geburtstag beim Festakt der Evang.-Theol. Fachschaft am 13. Juli 1927 im Auditorium Maximum der Universität Tübingen. Aus: \"Zeichen der Zeit\" 1952 (Korrekturabzug) Dazu Mitteilungen von Günther Zahn über Schlatters Ver- wandtschaft mit Theodor Zahn.",
+      "nummer": "630",
+      "titel": "Rede zu seinem 75. Geburtstag beim Festakt der Evang.-Theol. Fachschaft",
+      "beschreibung": "Halten am 13.7.1927 im Auditorium Maximum der Universität Tübingen. Veröffentlichung: Zeichen der Zeit 1952 (Korrekturabzug). Dazu Mitteilungen von Günther Zahn über Schlatters Verwandtschaft mit Theodor Zahn.",
+      "typ": "Rede",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Redner",
+          "entity": "Person"
+        },
+        {
+          "name": "Günther Zahn",
+          "rolle": "Autor",
+          "entity": "Person",
+          "zusatz": "liefert Mitteilungen über Verwandtschaft mit Theodor Zahn"
+        },
+        {
+          "name": "Theodor Zahn",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "datum": "1927-07-13",
+      "jahr": 1952,
+      "_quelldatei": "page_106.json",
+      "_pageNumber": "82"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "631: Professor Graffmann, Schlatter-Anekdoten.",
+      "nummer": "631",
+      "titel": "Schlatter-Anekdoten",
+      "beschreibung": "Beitrag von Professor Graffmann",
+      "typ": "Artikel",
+      "beteiligte": [
+        {
+          "name": "Professor Graffmann",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_106.json",
+      "_pageNumber": "82"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "632: Paul Preis, Verschiedene Schlatter-Unterlagen.",
+      "nummer": "632",
+      "titel": "Verschiedene Schlatter-Unterlagen",
+      "beschreibung": "Sammlung unterschiedlichster Unterlagen zu Adolf Schlatter",
+      "typ": "Sammlung",
+      "beteiligte": [
+        {
+          "name": "Paul Preis",
+          "rolle": "Zusammensteller",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_106.json",
+      "_pageNumber": "82"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "633: Otto Etzold, Römerbrief-Studie. 22.3.1979 Dazu: Schlatter-Erinnerungen",
+      "nummer": "633",
+      "titel": "Römerbrief-Studie",
+      "beschreibung": "Studie von Otto Etzold. Dazu: Schlatter-Erinnerungen",
+      "typ": "Studie",
+      "beteiligte": [
+        {
+          "name": "Otto Etzold",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "datum": "1979-03-22",
+      "untereintraege": [
+        {
+          "rawText": "Dazu: Schlatter-Erinnerungen",
+          "titel": "Schlatter-Erinnerungen",
+          "beschreibung": "Erinnerungen (Bezug zu Otto Etzold bzw. zur Studie)",
+          "typ": "Erinnerungen/Memoiren"
+        }
+      ],
+      "_quelldatei": "page_106.json",
+      "_pageNumber": "82"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "634: Peter Stuhlmacher, Schlatters biblische Theologie. In: Tübinger Zeitung 11.6.1977 Dazu Notiz über Adolf Schlatter. In: Schwäbisches Tagblatt 28.8.1977",
+      "nummer": "634",
+      "titel": "Schlatters biblische Theologie",
+      "beschreibung": "Artikel von Peter Stuhlmacher; erschienen in der Tübinger Zeitung. Zusätzlich eine Notiz über Adolf Schlatter in der Schwäbisches Tagblatt.",
+      "typ": "Artikel",
+      "beteiligte": [
+        {
+          "name": "Peter Stuhlmacher",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "In: Tübinger Zeitung 11.6.1977",
+          "zeitschrift": "Tübinger Zeitung",
+          "datum": "1977-06-11"
+        },
+        {
+          "rawText": "Dazu Notiz über Adolf Schlatter. In: Schwäbisches Tagblatt 28.8.1977",
+          "titel": "Notiz über Adolf Schlatter",
+          "zeitschrift": "Schwäbisches Tagblatt",
+          "datum": "1977-08-28"
+        }
+      ],
+      "_quelldatei": "page_106.json",
+      "_pageNumber": "82"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "635: Adolf Schlatter, Morgenandacht über 1. Tim. 1,12-16 bei der Akademikertagung auf dem Schönblick 6.10.1919. Mitgeteilt von Theodor Vöhringer. Dazu Erinnerungen.",
+      "nummer": "635",
+      "titel": "Morgenandacht über 1. Tim. 1,12-16",
+      "beschreibung": "Halten bei der Akademikertagung auf dem Schönblick; Mitteilung durch Theodor Vöhringer. Dazu Erinnerungen.",
+      "typ": "Andacht",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Redner",
+          "entity": "Person"
+        },
+        {
+          "name": "Theodor Vöhringer",
+          "rolle": "Zusammensteller",
+          "entity": "Person",
+          "zusatz": "Mitgeteilt von"
+        }
+      ],
+      "datum": "1919-10-06",
+      "untereintraege": [
+        {
+          "rawText": "Dazu Erinnerungen",
+          "titel": "Erinnerungen",
+          "typ": "Erinnerungen/Memoiren"
+        }
+      ],
+      "_quelldatei": "page_106.json",
+      "_pageNumber": "82"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "636: Karl Gutbrod, Gottes Mitarbeiter - unsere Verantwortung vor dem gebenden Gott nach Adolf Schlatter. Calwer Verlag 1960",
+      "nummer": "636",
+      "titel": "Gottes Mitarbeiter - unsere Verantwortung vor dem gebenden Gott nach Adolf Schlatter",
+      "beschreibung": "Buchtitel; erschienen im Calwer Verlag",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Karl Gutbrod",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Calwer Verlag",
+      "jahr": 1960,
+      "_quelldatei": "page_106.json",
+      "_pageNumber": "82"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "637: Karl Gutbrod, Vorwort zur Gedächtnisausgabe Schlatter, Römerbrief. Vorabdruck Stuttgart, Sommer 1952",
+      "nummer": "637",
+      "titel": "Vorwort zur Gedächtnisausgabe Schlatter, Römerbrief",
+      "beschreibung": "Vorabdruck in Stuttgart, Sommer 1952 (Vorwort zur Gedächtnisausgabe)",
+      "typ": "Aufsatz",
+      "beteiligte": [
+        {
+          "name": "Karl Gutbrod",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "jahr": 1952,
+      "_quelldatei": "page_106.json",
+      "_pageNumber": "82"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "638: Karl Gutbrod, Adolf Schlatter, ein Helfer in Bibelnot. In: Für Arbeit und Besinnung, Ausgabe für die Evang. Protestantische Kirche in Baden, Karlsruhe 1./15.8.1952",
+      "nummer": "638",
+      "titel": "Adolf Schlatter, ein Helfer in Bibelnot",
+      "beschreibung": "Erschienen in: Für Arbeit und Besinnung, Ausgabe für die Evang. Protestantische Kirche in Baden; Ausgabe Karlsruhe, Datum 1./15.8.1952",
+      "typ": "Artikel",
+      "beteiligte": [
+        {
+          "name": "Karl Gutbrod",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "zeitschrift": "Für Arbeit und Besinnung",
+      "ort": "Karlsruhe",
+      "jahr": 1952,
+      "_quelldatei": "page_106.json",
+      "_pageNumber": "82"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "639: Karl Gutbrod, Rezension von \"Adolf Schlatters Rückblick auf seine Lebensarbeit\". (C. Bertelsmann-Verlag, Gütersloh 1952) Otto Michel, Adolf Schlatter als Ausleger der Heiligen Schrift. Adolf Köberle, Adolf Schlatter als systematischer Theologe. In: Für Arbeit und Besinnung, Stuttgart 1./15.8.1952",
+      "nummer": "639",
+      "titel": "Sammlung von Rezensionen/Aufsätzen zu Adolf Schlatter in Für Arbeit und Besinnung",
+      "beschreibung": "Enthält mehrere Beiträge (Rezension von Karl Gutbrod; Aufsätze von Otto Michel und Adolf Köberle). Erschienen in: Für Arbeit und Besinnung, Stuttgart, Ausgabe 1./15.8.1952",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "Karl Gutbrod, Rezension von \"Adolf Schlatters Rückblick auf seine Lebensarbeit\". (C. Bertelsmann-Verlag, Gütersloh 1952)",
+          "titel": "Rezension von 'Adolf Schlatters Rückblick auf seine Lebensarbeit'",
+          "typ": "Rezension",
+          "beteiligte": [
+            {
+              "name": "Karl Gutbrod",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ],
+          "verlag": "C. Bertelsmann-Verlag",
+          "ort": "Gütersloh",
+          "jahr": 1952
+        },
+        {
+          "rawText": "Otto Michel, Adolf Schlatter als Ausleger der Heiligen Schrift.",
+          "titel": "Adolf Schlatter als Ausleger der Heiligen Schrift",
+          "typ": "Aufsatz",
+          "beteiligte": [
+            {
+              "name": "Otto Michel",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Adolf Köberle, Adolf Schlatter als systematischer Theologe.",
+          "titel": "Adolf Schlatter als systematischer Theologe",
+          "typ": "Aufsatz",
+          "beteiligte": [
+            {
+              "name": "Adolf Köberle",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "In: Für Arbeit und Besinnung, Stuttgart 1./15.8.1952",
+          "zeitschrift": "Für Arbeit und Besinnung",
+          "ort": "Stuttgart",
+          "jahr": 1952
+        }
+      ],
+      "_quelldatei": "page_106.json",
+      "_pageNumber": "82"
+    }
+  ],
+  "notes": null
+}

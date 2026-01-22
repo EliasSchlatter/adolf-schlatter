@@ -1,0 +1,369 @@
+{
+  "sourceFile": "page_116.json",
+  "pageNumber": "92",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 13,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 755: Adolf Schlatter, Aus meiner Sprechstunde.\n        1926, Seite 4 - 6",
+      "nummer": "755",
+      "titel": "Aus meiner Sprechstunde",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "jahr": 1926,
+      "seiten": "4 - 6",
+      "typ": "Aufsatz",
+      "beschreibung": "",
+      "_quelldatei": "page_116.json",
+      "_pageNumber": "92"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "756: Beate Miller, Eine Rüstzeit unter der Leitung von Professor\n     D. Schlatter. 1926, Seite 43 - 44",
+      "nummer": "756",
+      "titel": "Eine Rüstzeit unter der Leitung von Professor D. Schlatter",
+      "beteiligte": [
+        {
+          "name": "Beate Miller",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "D. Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "Leitender Professor"
+        }
+      ],
+      "jahr": 1926,
+      "seiten": "43 - 44",
+      "typ": "Aufsatz",
+      "beschreibung": "",
+      "_quelldatei": "page_116.json",
+      "_pageNumber": "92"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "757: Adolf Schlatter, Der Anteil der Christenheit an der Gestal-\n     tung unseres Volkstums. 1927, Seite 10 - 11, 25 - 28",
+      "nummer": "757",
+      "titel": "Der Anteil der Christenheit an der Gestaltung unseres Volkstums",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "jahr": 1927,
+      "seiten": "10 - 11, 25 - 28",
+      "typ": "Aufsatz",
+      "beschreibung": "",
+      "_quelldatei": "page_116.json",
+      "_pageNumber": "92"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "758: Adolf Schlatter, Die christliche Verwaltung der Sakramente.\n     1928, Seite 70 - 74",
+      "nummer": "758",
+      "titel": "Die christliche Verwaltung der Sakramente",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "jahr": 1928,
+      "seiten": "70 - 74",
+      "typ": "Aufsatz",
+      "beschreibung": "",
+      "_quelldatei": "page_116.json",
+      "_pageNumber": "92"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "759: Bericht über die 9. Tagung für christliche Akademiker in\n     Württemberg, Freudenstadt, mit Vortrag Schlatters über\n     \"Nationalismus und Christentum\". 1929, Seite 187 - 190",
+      "nummer": "759",
+      "titel": "Bericht über die 9. Tagung für christliche Akademiker in Württemberg, Freudenstadt",
+      "beschreibung": "Enthält Vortrag Schlatters über \"Nationalismus und Christentum\"",
+      "jahr": 1929,
+      "seiten": "187 - 190",
+      "typ": "Bericht",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Vortragender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_116.json",
+      "_pageNumber": "92"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "760: Hermann Greiner u. a., Besprechungen von Veröffentlichungen\n     von Adolf Schlatter:\n     \"Wohin? Eine Frage an unsere Schule und unsere Kirche.\"\n     1929, Seite 225 - 256;\n     \"Die Dienstpflicht des Christen in der apostolischen Gemeinde.\"\n     1929, Seite 392;\n     \"Das Neue Testament, übersetzt von D. Adolf Schlatter.\"\n     1931, Seite 48;\n     \"Paulus, der Bote Jesu.\" 1934, Seite 120;\n     \"Die Kirche der Griechen.\" 1937, Seite 8.",
+      "nummer": "760",
+      "titel": "Besprechungen von Veröffentlichungen von Adolf Schlatter",
+      "beschreibung": "Rezensionen/Besprechungen gesammelt von Hermann Greiner u. a.",
+      "typ": "Aufsatz",
+      "beteiligte": [
+        {
+          "name": "Hermann Greiner",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "\"Wohin? Eine Frage an unsere Schule und unsere Kirche.\" 1929, Seite 225 - 256",
+          "titel": "Wohin? Eine Frage an unsere Schule und unsere Kirche",
+          "jahr": 1929,
+          "seiten": "225 - 256",
+          "typ": "Aufsatz"
+        },
+        {
+          "rawText": "\"Die Dienstpflicht des Christen in der apostolischen Gemeinde.\" 1929, Seite 392",
+          "titel": "Die Dienstpflicht des Christen in der apostolischen Gemeinde",
+          "jahr": 1929,
+          "seiten": "392",
+          "typ": "Aufsatz"
+        },
+        {
+          "rawText": "\"Das Neue Testament, übersetzt von D. Adolf Schlatter.\" 1931, Seite 48",
+          "titel": "Das Neue Testament (Übersetzung von D. Adolf Schlatter)",
+          "jahr": 1931,
+          "seiten": "48",
+          "typ": "Aufsatz"
+        },
+        {
+          "rawText": "\"Paulus, der Bote Jesu.\" 1934, Seite 120",
+          "titel": "Paulus, der Bote Jesu",
+          "jahr": 1934,
+          "seiten": "120",
+          "typ": "Aufsatz"
+        },
+        {
+          "rawText": "\"Die Kirche der Griechen.\" 1937, Seite 8",
+          "titel": "Die Kirche der Griechen",
+          "jahr": 1937,
+          "seiten": "8",
+          "typ": "Aufsatz"
+        }
+      ],
+      "_quelldatei": "page_116.json",
+      "_pageNumber": "92"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "761: W. M., Viel Frucht. Ein Bericht über die Feier am Grabe von\n     Professor D. Adolf Schlatter. 1938, Seite 77, 86.",
+      "nummer": "761",
+      "titel": "Viel Frucht. Ein Bericht über die Feier am Grabe von Professor D. Adolf Schlatter",
+      "beteiligte": [
+        {
+          "name": "W. M.",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "D. Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "jahr": 1938,
+      "seiten": "77, 86",
+      "typ": "Bericht",
+      "_quelldatei": "page_116.json",
+      "_pageNumber": "92"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "762: Konrad Fikenscher, Dithyramben auf Adolf Schlatter. Fotokopie\n     aus der Hauschronik des Johanneums Berlin. 24.7.1914",
+      "nummer": "762",
+      "titel": "Dithyramben auf Adolf Schlatter",
+      "beteiligte": [
+        {
+          "name": "Konrad Fikenscher",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Johanneum Berlin",
+          "rolle": "Erwähnte Stelle",
+          "entity": "Institution"
+        }
+      ],
+      "datum": "1914-07-24",
+      "typ": "Sonstiges",
+      "anmerkung": "Fotokopie aus der Hauschronik des Johanneums Berlin",
+      "_quelldatei": "page_116.json",
+      "_pageNumber": "92"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "763: Adolf Schlatter. Gedichte.\n     Manuskript. Ca. 50 Blätter",
+      "nummer": "763",
+      "titel": "Gedichte",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "typ": "Gedichte/Lyrik",
+      "umfang": "Ca. 50 Blätter",
+      "anmerkung": "Manuskript",
+      "_quelldatei": "page_116.json",
+      "_pageNumber": "92"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "764: Adolf Schlatter. Manuskript-Bruchstücke zum Thema Rechtgläu-\n     bigkeit und Frömmigkeit.",
+      "nummer": "764",
+      "titel": "Manuskript-Bruchstücke zum Thema Rechtgläubigkeit und Frömmigkeit",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "typ": "Manuskript",
+      "anmerkung": "Bruchstücke/Fragmente",
+      "_quelldatei": "page_116.json",
+      "_pageNumber": "92"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "765: Hans Berg, \"Der Befehl ist da! Aus meinem Leben und Dienst\".\n     Kurzer Auszug Theodor Schlatters, Seite 166 - 167, über Karl\n     Heim und Adolf Schlatter bei einer Freudenstädter Studenten-\n     konferenz.",
+      "nummer": "765",
+      "titel": "Der Befehl ist da! Aus meinem Leben und Dienst (Auszug)",
+      "beteiligte": [
+        {
+          "name": "Hans Berg",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        },
+        {
+          "name": "Karl Heim",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "seiten": "166 - 167",
+      "typ": "Aufsatz",
+      "beschreibung": "Kurzer Auszug über Karl Heim und Adolf Schlatter bei einer Freudenstädter Studentenkonferenz",
+      "_quelldatei": "page_116.json",
+      "_pageNumber": "92"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "766: J. C. Gasser, Vom theologischen Lebenswerk Adolf Schlatters.\n     Kapitelsreferat am 15.6.1938. Manuskript",
+      "nummer": "766",
+      "titel": "Vom theologischen Lebenswerk Adolf Schlatters (Kapitelsreferat)",
+      "beteiligte": [
+        {
+          "name": "J. C. Gasser",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "datum": "1938-06-15",
+      "typ": "Manuskript",
+      "anmerkung": "Kapitelsreferat",
+      "_quelldatei": "page_116.json",
+      "_pageNumber": "92"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "767: Adolf Schlatter, Entwurf eines Vortrags (ohne Titel), u. a.\n     über Kirche als Dienstgemeinschaft im Unterschied zur völ-\n     kischen Gemeinschaft, beginnend mit Abgrenzung gegen Alfred\n     Rosenberg.\n     Manuskript, 12 Blätter. Ca. 1935",
+      "nummer": "767",
+      "titel": "Entwurf eines Vortrags (ohne Titel) über Kirche als Dienstgemeinschaft",
+      "beschreibung": "Beginnend mit Abgrenzung gegen Alfred Rosenberg; behandelt Kirche als Dienstgemeinschaft im Unterschied zur völkischen Gemeinschaft",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Alfred Rosenberg",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "jahr": 1935,
+      "umfang": "12 Blätter",
+      "typ": "Manuskript",
+      "_quelldatei": "page_116.json",
+      "_pageNumber": "92"
+    }
+  ],
+  "notes": ""
+}

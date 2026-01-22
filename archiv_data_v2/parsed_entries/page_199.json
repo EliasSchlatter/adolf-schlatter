@@ -1,0 +1,352 @@
+{
+  "sourceFile": "page_199.json",
+  "pageNumber": "175",
+  "context": {
+    "teil": "Anhang",
+    "sektion": "Abschnitt II: Register",
+    "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+    "unterkategorie": "b) Briefe von Schlatter"
+  },
+  "entriesCount": 13,
+  "entries": [
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Armitage, E.\n    Briefe an Schlatter                                                          1 Brief        428/3",
+      "nummer": "428/3",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe von Armitage, E. an Schlatter (nicht deutsch geschrieben)",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Armitage, E.",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_199.json",
+      "_pageNumber": "175"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Baillet\n    Briefe an Schlatter                                                          1 Brief        428/3",
+      "nummer": "428/3",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe von Baillet an Schlatter (nicht deutsch geschrieben)",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Baillet",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_199.json",
+      "_pageNumber": "175"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Banks, I. S.\n    Briefe an Schlatter                                                          2 Briefe      428/3",
+      "nummer": "428/3",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe von Banks, I. S. an Schlatter (nicht deutsch geschrieben)",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Banks, I. S.",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_199.json",
+      "_pageNumber": "175"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Chodat, K.\n    Briefe an Schlatter                                                          1 Brief        168/5",
+      "nummer": "168/5",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe von Chodat, K. an Schlatter (nicht deutsch geschrieben)",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Chodat, K.",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_199.json",
+      "_pageNumber": "175"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Delehaye, Stiff\n    Briefe an Schlatter                                                          1 Brief        428/3",
+      "nummer": "428/3",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe von Delehaye, Stiff an Schlatter (nicht deutsch geschrieben)",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Delehaye, Stiff",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_199.json",
+      "_pageNumber": "175"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Favere, Ernest\n    Briefe an Schlatter                                                          2 Briefe      428/3",
+      "nummer": "428/3",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe von Favere, Ernest an Schlatter (nicht deutsch geschrieben)",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Favere, Ernest",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_199.json",
+      "_pageNumber": "175"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Gilmore, Leo W.\n    Briefe an Schlatter                                                          1 Brief        428/3",
+      "nummer": "428/3",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe von Gilmore, Leo W. an Schlatter (nicht deutsch geschrieben)",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Gilmore, Leo W.",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_199.json",
+      "_pageNumber": "175"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Hart, H. A.\n    Briefe an Schlatter                                                          1 Brief        428/3",
+      "nummer": "428/3",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe von Hart, H. A. an Schlatter (nicht deutsch geschrieben)",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Hart, H. A.",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_199.json",
+      "_pageNumber": "175"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Maere, R.\n    Briefe an Schlatter                                                          1 Brief        428/3",
+      "nummer": "428/3",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe von Maere, R. an Schlatter (nicht deutsch geschrieben)",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Maere, R.",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_199.json",
+      "_pageNumber": "175"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Massart, Jean\n    Briefe an Schlatter                                                          1 Brief        168/5",
+      "nummer": "168/5",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe von Massart, Jean an Schlatter (nicht deutsch geschrieben)",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Massart, Jean",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_199.json",
+      "_pageNumber": "175"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Poels, Henry\n    Briefe an Schlatter                                                          1 Brief        428/3",
+      "nummer": "428/3",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe von Poels, Henry an Schlatter (nicht deutsch geschrieben)",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Poels, Henry",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_199.json",
+      "_pageNumber": "175"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Posser, Ch.\n    Briefe an Schlatter                                                          3 Briefe      428/3",
+      "nummer": "428/3",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe von Posser, Ch. an Schlatter (nicht deutsch geschrieben)",
+      "typ": "Brief",
+      "umfang": "3 Briefe",
+      "beteiligte": [
+        {
+          "name": "Posser, Ch.",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_199.json",
+      "_pageNumber": "175"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Thommaior, Garabed\n    Briefe an Schlatter                                                         18 Briefe      428/3",
+      "nummer": "428/3",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe von Thommaior, Garabed an Schlatter (nicht deutsch geschrieben)",
+      "typ": "Brief",
+      "umfang": "18 Briefe",
+      "beteiligte": [
+        {
+          "name": "Thommaior, Garabed",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_199.json",
+      "_pageNumber": "175"
+    }
+  ],
+  "notes": "OCR scheinbar korrekt; Seitenfuß '175' entfernt."
+}

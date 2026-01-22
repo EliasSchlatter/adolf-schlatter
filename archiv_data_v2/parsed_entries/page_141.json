@@ -1,0 +1,236 @@
+{
+  "sourceFile": "page_141.json",
+  "pageNumber": "117",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 4,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 962: Vom Entstehen der Freien Evang. Gemeinde in St. Gallen.\nAuszüge (Fotokopien) aus Protokollen des Regierungsrats\nund Großen Rats des Kantons St. Gallen (Staatsarchiv);\n1837, 1862 - 1864.\n\n962/1: Mitteilung von Heinrich Näf (Vorsteher) und Daniel Schlatter\n       (Mitglied) von der Bildung einer \"christlichen Gemein-\n       de in St. Gallen\"; Bitte um Duldung und Schutz. Nov. 1837\n\n962/2: Petition von Stephan Schlatter und weiteren 11 Mitgliedern,\n       mit der Bitte, das Recht freier Ausübung ihres Gottesdienstes\n       zu gewährleisten. 10.3.1862\n\n962/3: Beschluß des Großen Rats: Vorläufige Anerkennung, 31. Mai\n       1862. Einsetzung einer Kommission.\n\n962/4: Beschlußvorschlag der Kommission 28.3.1863 und Bericht\n       27.5.1863 an den Großen Rat.\n\n962/5: Neue Petition von Stephan Schlatter und weiteren 14 Mitglie-\n       dern, unter Hinweis auf Grundsätze \"einer Gemeinde oder\n       Kirche zu St. Gallen von 1854.\" Nov. 1863\n\n962/6: Neuer Kommissionsbericht 18.11.1863, dem Großen Rat vorge-\n       tragen 6. Juni 1864. Anerkennungsbeschluß des Großen Rats\n       des Kantons St. Gallen am 7.6.1864.\n\n962/7: \"Bescheinigung\" der evangelischen Kirchenvorsteherschaft\n       von St. Gallen, zu Händen der Dissidentengemeinde von\n       Stephan Schlatter und Consorten in St. Gallen, wonach Be-\n       gräbnisstätte und Geläut zugestanden, ein Ritus auf dem\n       Friedhof nicht gestattet wird. Nov. 1866",
+      "nummer": "962",
+      "titel": "Vom Entstehen der Freien Evang. Gemeinde in St. Gallen",
+      "beschreibung": "Auszüge (Fotokopien) aus Protokollen des Regierungsrats und Großen Rats des Kantons St. Gallen (Staatsarchiv). Enthält mehrere Dokumente/Regesten aus den Jahren 1837, 1862-1866 (siehe Untereinträge).",
+      "typ": "Regest",
+      "zeitraum": "1837, 1862-1864",
+      "untereintraege": [
+        {
+          "rawText": "962/1: Mitteilung von Heinrich Näf (Vorsteher) und Daniel Schlatter (Mitglied) ... Nov. 1837",
+          "titel": "Mitteilung über Bildung einer 'christlichen Gemeinde in St. Gallen'",
+          "beschreibung": "Mitteilung von Heinrich Näf (Vorsteher) und Daniel Schlatter (Mitglied) von der Bildung einer christlichen Gemeinde; Bitte um Duldung und Schutz.",
+          "jahr": 1837,
+          "beteiligte": [
+            {
+              "name": "Heinrich Näf",
+              "rolle": "Absender",
+              "entity": "Person",
+              "zusatz": "Vorsteher"
+            },
+            {
+              "name": "Daniel Schlatter",
+              "rolle": "Absender",
+              "entity": "Person",
+              "zusatz": "Mitglied"
+            }
+          ],
+          "typ": "Regest"
+        },
+        {
+          "rawText": "962/2: Petition von Stephan Schlatter und weiteren 11 Mitgliedern ... 10.3.1862",
+          "titel": "Petition zur Gewährleistung des Rechts auf freien Gottesdienst",
+          "beschreibung": "Petition von Stephan Schlatter und weiteren 11 Mitgliedern mit der Bitte, das Recht freier Ausübung ihres Gottesdienstes zu gewährleisten.",
+          "datum": "1862-03-10",
+          "beteiligte": [
+            {
+              "name": "Stephan Schlatter",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "weitere 11 Mitglieder",
+              "rolle": "Erwähnt",
+              "entity": "Organisation",
+              "zusatz": "Mit Unterzeichnern der Petition"
+            }
+          ],
+          "typ": "Regest"
+        },
+        {
+          "rawText": "962/3: Beschluß des Großen Rats: Vorläufige Anerkennung, 31. Mai 1862. Einsetzung einer Kommission.",
+          "titel": "Beschluß des Großen Rats: Vorläufige Anerkennung",
+          "beschreibung": "Beschluß des Großen Rats des Kantons St. Gallen: vorläufige Anerkennung und Einsetzung einer Kommission.",
+          "jahr": 1862,
+          "beteiligte": [
+            {
+              "name": "Großer Rat des Kantons St. Gallen",
+              "rolle": "Herausgebende Stelle",
+              "entity": "Institution"
+            }
+          ],
+          "typ": "Regest"
+        },
+        {
+          "rawText": "962/4: Beschlußvorschlag der Kommission 28.3.1863 und Bericht 27.5.1863 an den Großen Rat.",
+          "titel": "Beschlußvorschlag der Kommission und Bericht an den Großen Rat",
+          "beschreibung": "Beschlußvorschlag der eingesetzten Kommission (28.3.1863) und Bericht an den Großen Rat (27.5.1863).",
+          "datum": "1863-03-28",
+          "beteiligte": [
+            {
+              "name": "eingesetzte Kommission",
+              "rolle": "Zusammensteller",
+              "entity": "Institution",
+              "zusatz": "Kommission des Großen Rats"
+            }
+          ],
+          "typ": "Regest"
+        },
+        {
+          "rawText": "962/5: Neue Petition von Stephan Schlatter und weiteren 14 Mitgliedern ... Nov. 1863",
+          "titel": "Neue Petition (Verweis auf Grundsätze von 1854)",
+          "beschreibung": "Neue Petition von Stephan Schlatter und weiteren 14 Mitgliedern, unter Hinweis auf Grundsätze 'einer Gemeinde oder Kirche zu St. Gallen von 1854.'",
+          "jahr": 1863,
+          "beteiligte": [
+            {
+              "name": "Stephan Schlatter",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "weitere 14 Mitglieder",
+              "rolle": "Erwähnt",
+              "entity": "Organisation"
+            }
+          ],
+          "typ": "Regest"
+        },
+        {
+          "rawText": "962/6: Neuer Kommissionsbericht 18.11.1863, dem Großen Rat vorgetragen 6. Juni 1864. Anerkennungsbeschluß des Großen Rats des Kantons St. Gallen am 7.6.1864.",
+          "titel": "Neuer Kommissionsbericht und Anerkennungsbeschluß",
+          "beschreibung": "Neuer Kommissionsbericht (18.11.1863); dem Großen Rat vorgetragen 6. Juni 1864. Anerkennungsbeschluß des Großen Rats des Kantons St. Gallen am 7.6.1864.",
+          "datum": "1863-11-18",
+          "jahr": 1864,
+          "beteiligte": [
+            {
+              "name": "Kommission",
+              "rolle": "Zusammensteller",
+              "entity": "Institution"
+            },
+            {
+              "name": "Großer Rat des Kantons St. Gallen",
+              "rolle": "Herausgebende Stelle",
+              "entity": "Institution"
+            }
+          ],
+          "typ": "Regest",
+          "anmerkung": "Anerkennungsbeschluß am 7.6.1864 (Datum im Text)"
+        },
+        {
+          "rawText": "962/7: \"Bescheinigung\" der evangelischen Kirchenvorsteherschaft von St. Gallen ... Nov. 1866",
+          "titel": "Bescheinigung der evangelischen Kirchenvorsteherschaft St. Gallen",
+          "beschreibung": "Bescheinigung der evangelischen Kirchenvorsteherschaft von St. Gallen an die Dissidentengemeinde von Stephan Schlatter und Consorten, wonach Begräbnisstätte und Geläut zugestanden, ein Ritus auf dem Friedhof nicht gestattet wird.",
+          "jahr": 1866,
+          "beteiligte": [
+            {
+              "name": "evangelische Kirchenvorsteherschaft von St. Gallen",
+              "rolle": "Herausgebende Stelle",
+              "entity": "Institution"
+            },
+            {
+              "name": "Stephan Schlatter und Consorten",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ],
+          "typ": "Regest"
+        }
+      ],
+      "_quelldatei": "page_141.json",
+      "_pageNumber": "117"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "963: Johannes Dierauer, Dr. phil.; Franz Joseph Misteli.\n     Je 1 Kurzbiographie der beiden für Adolf Schlatter wichti-\n     gen Gymnasialprofessoren.\n     Aus: Die St. Gallische Kantonsschule 1856 - 1956, St. Gallen\n     1956, Seite 93, 94, 101",
+      "nummer": "963",
+      "titel": "Kurzbiographien: Johannes Dierauer; Franz Joseph Misteli",
+      "beschreibung": "Je eine Kurzbiographie der beiden für Adolf Schlatter wichtigen Gymnasialprofessoren. Aus dem Werk 'Die St. Gallische Kantonsschule 1856-1956'.",
+      "typ": "Aufsatz",
+      "in": "Die St. Gallische Kantonsschule 1856 - 1956",
+      "ort": "St. Gallen",
+      "jahr": 1956,
+      "seiten": "93, 94, 101",
+      "beteiligte": [
+        {
+          "name": "Johannes Dierauer",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        },
+        {
+          "name": "Franz Joseph Misteli",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_141.json",
+      "_pageNumber": "117"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "964: Adolf Schlatter, Abschlußzeugnis 1871.\n     Aus: Zeugnistabellen Gymnasium St. Gallen 1870/1871.\n     Sämtliche Fächer : Note 1\n     Dazu: Aufstellungen von Lehrern und Schülern.",
+      "nummer": "964",
+      "titel": "Abschlußzeugnis Adolf Schlatter 1871",
+      "beschreibung": "Abschlußzeugnis aus den Zeugnistabellen des Gymnasium St. Gallen 1870/1871. Sämtliche Fächer: Note 1. Dazu Aufstellungen von Lehrern und Schülern.",
+      "typ": "Urkunde",
+      "jahr": 1871,
+      "in": "Zeugnistabellen Gymnasium St. Gallen 1870/1871",
+      "anmerkung": "Sämtliche Fächer: Note 1; Enthält zudem Aufstellungen von Lehrern und Schülern.",
+      "_quelldatei": "page_141.json",
+      "_pageNumber": "117"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "965: Die gläubige Frau. Anna Schlatter, 1773 - 1826, von Dora\n     Schlatter.\n     Aus: Die Schweizer Frau. Herausgegeben von Gertrud Villiger-\n     Keller, Verlag F. Zahn, Neuenburg.",
+      "nummer": "965",
+      "titel": "Die gläubige Frau. Anna Schlatter, 1773-1826",
+      "beschreibung": "Beitrag von Dora Schlatter über Anna Schlatter (1773-1826).",
+      "typ": "Aufsatz",
+      "beteiligte": [
+        {
+          "name": "Dora Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Gertrud Villiger-Keller",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        },
+        {
+          "name": "Verlag F. Zahn",
+          "rolle": "Verlag",
+          "entity": "Organisation"
+        }
+      ],
+      "in": "Die Schweizer Frau",
+      "ort": "Neuenburg",
+      "_quelldatei": "page_141.json",
+      "_pageNumber": "117"
+    }
+  ],
+  "notes": ""
+}

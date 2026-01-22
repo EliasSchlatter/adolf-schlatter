@@ -1,0 +1,384 @@
+{
+  "processedAt": "2025-12-29T15:52:06.593Z",
+  "statistics": {
+    "totalPages": 46,
+    "dataPages": 40,
+    "overviewPages": 4,
+    "otherPages": 1,
+    "errorPages": 0,
+    "estimatedEntries": 516
+  },
+  "costs": {
+    "totalRequests": 46,
+    "totalTokens": 189226,
+    "totalCost": 0.1840445
+  },
+  "pages": [
+    {
+      "pageNumber": "19",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 14,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "52",
+      "entryCount": 0,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "77",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 7,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "54",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 15,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "55",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 20,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "56",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 14,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "57",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 13,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "58",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 20,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "59",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 15,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "60",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 17,
+      "structureInfo": "Teil I: B Dokumente und Manuskripte; Abschnitte: 13. Judaica; 14. Rabbinica; 15. Verschiedenes; 16. Griechisches Wörterbuch",
+      "error": null
+    },
+    {
+      "pageNumber": "61",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 20,
+      "structureInfo": "Teil I: B Dokumente und Manuskripte; Abschnitte: d) Vokabular, e) Griechisch-Hebräische Sprachstudien; Nr. 409: Materialien zu Josephus' Antiquitates; 18. Verschiedene Aufzeichnungen in Notizbüchern. Sonstiges",
+      "error": null
+    },
+    {
+      "pageNumber": "62",
+      "pageType": "OVERVIEW",
+      "isArchivalListing": false,
+      "entryCount": 0,
+      "structureInfo": "Teil I: C Briefe - Übersicht",
+      "error": null
+    },
+    {
+      "pageNumber": "63",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 8,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "64",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 11,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "65",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 13,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "66",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 10,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "67",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 14,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "68",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 13,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "69",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 16,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "94",
+      "pageType": "OVERVIEW",
+      "isArchivalListing": false,
+      "entryCount": 0,
+      "structureInfo": "Teil II: Neuzugänge (ab Januar 1979)",
+      "error": null
+    },
+    {
+      "pageNumber": "71",
+      "pageType": "OVERVIEW",
+      "isArchivalListing": false,
+      "entryCount": 0,
+      "structureInfo": "Teil II: Neuzugänge — Übersicht",
+      "error": null
+    },
+    {
+      "pageNumber": "72",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 12,
+      "structureInfo": "Teil II, A Bücher",
+      "error": null
+    },
+    {
+      "pageNumber": "73",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 12,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "74",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 16,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "75",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 16,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "76",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 13,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "77",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 12,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "78",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 13,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "79",
+      "pageType": "OTHER",
+      "isArchivalListing": false,
+      "entryCount": 0,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "99",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 4,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "100",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 8,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "101",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 9,
+      "structureInfo": "Teil II: B Druckschriften und Manuskripte",
+      "error": null
+    },
+    {
+      "pageNumber": "102",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 10,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "103",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 6,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "104",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 10,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "105",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 11,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "106",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 13,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "107",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 21,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "108",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 15,
+      "structureInfo": "Teil II: B Druckschriften und Manuskripte",
+      "error": null
+    },
+    {
+      "pageNumber": "109",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 14,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "110",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 10,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "111",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 11,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "112",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 13,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "113",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 14,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "114",
+      "pageType": "DATA",
+      "isArchivalListing": true,
+      "entryCount": 13,
+      "structureInfo": "",
+      "error": null
+    },
+    {
+      "pageNumber": "166",
+      "pageType": "OVERVIEW",
+      "isArchivalListing": false,
+      "entryCount": 0,
+      "structureInfo": "Anhang",
+      "error": null
+    }
+  ]
+}

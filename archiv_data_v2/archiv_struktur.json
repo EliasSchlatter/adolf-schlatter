@@ -1,0 +1,473 @@
+{
+  "title": "Adolf-Schlatter-Archiv Inventar",
+  "source": "Landeskirchliches Archiv Stuttgart, Bestand D 40",
+  "erstellt_von": "Ernst Bock",
+  "jahr": "1998",
+  "extractedFrom": "OCR-Ergebnisse des Inventar-PDFs",
+  "extractedAt": "2025-12-30",
+  
+  "struktur": {
+    "teil_I": {
+      "name": "Teil I",
+      "titel": "Von der Familie übernommener Bestand",
+      "sektionen": {
+        "A": {
+          "name": "A",
+          "titel": "Bücher und Druckschriften",
+          "nummernbereich": "Nr. 1–148",
+          "seiten": "Seite 9–34",
+          "unterabschnitte": [
+            {
+              "nummer": 1,
+              "titel": "Wissenschaftlich-theologische Werke von Schlatter",
+              "untergruppen": [
+                { "name": "a) Zu Lebzeiten erschienene Bücher", "nummern": "Nr. 1–19" },
+                { "name": "b) Zu Lebzeiten erschienene Druckschriften", "nummern": "Nr. 20–29" },
+                { "name": "c) Rezensionen von Schlatter", "nummern": "Nr. 30" },
+                { "name": "d) Posthum erschienene Bücher bzw. Neuauflagen", "nummern": "Nr. 31–37" }
+              ]
+            },
+            {
+              "nummer": 2,
+              "titel": "Wissenschaftlich-theologische Werke vorwiegend von Schlatter: 'Beiträge zur Förderung christlicher Theologie'",
+              "untergruppen": [
+                { "name": "a) Zu Lebzeiten erschienene Bände (Herausgegeben von Schlatter und H. Cremer)", "nummern": "Nr. 38/1" },
+                { "name": "a) Zu Lebzeiten erschienene Bände (Herausgegeben von Schlatter und W. Lütgert)", "nummern": "Nr. 38/2" },
+                { "name": "a) Zweitauflagen und Sonderdrucke", "nummern": "Nr. 38/3" },
+                { "name": "b) Posthum erschienene Bände (Herausgegeben von Paul Althaus)", "nummern": "Nr. 39–40" },
+                { "name": "b) Posthum erschienene Bände (Herausgegeben von Theodor Schlatter)", "nummern": "Nr. 41" }
+              ]
+            },
+            {
+              "nummer": 3,
+              "titel": "Wissenschaftlich-theologische Werke mit Einzelbeiträgen von Schlatter",
+              "untergruppen": [
+                { "name": "a) In Sonderwerken und Reihen", "nummern": "Nr. 42–46" },
+                { "name": "b) In verschiedenen Schriften", "nummern": "Nr. 47–55" },
+                { "name": "c) In Zeitschriften", "nummern": "Nr. 56–60" }
+              ]
+            },
+            {
+              "nummer": 4,
+              "titel": "Wissenschaftlich-theologische Werke mit Beiträgen über Schlatter",
+              "nummern": "Nr. 61"
+            },
+            {
+              "nummer": 5,
+              "titel": "Erbauliche und sonstige Werke",
+              "untergruppen": [
+                { "name": "a) Bücher", "nummern": "Nr. 62–72" },
+                { "name": "b) Andere Druckschriften", "nummern": "Nr. 73–102a" },
+                { "name": "c) Posthum erschienene Bücher bzw. Neuauflagen", "nummern": "Nr. 103–108" }
+              ]
+            },
+            {
+              "nummer": 6,
+              "titel": "Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+              "untergruppen": [
+                { "name": "a) Neue Christoterpe", "nummern": "Nr. 109" },
+                { "name": "b) Beth-El Jahresbände", "nummern": "Nr. 110" },
+                { "name": "c) Sonstige Schriften", "nummern": "Nr. 111–114" },
+                { "name": "d) Beth-El Monatshefte", "nummern": "Nr. 115" },
+                { "name": "e) Die Furche. Evang. Monatsschrift", "nummern": "Nr. 116" },
+                { "name": "f) Biblische Vorträge bei Eisenacher Konferenzen", "nummern": "Nr. 117" },
+                { "name": "g) Biblische Vorträge bei Schweizer Vereinigungen", "nummern": "Nr. 118–121" },
+                { "name": "h) Kriegspredigten und Ähnliches", "nummern": "Nr. 122" },
+                { "name": "i) Einzelne Beiträge von Schlatter in verschiedenen Veröffentlichungen", "nummern": "Nr. 123" }
+              ]
+            },
+            {
+              "nummer": 7,
+              "titel": "Veröffentlichungen von Schlatter aus den Bereichen DCSV, Christliche Akademikerschaft, Weibliche Jugend",
+              "untergruppen": [
+                { "name": "a) DCSV", "nummern": "Nr. 124" },
+                { "name": "b) Christliche Studentenkonferenzen", "nummern": "Nr. 125" },
+                { "name": "c) Christliche Akademikerkonferenzen", "nummern": "Nr. 126" },
+                { "name": "d) Weibliche Jugend", "nummern": "Nr. 127" },
+                { "name": "e) Sonstiges", "nummern": "Nr. 128" }
+              ]
+            },
+            {
+              "nummer": 8,
+              "titel": "Veröffentlichungen von Schlatter aus den Bereichen Mission, Diakonie, Christlicher Volksdienst",
+              "nummern": "Nr. 129"
+            },
+            {
+              "nummer": 9,
+              "titel": "Artikel von Schlatter in Schweizer Blättern",
+              "untergruppen": [
+                { "name": "a) Der Kirchenfreund", "nummern": "Nr. 130" },
+                { "name": "b) Veröffentlichungen aus dem Bereich der Schule", "nummern": "Nr. 131" }
+              ]
+            },
+            {
+              "nummer": 10,
+              "titel": "Artikel von und über Schlatter in deutschen Kirchenblättern",
+              "untergruppen": [
+                { "name": "a) Evang. Kirchenblatt für Württemberg", "nummern": "Nr. 132" },
+                { "name": "b) Einzelne Artikel aus verschiedenen Blättern", "nummern": "Nr. 133" }
+              ]
+            },
+            {
+              "nummer": 11,
+              "titel": "Gedenkreden von Schlatter",
+              "nummern": "Nr. 134"
+            },
+            {
+              "nummer": 12,
+              "titel": "Biographische Äußerungen über Schlatter",
+              "untergruppen": [
+                { "name": "a) In Büchern und Broschüren", "nummern": "Nr. 135–140" },
+                { "name": "b) In Druckschriften", "nummern": "Nr. 141" }
+              ]
+            },
+            {
+              "nummer": 13,
+              "titel": "Autobiographische Äußerungen",
+              "untergruppen": [
+                { "name": "a) In Büchern", "nummern": "Nr. 142–145" },
+                { "name": "b) In Druckschriften", "nummern": "Nr. 146" }
+              ]
+            },
+            {
+              "nummer": 14,
+              "titel": "Sonstiges zum biographischen Hintergrund",
+              "nummern": "Nr. 147–148"
+            }
+          ]
+        },
+        "B": {
+          "name": "B",
+          "titel": "Dokumente und Manuskripte",
+          "nummernbereich": "Nr. 151–416",
+          "seiten": "Seite 35–61",
+          "unterabschnitte": [
+            {
+              "nummer": 1,
+              "titel": "Zur Person",
+              "untergruppen": [
+                { "name": "a) Autobiographische Manuskripte", "nummern": "Nr. 151–156" },
+                { "name": "b) Urkunden zur Person", "nummern": "Nr. 157" },
+                { "name": "c) Kasualreden in der Familie", "nummern": "Nr. 158" },
+                { "name": "d) Gedichte und anderes", "nummern": "Nr. 159" },
+                { "name": "e) Biographische Aufzeichnungen von Freunden und Verwandten", "nummern": "Nr. 160" },
+                { "name": "f) Das Begräbnis Schlatters", "nummern": "Nr. 161" },
+                { "name": "g) Kirchendienst", "nummern": "Nr. 162" },
+                { "name": "h) Berner Zeit", "nummern": "Nr. 163" },
+                { "name": "i) Greifswalder Zeit", "nummern": "Nr. 164" },
+                { "name": "k) Berliner Zeit", "nummern": "Nr. 165" },
+                { "name": "l) Palästinareise", "nummern": "Nr. 166" },
+                { "name": "m) Tübinger Zeit I", "nummern": "Nr. 167–168" },
+                { "name": "n) Tübinger Zeit II", "nummern": "Nr. 169" },
+                { "name": "o) Sonstiges", "nummern": "Nr. 170" }
+              ]
+            },
+            {
+              "nummer": 2,
+              "titel": "Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+              "untergruppen": [
+                { "name": "a) Folioformat", "nummern": "Nr. 171–186" },
+                { "name": "b) Oktavformat", "nummern": "Nr. 187–193" },
+                { "name": "c) Manuskripte von Vorlesungen und Abhandlungen", "nummern": "Nr. 194–204" },
+                { "name": "d) Vorlesungen in broschierten Kollegheften überwiegend von Schlatter geschrieben", "nummern": "Nr. 205–210" },
+                { "name": "e) Vorlesungsmitschriften von Schlatter Studienzeit Basel", "nummern": "Nr. 211–212" }
+              ]
+            },
+            {
+              "nummer": 3,
+              "titel": "Manuskripte von sonstigen Arbeiten",
+              "untergruppen": [
+                { "name": "a) Folioformat", "nummern": "Nr. 213–215" },
+                { "name": "b) Oktavformat", "nummern": "Nr. 216–240" },
+                { "name": "c) Verschiedenes", "nummern": "Nr. 241–246" },
+                { "name": "d) Verschiedene Blätter", "nummern": "Nr. 247–255" }
+              ]
+            },
+            {
+              "nummer": 4,
+              "titel": "Manuskripte von Vorträgen. Skizzen",
+              "nummern": "Nr. 256–284"
+            },
+            {
+              "nummer": 5,
+              "titel": "Manuskripte von geistlichen Reden",
+              "untergruppen": [
+                { "name": "a) Predigten", "nummern": "Nr. 285–298" },
+                { "name": "b) Andachten. Bibelstunden etc.", "nummern": "Nr. 299–302" }
+              ]
+            },
+            {
+              "nummer": 6,
+              "titel": "Rezensionen von Werken Schlatters",
+              "nummern": "Nr. 303–310"
+            },
+            {
+              "nummer": 7,
+              "titel": "Sammlungen. Scholien. Arbeiten zu Erläuterungen und Kommentaren des Neuen Testaments",
+              "untergruppen": [
+                { "name": "a) Synoptiker", "nummern": "Nr. 311–316" },
+                { "name": "b) Corpus Johanneum", "nummern": "Nr. 317–323" },
+                { "name": "c) Apostelgeschichte", "nummern": "Nr. 324–325" },
+                { "name": "d) Römerbrief. 1. und 2. Korintherbrief", "nummern": "Nr. 326–330" },
+                { "name": "e) Kleinere Gemeindebriefe", "nummern": "Nr. 331–335" },
+                { "name": "f) Pastoralbriefe. Philemonbrief", "nummern": "Nr. 336–339" },
+                { "name": "g) Hebräerbrief", "nummern": "Nr. 340–345" },
+                { "name": "h) Jakobusbrief. 1. und 2. Petrusbrief. Judasbrief", "nummern": "Nr. 346–350" }
+              ]
+            },
+            {
+              "nummer": 8,
+              "titel": "Arbeiten zum Alten Testament",
+              "nummern": "Nr. 351–369"
+            },
+            {
+              "nummer": 9,
+              "titel": "Josephus",
+              "nummern": "Nr. 370–382"
+            },
+            {
+              "nummer": 10,
+              "titel": "Onomastikan Josephinum",
+              "nummern": "Nr. 383"
+            },
+            {
+              "nummer": 11,
+              "titel": "Origenes",
+              "nummern": "Nr. 384–385"
+            },
+            {
+              "nummer": 12,
+              "titel": "Eupolemus",
+              "nummern": "Nr. 386"
+            },
+            {
+              "nummer": 13,
+              "titel": "Judaica",
+              "nummern": "Nr. 387–392"
+            },
+            {
+              "nummer": 14,
+              "titel": "Rabbinica",
+              "nummern": "Nr. 393–394"
+            },
+            {
+              "nummer": 15,
+              "titel": "Verschiedenes",
+              "nummern": "Nr. 395–397"
+            },
+            {
+              "nummer": 16,
+              "titel": "Griechisches Wörterbuch",
+              "untergruppen": [
+                { "name": "a) Großes Griechisches Wörterbuch", "nummern": "Nr. 398" },
+                { "name": "b) Wörterbuch zum Griechischen Neuen Testament", "nummern": "Nr. 399" },
+                { "name": "c) Sammlungen zum Griechischen Wörterbuch", "nummern": "Nr. 400" },
+                { "name": "d) Vokabular und anderes", "nummern": "Nr. 401–404" },
+                { "name": "e) Griechisch-Hebräische Sprachstudien", "nummern": "Nr. 405–408" }
+              ]
+            },
+            {
+              "nummer": 17,
+              "titel": "Materialien zum Josephus-Kommentar",
+              "nummern": "Nr. 409"
+            },
+            {
+              "nummer": 18,
+              "titel": "Verschiedene Aufzeichnungen in Notizbüchern. Sonstiges",
+              "nummern": "Nr. 410–416"
+            }
+          ]
+        },
+        "C": {
+          "name": "C",
+          "titel": "Briefe",
+          "nummernbereich": "Nr. 420–493",
+          "seiten": "Seite 62–93",
+          "unterabschnitte": [
+            {
+              "nummer": 1,
+              "titel": "Briefe von Schlatter",
+              "nummern": "Nr. 420–423"
+            },
+            {
+              "nummer": 2,
+              "titel": "Briefe an Schlatter",
+              "untergruppen": [
+                { "name": "a) Briefe von Professoren", "nummern": "Nr. 424–430" },
+                { "name": "b-c) Briefe von Verlagen, Redaktionen, Institutionen", "nummern": "Nr. 431–433" },
+                { "name": "d-e) Briefe aus Württemberg, Baden, Bayern", "nummern": "Nr. 434–435" },
+                { "name": "f-g) Briefe aus dem westlichen und nördlichen Bereich Deutschlands und aus Berlin", "nummern": "Nr. 436–437" },
+                { "name": "h) Briefe aus dem Umkreis der DCSV", "nummern": "Nr. 438" },
+                { "name": "i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe", "nummern": "Nr. 439–444" }
+              ]
+            },
+            {
+              "nummer": 3,
+              "titel": "Familienbriefe von Schlatter",
+              "nummern": "Nr. 445–460"
+            },
+            {
+              "nummer": 4,
+              "titel": "Familienbriefe an Schlatter",
+              "nummern": "Nr. 461–468"
+            },
+            {
+              "nummer": 5,
+              "titel": "Briefe, Bildmaterial und Aufzeichnungen von Gliedern der Familie Schlatter",
+              "nummern": "Nr. 469–482"
+            },
+            {
+              "nummer": 6,
+              "titel": "Regesten zu Briefen der Gruppe 2",
+              "nummern": "Nr. 485–493"
+            }
+          ]
+        }
+      }
+    },
+    "teil_II": {
+      "name": "Teil II",
+      "titel": "Neuzugänge ab Januar 1979",
+      "sektionen": {
+        "A": {
+          "name": "A",
+          "titel": "Bücher",
+          "nummernbereich": "Nr. 501–595",
+          "seiten": "Seite 72–80"
+        },
+        "B": {
+          "name": "B",
+          "titel": "Druckschriften und Manuskripte",
+          "nummernbereich": "Nr. 601–1029",
+          "seiten": "Seite 81–123"
+        },
+        "C": {
+          "name": "C",
+          "titel": "Briefe",
+          "nummernbereich": "Nr. 1201–1426",
+          "seiten": "Seite 124–131",
+          "unterabschnitte": [
+            {
+              "nummer": 1,
+              "titel": "Briefe von Schlatter",
+              "nummern": "Nr. 1201–1240"
+            },
+            {
+              "nummer": 2,
+              "titel": "Briefe an Schlatter",
+              "nummern": "Nr. 1301–1309"
+            },
+            {
+              "nummer": 3,
+              "titel": "Sonstige Briefe",
+              "nummern": "Nr. 1351–1377"
+            },
+            {
+              "nummer": 4,
+              "titel": "Bildmaterial",
+              "untergruppen": [
+                { "name": "a) Zugänge 1979–1986", "nummern": "Nr. 1401–1408" },
+                { "name": "b) Zugänge 1987 – St. Gallen und Keßweil", "nummern": "Nr. 1410–1426" }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "teil_III": {
+      "name": "Teil III",
+      "titel": "Handakten des Archivars",
+      "sektionen": {
+        "A": {
+          "name": "A",
+          "titel": "Zugangsbuch für Teil II",
+          "nummernbereich": "Nr. 1501–1502"
+        },
+        "B": {
+          "name": "B",
+          "titel": "Korrespondenz",
+          "nummernbereich": "Nr. 1503–1562"
+        },
+        "C": {
+          "name": "C",
+          "titel": "Verschiedenes",
+          "nummernbereich": "Nr. 1571–1584"
+        }
+      }
+    },
+    "anhang": {
+      "name": "Anhang",
+      "titel": "Zusatzmaterialien und Verzeichnisse",
+      "sektionen": {
+        "I": {
+          "name": "I",
+          "titel": "Bisher nicht im Druck veröffentlichtes Material",
+          "seite": 144,
+          "unterabschnitte": [
+            { "nummer": 1, "titel": "Altes Testament", "seite": 145 },
+            { "nummer": 2, "titel": "Neues Testament", "seite": 145 },
+            { "nummer": 3, "titel": "Kirchengeschichte und Dogmengeschichte", "seite": 147 },
+            { "nummer": 4, "titel": "Systematische Theologie und Philosophie", "seite": 148 },
+            { "nummer": 5, "titel": "Neutestamentliche und urchristliche Zeit", "seite": 149 },
+            { "nummer": 6, "titel": "Kirche und Judentum", "seite": 150 },
+            { "nummer": 7, "titel": "Theologie und Kirche. Gemeindeaufbau", "seite": 150 },
+            { "nummer": 8, "titel": "Christ und Politik. Kirche und Staat. Kirchenkampf", "seite": 151 },
+            {
+              "nummer": 9,
+              "titel": "Biographisches von Schlatter",
+              "untergruppen": [
+                { "name": "a) Autobiographisches von Schlatter", "seite": 153 },
+                { "name": "b) Urkunden und Unterlagen zur Person", "seite": 154 },
+                { "name": "c) Erinnerungen von Zeitgenossen an Schlatter", "seite": 155 },
+                { "name": "d) Briefe von biographischer Bedeutung", "seite": 156 }
+              ]
+            }
+          ]
+        },
+        "II": {
+          "name": "II",
+          "titel": "Register des Briefwechsels von Professoren mit Schlatter",
+          "seite": 157
+        },
+        "III": {
+          "name": "III",
+          "titel": "Zur Biographie von Adolf Schlatter",
+          "seite": 177
+        },
+        "IV": {
+          "name": "IV",
+          "titel": "Stammbaum der Familie Schlatter",
+          "seite": 241,
+          "unterabschnitte": [
+            { "nummer": 1, "titel": "Die direkte Stammlinie ab 1699", "seite": 242 },
+            { "nummer": 2, "titel": "Die Familie der Großeltern von Adolf Schlatter", "seite": 243 },
+            { "nummer": 3, "titel": "Die Familie der Eltern von Adolf Schlatter", "seite": 245 },
+            { "nummer": 4, "titel": "Die Familie von Adolf Schlatter", "seite": 246 },
+            { "nummer": 5, "titel": "Die Nachkommen der Anna Schlatter – nach Dr. J. Ninck", "seite": 247 }
+          ]
+        }
+      }
+    }
+  },
+  
+  "nummernbereiche_uebersicht": {
+    "teil_I": {
+      "A_Buecher_und_Druckschriften": "Nr. 1–148",
+      "B_Dokumente_und_Manuskripte": "Nr. 151–416",
+      "C_Briefe": "Nr. 420–493"
+    },
+    "teil_II": {
+      "A_Buecher": "Nr. 501–595",
+      "B_Druckschriften_und_Manuskripte": "Nr. 601–1029",
+      "C_Briefe": "Nr. 1201–1426"
+    },
+    "teil_III": {
+      "A_Zugangsbuch": "Nr. 1501–1502",
+      "B_Korrespondenz": "Nr. 1503–1562",
+      "C_Verschiedenes": "Nr. 1571–1584"
+    }
+  }
+}
+
+
+

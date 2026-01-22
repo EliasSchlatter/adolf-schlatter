@@ -1,0 +1,182 @@
+{
+  "sourceFile": "page_088.json",
+  "pageNumber": "64",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "C BRIEFE",
+    "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+    "unterkategorie": "b) Briefe von Verlagen; c) Briefe von Zeitschriften-Redaktionen und Institutionen; d) Briefe aus Württemberg; e) Briefe aus Baden und Bayern; f) Briefe aus dem westlichen Bereich Deutschlands; g) Briefe aus dem nördlichen Bereich Deutschlands und aus Berlin"
+  },
+  "entriesCount": 11,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+      "unterkategorie": "b) Briefe von Verlagen; c) Briefe von Zeitschriften-Redaktionen und Institutionen; d) Briefe aus Württemberg; e) Briefe aus Baden und Bayern; f) Briefe aus dem westlichen Bereich Deutschlands; g) Briefe aus dem nördlichen Bereich Deutschlands und aus Berlin",
+      "rawText": "Nr. 428/1: Briefe von Kuenen und Franken. 3 Briefe 1883.\n    Mit Protokoll: Preisverleihung der Haager Gesell-\n    schaft 1883.\n    Dabei: 7 Briefe des Verlegers. Mit Regesten            1893\n    (Bd. 485)                                              - 1895",
+      "nummer": "428/1",
+      "titel": "Briefe von Kuenen und Franken",
+      "beschreibung": "3 Briefe. Mit Protokoll: Preisverleihung der Haager Gesellschaft 1883. Dabei: 7 Briefe des Verlegers. Mit Regesten (Bd. 485).",
+      "typ": "Brief",
+      "jahr": 1883,
+      "zeitraum": "1893-1895",
+      "anmerkung": "Regesten-Band angegeben: Bd. 485",
+      "_quelldatei": "page_088.json",
+      "_pageNumber": "64"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+      "unterkategorie": "b) Briefe von Verlagen; c) Briefe von Zeitschriften-Redaktionen und Institutionen; d) Briefe aus Württemberg; e) Briefe aus Baden und Bayern; f) Briefe aus dem westlichen Bereich Deutschlands; g) Briefe aus dem nördlichen Bereich Deutschlands und aus Berlin",
+      "rawText": "428/2: Briefe von weiteren ausländischen Professoren,\n    deutschsprachig.\n    20 Briefe.",
+      "nummer": "428/2",
+      "titel": "Briefe von weiteren ausländischen Professoren, deutschsprachig",
+      "beschreibung": "20 Briefe.",
+      "typ": "Brief",
+      "_quelldatei": "page_088.json",
+      "_pageNumber": "64"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+      "unterkategorie": "b) Briefe von Verlagen; c) Briefe von Zeitschriften-Redaktionen und Institutionen; d) Briefe aus Württemberg; e) Briefe aus Baden und Bayern; f) Briefe aus dem westlichen Bereich Deutschlands; g) Briefe aus dem nördlichen Bereich Deutschlands und aus Berlin",
+      "rawText": "428/3: Briefe von weiteren Professoren, nicht deutsch-\n    sprachig.\n    33 Briefe.",
+      "nummer": "428/3",
+      "titel": "Briefe von weiteren Professoren, nicht deutschsprachig",
+      "beschreibung": "33 Briefe.",
+      "typ": "Brief",
+      "_quelldatei": "page_088.json",
+      "_pageNumber": "64"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+      "unterkategorie": "b) Briefe von Verlagen; c) Briefe von Zeitschriften-Redaktionen und Institutionen; d) Briefe aus Württemberg; e) Briefe aus Baden und Bayern; f) Briefe aus dem westlichen Bereich Deutschlands; g) Briefe aus dem nördlichen Bereich Deutschlands und aus Berlin",
+      "rawText": "429: Briefe von Wilhelm Lütgert.                      24.11.1893\n    247 Briefe.                                       - 24.12.1937",
+      "nummer": "429",
+      "titel": "Briefe von Wilhelm Lütgert",
+      "beschreibung": "247 Briefe.",
+      "typ": "Brief",
+      "umfang": "247 Briefe",
+      "zeitraum": "1893-11-24 - 1937-12-24",
+      "beteiligte": [
+        {
+          "name": "Wilhelm Lütgert",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_088.json",
+      "_pageNumber": "64"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+      "unterkategorie": "b) Briefe von Verlagen; c) Briefe von Zeitschriften-Redaktionen und Institutionen; d) Briefe aus Württemberg; e) Briefe aus Baden und Bayern; f) Briefe aus dem westlichen Bereich Deutschlands; g) Briefe aus dem nördlichen Bereich Deutschlands und aus Berlin",
+      "rawText": "430: Briefe von Theodor Schlatter.                    13.10.1904\n    664 Briefe.                                       - 15.4.1938",
+      "nummer": "430",
+      "titel": "Briefe von Theodor Schlatter",
+      "beschreibung": "664 Briefe.",
+      "typ": "Brief",
+      "umfang": "664 Briefe",
+      "zeitraum": "1904-10-13 - 1938-04-15",
+      "beteiligte": [
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Absender",
+          "entity": "Person",
+          "zusatz": ""
+        }
+      ],
+      "_quelldatei": "page_088.json",
+      "_pageNumber": "64"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+      "unterkategorie": "b) Briefe von Verlagen; c) Briefe von Zeitschriften-Redaktionen und Institutionen; d) Briefe aus Württemberg; e) Briefe aus Baden und Bayern; f) Briefe aus dem westlichen Bereich Deutschlands; g) Briefe aus dem nördlichen Bereich Deutschlands und aus Berlin",
+      "rawText": "b) Briefe von Verlagen\n\nNr. 431: 438 Briefe. Mit Regesten (Bd. 486)",
+      "nummer": "431",
+      "titel": "Briefe von Verlagen",
+      "beschreibung": "438 Briefe. Mit Regesten (Bd. 486).",
+      "typ": "Brief",
+      "anmerkung": "Unterkategorie auf der Seite angegeben: b) Briefe von Verlagen; Regesten: Bd. 486",
+      "_quelldatei": "page_088.json",
+      "_pageNumber": "64"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+      "unterkategorie": "b) Briefe von Verlagen; c) Briefe von Zeitschriften-Redaktionen und Institutionen; d) Briefe aus Württemberg; e) Briefe aus Baden und Bayern; f) Briefe aus dem westlichen Bereich Deutschlands; g) Briefe aus dem nördlichen Bereich Deutschlands und aus Berlin",
+      "rawText": "c) Briefe von Zeitschriften-Redaktionen und Institutionen\n\nNr. 432/\n    433: 81 Briefe. Mit Regesten (Bd. 487)",
+      "nummer": "432/433",
+      "titel": "Briefe von Zeitschriften-Redaktionen und Institutionen",
+      "beschreibung": "81 Briefe. Mit Regesten (Bd. 487).",
+      "typ": "Brief",
+      "anmerkung": "Nummern kombiniert auf der Seite als '432/ 433'",
+      "_quelldatei": "page_088.json",
+      "_pageNumber": "64"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+      "unterkategorie": "b) Briefe von Verlagen; c) Briefe von Zeitschriften-Redaktionen und Institutionen; d) Briefe aus Württemberg; e) Briefe aus Baden und Bayern; f) Briefe aus dem westlichen Bereich Deutschlands; g) Briefe aus dem nördlichen Bereich Deutschlands und aus Berlin",
+      "rawText": "d) Briefe aus Württemberg\n\nNr. 434: 435 Briefe. Mit Regesten (Bd. 488)",
+      "nummer": "434",
+      "titel": "Briefe aus Württemberg",
+      "beschreibung": "435 Briefe. Mit Regesten (Bd. 488).",
+      "typ": "Brief",
+      "_quelldatei": "page_088.json",
+      "_pageNumber": "64"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+      "unterkategorie": "b) Briefe von Verlagen; c) Briefe von Zeitschriften-Redaktionen und Institutionen; d) Briefe aus Württemberg; e) Briefe aus Baden und Bayern; f) Briefe aus dem westlichen Bereich Deutschlands; g) Briefe aus dem nördlichen Bereich Deutschlands und aus Berlin",
+      "rawText": "e) Briefe aus Baden und Bayern\n\nNr. 435/\n    1.2: 123 Briefe. Mit Regesten (Bd. 489)",
+      "nummer": "435/1.2",
+      "titel": "Briefe aus Baden und Bayern",
+      "beschreibung": "123 Briefe. Mit Regesten (Bd. 489).",
+      "typ": "Brief",
+      "anmerkung": "Nummerierung auf der Seite '435/ 1.2' (mögliche Unterteilung 1 und 2)",
+      "_quelldatei": "page_088.json",
+      "_pageNumber": "64"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+      "unterkategorie": "b) Briefe von Verlagen; c) Briefe von Zeitschriften-Redaktionen und Institutionen; d) Briefe aus Württemberg; e) Briefe aus Baden und Bayern; f) Briefe aus dem westlichen Bereich Deutschlands; g) Briefe aus dem nördlichen Bereich Deutschlands und aus Berlin",
+      "rawText": "f) Briefe aus dem westlichen Bereich Deutschlands\n\nNr. 436: 207 Briefe. Mit Regesten (Bd. 490)",
+      "nummer": "436",
+      "titel": "Briefe aus dem westlichen Bereich Deutschlands",
+      "beschreibung": "207 Briefe. Mit Regesten (Bd. 490).",
+      "typ": "Brief",
+      "_quelldatei": "page_088.json",
+      "_pageNumber": "64"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+      "unterkategorie": "b) Briefe von Verlagen; c) Briefe von Zeitschriften-Redaktionen und Institutionen; d) Briefe aus Württemberg; e) Briefe aus Baden und Bayern; f) Briefe aus dem westlichen Bereich Deutschlands; g) Briefe aus dem nördlichen Bereich Deutschlands und aus Berlin",
+      "rawText": "g) Briefe aus dem nördlichen Bereich Deutschlands und aus Berlin\n\nNr. 437: 248 Briefe. Mit Regesten (Bd. 491)",
+      "nummer": "437",
+      "titel": "Briefe aus dem nördlichen Bereich Deutschlands und aus Berlin",
+      "beschreibung": "248 Briefe. Mit Regesten (Bd. 491).",
+      "typ": "Brief",
+      "_quelldatei": "page_088.json",
+      "_pageNumber": "64"
+    }
+  ],
+  "notes": "Auf der Seite wurden mehrere neue Unterkategorien erkannt (b) bis g)). Nummernformatierungen an einigen Stellen unklar (z.B. '435/ 1.2', '432/ 433'). Datumsangaben bei Nr. 429 und 430 in Tagesangabe vorhanden und als Zeitraum in ISO formatiert."
+}

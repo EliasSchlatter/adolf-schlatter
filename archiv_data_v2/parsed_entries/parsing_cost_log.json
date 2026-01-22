@@ -1,0 +1,198 @@
+{
+  "processedAt": "2026-01-01T14:16:17.321Z",
+  "statistics": {
+    "pagesTotal": 144,
+    "pagesExisting": 109,
+    "pagesNewlyProcessed": 35,
+    "rawEntries": 1705,
+    "finalEntries": 1683,
+    "mergedEntries": 13,
+    "warnings": 188,
+    "errors": 0,
+    "errorPages": []
+  },
+  "costsThisSession": {
+    "totalRequests": 35,
+    "totalTokens": 220805,
+    "inputTokens": 73998,
+    "outputTokens": 146807,
+    "estimatedCost": 0.0991839
+  },
+  "requests": [
+    {
+      "file": "page_097.png",
+      "tokens": 7237,
+      "cost": 0.00333825
+    },
+    {
+      "file": "page_098.png",
+      "tokens": 6981,
+      "cost": 0.0032094
+    },
+    {
+      "file": "page_099.png",
+      "tokens": 5498,
+      "cost": 0.0023659499999999995
+    },
+    {
+      "file": "page_100.png",
+      "tokens": 5572,
+      "cost": 0.0023604
+    },
+    {
+      "file": "page_101.png",
+      "tokens": 6549,
+      "cost": 0.0029394
+    },
+    {
+      "file": "page_102.png",
+      "tokens": 6549,
+      "cost": 0.0029465999999999997
+    },
+    {
+      "file": "page_104.png",
+      "tokens": 8016,
+      "cost": 0.0038101499999999996
+    },
+    {
+      "file": "page_105.png",
+      "tokens": 6740,
+      "cost": 0.0030301499999999997
+    },
+    {
+      "file": "page_106.png",
+      "tokens": 7581,
+      "cost": 0.0035253
+    },
+    {
+      "file": "page_107.png",
+      "tokens": 7431,
+      "cost": 0.0034281
+    },
+    {
+      "file": "page_108.png",
+      "tokens": 7513,
+      "cost": 0.0035038499999999998
+    },
+    {
+      "file": "page_135.png",
+      "tokens": 6772,
+      "cost": 0.00301785
+    },
+    {
+      "file": "page_173.png",
+      "tokens": 6356,
+      "cost": 0.0028784999999999995
+    },
+    {
+      "file": "page_174.png",
+      "tokens": 7490,
+      "cost": 0.00354855
+    },
+    {
+      "file": "page_175.png",
+      "tokens": 6342,
+      "cost": 0.00280035
+    },
+    {
+      "file": "page_176.png",
+      "tokens": 6894,
+      "cost": 0.0031112999999999996
+    },
+    {
+      "file": "page_177.png",
+      "tokens": 7041,
+      "cost": 0.0032917499999999995
+    },
+    {
+      "file": "page_178.png",
+      "tokens": 6758,
+      "cost": 0.0030796499999999997
+    },
+    {
+      "file": "page_179.png",
+      "tokens": 6950,
+      "cost": 0.0031997999999999996
+    },
+    {
+      "file": "page_180.png",
+      "tokens": 5090,
+      "cost": 0.00206445
+    },
+    {
+      "file": "page_182.png",
+      "tokens": 6395,
+      "cost": 0.0029059499999999996
+    },
+    {
+      "file": "page_183.png",
+      "tokens": 6460,
+      "cost": 0.0029444999999999996
+    },
+    {
+      "file": "page_184.png",
+      "tokens": 5950,
+      "cost": 0.0026600999999999994
+    },
+    {
+      "file": "page_185.png",
+      "tokens": 5668,
+      "cost": 0.0024922499999999997
+    },
+    {
+      "file": "page_186.png",
+      "tokens": 4719,
+      "cost": 0.00193005
+    },
+    {
+      "file": "page_188.png",
+      "tokens": 6365,
+      "cost": 0.0029023499999999997
+    },
+    {
+      "file": "page_189.png",
+      "tokens": 5026,
+      "cost": 0.0021075
+    },
+    {
+      "file": "page_190.png",
+      "tokens": 6991,
+      "cost": 0.0032657999999999997
+    },
+    {
+      "file": "page_191.png",
+      "tokens": 5313,
+      "cost": 0.002286
+    },
+    {
+      "file": "page_192.png",
+      "tokens": 6891,
+      "cost": 0.00321345
+    },
+    {
+      "file": "page_193.png",
+      "tokens": 6490,
+      "cost": 0.0029877
+    },
+    {
+      "file": "page_195.png",
+      "tokens": 5928,
+      "cost": 0.0026374499999999995
+    },
+    {
+      "file": "page_198.png",
+      "tokens": 4107,
+      "cost": 0.0016371
+    },
+    {
+      "file": "page_199.png",
+      "tokens": 5483,
+      "cost": 0.0023853
+    },
+    {
+      "file": "page_200.png",
+      "tokens": 3659,
+      "cost": 0.00137865
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "sourceFile": "page_125.json",
+  "pageNumber": "101",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 10,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 822: Darunter: Antrag der Fakultät auf Verleihung des Adlerschildes des Deutschen Reichs an Adolf Schlatter und Karl Müller, 25.4.1932",
+      "nummer": "822",
+      "titel": "Antrag der Fakultät auf Verleihung des Adlerschildes des Deutschen Reichs an Adolf Schlatter und Karl Müller",
+      "beschreibung": "Antrag der Fakultät zur Verleihung des Adlerschildes des Deutschen Reichs an Adolf Schlatter und Karl Müller.",
+      "typ": "Sonstiges",
+      "datum": "1932-04-25",
+      "beteiligte": [
+        {
+          "name": "Fakultät",
+          "rolle": "Absender",
+          "entity": "Institution"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Karl Müller",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_125.json",
+      "_pageNumber": "101"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "823: Weitere Fakultäts-Unterlagen 8. - 24.2.1900. Darunter: Entwurf von Schlatter für Antrag der Fakultät auf Berufung des Berliner Dozenten Dr. phil. Lic. theol. Karl Holl als außerordentlicher Professor nach Tübingen.",
+      "nummer": "823",
+      "titel": "Weitere Fakultäts-Unterlagen",
+      "beschreibung": "Sammlung weiterer Fakultäts-Unterlagen. Enthält Entwurf von Adolf Schlatter für Antrag der Fakultät auf Berufung des Berliner Dozenten Dr. phil. Lic. theol. Karl Holl als außerordentlicher Professor nach Tübingen.",
+      "typ": "Material",
+      "zeitraum": "8. - 24.2.1900",
+      "untereintraege": [
+        {
+          "rawText": "Entwurf von Schlatter für Antrag der Fakultät auf Berufung des Berliner Dozenten Dr. phil. Lic. theol. Karl Holl als außerordentlicher Professor nach Tübingen.",
+          "titel": "Entwurf: Antrag auf Berufung von Karl Holl",
+          "beschreibung": "Entwurf von Adolf Schlatter für den Antrag der Fakultät zur Berufung des Dr. phil. Lic. theol. Karl Holl (Berliner Dozent) als außerordentlicher Professor nach Tübingen.",
+          "beteiligte": [
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            },
+            {
+              "name": "Karl Holl",
+              "rolle": "Erwähnt",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_125.json",
+      "_pageNumber": "101"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "824: Weitere Fakultäts-Unterlagen Juni - Dezember 1903. Darunter: Zirkular bei den Fakultäts-Mitgliedern bezüglich Feier zum 100. Geburtstag von J. T. Beck am 22.2.1904 mit Gedächtnisrede von Schlatter.",
+      "nummer": "824",
+      "titel": "Weitere Fakultäts-Unterlagen",
+      "beschreibung": "Fakultäts-Unterlagen aus dem Zeitraum Juni - Dezember 1903. Enthält Zirkular an Fakultätsmitglieder bezüglich der Feier zum 100. Geburtstag von J. T. Beck (22.2.1904) sowie die Gedächtnisrede von Adolf Schlatter.",
+      "typ": "Material",
+      "zeitraum": "Juni - Dezember 1903",
+      "untereintraege": [
+        {
+          "rawText": "Zirkular ... Feier zum 100. Geburtstag von J. T. Beck am 22.2.1904 mit Gedächtnisrede von Schlatter.",
+          "titel": "Zirkular und Gedächtnisrede zur Beck-Feier",
+          "beschreibung": "Zirkular an Fakultätsmitglieder bzgl. Feier zum 100. Geburtstag von J. T. Beck (22.2.1904). Enthält Gedächtnisrede von Adolf Schlatter.",
+          "datum": "1904-02-22",
+          "beteiligte": [
+            {
+              "name": "J. T. Beck",
+              "rolle": "Erwähnt",
+              "entity": "Person"
+            },
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Vortragender",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_125.json",
+      "_pageNumber": "101"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "825: 5 Gutachten von Schlatter als Referent für Licentiaten-Arbeiten 1899 - 1912. Darunter: Repetent Traub, 1.3.1899; Hermann Albert Hesse, 9.8.1900; Emil Brandes, 23.1.1904.",
+      "nummer": "825",
+      "titel": "Gutachten von Schlatter für Licentiaten-Arbeiten",
+      "beschreibung": "Sammlung von 5 Gutachten (Referent: Adolf Schlatter) für Licentiaten-Arbeiten aus den Jahren 1899 - 1912.",
+      "typ": "Material",
+      "umfang": "5 Gutachten",
+      "zeitraum": "1899 - 1912",
+      "untereintraege": [
+        {
+          "rawText": "Repetent Traub, 1.3.1899",
+          "titel": "Gutachten: Repetent Traub",
+          "beschreibung": "Gutachten von Adolf Schlatter für Repetent Traub.",
+          "datum": "1899-03-01",
+          "beteiligte": [
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Referent",
+              "entity": "Person"
+            },
+            {
+              "name": "Traub",
+              "rolle": "Erwähnt",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Hermann Albert Hesse, 9.8.1900",
+          "titel": "Gutachten: Hermann Albert Hesse",
+          "beschreibung": "Gutachten von Adolf Schlatter für Hermann Albert Hesse.",
+          "datum": "1900-08-09",
+          "beteiligte": [
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Referent",
+              "entity": "Person"
+            },
+            {
+              "name": "Hermann Albert Hesse",
+              "rolle": "Erwähnt",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Emil Brandes, 23.1.1904",
+          "titel": "Gutachten: Emil Brandes",
+          "beschreibung": "Gutachten von Adolf Schlatter für Emil Brandes.",
+          "datum": "1904-01-23",
+          "beteiligte": [
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Referent",
+              "entity": "Person"
+            },
+            {
+              "name": "Emil Brandes",
+              "rolle": "Erwähnt",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_125.json",
+      "_pageNumber": "101"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "826: Lydia Schmid, Erklärung zu ihrer Licentiatenarbeit (Referent Schlatter; Gutachten fehlt) 11.1.1921.\n\nKarl Müller, Gutachten zur Licentiatenarbeit von Eugen Fischer, mit Voten von Schlatter Dezember 1908/Januar 1909.",
+      "nummer": "826",
+      "titel": "Erklärungen und Gutachten zu Licentiatenarbeiten",
+      "beschreibung": "Enthält Erklärung von Lydia Schmid zu ihrer Licentiatenarbeit (Referent: Schlatter; Gutachten fehlt) und Gutachten von Karl Müller zur Licentiatenarbeit von Eugen Fischer mit Voten von Schlatter.",
+      "typ": "Material",
+      "untereintraege": [
+        {
+          "rawText": "Lydia Schmid, Erklärung zu ihrer Licentiatenarbeit (Referent Schlatter; Gutachten fehlt) 11.1.1921.",
+          "titel": "Erklärung: Lydia Schmid",
+          "beschreibung": "Erklärung zu ihrer Licentiatenarbeit; Referent: Adolf Schlatter. Gutachten fehlt.",
+          "datum": "1921-01-11",
+          "beteiligte": [
+            {
+              "name": "Lydia Schmid",
+              "rolle": "Autor",
+              "entity": "Person"
+            },
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Referent",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Karl Müller, Gutachten zur Licentiatenarbeit von Eugen Fischer, mit Voten von Schlatter Dezember 1908/Januar 1909.",
+          "titel": "Gutachten: Karl Müller zu Eugen Fischer",
+          "beschreibung": "Gutachten von Karl Müller zur Licentiatenarbeit von Eugen Fischer; enthält Voten von Adolf Schlatter.",
+          "zeitraum": "Dezember 1908/Januar 1909",
+          "beteiligte": [
+            {
+              "name": "Karl Müller",
+              "rolle": "Autor",
+              "entity": "Person"
+            },
+            {
+              "name": "Eugen Fischer",
+              "rolle": "Erwähnt",
+              "entity": "Person"
+            },
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Erwähnt",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_125.json",
+      "_pageNumber": "101"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "827: Matrikel Adolf Schlatter, stud. theol., Tübingen, 6.5.1873. Abgangszeugnis 25.8.1874 und Listen der von Schlatter besuchten Vorlesungen SS 1873, WS 1873/1874, SS 1874. Bürgschaftserklärung von Stephan Schlatter, St. Gallen 24.4.1873",
+      "nummer": "827",
+      "titel": "Matrikel und Studienunterlagen Adolf Schlatter",
+      "beschreibung": "Matrikelblatt von Adolf Schlatter (stud. theol., Tübingen) sowie Abgangszeugnis, Listen der besuchten Vorlesungen und Bürgschaftserklärung von Stephan Schlatter.",
+      "typ": "Verzeichnis/Aufstellung",
+      "untereintraege": [
+        {
+          "rawText": "Matrikel Adolf Schlatter, stud. theol., Tübingen, 6.5.1873.",
+          "titel": "Matrikel Adolf Schlatter",
+          "beschreibung": "Matrikeleintrag für Adolf Schlatter als stud. theol. in Tübingen.",
+          "datum": "1873-05-06"
+        },
+        {
+          "rawText": "Abgangszeugnis 25.8.1874",
+          "titel": "Abgangszeugnis",
+          "beschreibung": "Abgangszeugnis von Adolf Schlatter.",
+          "datum": "1874-08-25"
+        },
+        {
+          "rawText": "Listen der von Schlatter besuchten Vorlesungen SS 1873, WS 1873/1874, SS 1874.",
+          "titel": "Listen der besuchten Vorlesungen",
+          "beschreibung": "Listen der von Schlatter besuchten Vorlesungen für SS 1873, WS 1873/1874 und SS 1874."
+        },
+        {
+          "rawText": "Bürgschaftserklärung von Stephan Schlatter, St. Gallen 24.4.1873",
+          "titel": "Bürgschaftserklärung Stephan Schlatter",
+          "beschreibung": "Bürgschaftserklärung von Stephan Schlatter (St. Gallen).",
+          "datum": "1873-04-24",
+          "beteiligte": [
+            {
+              "name": "Stephan Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_125.json",
+      "_pageNumber": "101"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "828/1: Berufung Schlatters auf die neu errichtete \"ordentliche Professur für neutestamentliche Disziplinen\" mit der Erlaubnis, \"im Benehmen mit der Fakultät ... auch über Dogmatik zu lesen ...\", mit Erlaß des Kirchen- und Schulministeriums Stuttgart an den Senat in Tübingen vom 8.11.1897.",
+      "nummer": "828/1",
+      "titel": "Berufung Schlatter auf ordentliche Professur für neutestamentliche Disziplinen",
+      "beschreibung": "Unterlagen zur Berufung Schlatters auf die neu errichtete ordentliche Professur für neutestamentliche Disziplinen; enthält Erlaubnis, auch über Dogmatik zu lehren, sowie Erlaß des Kirchen- und Schulministeriums Stuttgart an den Senat in Tübingen.",
+      "typ": "Material",
+      "datum": "1897-11-08",
+      "beteiligte": [
+        {
+          "name": "Kirchen- und Schulministerium Stuttgart",
+          "rolle": "Absender",
+          "entity": "Institution"
+        },
+        {
+          "name": "Senat in Tübingen",
+          "rolle": "Adressat",
+          "entity": "Institution"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_125.json",
+      "_pageNumber": "101"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "828/2: National-Liste, vorgelegt von Schlatter 26.4.1898. Dazu: Listen mit Hinweisen auf Urkunden und Belege über seinen bisherigen Bildungsgang.",
+      "nummer": "828/2",
+      "titel": "National-Liste vorgelegt von Schlatter",
+      "beschreibung": "National-Liste vorgelegt von Adolf Schlatter; zusätzlich Listen mit Hinweisen auf Urkunden und Belege zu seinem bisherigen Bildungsgang.",
+      "typ": "Material",
+      "datum": "1898-04-26",
+      "untereintraege": [
+        {
+          "rawText": "Listen mit Hinweisen auf Urkunden und Belege über seinen bisherigen Bildungsgang.",
+          "titel": "Listen zu Urkunden und Belegen",
+          "beschreibung": "Begleitende Listen mit Hinweisen auf Urkunden und Belege zum Bildungsgang von Adolf Schlatter."
+        }
+      ],
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Vorlage/Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_125.json",
+      "_pageNumber": "101"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "829: Evang. Volksbund für Württemberg e. V. Unter anderem Anfrage an die Fakultät am 3.3.1930 im Auftrag der Universität Bern bezüglich der Beendigung der akademischen Tätigkeit von Schlatter.",
+      "nummer": "829",
+      "titel": "Anfrage des Evang. Volksbunds für Württemberg",
+      "beschreibung": "Unterlagen des Evang. Volksbundes für Württemberg e. V.; enthält u. a. eine Anfrage an die Fakultät (3.3.1930) im Auftrag der Universität Bern bezüglich der Beendigung der akademischen Tätigkeit von Adolf Schlatter.",
+      "typ": "Material",
+      "datum": "1930-03-03",
+      "beteiligte": [
+        {
+          "name": "Evang. Volksbund für Württemberg e. V.",
+          "rolle": "Absender",
+          "entity": "Organisation"
+        },
+        {
+          "name": "Universität Bern",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Institution"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_125.json",
+      "_pageNumber": "101"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "830: Frage der Verleihung des Adlerschildes an Schlatter. Schriftwechsel der Fakultät mit dem Kultusministerium April - Juli 1932. Ablehnung durch das Reichs-Innenministerium.",
+      "nummer": "830",
+      "titel": "Schriftwechsel zur Frage der Verleihung des Adlerschildes an Schlatter",
+      "beschreibung": "Schriftwechsel der Fakultät mit dem Kultusministerium zur Frage der Verleihung des Adlerschildes an Adolf Schlatter (April - Juli 1932). Enthält Ablehnung durch das Reichs-Innenministerium.",
+      "typ": "Korrespondenz",
+      "zeitraum": "April - Juli 1932",
+      "beteiligte": [
+        {
+          "name": "Fakultät",
+          "rolle": "Korrespondenzteil",
+          "entity": "Institution"
+        },
+        {
+          "name": "Kultusministerium",
+          "rolle": "Korrespondenzteil",
+          "entity": "Institution"
+        },
+        {
+          "name": "Reichs-Innenministerium",
+          "rolle": "Entscheider",
+          "entity": "Institution"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_125.json",
+      "_pageNumber": "101"
+    }
+  ],
+  "notes": "Seite enthält Einträge Nr. 822-830; keine neue Überschriften auf der Seite (Kontext bleibt Teil II: B Druckschriften und Manuskripte; Unterabschnitt und Unterkategorie unverändert)."
+}

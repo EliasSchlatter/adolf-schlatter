@@ -1,0 +1,318 @@
+{
+  "sourceFile": "page_071.json",
+  "pageNumber": "47",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+    "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+    "unterkategorie": "c) Weitere Vorlesungsmanuskripte; d) Vorlesungen in broschierten Kollegheften, überwiegend von Schlatter geschrieben"
+  },
+  "entriesCount": 18,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "c) Weitere Vorlesungsmanuskripte; d) Vorlesungen in broschierten Kollegheften, überwiegend von Schlatter geschrieben",
+      "rawText": "Nr. 194: Apostelgeschichte.",
+      "nummer": "194",
+      "titel": "Apostelgeschichte",
+      "typ": "Vorlesung",
+      "_quelldatei": "page_071.json",
+      "_pageNumber": "47"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "c) Weitere Vorlesungsmanuskripte; d) Vorlesungen in broschierten Kollegheften, überwiegend von Schlatter geschrieben",
+      "rawText": "195: Galaterbrief. Greifswald. 1889 - 1890",
+      "nummer": "195",
+      "titel": "Galaterbrief",
+      "ort": "Greifswald",
+      "zeitraum": "1889-1890",
+      "typ": "Vorlesung",
+      "_quelldatei": "page_071.json",
+      "_pageNumber": "47"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "c) Weitere Vorlesungsmanuskripte; d) Vorlesungen in broschierten Kollegheften, überwiegend von Schlatter geschrieben",
+      "rawText": "196: Galaterbrief. Entwurf Seminar, Greifswald. 1888 - 1889",
+      "nummer": "196",
+      "titel": "Galaterbrief",
+      "beschreibung": "Entwurf Seminar",
+      "ort": "Greifswald",
+      "zeitraum": "1888-1889",
+      "typ": "Vorlesung",
+      "_quelldatei": "page_071.json",
+      "_pageNumber": "47"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "c) Weitere Vorlesungsmanuskripte; d) Vorlesungen in broschierten Kollegheften, überwiegend von Schlatter geschrieben",
+      "rawText": "197: Fragen zum 2. Korintherbrief (1,21 - 5,21). 1888 - 1889",
+      "nummer": "197",
+      "titel": "Fragen zum 2. Korintherbrief",
+      "bibelstelle": "2 Korinther 1,21-5,21",
+      "zeitraum": "1888-1889",
+      "typ": "Vorlesung",
+      "_quelldatei": "page_071.json",
+      "_pageNumber": "47"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "c) Weitere Vorlesungsmanuskripte; d) Vorlesungen in broschierten Kollegheften, überwiegend von Schlatter geschrieben",
+      "rawText": "198/1: Leben Jesu. Seite 1 - 614",
+      "nummer": "198/1",
+      "titel": "Leben Jesu",
+      "seiten": "1-614",
+      "typ": "Manuskript",
+      "_quelldatei": "page_071.json",
+      "_pageNumber": "47"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "c) Weitere Vorlesungsmanuskripte; d) Vorlesungen in broschierten Kollegheften, überwiegend von Schlatter geschrieben",
+      "rawText": "198/2: Leben Jesu. Seite 615 - 1198",
+      "nummer": "198/2",
+      "titel": "Leben Jesu",
+      "seiten": "615-1198",
+      "typ": "Manuskript",
+      "_quelldatei": "page_071.json",
+      "_pageNumber": "47"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "c) Weitere Vorlesungsmanuskripte; d) Vorlesungen in broschierten Kollegheften, überwiegend von Schlatter geschrieben",
+      "rawText": "198/3: Leben Jesu. Seite 1200 - 1970",
+      "nummer": "198/3",
+      "titel": "Leben Jesu",
+      "seiten": "1200-1970",
+      "typ": "Manuskript",
+      "_quelldatei": "page_071.json",
+      "_pageNumber": "47"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "c) Weitere Vorlesungsmanuskripte; d) Vorlesungen in broschierten Kollegheften, überwiegend von Schlatter geschrieben",
+      "rawText": "198/4: Studien zum Leben Jesu.",
+      "nummer": "198/4",
+      "titel": "Studien zum Leben Jesu",
+      "typ": "Manuskript",
+      "_quelldatei": "page_071.json",
+      "_pageNumber": "47"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "c) Weitere Vorlesungsmanuskripte; d) Vorlesungen in broschierten Kollegheften, überwiegend von Schlatter geschrieben",
+      "rawText": "199: Jesus und Paulus, ein Publikum aus dem Sommersemester 1906.",
+      "nummer": "199",
+      "titel": "Jesus und Paulus",
+      "beschreibung": "ein Publikum aus dem Sommersemester 1906",
+      "jahr": 1906,
+      "typ": "Vorlesung",
+      "_quelldatei": "page_071.json",
+      "_pageNumber": "47"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "c) Weitere Vorlesungsmanuskripte; d) Vorlesungen in broschierten Kollegheften, überwiegend von Schlatter geschrieben",
+      "rawText": "200: Geschichte der apostolischen Gemeinde.",
+      "nummer": "200",
+      "titel": "Geschichte der apostolischen Gemeinde",
+      "typ": "Vorlesung",
+      "_quelldatei": "page_071.json",
+      "_pageNumber": "47"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "c) Weitere Vorlesungsmanuskripte; d) Vorlesungen in broschierten Kollegheften, überwiegend von Schlatter geschrieben",
+      "rawText": "201: Systematische Darstellung des Glaubens (Kollegzettel aus verschiedenen Vorlesungen ?).",
+      "nummer": "201",
+      "titel": "Systematische Darstellung des Glaubens",
+      "beschreibung": "Kollegzettel aus verschiedenen Vorlesungen (unsicher)",
+      "typ": "Kollegheft",
+      "_quelldatei": "page_071.json",
+      "_pageNumber": "47"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "c) Weitere Vorlesungsmanuskripte; d) Vorlesungen in broschierten Kollegheften, überwiegend von Schlatter geschrieben",
+      "rawText": "202: Encyclopädie. Einführung in die Theologie.",
+      "nummer": "202",
+      "titel": "Encyclopädie. Einführung in die Theologie",
+      "typ": "Vorlesung",
+      "_quelldatei": "page_071.json",
+      "_pageNumber": "47"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "c) Weitere Vorlesungsmanuskripte; d) Vorlesungen in broschierten Kollegheften, überwiegend von Schlatter geschrieben",
+      "rawText": "203: Die Rechtfertigungslehre nach ihrer Bewegung in der Geschichte der Kirche. Bern 1886 - 1887",
+      "nummer": "203",
+      "titel": "Die Rechtfertigungslehre nach ihrer Bewegung in der Geschichte der Kirche",
+      "ort": "Bern",
+      "zeitraum": "1886-1887",
+      "typ": "Manuskript",
+      "_quelldatei": "page_071.json",
+      "_pageNumber": "47"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "c) Weitere Vorlesungsmanuskripte; d) Vorlesungen in broschierten Kollegheften, überwiegend von Schlatter geschrieben",
+      "rawText": "204: Dogmatik I und II. 2 Bde.",
+      "nummer": "204",
+      "titel": "Dogmatik I und II",
+      "teilfolge": "2 Bde.",
+      "typ": "Manuskript",
+      "_quelldatei": "page_071.json",
+      "_pageNumber": "47"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "c) Weitere Vorlesungsmanuskripte; d) Vorlesungen in broschierten Kollegheften, überwiegend von Schlatter geschrieben",
+      "rawText": "Nr. 205/1/2/3: Geschichte der apostolischen Zeit I, II, III. 1915 - 1916",
+      "nummer": "205",
+      "titel": "Geschichte der apostolischen Zeit",
+      "typ": "Kollegheft",
+      "untereintraege": [
+        {
+          "rawText": "205/1: Geschichte der apostolischen Zeit I. 1915 - 1916",
+          "titel": "Geschichte der apostolischen Zeit I",
+          "nummer": "205/1",
+          "zeitraum": "1915-1916"
+        },
+        {
+          "rawText": "205/2: Geschichte der apostolischen Zeit II. 1915 - 1916",
+          "titel": "Geschichte der apostolischen Zeit II",
+          "nummer": "205/2",
+          "zeitraum": "1915-1916"
+        },
+        {
+          "rawText": "205/3: Geschichte der apostolischen Zeit III. 1915 - 1916",
+          "titel": "Geschichte der apostolischen Zeit III",
+          "nummer": "205/3",
+          "zeitraum": "1915-1916"
+        }
+      ],
+      "_quelldatei": "page_071.json",
+      "_pageNumber": "47"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "c) Weitere Vorlesungsmanuskripte; d) Vorlesungen in broschierten Kollegheften, überwiegend von Schlatter geschrieben",
+      "rawText": "206/1: Die Geschichte Jesu - als Dogma 1 bezeichnet.",
+      "nummer": "206",
+      "typ": "Manuskript",
+      "untereintraege": [
+        {
+          "rawText": "206/1: Die Geschichte Jesu - als Dogma 1 bezeichnet.",
+          "nummer": "206/1",
+          "titel": "Die Geschichte Jesu (als Dogma bezeichnet)"
+        },
+        {
+          "rawText": "206/2/3: Dogmatik §§ 1 - 11; §§ 23 - 41. 2 Bde.",
+          "nummer": "206/2",
+          "titel": "Dogmatik §§ 1-11; §§ 23-41",
+          "nummer_hint": "206/2 und 206/3",
+          "teilfolge": "2 Bde."
+        },
+        {
+          "rawText": "206/2/3: Dogmatik §§ 1 - 11; §§ 23 - 41. 2 Bde.",
+          "nummer": "206/3",
+          "titel": "Dogmatik §§ 1-11; §§ 23-41",
+          "teilfolge": "2 Bde."
+        }
+      ],
+      "_quelldatei": "page_071.json",
+      "_pageNumber": "47"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "c) Weitere Vorlesungsmanuskripte; d) Vorlesungen in broschierten Kollegheften, überwiegend von Schlatter geschrieben",
+      "rawText": "207/1/2: Johannesevangelium 1 - 8,31; 8,32 - 17. 1913. 2 Bde.",
+      "nummer": "207",
+      "typ": "Manuskript",
+      "untereintraege": [
+        {
+          "rawText": "207/1: Johannesevangelium 1 - 8,31. 1913",
+          "nummer": "207/1",
+          "titel": "Johannesevangelium 1 - 8,31",
+          "jahr": 1913
+        },
+        {
+          "rawText": "207/2: Johannesevangelium 8,32 - 17. 1913",
+          "nummer": "207/2",
+          "titel": "Johannesevangelium 8,32 - 17",
+          "jahr": 1913,
+          "teilfolge": "2 Bde."
+        }
+      ],
+      "_quelldatei": "page_071.json",
+      "_pageNumber": "47"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "c) Weitere Vorlesungsmanuskripte; d) Vorlesungen in broschierten Kollegheften, überwiegend von Schlatter geschrieben",
+      "rawText": "208: 1 Heft Sätze aus 4 Vorträgen: Geschichte und Arbeit des Apostels Paulus. 1 Heft Matthäus 18 - 25. 2 Hefte Römerbrief 9,14-33; Kap. 1 - 16.",
+      "nummer": "208",
+      "titel": "Verschiedene Heftfragmente",
+      "typ": "Kollegheft",
+      "untereintraege": [
+        {
+          "rawText": "1 Heft Sätze aus 4 Vorträgen: Geschichte und Arbeit des Apostels Paulus.",
+          "titel": "Sätze aus 4 Vorträgen: Geschichte und Arbeit des Apostels Paulus",
+          "umfang": "1 Heft"
+        },
+        {
+          "rawText": "1 Heft Matthäus 18 - 25.",
+          "titel": "Matthäus 18-25",
+          "umfang": "1 Heft",
+          "bibelstelle": "Matthäus 18-25"
+        },
+        {
+          "rawText": "2 Hefte Römerbrief 9,14-33; Kap. 1 - 16.",
+          "titel": "Römerbrief 9,14-33; Kapitel 1-16",
+          "umfang": "2 Hefte",
+          "bibelstelle": "Römer 9,14-33; Kapitel 1-16"
+        }
+      ],
+      "_quelldatei": "page_071.json",
+      "_pageNumber": "47"
+    }
+  ],
+  "notes": "Seite enthält die Unterkategoriewechsel c) und d). OCR-Text klar, Fußzeile '47' entfernt."
+}

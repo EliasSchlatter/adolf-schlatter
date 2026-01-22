@@ -1,0 +1,367 @@
+{
+  "sourceFile": "page_110.json",
+  "pageNumber": "86",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 13,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 678: Adolf Schlatter, Die Wirkung des Heiligen Geistes in den\nGläubigen.\nKurzfassung des Vortrags im Bericht über den Theologischen\nKursus Bethel, August 1898.\nAus: Neue Westfälische Volkszeitung. 17., 18. und 21.8.1898",
+      "nummer": "678",
+      "titel": "Die Wirkung des Heiligen Geistes in den Gläubigen",
+      "beschreibung": "Kurzfassung des Vortrags im Bericht über den Theologischen Kursus Bethel, August 1898. Veröffentlichung in der Neue Westfälische Volkszeitung am 17., 18. und 21.8.1898.",
+      "typ": "Vortrag",
+      "jahr": 1898,
+      "in": "Neue Westfälische Volkszeitung",
+      "anmerkung": "Veröffentlichung an mehreren Tagen: 17., 18. und 21.8.1898",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_110.json",
+      "_pageNumber": "86"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "679: Theologische Wochen in Bethel ab 1898. Daten und Zusammen-\nstellungen.\nAufstellung von P. Jaspers 2.9.1938 über die Mitarbeit Adolf\nSchlatters bei den Theologischen Wochen 1898 - 1932.",
+      "nummer": "679",
+      "titel": "Theologische Wochen in Bethel ab 1898. Daten und Zusammenstellungen",
+      "beschreibung": "Aufstellung über die Mitarbeit Adolf Schlatters bei den Theologischen Wochen 1898-1932. Aufstellung erstellt von P. Jaspers.",
+      "typ": "Verzeichnis/Aufstellung",
+      "datum": "1938-09-02",
+      "zeitraum": "1898-1932",
+      "beteiligte": [
+        {
+          "name": "P. Jaspers",
+          "rolle": "Zusammensteller",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_110.json",
+      "_pageNumber": "86"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "680: Adolf Schlatter, \"Seht - Sieh - den Vater\".\nVortrag Theol. Woche Bethel 1930. Manuskript",
+      "nummer": "680",
+      "titel": "Seht - Sieh - den Vater",
+      "beschreibung": "Vortrag (Theologische Woche Bethel 1930). Manuskript.",
+      "typ": "Manuskript",
+      "jahr": 1930,
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Vortragender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_110.json",
+      "_pageNumber": "86"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "681/1: In Bethel erschienene Schriften Schlatters, Zusammenstellung.\nAufsätze Schlatters im Monatsblatt Beth-El, Zusammenstellung\n1921 - 1938.",
+      "nummer": "681/1",
+      "titel": "In Bethel erschienene Schriften Schlatters, Zusammenstellung",
+      "beschreibung": "Zusammenstellung der in Bethel erschienenen Schriften Schlatters; Aufsätze im Monatsblatt Beth-El. Zeitraum 1921-1938.",
+      "typ": "Verzeichnis/Aufstellung",
+      "zeitraum": "1921-1938",
+      "_quelldatei": "page_110.json",
+      "_pageNumber": "86"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "681/2: Adolf Schlatter, \"Ein dankbares Wort zum 100. Geburtstag von\nP. Friedrich von Bodelschwingh\".\nManuskript, März 1931",
+      "nummer": "681/2",
+      "titel": "Ein dankbares Wort zum 100. Geburtstag von P. Friedrich von Bodelschwingh",
+      "beschreibung": "Manuskript, verfasst März 1931.",
+      "typ": "Manuskript",
+      "jahr": 1931,
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "P. Friedrich von Bodelschwingh",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_110.json",
+      "_pageNumber": "86"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "682: Adolf Schlatter, Studium und sittliches Leben.\nRede im Domkandidatenstift Berlin 3.12.1894. Nachschrift von\nGustav von Bodelschwingh",
+      "nummer": "682",
+      "titel": "Studium und sittliches Leben",
+      "beschreibung": "Rede im Domkandidatenstift Berlin. Nachschrift von Gustav von Bodelschwingh.",
+      "typ": "Rede",
+      "datum": "1894-12-03",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Vortragender",
+          "entity": "Person"
+        },
+        {
+          "name": "Gustav von Bodelschwingh",
+          "rolle": "Protokollant",
+          "entity": "Person",
+          "zusatz": "Nachschrift"
+        }
+      ],
+      "_quelldatei": "page_110.json",
+      "_pageNumber": "86"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "683: Adolf Schlatter, Mitteilungen über Pfarrerszeit, Berner,\nGreifswalder, Berliner Zeit.\nNiederschrift des Fragestellers, vermutlich Gustav von Bodel-\nschwingh, wohl Braunlage 1897",
+      "nummer": "683",
+      "titel": "Mitteilungen über Pfarrerszeit, Berner, Greifswalder, Berliner Zeit",
+      "beschreibung": "Niederschrift des Fragestellers; vermutlich von Gustav von Bodelschwingh. Wahrscheinlich Braunlage 1897.",
+      "typ": "Notiz",
+      "jahr": 1897,
+      "anmerkung": "Verfasser vermutlich Gustav von Bodelschwingh; Ortsangabe Braunlage unsicher.",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        },
+        {
+          "name": "Gustav von Bodelschwingh",
+          "rolle": "Protokollant",
+          "entity": "Person",
+          "zusatz": "vermutlich"
+        }
+      ],
+      "_quelldatei": "page_110.json",
+      "_pageNumber": "86"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "684: Adolf Schlatter, Unsere Ausrüstung zur Volksmission.\nAus: Betheler Sonntagsblatt 22.2.1925",
+      "nummer": "684",
+      "titel": "Unsere Ausrüstung zur Volksmission",
+      "beschreibung": "Auszug/Artikel veröffentlicht im Betheler Sonntagsblatt.",
+      "typ": "Aufsatz",
+      "datum": "1925-02-22",
+      "in": "Betheler Sonntagsblatt",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_110.json",
+      "_pageNumber": "86"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "685: Th. Oe., \"Adolf Schlatter\".\nAus: Zeitschrift \"Aufwärts\" 16.8.1927",
+      "nummer": "685",
+      "titel": "Adolf Schlatter",
+      "beschreibung": "Beitrag von Th. Oe. in der Zeitschrift \"Aufwärts\".",
+      "typ": "Artikel",
+      "datum": "1927-08-16",
+      "in": "Aufwärts",
+      "beteiligte": [
+        {
+          "name": "Th. Oe.",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_110.json",
+      "_pageNumber": "86"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "686: Gerhard Jaspers, \"Dem beobachtenden Theologen: Gedanken zum\n80. Geburtstag von Prof. Schlatter\".\nAus: Zeitschrift \"Aufwärts\" 17.8.1932",
+      "nummer": "686",
+      "titel": "Dem beobachtenden Theologen: Gedanken zum 80. Geburtstag von Prof. Schlatter",
+      "beschreibung": "Beitrag von Gerhard Jaspers in der Zeitschrift \"Aufwärts\".",
+      "typ": "Artikel",
+      "datum": "1932-08-17",
+      "in": "Aufwärts",
+      "beteiligte": [
+        {
+          "name": "Gerhard Jaspers",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Prof. Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_110.json",
+      "_pageNumber": "86"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "687: Theodor Schlatter, Brief an Friedrich von Bodelschwingh\n20.5.1938 über die letzten Stunden von Adolf Schlatter.",
+      "nummer": "687",
+      "titel": "Brief über die letzten Stunden von Adolf Schlatter",
+      "beschreibung": "Brief, der die letzten Stunden von Adolf Schlatter schildert.",
+      "typ": "Brief",
+      "datum": "1938-05-20",
+      "beteiligte": [
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Friedrich von Bodelschwingh",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_110.json",
+      "_pageNumber": "86"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "688: Wolfgang Metzger, Schreiben an Ernst Bock 24.11.1979 mit\nSchlatter-Erinnerungen.",
+      "nummer": "688",
+      "titel": "Schreiben mit Schlatter-Erinnerungen",
+      "beschreibung": "Schreiben an Ernst Bock mit Erinnerungen an Schlatter.",
+      "typ": "Brief",
+      "datum": "1979-11-24",
+      "beteiligte": [
+        {
+          "name": "Wolfgang Metzger",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Ernst Bock",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_110.json",
+      "_pageNumber": "86"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "689: Walter Grundmann, Bekenntnis und Wahrheit.\nNicht gedruckte Selbstbiographie, Auszug Seite 20 - 27, mit\nWürdigung Schlatters.\nAntwort von H. E. Eisenhuth 8.12.1980 auf Anfrage Ernst Bock\nbetreffend Grundmann.",
+      "nummer": "689",
+      "titel": "Bekenntnis und Wahrheit (Nicht gedruckte Selbstbiographie) - Auszug",
+      "beschreibung": "Nicht gedruckte Selbstbiographie von Walter Grundmann; Auszug Seiten 20-27, mit Würdigung Schlatters. Zusätzlich: Antwort von H. E. Eisenhuth auf eine Anfrage von Ernst Bock betreffend Grundmann.",
+      "typ": "Erinnerungen/Memoiren",
+      "seiten": "20-27",
+      "beteiligte": [
+        {
+          "name": "Walter Grundmann",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "H. E. Eisenhuth",
+          "rolle": "Autor",
+          "entity": "Person",
+          "zusatz": "Antwort"
+        },
+        {
+          "name": "Ernst Bock",
+          "rolle": "Adressat",
+          "entity": "Person",
+          "zusatz": "Anfragender"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Antwort von H. E. Eisenhuth 8.12.1980 auf Anfrage Ernst Bock betreffend Grundmann.",
+          "titel": "Antwort von H. E. Eisenhuth",
+          "beschreibung": "Antwortschreiben auf Anfrage von Ernst Bock betreffend Walter Grundmann.",
+          "typ": "Brief",
+          "datum": "1980-12-08",
+          "beteiligte": [
+            {
+              "name": "H. E. Eisenhuth",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Ernst Bock",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_110.json",
+      "_pageNumber": "86"
+    }
+  ],
+  "notes": "Originalseite 86 (Datei page_110.png). Überschrift entspricht gegebenem Kontext (Teil II: B Druckschriften und Manuskripte Nr. 678-689)."
+}

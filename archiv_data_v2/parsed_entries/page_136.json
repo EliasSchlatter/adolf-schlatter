@@ -1,0 +1,344 @@
+{
+  "sourceFile": "page_136.json",
+  "pageNumber": "112",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 13,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 905/2: Kurzbericht von \"G. v. R.\" über Vortrag von Schlatter, Schrift, Glaube und Erfahrung, auf der Lutherischen Konferenz für Minden-Ravensberg. Aus: Die Christliche Welt, 1895, Seite 1076 f",
+      "nummer": "905/2",
+      "titel": "Kurzbericht über Vortrag von Schlatter: 'Schrift, Glaube und Erfahrung'",
+      "beschreibung": "Kurzbericht von \"G. v. R.\" über Vortrag von Schlatter auf der Lutherischen Konferenz für Minden-Ravensberg. Veröffentlichung in 'Die Christliche Welt'.",
+      "typ": "Aufsatz",
+      "jahr": 1895,
+      "seiten": "1076 f",
+      "verlag": "Die Christliche Welt",
+      "beteiligte": [
+        {
+          "name": "G. v. R.",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "Vortragender"
+        }
+      ],
+      "_quelldatei": "page_136.json",
+      "_pageNumber": "112"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "906/1: Adolf Schlatter, Johannes und Paulus. Aus: Die Reformation, Deutsche Evang. Kirchenzeitung, Berlin 1909, Seite 645 - 648",
+      "nummer": "906/1",
+      "titel": "Johannes und Paulus",
+      "beschreibung": "Artikel von Adolf Schlatter.",
+      "typ": "Aufsatz",
+      "jahr": 1909,
+      "seiten": "645-648",
+      "verlag": "Die Reformation, Deutsche Evang. Kirchenzeitung",
+      "ort": "Berlin",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_136.json",
+      "_pageNumber": "112"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "906/2: Adolf Schlatter, Die kirchliche Gemeinschaft. Aus: Die Reformation, 1911, Seite 489 - 493",
+      "nummer": "906/2",
+      "titel": "Die kirchliche Gemeinschaft",
+      "beschreibung": "Artikel von Adolf Schlatter.",
+      "typ": "Aufsatz",
+      "jahr": 1911,
+      "seiten": "489-493",
+      "verlag": "Die Reformation",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_136.json",
+      "_pageNumber": "112"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "906/3: Samuel Jäger, Das Wort Jesu, nach Schlatter. Rezension des Buches. Aus: Die Reformation, 1910, Seite 354 - 357",
+      "nummer": "906/3",
+      "titel": "Das Wort Jesu, nach Schlatter",
+      "beschreibung": "Rezension des Buches (nach Schlatter) von Samuel Jäger.",
+      "typ": "Rezension",
+      "jahr": 1910,
+      "seiten": "354-357",
+      "verlag": "Die Reformation",
+      "beteiligte": [
+        {
+          "name": "Samuel Jäger",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_136.json",
+      "_pageNumber": "112"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "907: D. Bernhard Weiß, Aus neunzig Lebensjahren 1827 - 1918. Verlag Koehler u. Amelang, Leipzig 1927. Erwähnungen Schlatters Seite 193, 222",
+      "nummer": "907",
+      "titel": "Aus neunzig Lebensjahren 1827 - 1918",
+      "beschreibung": "Erinnerungen von D. Bernhard Weiß. Enthält Erwähnungen Schlatters.",
+      "typ": "Buch",
+      "jahr": 1927,
+      "verlag": "Koehler u. Amelang",
+      "ort": "Leipzig",
+      "anmerkung": "Erwähnungen Schlatters auf Seite 193, 222.",
+      "beteiligte": [
+        {
+          "name": "D. Bernhard Weiß",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_136.json",
+      "_pageNumber": "112"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "908: Anna-Kähler, Theologe und Christ. Erinnerungen und Bekenntnisse von Martin Kähler. Furche-Verlag Berlin 1926. Darin: Buchanzeige von \"Erlebtes\", in der Schlatter als \"akademischer Lehrer von Weltruf\" bezeichnet wird.",
+      "nummer": "908",
+      "titel": "Theologe und Christ. Erinnerungen und Bekenntnisse von Martin Kähler",
+      "beschreibung": "Enthält Buchanzeige von 'Erlebtes', in der Schlatter als 'akademischer Lehrer von Weltruf' bezeichnet wird.",
+      "typ": "Buch",
+      "jahr": 1926,
+      "verlag": "Furche-Verlag",
+      "ort": "Berlin",
+      "beteiligte": [
+        {
+          "name": "Anna-Kähler",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Martin Kähler",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Enthält Buchanzeige von 'Erlebtes', in der Schlatter als 'akademischer Lehrer von Weltruf' bezeichnet wird.",
+      "_quelldatei": "page_136.json",
+      "_pageNumber": "112"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "909: Agnes von Zahn-Harnack, Adolf von Harnack. Hans Bott Verlag Berlin 1936. Daraus: Briefkonzept Harnacks an Schlatter. 9.3.1893, Seite 209",
+      "nummer": "909",
+      "titel": "Adolf von Harnack",
+      "beschreibung": "Biographisches Werk von Agnes von Zahn-Harnack. Enthält ein Briefkonzept Harnacks an Schlatter (9.3.1893, S.209).",
+      "typ": "Buch",
+      "jahr": 1936,
+      "verlag": "Hans Bott Verlag",
+      "ort": "Berlin",
+      "beteiligte": [
+        {
+          "name": "Agnes von Zahn-Harnack",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Briefkonzept Harnacks an Schlatter. 9.3.1893, Seite 209",
+          "titel": "Briefkonzept Harnacks an Schlatter",
+          "beschreibung": "Im Buch enthaltenes Briefkonzept.",
+          "datum": "1893-03-09",
+          "seiten": "209",
+          "beteiligte": [
+            {
+              "name": "Adolf von Harnack",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_136.json",
+      "_pageNumber": "112"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "910: Karl Kupisch, Studenten entdecken die Bibel. Die Geschichte der DCSV. Furche-Verlag, o. J. Schlatter erwähnt Seite 40, 49, 73, 91, 103, 151, 182",
+      "nummer": "910",
+      "titel": "Studenten entdecken die Bibel. Die Geschichte der DCSV",
+      "beschreibung": "Werk von Karl Kupisch; Schlatter wird an mehreren Stellen erwähnt.",
+      "typ": "Buch",
+      "verlag": "Furche-Verlag",
+      "anmerkung": "o. J. (ohne Jahr). Schlatter erwähnt auf den Seiten 40, 49, 73, 91, 103, 151, 182.",
+      "beteiligte": [
+        {
+          "name": "Karl Kupisch",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_136.json",
+      "_pageNumber": "112"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "911: Evangelisch-sozialer Kongreß. Unterlagen von den Tagungen 1894, 1897",
+      "nummer": "911",
+      "titel": "Evangelisch-sozialer Kongreß. Unterlagen",
+      "beschreibung": "Unterlagen von den Tagungen des evangelisch-sozialen Kongresses.",
+      "typ": "Druckschrift",
+      "zeitraum": "1894, 1897",
+      "_quelldatei": "page_136.json",
+      "_pageNumber": "112"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "912/1: Karl-Heinrich Rengstorf. Korrekturen zu Inventar-Nr. 56",
+      "nummer": "912/1",
+      "titel": "Korrekturen zu Inventar-Nr. 56",
+      "beschreibung": "Anmerkungen/Korrekturen von Karl-Heinrich Rengstorf zu Inventar-Nr. 56.",
+      "typ": "Notiz",
+      "beteiligte": [
+        {
+          "name": "Karl-Heinrich Rengstorf",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verweis": "56",
+      "_quelldatei": "page_136.json",
+      "_pageNumber": "112"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "912/2: Hans Stroh. Bemerkungen zu Inhalt und Datierung von \"Metaphysik\". Inventar-Nr. 241",
+      "nummer": "912/2",
+      "titel": "Bemerkungen zu Inhalt und Datierung von 'Metaphysik'",
+      "beschreibung": "Bemerkungen von Hans Stroh; Bezug auf Inventar-Nr. 241.",
+      "typ": "Notiz",
+      "beteiligte": [
+        {
+          "name": "Hans Stroh",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verweis": "241",
+      "_quelldatei": "page_136.json",
+      "_pageNumber": "112"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "913: Werner Neuer, Wissenschaftliches Gutachten zu \"Metaphysik\". Inventar-Nr. 241",
+      "nummer": "913",
+      "titel": "Wissenschaftliches Gutachten zu 'Metaphysik'",
+      "beschreibung": "Wissenschaftliches Gutachten von Werner Neuer; Bezug auf Inventar-Nr. 241.",
+      "typ": "Studie",
+      "beteiligte": [
+        {
+          "name": "Werner Neuer",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verweis": "241",
+      "_quelldatei": "page_136.json",
+      "_pageNumber": "112"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "914/1/2: Werner Neuer, Adolf Schlatter (1852 - 1938). Vortrag für Sendereihe im Evangeliumsrundfunk Wetzlar. 27.7.1985. Dazu: Kurzfassung des Evangeliumsrundfunks 17.7.1985",
+      "nummer": "914/1/2",
+      "titel": "Adolf Schlatter (1852 - 1938)",
+      "beschreibung": "Vortrag von Werner Neuer für eine Sendereihe im Evangeliumsrundfunk Wetzlar.",
+      "typ": "Vortrag",
+      "datum": "1985-07-27",
+      "ort": "Wetzlar",
+      "beteiligte": [
+        {
+          "name": "Werner Neuer",
+          "rolle": "Vortragender",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Kurzfassung des Evangeliumsrundfunks 17.7.1985",
+          "titel": "Kurzfassung des Evangeliumsrundfunks",
+          "beschreibung": "Kurzfassung zur Sendung",
+          "datum": "1985-07-17"
+        }
+      ],
+      "_quelldatei": "page_136.json",
+      "_pageNumber": "112"
+    }
+  ],
+  "notes": "OCR gut lesbar; keine neue Seitenüberschrift erkannt."
+}

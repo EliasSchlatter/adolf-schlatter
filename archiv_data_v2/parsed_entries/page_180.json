@@ -1,0 +1,130 @@
+{
+  "sourceFile": "page_180.json",
+  "pageNumber": "156",
+  "context": {
+    "teil": "Anhang",
+    "sektion": "Abschnitt I: Ungedrucktes",
+    "unterabschnitt": "9. Biographisches",
+    "unterkategorie": "d) Briefe mit biographischer Bedeutung"
+  },
+  "entriesCount": 5,
+  "entries": [
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Nr. 669: Wilhelm Brandt, \"Adolf Schlatter\". Manuskript 1938.",
+      "nummer": "669",
+      "titel": "Adolf Schlatter",
+      "beschreibung": "Manuskript von Wilhelm Brandt.",
+      "typ": "Manuskript",
+      "jahr": 1938,
+      "beteiligte": [
+        {
+          "name": "Wilhelm Brandt",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_180.json",
+      "_pageNumber": "156"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "762: Karl Fikenscher, Dithyramben auf Adolf Schlatter. Aus: Hauschronik. Johanneum Berlin",
+      "nummer": "762",
+      "titel": "Dithyramben auf Adolf Schlatter",
+      "beschreibung": "Erschienen in der Hauschronik des Johanneum Berlin. Autor: Karl Fikenscher.",
+      "typ": "Aufsatz",
+      "beteiligte": [
+        {
+          "name": "Karl Fikenscher",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Johanneum Berlin",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_180.json",
+      "_pageNumber": "156"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "776: Udo Smidt, Tübinger Erinnerungen mit CSV, Schlatter und Heim.",
+      "nummer": "776",
+      "titel": "Tübinger Erinnerungen",
+      "beschreibung": "Erinnerungen von Udo Smidt; Inhalt: Erinnerungen mit CSV, Schlatter und Heim.",
+      "typ": "Sonstiges",
+      "beteiligte": [
+        {
+          "name": "Udo Smidt",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_180.json",
+      "_pageNumber": "156"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "791: Gustav Gruner, Bericht an Althaus über Begräbnis von Schlatter, Mai 1938.",
+      "nummer": "791",
+      "titel": "Bericht an Althaus über Begräbnis von Schlatter",
+      "beschreibung": "Bericht von Gustav Gruner an Althaus über das Begräbnis von Adolf Schlatter. Monat: Mai 1938.",
+      "typ": "Bericht",
+      "jahr": 1938,
+      "beteiligte": [
+        {
+          "name": "Gustav Gruner",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Althaus",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_180.json",
+      "_pageNumber": "156"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "945: Merz-Hashimoto, Adolf Schlatter. Aus: Das Wort vom Kreuz, Heft 3/1937. Gedruckt nur in japanischer Sprache.",
+      "nummer": "945",
+      "titel": "Adolf Schlatter",
+      "beschreibung": "Artikel von Merz-Hashimoto über Adolf Schlatter; erschienen in 'Das Wort vom Kreuz', Heft 3/1937. Gedruckt nur in japanischer Sprache.",
+      "typ": "Aufsatz",
+      "jahr": 1937,
+      "zeitschrift": "Das Wort vom Kreuz",
+      "heft": "3/1937",
+      "anmerkung": "Gedruckt nur in japanischer Sprache.",
+      "beteiligte": [
+        {
+          "name": "Merz-Hashimoto",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_180.json",
+      "_pageNumber": "156"
+    }
+  ],
+  "notes": "Seite enthält außerdem Hinweise und Zusammenstellungen, keine weiteren nummerierten Einträge: 'Zu a - c vgl. auch ANHANG Abschnitt III: Zur Biographie von Adolf Schlatter'. Abschnitt d) 'Briefe mit biographischer Bedeutung' folgt; daraufhin erläuternder Text: Herausgehobene Briefwechsel (Bodelschwingh Vater und Sohn, Friedrich Graeber, Ludwig Vöhringer, Adolf Wischmann und teilweise die unter Rubrik 4 genannten Theologieprofessoren). Verweis auf ANHANG Abschnitt II für nachgewiesene Inventar-Nummern. Hinweis zu Robert Stupperichs Herausgabe: Briefe von Hermann Cremer an Adolf Schlatter und Friedrich von Bodelschwingh (Inventar-Nr. 513) und von Adolf Schlatter an Hermann Cremer und Friedrich von Bodelschwingh (Inventar-Nr. 514) werden durch einzelne Briefe in Rubrik 4 und 9 d ergänzt. Angaben zu Beständen: 1400 Briefe von Schlatter an Familienangehörige (unter Rubrik 9 a), sowie unter den Inventarnummern 430 und 461-469/1 nachgewiesene 1685 Briefe von Familienangehörigen an Schlatter. Gesamtbestand aller in Teil I und II nachgewiesenen Briefe: Briefe an Schlatter: 5646; Briefe von Schlatter: 1793; Sonstige Briefe: 73; Gesamt: 7512. Seitenzahl Original: 156."
+}

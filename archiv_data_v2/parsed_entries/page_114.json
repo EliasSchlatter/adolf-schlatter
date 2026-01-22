@@ -1,0 +1,317 @@
+{
+  "sourceFile": "page_114.json",
+  "pageNumber": "90",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 11,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 731: Rudolf Brezger, Stammbaum der Familie Schlatter.\nVorentwurf, erstellt 1980",
+      "nummer": "731",
+      "titel": "Stammbaum der Familie Schlatter",
+      "beschreibung": "Vorentwurf",
+      "typ": "Manuskript",
+      "jahr": 1980,
+      "beteiligte": [
+        {
+          "name": "Rudolf Brezger",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_114.json",
+      "_pageNumber": "90"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "732: Rudolf Brezger, Akademische Arbeit von Prof. D. A. Schlatter.\nZusammenstellung seiner Vorlesungen und Übungen ab Januar\n1881 bis Wintersemester 1929/1930",
+      "nummer": "732",
+      "titel": "Akademische Arbeit von Prof. D. A. Schlatter",
+      "beschreibung": "Zusammenstellung seiner Vorlesungen und Übungen ab Januar 1881 bis Wintersemester 1929/1930",
+      "typ": "Sammlung",
+      "zeitraum": "1881-1929/1930",
+      "beteiligte": [
+        {
+          "name": "Rudolf Brezger",
+          "rolle": "Zusammensteller",
+          "entity": "Person"
+        },
+        {
+          "name": "D. A. Schlatter",
+          "rolle": "Autor",
+          "entity": "Person",
+          "zusatz": "Prof."
+        }
+      ],
+      "_quelldatei": "page_114.json",
+      "_pageNumber": "90"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "733: Georg Merz, Abhandlung über Schlatters \"Bemühung, die Aufgabe\nder Theologie im strengen Sinne zu beschreiben ...\"\nManuskript",
+      "nummer": "733",
+      "titel": "Abhandlung über Schlatters \"Bemühung, die Aufgabe der Theologie im strengen Sinne zu beschreiben ...\"",
+      "beschreibung": "Manuskript",
+      "typ": "Manuskript",
+      "beteiligte": [
+        {
+          "name": "Georg Merz",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_114.json",
+      "_pageNumber": "90"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "734: Gerhard Delling, Schlatters Hermeneutik.\nAus: Evang. Luth. Kirchenzeitung 16/1952",
+      "nummer": "734",
+      "titel": "Schlatters Hermeneutik",
+      "beschreibung": "Erschienen in: Evang. Luth. Kirchenzeitung, Ausgabe 16/1952",
+      "typ": "Artikel",
+      "jahr": 1952,
+      "zeitschrift": "Evang. Luth. Kirchenzeitung",
+      "heft": "16/1952",
+      "beteiligte": [
+        {
+          "name": "Gerhard Delling",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_114.json",
+      "_pageNumber": "90"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "735: Heinz Dietrich Wendland, Adolf Schlatters Fragen an die Theo-\nlogie.\nDarin: Forderung nach \"einer großen Monographie über Schlat-\nters Theologie\".\nAus: Evang. Luth. Kirchenzeitung 14/1952",
+      "nummer": "735",
+      "titel": "Adolf Schlatters Fragen an die Theologie",
+      "beschreibung": "Enthält Forderung nach \"einer großen Monographie über Schlatters Theologie\". Erschienen in: Evang. Luth. Kirchenzeitung, Ausgabe 14/1952",
+      "typ": "Artikel",
+      "jahr": 1952,
+      "zeitschrift": "Evang. Luth. Kirchenzeitung",
+      "heft": "14/1952",
+      "beteiligte": [
+        {
+          "name": "Heinz Dietrich Wendland",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_114.json",
+      "_pageNumber": "90"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "736: Besprechung der \"Erläuterungen\".\n2. Bd. \"Die Briefe des Paulus\".\nCalwer Verlag 1909\nAus: Allgemeine Evang. Luth. Kirchenzeitung 1909, Seite 1144",
+      "nummer": "736",
+      "titel": "Besprechung der \"Erläuterungen\". 2. Bd. \"Die Briefe des Paulus\"",
+      "beschreibung": "Besprechung des 2. Bandes 'Die Briefe des Paulus' (Calwer Verlag 1909). Erschienen in: Allgemeine Evang. Luth. Kirchenzeitung 1909, Seite 1144",
+      "typ": "Artikel",
+      "jahr": 1909,
+      "verlag": "Calwer Verlag",
+      "zeitschrift": "Allgemeine Evang. Luth. Kirchenzeitung",
+      "seiten": "1144",
+      "_quelldatei": "page_114.json",
+      "_pageNumber": "90"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "737: Horst Beintker, Die Christenheit und das Recht bei Adolf\nSchlatter.\nEinleitung Theologische Arbeiten Bd. IV.\nEvang. Verlagsanstalt Berlin 1957, Seite 15 - 22",
+      "nummer": "737",
+      "titel": "Die Christenheit und das Recht bei Adolf Schlatter",
+      "beschreibung": "Einleitung, Theologische Arbeiten Bd. IV. Evang. Verlagsanstalt Berlin",
+      "typ": "Aufsatz",
+      "jahr": 1957,
+      "verlag": "Evang. Verlagsanstalt Berlin",
+      "seiten": "15-22",
+      "beteiligte": [
+        {
+          "name": "Horst Beintker",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_114.json",
+      "_pageNumber": "90"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "738: Karl Gerhard Steck, Adolf Schlatter.\nAus: Die Idee der Heilsgeschichte.\nTheologische Studien, Heft 56, Seite 36 - 52.\nEvang. Verlag Zollikon 1959",
+      "nummer": "738",
+      "titel": "Adolf Schlatter",
+      "beschreibung": "Erschienen in: Die Idee der Heilsgeschichte. Theologische Studien, Heft 56",
+      "typ": "Artikel",
+      "jahr": 1959,
+      "zeitschrift": "Die Idee der Heilsgeschichte. Theologische Studien",
+      "heft": "56",
+      "seiten": "36-52",
+      "verlag": "Evang. Verlag Zollikon",
+      "beteiligte": [
+        {
+          "name": "Karl Gerhard Steck",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_114.json",
+      "_pageNumber": "90"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "739: Julius Schieder, Erinnerungen an Studium bei Schlatter.\nAus: Fränkische Lebensbilder, Bd. 6, 1975, Seite 296 - 298\n\nJulius Schieder, Glückwunsch an Schlatter zum 80. Geburtstag\nmit Unterschrift von 23 Mitgliedern des Evang.-luth. Prediger-\nseminars Nürnberg.",
+      "nummer": "739",
+      "titel": "Erinnerungen an Studium bei Schlatter",
+      "beschreibung": "Erschienen in: Fränkische Lebensbilder, Bd. 6, 1975, Seite 296-298",
+      "typ": "Artikel",
+      "jahr": 1975,
+      "zeitschrift": "Fränkische Lebensbilder",
+      "band": "6",
+      "seiten": "296-298",
+      "beteiligte": [
+        {
+          "name": "Julius Schieder",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Julius Schieder, Glückwunsch an Schlatter zum 80. Geburtstag mit Unterschrift von 23 Mitgliedern des Evang.-luth. Predigerseminars Nürnberg.",
+          "titel": "Glückwunsch an Schlatter zum 80. Geburtstag",
+          "beschreibung": "Mit Unterschrift von 23 Mitgliedern des Evang.-luth. Predigerseminars Nürnberg.",
+          "typ": "Sonstiges",
+          "beteiligte": [
+            {
+              "name": "Julius Schieder",
+              "rolle": "Absender/Verfasser",
+              "entity": "Person"
+            },
+            {
+              "name": "Evang.-luth. Predigerseminar Nürnberg",
+              "rolle": "Unterzeichner",
+              "entity": "Institution",
+              "zusatz": "23 Mitglieder"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_114.json",
+      "_pageNumber": "90"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "740: Adolf Köberle, Rechtfertigung und Heiligung.\nBezugnahmen auf Schlatter Seite 88.107.167",
+      "nummer": "740",
+      "titel": "Rechtfertigung und Heiligung",
+      "beschreibung": "Bezugnahmen auf Schlatter (Seitenangaben: 88, 107, 167)",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Adolf Köberle",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Seitenangaben in OCR als '88.107.167' interpretiert als Seiten 88, 107, 167",
+      "_quelldatei": "page_114.json",
+      "_pageNumber": "90"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "741: Otto Stählin, Clemens Alexandrinus und die Septuaginta.\nJ. L. Stich, Nürnberg 1901.\nBriefwechsel Ernst Bock mit Gustav Stählin (Sohn) zum Ver-\nständnis des Bezugs auf Adolf Schlatter.",
+      "nummer": "741",
+      "titel": "Clemens Alexandrinus und die Septuaginta",
+      "beschreibung": "Veröffentlicht bei J. L. Stich, Nürnberg 1901. Zusätzlich: Briefwechsel Ernst Bock mit Gustav Stählin (Sohn) zum Verständnis des Bezugs auf Adolf Schlatter.",
+      "typ": "Buch",
+      "jahr": 1901,
+      "verlag": "J. L. Stich",
+      "ort": "Nürnberg",
+      "beteiligte": [
+        {
+          "name": "Otto Stählin",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Briefwechsel Ernst Bock mit Gustav Stählin (Sohn) zum Verständnis des Bezugs auf Adolf Schlatter.",
+          "titel": "Briefwechsel Ernst Bock – Gustav Stählin (Sohn)",
+          "beschreibung": "Korrespondenz zum Verständnis des Bezugs auf Adolf Schlatter.",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Ernst Bock",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Gustav Stählin",
+              "rolle": "Adressat",
+              "entity": "Person",
+              "zusatz": "Sohn"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_114.json",
+      "_pageNumber": "90"
+    }
+  ]
+}

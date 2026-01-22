@@ -1,0 +1,185 @@
+{
+  "sourceFile": "page_038.json",
+  "pageNumber": "Nr. 38/2 - 41",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+    "unterabschnitt": "2. Wissenschaftlich-theologische Werke vorwiegend von Schlatter",
+    "unterkategorie": "b) Posthum erschienene Bände"
+  },
+  "entriesCount": 5,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "2. Wissenschaftlich-theologische Werke vorwiegend von Schlatter",
+      "unterkategorie": "b) Posthum erschienene Bände",
+      "rawText": "Nr. 38/2: Die beiden Schwerter (Lukas 22,35-38).\n    \"Ein Stück aus der besonderen Quelle des Lukas\"\n    Heft 6/1916\n\n    Luthers Deutung des Römerbriefs\n    Heft 7/1917\n\n    Die Entstehung der \"Beiträge ...\"\n    Heft 1/1920\n\n    Der Bericht über das Ende Jerusalems\n    Heft 1/1923\n\n    Die Kirche des Matthäus\n    Heft 1/1929",
+      "nummer": "38/2",
+      "titel": "Sammlung von Aufsätzen (Heftveröffentlichungen)",
+      "beschreibung": "Aufsätze erschienen in Heften; mehrere Titel unter Nr. 38/2",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "Die beiden Schwerter (Lukas 22,35-38). \"Ein Stück aus der besonderen Quelle des Lukas\" Heft 6/1916",
+          "titel": "Die beiden Schwerter",
+          "bibelstelle": "Lukas 22,35-38",
+          "beschreibung": "Ein Stück aus der besonderen Quelle des Lukas",
+          "heft": "6",
+          "jahr": 1916,
+          "typ": "Aufsatz"
+        },
+        {
+          "rawText": "Luthers Deutung des Römerbriefs Heft 7/1917",
+          "titel": "Luthers Deutung des Römerbriefs",
+          "heft": "7",
+          "jahr": 1917,
+          "typ": "Aufsatz"
+        },
+        {
+          "rawText": "Die Entstehung der \"Beiträge ...\" Heft 1/1920",
+          "titel": "Die Entstehung der \"Beiträge ...\"",
+          "heft": "1",
+          "jahr": 1920,
+          "typ": "Aufsatz"
+        },
+        {
+          "rawText": "Der Bericht über das Ende Jerusalems Heft 1/1923",
+          "titel": "Der Bericht über das Ende Jerusalems",
+          "heft": "1",
+          "jahr": 1923,
+          "typ": "Aufsatz"
+        },
+        {
+          "rawText": "Die Kirche des Matthäus Heft 1/1929",
+          "titel": "Die Kirche des Matthäus",
+          "heft": "1",
+          "jahr": 1929,
+          "typ": "Aufsatz"
+        }
+      ],
+      "_quelldatei": "page_038.json",
+      "_pageNumber": "Nr. 38/2 - 41"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "2. Wissenschaftlich-theologische Werke vorwiegend von Schlatter",
+      "unterkategorie": "b) Posthum erschienene Bände",
+      "rawText": "38/3: Zweitauflagen und Sonderdrucke\n\n    Jesu Gottheit und das Kreuz\n    1913\n\n    Die Furcht vor dem Denken.\n    Eine Zugabe zu Hiltys \"Glück\" III\n    Sonderdruck. 1917\n\n    Jochanan Ben Zakkai.\n    1 Ex. gebunden, 1 Ex. broschiert\n    Aus Heft 4/1899\n\n    Die Furcht vor dem Denken.\n    Eine Zugabe zu Hiltys \"Glück\" III\n    Aus Heft 1/1900\n\n    Verkanntes Griechisch\n    Aus Heft 4/1900",
+      "nummer": "38/3",
+      "titel": "Zweitauflagen und Sonderdrucke",
+      "beschreibung": "Zweitauflagen und Sonderdrucke verschiedener Aufsätze",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "Jesu Gottheit und das Kreuz 1913",
+          "titel": "Jesu Gottheit und das Kreuz",
+          "jahr": 1913,
+          "typ": "Druckschrift"
+        },
+        {
+          "rawText": "Die Furcht vor dem Denken. Eine Zugabe zu Hiltys \"Glück\" III Sonderdruck. 1917",
+          "titel": "Die Furcht vor dem Denken. Eine Zugabe zu Hiltys \"Glück\" III",
+          "jahr": 1917,
+          "typ": "Sonderdruck",
+          "anmerkung": "Sonderdruck"
+        },
+        {
+          "rawText": "Jochanan Ben Zakkai. 1 Ex. gebunden, 1 Ex. broschiert Aus Heft 4/1899",
+          "titel": "Jochanan Ben Zakkai",
+          "umfang": "1 Ex. gebunden, 1 Ex. broschiert",
+          "heft": "4",
+          "jahr": 1899,
+          "beschreibung": "Aus Heft 4/1899",
+          "typ": "Druckschrift"
+        },
+        {
+          "rawText": "Die Furcht vor dem Denken. Eine Zugabe zu Hiltys \"Glück\" III Aus Heft 1/1900",
+          "titel": "Die Furcht vor dem Denken. Eine Zugabe zu Hiltys \"Glück\" III",
+          "heft": "1",
+          "jahr": 1900,
+          "beschreibung": "Aus Heft 1/1900",
+          "typ": "Druckschrift"
+        },
+        {
+          "rawText": "Verkanntes Griechisch Aus Heft 4/1900",
+          "titel": "Verkanntes Griechisch",
+          "heft": "4",
+          "jahr": 1900,
+          "beschreibung": "Aus Heft 4/1900",
+          "typ": "Aufsatz"
+        }
+      ],
+      "_quelldatei": "page_038.json",
+      "_pageNumber": "Nr. 38/2 - 41"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "2. Wissenschaftlich-theologische Werke vorwiegend von Schlatter",
+      "unterkategorie": "b) Posthum erschienene Bände",
+      "rawText": "Herausgegeben von Paul Althaus\n\n    Nr. 39: Althaus/Kittel/Strathmann, Schlatter und Lütgert\n    zum Gedächtnis\n    Heft 1/1938",
+      "nummer": "39",
+      "titel": "Althaus/Kittel/Strathmann, Schlatter und Lütgert zum Gedächtnis",
+      "beschreibung": "Heft 1/1938; herausgegeben von Paul Althaus",
+      "heft": "1",
+      "jahr": 1938,
+      "typ": "Heft",
+      "beteiligte": [
+        {
+          "name": "Paul Althaus",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_038.json",
+      "_pageNumber": "Nr. 38/2 - 41"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "2. Wissenschaftlich-theologische Werke vorwiegend von Schlatter",
+      "unterkategorie": "b) Posthum erschienene Bände",
+      "rawText": "40: Rudolf Brezger, Bibliographie\n    Heft 2/1938",
+      "nummer": "40",
+      "titel": "Rudolf Brezger, Bibliographie",
+      "beschreibung": "Heft 2/1938; herausgegeben von Paul Althaus (oben)",
+      "heft": "2",
+      "jahr": 1938,
+      "typ": "Heft",
+      "beteiligte": [
+        {
+          "name": "Paul Althaus",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_038.json",
+      "_pageNumber": "Nr. 38/2 - 41"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "2. Wissenschaftlich-theologische Werke vorwiegend von Schlatter",
+      "unterkategorie": "b) Posthum erschienene Bände",
+      "rawText": "Herausgegeben von Theodor Schlatter\n\n    Nr. 41: Adolf Schlatter, Rückblick auf seine Lebensarbeit\n    Sonderheft. 1952",
+      "nummer": "41",
+      "titel": "Adolf Schlatter, Rückblick auf seine Lebensarbeit",
+      "beschreibung": "Sonderheft. 1952; herausgegeben von Theodor Schlatter",
+      "jahr": 1952,
+      "typ": "Sonderdruck",
+      "anmerkung": "Sonderheft",
+      "beteiligte": [
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_038.json",
+      "_pageNumber": "Nr. 38/2 - 41"
+    }
+  ],
+  "notes": "Seite enthält Fußnote/Seitenzahl '14' am unteren Rand. OCR lesbar, einige Titel mit Aus Heft/Heft-Angaben."
+}

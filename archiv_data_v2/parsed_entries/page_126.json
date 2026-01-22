@@ -1,0 +1,238 @@
+{
+  "sourceFile": "page_126.json",
+  "pageNumber": "102",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 10,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 831: \"Adolf Schlatter zu seinem 80. Geburtstag.\" \nTübinger Chronik 13.8.1932",
+      "nummer": "831",
+      "titel": "Adolf Schlatter zu seinem 80. Geburtstag.",
+      "beschreibung": "Artikel in der Tübinger Chronik zum 80. Geburtstag Schlatter.",
+      "typ": "Druckschrift",
+      "datum": "1932-08-13",
+      "verlag": "Tübinger Chronik",
+      "_quelldatei": "page_126.json",
+      "_pageNumber": "102"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "832: \"Professor Schlatter Ehrendoktor der Berliner Philosophischen\nFakultät.\" Tübinger Chronik 27.8.1932\n\nSchreiben der Philosophischen Fakultät Berlin 14.8.1932 zur\nVerleihung des Dr. phil. h. c. an Adolf Schlatter mit gut-\nachtlicher Würdigung und Liste seiner Veröffentlichungen bis\n1930.",
+      "nummer": "832",
+      "titel": "Professor Schlatter Ehrendoktor der Berliner Philosophischen Fakultät.",
+      "beschreibung": "Artikel in der Tübinger Chronik über die Verleihung des Ehrendoktortitels; zudem Schreiben der Philosophischen Fakultät Berlin zur Verleihung des Dr. phil. h. c. an Adolf Schlatter mit gutachtlicher Würdigung und Liste seiner Veröffentlichungen bis 1930.",
+      "typ": "Druckschrift",
+      "datum": "1932-08-27",
+      "untereintraege": [
+        {
+          "rawText": "Schreiben der Philosophischen Fakultät Berlin 14.8.1932 zur Verleihung des Dr. phil. h. c. an Adolf Schlatter mit gutachtlicher Würdigung und Liste seiner Veröffentlichungen bis 1930.",
+          "titel": "Schreiben der Philosophischen Fakultät Berlin zur Verleihung des Dr. phil. h. c.",
+          "typ": "Brief",
+          "datum": "1932-08-14",
+          "beschreibung": "Schreiben mit Würdigung und Publikationsliste bis 1930."
+        }
+      ],
+      "verlag": "Tübinger Chronik",
+      "_quelldatei": "page_126.json",
+      "_pageNumber": "102"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "833: \"Die Sorgen des Professors.\" \nPamphlet zur Schrift \"Wird der Jude über uns siegen?\"\nIn: Flammenzeichen Heft 5, Februar 1936",
+      "nummer": "833",
+      "titel": "Die Sorgen des Professors.",
+      "beschreibung": "Pamphlet zur Schrift \"Wird der Jude über uns siegen?\", veröffentlicht in Flammenzeichen, Heft 5.",
+      "typ": "Druckschrift",
+      "jahr": 1936,
+      "anmerkung": "Erschien in Flammenzeichen Heft 5 (Februar 1936).",
+      "_quelldatei": "page_126.json",
+      "_pageNumber": "102"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "834: Erklärungen von Schlatter über seinen Besitz von Orden, seine\nNicht-Zugehörigkeit zu einer Freimaurer-Organisation und seine\narische Abstammung, 29.4.1937.",
+      "nummer": "834",
+      "titel": "Erklärungen von Schlatter über Besitz von Orden, Nicht-Zugehörigkeit zu Freimaurer-Organisation und arische Abstammung",
+      "beschreibung": "Persönliche Erklärungen Schlatter betreffend Orden, Freimaurerei und Abstammung.",
+      "typ": "Erklärung",
+      "datum": "1937-04-29",
+      "_quelldatei": "page_126.json",
+      "_pageNumber": "102"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "835: Programm der Gedenkfeier zum 100. Geburtstag von Schlatter\n(16.8.1952) am 17.7.1952.\n\n\"Der große Theologe. Akademische Feier zur Erinnerung an\nAdolf Schlatter.\" Tübinger Chronik 18.7.1952",
+      "nummer": "835",
+      "titel": "Programm der Gedenkfeier zum 100. Geburtstag von Schlatter",
+      "beschreibung": "Programm der Gedenkfeier zum 100. Geburtstag (Geburtstag: 16.8.1952); außerdem Bericht/Ankündigung in der Tübinger Chronik.",
+      "typ": "Druckschrift",
+      "untereintraege": [
+        {
+          "rawText": "Programm der Gedenkfeier zum 100. Geburtstag von Schlatter (16.8.1952) am 17.7.1952.",
+          "titel": "Programm der Gedenkfeier zum 100. Geburtstag",
+          "typ": "Druckschrift",
+          "datum": "1952-07-17",
+          "anmerkung": "Gedenkfeierdatum: 16.8.1952 (100. Geburtstag)."
+        },
+        {
+          "rawText": "\"Der große Theologe. Akademische Feier zur Erinnerung an Adolf Schlatter.\" Tübinger Chronik 18.7.1952",
+          "titel": "Der große Theologe. Akademische Feier zur Erinnerung an Adolf Schlatter.",
+          "typ": "Druckschrift",
+          "datum": "1952-07-18",
+          "verlag": "Tübinger Chronik"
+        }
+      ],
+      "_quelldatei": "page_126.json",
+      "_pageNumber": "102"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "836: Eberhard Busch, Karl Barths Lebenslauf.\nAuszüge der dortigen Erwähnungen von Schlatter.\nKaiser-Verlag München 1975, Seite 20.21.49.54 f, 90.111 - 113",
+      "nummer": "836",
+      "titel": "Karl Barths Lebenslauf (Eberhard Busch) – Auszüge zu Erwähnungen von Schlatter",
+      "beschreibung": "Auszüge aus Eberhard Buschs Werk, die Erwähnungen Schlatter betreffen.",
+      "typ": "Buch",
+      "jahr": 1975,
+      "verlag": "Kaiser-Verlag München",
+      "seiten": "20, 21, 49, 54f, 90, 111-113",
+      "beteiligte": [
+        {
+          "name": "Eberhard Busch",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_126.json",
+      "_pageNumber": "102"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "837: Aufstellungen über die Verteilung der Vorlesungen und Übungen\nder Evang.-Theologischen Fakultät in den Hörsälen des Tübinger\nStifts zwischen 1897 und 1911.",
+      "nummer": "837",
+      "titel": "Aufstellungen über Verteilung der Vorlesungen und Übungen in den Hörsälen des Tübinger Stifts",
+      "beschreibung": "Aufstellungen zur Verteilung der Vorlesungen und Übungen der Evang.-Theologischen Fakultät in den Hörsälen des Tübinger Stifts.",
+      "typ": "Verzeichnis/Aufstellung",
+      "zeitraum": "1897-1911",
+      "_quelldatei": "page_126.json",
+      "_pageNumber": "102"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "838: \"Schlatter, Adolf. Neutestamentliche und systematische Theo-\nlogie 1880 - 1888\".\nDossier des Staatsarchivs Bern, enthaltend Vorgänge um:\nErtellung der Venia docendi 5.1.1881,\nGewährung des Dozentenhonorars 23.5.1883,\nErnennung zum außerordentlichen Professor 14.3.1888,\nHussung 7.7./13.8.1888,\nGesuch der Evang.-theologischen Predigervereinigung betreffend\nWiederbesetzung 16.8.1888.\nDabei: 5 Briefe von Schlatter an die Erziehungsdirektion Bern\n8.11.1880 bis 10.3.1888",
+      "nummer": "838",
+      "titel": "Schlatter, Adolf. Neutestamentliche und systematische Theologie 1880-1888 (Dossier)",
+      "beschreibung": "Dossier des Staatsarchivs Bern mit Vorgängen zur Venia docendi, Dozentenhonorar, Ernennung, Hussung und Wiederbesetzung sowie weiteren Vorgängen.",
+      "typ": "Material",
+      "zeitraum": "1880-1888",
+      "untereintraege": [
+        {
+          "rawText": "Ertellung der Venia docendi 5.1.1881",
+          "beschreibung": "Ertellung der Venia docendi",
+          "datum": "1881-01-05"
+        },
+        {
+          "rawText": "Gewährung des Dozentenhonorars 23.5.1883",
+          "beschreibung": "Gewährung des Dozentenhonorars",
+          "datum": "1883-05-23"
+        },
+        {
+          "rawText": "Ernennung zum außerordentlichen Professor 14.3.1888",
+          "beschreibung": "Ernennung zum außerordentlichen Professor",
+          "datum": "1888-03-14"
+        },
+        {
+          "rawText": "Hussung 7.7./13.8.1888",
+          "beschreibung": "Hussung",
+          "anmerkung": "Termine: 7.7.1888 und 13.8.1888"
+        },
+        {
+          "rawText": "Gesuch der Evang.-theologischen Predigervereinigung betreffend Wiederbesetzung 16.8.1888",
+          "beschreibung": "Gesuch betreffend Wiederbesetzung",
+          "datum": "1888-08-16"
+        },
+        {
+          "rawText": "Dabei: 5 Briefe von Schlatter an die Erziehungsdirektion Bern 8.11.1880 bis 10.3.1888",
+          "titel": "5 Briefe von Schlatter an die Erziehungsdirektion Bern",
+          "typ": "Brief",
+          "beschreibung": "Fünf Briefe von Schlatter an die Erziehungsdirektion Bern.",
+          "zeitraum": "1880-11-08 - 1888-03-10"
+        }
+      ],
+      "verweis": "Staatsarchiv Bern",
+      "_quelldatei": "page_126.json",
+      "_pageNumber": "102"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "839: Ein Neubeginn: Adolf Schlatter.\nAus: Beiträge zur Geschichte und Theologie der Evangelischen\nGesellschaft des Kantons Bern\nBerchtold Haller-Verlag Bern 1981",
+      "nummer": "839",
+      "titel": "Ein Neubeginn: Adolf Schlatter",
+      "beschreibung": "Beitrag in den 'Beiträge zur Geschichte und Theologie der Evangelischen Gesellschaft des Kantons Bern'.",
+      "typ": "Aufsatz",
+      "jahr": 1981,
+      "verlag": "Berchtold Haller-Verlag Bern",
+      "_quelldatei": "page_126.json",
+      "_pageNumber": "102"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "840: Adolf Schlatter als Religionslehrer am Freien Gymnasium (Ler-\nberschule) Bern.\nAus: Programme der Lererberschule Mai 1880 und Juni 1888",
+      "nummer": "840",
+      "titel": "Adolf Schlatter als Religionslehrer am Freien Gymnasium (Lererberschule) Bern",
+      "beschreibung": "Beitrag aus den Programmen der Lererberschule (Mai 1880 und Juni 1888).",
+      "typ": "Aufsatz",
+      "untereintraege": [
+        {
+          "rawText": "Programm der Lererberschule Mai 1880",
+          "titel": "Programm der Lererberschule (Mai 1880)",
+          "typ": "Druckschrift",
+          "jahr": 1880
+        },
+        {
+          "rawText": "Programm der Lererberschule Juni 1888",
+          "titel": "Programm der Lererberschule (Juni 1888)",
+          "typ": "Druckschrift",
+          "jahr": 1888
+        }
+      ],
+      "_quelldatei": "page_126.json",
+      "_pageNumber": "102"
+    }
+  ]
+}

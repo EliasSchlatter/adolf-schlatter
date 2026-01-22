@@ -1,0 +1,207 @@
+{
+  "sourceFile": "page_045.json",
+  "pageNumber": "21",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+    "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+    "unterkategorie": "a) Nr. 109: Neue Christoterpe; b) Nr. 110: Beth-El-Jahresbände von 'Blicke aus Gottes Haus in Gottes Welt'"
+  },
+  "entriesCount": 2,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "a) Nr. 109: Neue Christoterpe; b) Nr. 110: Beth-El-Jahresbände von 'Blicke aus Gottes Haus in Gottes Welt'",
+      "rawText": "a) Nr. 109: Neue Christoterpe\n\n   Das Bild Jesu nach der Bergpredigt. Seite 1 - 11\n   Mit handschriftlichen Korrekturen\n   1895\n\n   Schrift, Glaube, Erfahrung. Seite 1 - 11\n   1896\n\n   Der Evangelist Matthäus. Seite 1 - 15\n   Mit handschriftlichen Korrekturen\n   1897\n\n   Dora Schlatter, Kunst für Kunst. Seite 140 - 148\n   1902\n\n   Dora Schlatter, Sonntagabend ... Seite 347 - 350\n   1904\n\n   Die Bibel. Ein Rückblick von Prof. D. A. Schlatter.\n   Mit handschriftlichen Korrekturen für den Abdruck in\n   Hülfe in Bibelnot unter der Überschrift \"Meine Erfah-\n   rung mit der Bibel\". Seite 100 - 107\n   1924",
+      "nummer": "109",
+      "titel": "Neue Christoterpe",
+      "beschreibung": "Zeitschrift mit einzelnen Beiträgen (Aufsätzen) verschiedener Verfasser; mehrere Beiträge beziehen sich auf oder stammen von D. A. Schlatter bzw. sind über Schlatter.",
+      "typ": "Sonstiges",
+      "untereintraege": [
+        {
+          "rawText": "Das Bild Jesu nach der Bergpredigt. Seite 1 - 11. Mit handschriftlichen Korrekturen. 1895",
+          "titel": "Das Bild Jesu nach der Bergpredigt",
+          "seiten": "1 - 11",
+          "jahr": 1895,
+          "anmerkung": "Mit handschriftlichen Korrekturen",
+          "typ": "Artikel",
+          "beteiligte": [
+            {
+              "name": "D. A. Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Schrift, Glaube, Erfahrung. Seite 1 - 11. 1896",
+          "titel": "Schrift, Glaube, Erfahrung",
+          "seiten": "1 - 11",
+          "jahr": 1896,
+          "typ": "Artikel",
+          "beteiligte": [
+            {
+              "name": "D. A. Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Der Evangelist Matthäus. Seite 1 - 15. Mit handschriftlichen Korrekturen. 1897",
+          "titel": "Der Evangelist Matthäus",
+          "seiten": "1 - 15",
+          "jahr": 1897,
+          "anmerkung": "Mit handschriftlichen Korrekturen",
+          "typ": "Artikel",
+          "beteiligte": [
+            {
+              "name": "D. A. Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Dora Schlatter, Kunst für Kunst. Seite 140 - 148. 1902",
+          "titel": "Kunst für Kunst",
+          "seiten": "140 - 148",
+          "jahr": 1902,
+          "typ": "Artikel",
+          "beteiligte": [
+            {
+              "name": "Dora Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Dora Schlatter, Sonntagabend ... Seite 347 - 350. 1904",
+          "titel": "Sonntagabend ...",
+          "seiten": "347 - 350",
+          "jahr": 1904,
+          "anmerkung": "Titel im OCR unvollständig (Auslassung durch Punkte).",
+          "typ": "Artikel",
+          "beteiligte": [
+            {
+              "name": "Dora Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Die Bibel. Ein Rückblick von Prof. D. A. Schlatter. Mit handschriftlichen Korrekturen für den Abdruck in Hülfe in Bibelnot unter der Überschrift \"Meine Erfahrung mit der Bibel\". Seite 100 - 107. 1924",
+          "titel": "Die Bibel. Ein Rückblick",
+          "seiten": "100 - 107",
+          "jahr": 1924,
+          "anmerkung": "Ein Rückblick von Prof. D. A. Schlatter; handschriftliche Korrekturen für Abdruck in 'Hülfe in Bibelnot' unter der Überschrift 'Meine Erfahrung mit der Bibel'.",
+          "typ": "Artikel",
+          "beteiligte": [
+            {
+              "name": "D. A. Schlatter",
+              "rolle": "Autor",
+              "entity": "Person",
+              "zusatz": "Prof."
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_045.json",
+      "_pageNumber": "21"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "a) Nr. 109: Neue Christoterpe; b) Nr. 110: Beth-El-Jahresbände von 'Blicke aus Gottes Haus in Gottes Welt'",
+      "rawText": "b) Nr. 110: Beth-El-Jahresbände von \"Blicke aus Gottes Haus in Gottes Welt\"\n\n   Verlag der Schriftenniederlage der Anstalt Bethel\n\n   Einzelne Beiträge von Schlatter 1925 - 1937\n\n   1925\n   Aus meiner Sprechstunde. Seite 31 - 36; 121 - 125;\n   314 - 319\n\n   1926\n   Aus meiner Sprechstunde. Seite 59f; 110 - 112; 143 - 150\n\n   Aus meiner Studierstube.\n   1. Der Idealismus und die Erweckungsbewegung.\n      Seite 80 - 84\n\n   2. Wittigs Leben Jesu. Seite 330 - 336\n\n   Die Offenbarung des Heiligen Geistes in der deutschen\n   Reformation. Seite 254 - 260.\n   1926",
+      "nummer": "110",
+      "titel": "Beth-El-Jahresbände von 'Blicke aus Gottes Haus in Gottes Welt'",
+      "beschreibung": "Jahresbände (Reihe) mit einzelnen Beiträgen von D. A. Schlatter; Verlag: Schriftenniederlage der Anstalt Bethel. Beiträge aufgeführt für 1925 und 1926 (weitere Beiträge 1925-1937 insgesamt angegeben).",
+      "typ": "Reihenband",
+      "verlag": "Verlag der Schriftenniederlage der Anstalt Bethel",
+      "zeitraum": "1925-1937",
+      "untereintraege": [
+        {
+          "rawText": "1925: Aus meiner Sprechstunde. Seite 31 - 36; 121 - 125; 314 - 319",
+          "jahr": 1925,
+          "titel": "Aus meiner Sprechstunde",
+          "seiten": "31 - 36; 121 - 125; 314 - 319",
+          "typ": "Artikel",
+          "beteiligte": [
+            {
+              "name": "D. A. Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "1926: Aus meiner Sprechstunde. Seite 59f; 110 - 112; 143 - 150",
+          "jahr": 1926,
+          "titel": "Aus meiner Sprechstunde",
+          "seiten": "59f; 110 - 112; 143 - 150",
+          "typ": "Artikel",
+          "beteiligte": [
+            {
+              "name": "D. A. Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "1926: Aus meiner Studierstube. 1. Der Idealismus und die Erweckungsbewegung. Seite 80 - 84",
+          "jahr": 1926,
+          "titel": "Der Idealismus und die Erweckungsbewegung",
+          "teilfolge": "1",
+          "seiten": "80 - 84",
+          "typ": "Artikel",
+          "beteiligte": [
+            {
+              "name": "D. A. Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "1926: Aus meiner Studierstube. 2. Wittigs Leben Jesu. Seite 330 - 336",
+          "jahr": 1926,
+          "titel": "Wittigs Leben Jesu",
+          "teilfolge": "2",
+          "seiten": "330 - 336",
+          "typ": "Artikel",
+          "beteiligte": [
+            {
+              "name": "D. A. Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "1926: Die Offenbarung des Heiligen Geistes in der deutschen Reformation. Seite 254 - 260. 1926",
+          "jahr": 1926,
+          "titel": "Die Offenbarung des Heiligen Geistes in der deutschen Reformation",
+          "seiten": "254 - 260",
+          "typ": "Artikel",
+          "beteiligte": [
+            {
+              "name": "D. A. Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_045.json",
+      "_pageNumber": "21"
+    }
+  ],
+  "notes": "Seite enthält zwei nummerierte Einträge (Nr. 109 und Nr. 110). OCR zeigt einige Auslassungen/Trunkierungen (z.B. 'Sonntagabend ...')."
+}

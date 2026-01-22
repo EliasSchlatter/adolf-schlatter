@@ -1,0 +1,278 @@
+{
+  "sourceFile": "page_132.json",
+  "pageNumber": "108",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 8,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 876: Adolf Schlatter, Vorlesungen 1899 - 1902.\nNachschriften von F. Fritz, stud. theol., gebunden in 8 Bände,\nSteno; Inhaltsverzeichnisse und Randnotizen in Klarschrift.\n\nIm Einzelnen:\n\n876/1: Geschichte Israels von Alexander dem Großen bis Hadrian.\n361 Seiten. 1899 - 1900",
+      "nummer": "876",
+      "titel": "Adolf Schlatter, Vorlesungen 1899 - 1902",
+      "beschreibung": "Nachschriften von F. Fritz, stud. theol., gebunden in 8 Bände, Steno; Inhaltsverzeichnisse und Randnotizen in Klarschrift.",
+      "typ": "Vorlesung",
+      "zeitraum": "1899-1902",
+      "umfang": "8 Bände",
+      "beteiligte": [
+        {
+          "name": "F. Fritz",
+          "rolle": "Zusammensteller",
+          "entity": "Person",
+          "zusatz": "stud. theol."
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "876/1: Geschichte Israels von Alexander dem Großen bis Hadrian.\n361 Seiten. 1899 - 1900",
+          "titel": "Geschichte Israels von Alexander dem Großen bis Hadrian",
+          "nummer": "876/1",
+          "seiten": "361",
+          "zeitraum": "1899-1900"
+        },
+        {
+          "rawText": "876/2: Einleitung in das Neue Testament. 194 Seiten. 1900",
+          "titel": "Einleitung in das Neue Testament",
+          "nummer": "876/2",
+          "seiten": "194",
+          "jahr": 1900
+        },
+        {
+          "rawText": "876/3: Neutestamentliche Theologie. 215 Seiten. 1900 - 1901",
+          "titel": "Neutestamentliche Theologie",
+          "nummer": "876/3",
+          "seiten": "215",
+          "zeitraum": "1900-1901"
+        },
+        {
+          "rawText": "876/4: Erklärung des Matthäusevangeliums unter Berücksichtigung der\nsynoptischen Parallelen. 434 Seiten. 1900 - 1901",
+          "titel": "Erklärung des Matthäusevangeliums unter Berücksichtigung der synoptischen Parallelen",
+          "nummer": "876/4",
+          "seiten": "434",
+          "zeitraum": "1900-1901"
+        },
+        {
+          "rawText": "876/5: Erklärung des Evangeliums Johannis. 266 Seiten. 1901",
+          "titel": "Erklärung des Evangeliums Johannis",
+          "nummer": "876/5",
+          "seiten": "266",
+          "jahr": 1901
+        },
+        {
+          "rawText": "876/6: Leben Jesu. 280 Seiten. 1901",
+          "titel": "Leben Jesu",
+          "nummer": "876/6",
+          "seiten": "280",
+          "jahr": 1901
+        },
+        {
+          "rawText": "876/7: Dogmatik I. 566 Seiten. 1901 - 1902",
+          "titel": "Dogmatik I",
+          "nummer": "876/7",
+          "seiten": "566",
+          "zeitraum": "1901-1902"
+        },
+        {
+          "rawText": "876/8: Dogmatik II. 323 Seiten. 1902",
+          "titel": "Dogmatik II",
+          "nummer": "876/8",
+          "seiten": "323",
+          "jahr": 1902
+        }
+      ],
+      "_quelldatei": "page_132.json",
+      "_pageNumber": "108"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "877: Samuel Oettli, Reisebilder aus Palästina.\nIn: Mitteilungen aus der Neuen Mädchenschule Bern,\nOktober 1891 - Februar 1893",
+      "nummer": "877",
+      "titel": "Samuel Oettli, Reisebilder aus Palästina",
+      "typ": "Aufsatz",
+      "zeitschrift": "Mitteilungen aus der Neuen Mädchenschule Bern",
+      "zeitraum": "Oktober 1891 - Februar 1893",
+      "beteiligte": [
+        {
+          "name": "Samuel Oettli",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_132.json",
+      "_pageNumber": "108"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "878: Adolf Schlatter, The first Epistle of St. John.\nIn: The Preachers Magazine, London, Hefte February bis August\n1896",
+      "nummer": "878",
+      "titel": "Adolf Schlatter, The first Epistle of St. John",
+      "typ": "Aufsatz",
+      "zeitschrift": "The Preachers Magazine",
+      "ort": "London",
+      "zeitraum": "February-August 1896",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_132.json",
+      "_pageNumber": "108"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "879/1: Adolf Schlatter, Gottes Kinder.\nVortrag bei einem Jugendtreffen. 15.2.1935",
+      "nummer": "879/1",
+      "titel": "Gottes Kinder",
+      "typ": "Vortrag",
+      "beschreibung": "Vortrag bei einem Jugendtreffen.",
+      "datum": "1935-02-15",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Vortragender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_132.json",
+      "_pageNumber": "108"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "879/2: Adolf Schlatter, Die große Wandlung. Die neutestamentliche\nUnterweisung der Frau.\nIn: Jugendweg, Monatsschrift, Burckhardthaus-Verlag Berlin\n1935, Hefte 2, 7, 8",
+      "nummer": "879/2",
+      "titel": "Die große Wandlung. Die neutestamentliche Unterweisung der Frau",
+      "typ": "Aufsatz",
+      "zeitschrift": "Jugendweg, Monatsschrift",
+      "verlag": "Burckhardthaus-Verlag Berlin",
+      "jahr": 1935,
+      "heft": "2, 7, 8",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_132.json",
+      "_pageNumber": "108"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "880: Zum 70., 77. und 80. Geburtstag von Adolf Schlatter, Berichte\naus kirchlicher und weltlicher Presse, zusammengestellt von\nSchwiegersohn Friedrich Hinderer.",
+      "nummer": "880",
+      "titel": "Zum 70., 77. und 80. Geburtstag von Adolf Schlatter",
+      "beschreibung": "Berichte aus kirchlicher und weltlicher Presse, zusammengestellt von Schwiegersohn Friedrich Hinderer.",
+      "typ": "Sammlung",
+      "beteiligte": [
+        {
+          "name": "Friedrich Hinderer",
+          "rolle": "Zusammensteller",
+          "entity": "Person",
+          "zusatz": "Schwiegersohn"
+        }
+      ],
+      "_quelldatei": "page_132.json",
+      "_pageNumber": "108"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "881: Zum Gedächtnis Adolf Schlatters:\nD. Hesse, in: Reformierte Kirchenzeitung, 29.5.1938;\nWalther Geißer, in: Der Christenbote, 19.6.1938;\nTheodor Brandt, in: Deutsches Pfarrerblatt, 12.7.1938.",
+      "nummer": "881",
+      "titel": "Zum Gedächtnis Adolf Schlatters",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "D. Hesse, in: Reformierte Kirchenzeitung, 29.5.1938",
+          "titel": "Nachruf/Artikel von D. Hesse",
+          "beteiligte": [
+            {
+              "name": "D. Hesse",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ],
+          "zeitschrift": "Reformierte Kirchenzeitung",
+          "datum": "1938-05-29"
+        },
+        {
+          "rawText": "Walther Geißer, in: Der Christenbote, 19.6.1938",
+          "titel": "Nachruf/Artikel von Walther Geißer",
+          "beteiligte": [
+            {
+              "name": "Walther Geißer",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ],
+          "zeitschrift": "Der Christenbote",
+          "datum": "1938-06-19"
+        },
+        {
+          "rawText": "Theodor Brandt, in: Deutsches Pfarrerblatt, 12.7.1938.",
+          "titel": "Nachruf/Artikel von Theodor Brandt",
+          "beteiligte": [
+            {
+              "name": "Theodor Brandt",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ],
+          "zeitschrift": "Deutsches Pfarrerblatt",
+          "datum": "1938-07-12"
+        }
+      ],
+      "_quelldatei": "page_132.json",
+      "_pageNumber": "108"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "882: Worte von D. A. Schlatter.\nIn: Stuttgarter Evang. Sonntagsblatt, 31.7. - 4.9.1938",
+      "nummer": "882",
+      "titel": "Worte von D. A. Schlatter",
+      "typ": "Artikel",
+      "zeitschrift": "Stuttgarter Evang. Sonntagsblatt",
+      "zeitraum": "31.07.1938-04.09.1938",
+      "jahr": 1938,
+      "beteiligte": [
+        {
+          "name": "D. A. Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_132.json",
+      "_pageNumber": "108"
+    }
+  ],
+  "notes": ""
+}

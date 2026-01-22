@@ -1,0 +1,378 @@
+{
+  "sourceFile": "page_140.json",
+  "pageNumber": "116",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 7,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 956: Excerpte aus den Bürger-Registern Stadtarchiv St. Gallen.\n\n    Im Einzelnen:\n\n    956/1: \"Schlatter\"\n\n        Nr. 92: Hektor 1766 - 1842, Drogist,\n              Ehe II 1794 mit Anna Bernet.\n        Nr. 115: Hektor Stephan 1805 - 1880, Materialist,\n               Ehe 1839 mit Saara Wilhelmine Steinmann.\n        Nr. 142: Adolf 1852 - 1938, Theologieprofessor,\n               Ehe 1878 mit Susanna Schoop.\n        Nr. 150: Theodor 1847 - 1918, Kaufmann,\n               Ehe 1895 mit Lauretta Schlatter.\n\n    956/2: \"Bernet\"\n\n        Nr. 12: Caspar 1698 - 1766, Weber,\n              Ehe I 1722 mit Helena Stähelin.\n        Nr. 20: Caspar 1735 - 1800, Weber,\n              Ehe 1755 mit Kleofea Weyermann.\n\n    956/3: \"Steinmann\"\n\n        Nr. 83: Caspar 1740 - 1827, Weber,\n             Ehe I 1766 mit Klaara Ehrenzeller,\n             Ehe II 1809 mit A. Barbara Bernet.\n        Nr. 123: Caspar 1781 - 1822, Kaufmann,\n              Ehe I 1809 mit Anna Klara Bernet.",
+      "nummer": "956",
+      "titel": "Excerpte aus den Bürger-Registern Stadtarchiv St. Gallen",
+      "beschreibung": "Auszüge aus den Bürgerregistern des Stadtarchivs St. Gallen; Auflistung einzelner Namensgruppen: Schlatter, Bernet, Steinmann mit Einträgen zu einzelnen Personen (Lebensdaten, Beruf, Eheverhältnisse).",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "956/1: \"Schlatter\" - Nr. 92: Hektor 1766 - 1842, Drogist, Ehe II 1794 mit Anna Bernet.",
+          "titel": "Schlatter (Gruppe)",
+          "beschreibung": "Enthält Einträge zu Mitgliedern der Familie Schlatter; z. B. Nr. 92 Hektor 1766-1842, Drogist, verheiratet (Ehe II 1794) mit Anna Bernet.",
+          "untereintraege": [
+            {
+              "rawText": "Nr. 92: Hektor 1766 - 1842, Drogist, Ehe II 1794 mit Anna Bernet.",
+              "titel": "Hektor",
+              "jahr": 1766,
+              "beschreibung": "Lebensdaten 1766-1842; Beruf: Drogist; Ehe II 1794 mit Anna Bernet.",
+              "beteiligte": [
+                {
+                  "name": "Hektor",
+                  "rolle": "Erwähnt",
+                  "entity": "Person",
+                  "zusatz": "1766-1842, Drogist"
+                },
+                {
+                  "name": "Anna Bernet",
+                  "rolle": "Erwähnt",
+                  "entity": "Person",
+                  "zusatz": "Ehefrau (Ehe II 1794)"
+                }
+              ]
+            },
+            {
+              "rawText": "Nr. 115: Hektor Stephan 1805 - 1880, Materialist, Ehe 1839 mit Saara Wilhelmine Steinmann.",
+              "titel": "Hektor Stephan",
+              "beschreibung": "1805-1880; Materialist; Ehe 1839 mit Saara Wilhelmine Steinmann.",
+              "beteiligte": [
+                {
+                  "name": "Hektor Stephan",
+                  "rolle": "Erwähnt",
+                  "entity": "Person",
+                  "zusatz": "1805-1880, Materialist"
+                },
+                {
+                  "name": "Saara Wilhelmine Steinmann",
+                  "rolle": "Erwähnt",
+                  "entity": "Person",
+                  "zusatz": "Ehefrau (Ehe 1839)"
+                }
+              ]
+            },
+            {
+              "rawText": "Nr. 142: Adolf 1852 - 1938, Theologieprofessor, Ehe 1878 mit Susanna Schoop.",
+              "titel": "Adolf",
+              "beschreibung": "1852-1938; Theologieprofessor; Ehe 1878 mit Susanna Schoop.",
+              "beteiligte": [
+                {
+                  "name": "Adolf",
+                  "rolle": "Erwähnt",
+                  "entity": "Person",
+                  "zusatz": "1852-1938, Theologieprofessor"
+                },
+                {
+                  "name": "Susanna Schoop",
+                  "rolle": "Erwähnt",
+                  "entity": "Person",
+                  "zusatz": "Ehefrau (Ehe 1878)"
+                }
+              ]
+            },
+            {
+              "rawText": "Nr. 150: Theodor 1847 - 1918, Kaufmann, Ehe 1895 mit Lauretta Schlatter.",
+              "titel": "Theodor",
+              "beschreibung": "1847-1918; Kaufmann; Ehe 1895 mit Lauretta Schlatter.",
+              "beteiligte": [
+                {
+                  "name": "Theodor",
+                  "rolle": "Erwähnt",
+                  "entity": "Person",
+                  "zusatz": "1847-1918, Kaufmann"
+                },
+                {
+                  "name": "Lauretta Schlatter",
+                  "rolle": "Erwähnt",
+                  "entity": "Person",
+                  "zusatz": "Ehefrau (Ehe 1895)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rawText": "956/2: \"Bernet\" - Nr. 12: Caspar 1698 - 1766, Weber, Ehe I 1722 mit Helena Stähelin. Nr. 20: Caspar 1735 - 1800, Weber, Ehe 1755 mit Kleofea Weyermann.",
+          "titel": "Bernet (Gruppe)",
+          "beschreibung": "Einträge zur Familie Bernet; u. a. Caspar Nr. 12 (1698-1766) und Nr. 20 (1735-1800).",
+          "untereintraege": [
+            {
+              "rawText": "Nr. 12: Caspar 1698 - 1766, Weber, Ehe I 1722 mit Helena Stähelin.",
+              "titel": "Caspar (Nr. 12)",
+              "beschreibung": "1698-1766; Weber; Ehe I 1722 mit Helena Stähelin.",
+              "beteiligte": [
+                {
+                  "name": "Caspar",
+                  "rolle": "Erwähnt",
+                  "entity": "Person",
+                  "zusatz": "1698-1766, Weber"
+                },
+                {
+                  "name": "Helena Stähelin",
+                  "rolle": "Erwähnt",
+                  "entity": "Person",
+                  "zusatz": "Ehefrau (Ehe I 1722)"
+                }
+              ]
+            },
+            {
+              "rawText": "Nr. 20: Caspar 1735 - 1800, Weber, Ehe 1755 mit Kleofea Weyermann.",
+              "titel": "Caspar (Nr. 20)",
+              "beschreibung": "1735-1800; Weber; Ehe 1755 mit Kleofea Weyermann.",
+              "beteiligte": [
+                {
+                  "name": "Caspar",
+                  "rolle": "Erwähnt",
+                  "entity": "Person",
+                  "zusatz": "1735-1800, Weber"
+                },
+                {
+                  "name": "Kleofea Weyermann",
+                  "rolle": "Erwähnt",
+                  "entity": "Person",
+                  "zusatz": "Ehefrau (Ehe 1755)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "rawText": "956/3: \"Steinmann\" - Nr. 83: Caspar 1740 - 1827, Weber, Ehe I 1766 mit Klaara Ehrenzeller, Ehe II 1809 mit A. Barbara Bernet. Nr. 123: Caspar 1781 - 1822, Kaufmann, Ehe I 1809 mit Anna Klara Bernet.",
+          "titel": "Steinmann (Gruppe)",
+          "beschreibung": "Einträge zur Familie Steinmann; u. a. Caspar Nr. 83 (1740-1827) und Nr. 123 (1781-1822).",
+          "untereintraege": [
+            {
+              "rawText": "Nr. 83: Caspar 1740 - 1827, Weber, Ehe I 1766 mit Klaara Ehrenzeller, Ehe II 1809 mit A. Barbara Bernet.",
+              "titel": "Caspar (Nr. 83)",
+              "beschreibung": "1740-1827; Weber; Ehe I 1766 mit Klaara Ehrenzeller; Ehe II 1809 mit A. Barbara Bernet.",
+              "beteiligte": [
+                {
+                  "name": "Caspar",
+                  "rolle": "Erwähnt",
+                  "entity": "Person",
+                  "zusatz": "1740-1827, Weber"
+                },
+                {
+                  "name": "Klaara Ehrenzeller",
+                  "rolle": "Erwähnt",
+                  "entity": "Person",
+                  "zusatz": "Ehefrau (Ehe I 1766)"
+                },
+                {
+                  "name": "A. Barbara Bernet",
+                  "rolle": "Erwähnt",
+                  "entity": "Person",
+                  "zusatz": "Ehefrau (Ehe II 1809)"
+                }
+              ]
+            },
+            {
+              "rawText": "Nr. 123: Caspar 1781 - 1822, Kaufmann, Ehe I 1809 mit Anna Klara Bernet.",
+              "titel": "Caspar (Nr. 123)",
+              "beschreibung": "1781-1822; Kaufmann; Ehe I 1809 mit Anna Klara Bernet.",
+              "beteiligte": [
+                {
+                  "name": "Caspar",
+                  "rolle": "Erwähnt",
+                  "entity": "Person",
+                  "zusatz": "1781-1822, Kaufmann"
+                },
+                {
+                  "name": "Anna Klara Bernet",
+                  "rolle": "Erwähnt",
+                  "entity": "Person",
+                  "zusatz": "Ehefrau (Ehe I 1809)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_140.json",
+      "_pageNumber": "116"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "957: Theodor Schlatter (Zimmermeister) an Onkel Adolf Schlatter.\n    In: Brief an Dora (Tochter von Adolf), 22.11.1966.\n    Brief an Ernst Bock, 22.4.1986",
+      "nummer": "957",
+      "titel": "Briefe Theodor Schlatter an Angehörige",
+      "beschreibung": "Briefe von Theodor Schlatter (Zimmermeister) an Familienangehörige und Dritte; konkret Briefe an Dora (Tochter von Adolf) und an Ernst Bock mit angegebenen Daten.",
+      "typ": "Brief",
+      "untereintraege": [
+        {
+          "rawText": "Brief an Dora (Tochter von Adolf), 22.11.1966.",
+          "titel": "Brief an Dora (Tochter von Adolf)",
+          "datum": "1966-11-22",
+          "beteiligte": [
+            {
+              "name": "Theodor Schlatter",
+              "rolle": "Absender",
+              "entity": "Person",
+              "zusatz": "Zimmermeister"
+            },
+            {
+              "name": "Dora (Tochter von Adolf)",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Brief an Ernst Bock, 22.4.1986",
+          "titel": "Brief an Ernst Bock",
+          "datum": "1986-04-22",
+          "beteiligte": [
+            {
+              "name": "Theodor Schlatter",
+              "rolle": "Absender",
+              "entity": "Person",
+              "zusatz": "Zimmermeister"
+            },
+            {
+              "name": "Ernst Bock",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_140.json",
+      "_pageNumber": "116"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "958: Amtliche Vorlagen betr. Petition des Herrn Stephan Schlatter betr. Anerkennung einer freien Gemeinde in St. Gallen,\n    1862 - 1863. Gedruckte Broschüre.",
+      "nummer": "958",
+      "titel": "Amtliche Vorlagen zur Petition Stephan Schlatter",
+      "beschreibung": "Vorlagen/Unterlagen betreffend die Petition des Herrn Stephan Schlatter zur Anerkennung einer freien Gemeinde in St. Gallen.",
+      "typ": "Druckschrift",
+      "zeitraum": "1862-1863",
+      "umfang": "Gedruckte Broschüre",
+      "_quelldatei": "page_140.json",
+      "_pageNumber": "116"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "959/1: Theodor Schlatter, 1847 - 1918, Nachruf.\n      Aus: Neujahrsblätter des Historischen Vereins des Kantons\n      St. Gallen, 1919, Seite 66 u. 67",
+      "nummer": "959/1",
+      "titel": "Nachruf Theodor Schlatter",
+      "beschreibung": "Nachruf auf Theodor Schlatter (1847-1918), erschienen in den Neujahrsblättern des Historischen Vereins des Kantons St. Gallen, 1919, S. 66-67.",
+      "typ": "Nachruf",
+      "jahr": 1919,
+      "seiten": "66-67",
+      "beteiligte": [
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "1847-1918"
+        }
+      ],
+      "_quelldatei": "page_140.json",
+      "_pageNumber": "116"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "959/2: Johannes Dierauer, Brief 25.10.1918 an Adolf Schlatter:\n      Bitte um Lebensbild von Theodor zwecks dessen Ehrung.",
+      "nummer": "959/2",
+      "titel": "Brief Johannes Dierauer an Adolf Schlatter",
+      "beschreibung": "Brief von Johannes Dierauer an Adolf Schlatter mit der Bitte um ein Lebensbild von Theodor für dessen Ehrung.",
+      "typ": "Brief",
+      "datum": "1918-10-25",
+      "beteiligte": [
+        {
+          "name": "Johannes Dierauer",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Theodor (betreffend)",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "zur Erstellung eines Lebensbilds"
+        }
+      ],
+      "_quelldatei": "page_140.json",
+      "_pageNumber": "116"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "960: Armin Mauerhofer, Eine Erweckungsbewegung im 19. Jahrhundert.\n     Brunnen-Verlag Gießen/Basel.\n     Daraus: Die Beziehungen von Karl von Rodt zu den Dissident-\n     engemeinden in der Schweiz.",
+      "nummer": "960",
+      "titel": "Eine Erweckungsbewegung im 19. Jahrhundert",
+      "beschreibung": "Werk von Armin Mauerhofer; mit Abschnitt/Beitrag: 'Die Beziehungen von Karl von Rodt zu den Dissidentengemeinden in der Schweiz.'",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Armin Mauerhofer",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Brunnen-Verlag Gießen/Basel",
+          "rolle": "Verlag",
+          "entity": "Organisation"
+        }
+      ],
+      "anmerkung": "Enthält den Beitrag 'Die Beziehungen von Karl von Rodt zu den Dissidentengemeinden in der Schweiz.'",
+      "_quelldatei": "page_140.json",
+      "_pageNumber": "116"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "961: Sechzig Jahre des H(ektor) St(ephan) Schlatter.\n     Aus: Christine Klein-Schlatter, Lebensbilder aus der\n     Schlatterschen und Bernetschen Familie. 1893 für die\n     Familie gedruckt. Seite 303 - 358",
+      "nummer": "961",
+      "titel": "Sechzig Jahre des H. S. Schlatter",
+      "beschreibung": "Beitrag 'Sechzig Jahre des H(ektor) St(ephan) Schlatter' aus Christine Klein-Schlatter: Lebensbilder aus der Schlatterschen und Bernetschen Familie, 1893 (familiäre Druckausgabe).",
+      "typ": "Aufsatz",
+      "jahr": 1893,
+      "seiten": "303-358",
+      "beteiligte": [
+        {
+          "name": "Christine Klein-Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_140.json",
+      "_pageNumber": "116"
+    }
+  ],
+  "notes": "Seite enthält Kopfzeile 'Teil II: B Druckschriften und Manuskripte Nr. 956 - 961'. OCR-Daten übernommen wie vorhanden; Datumsangaben 1966/1986 belassen wie im OCR."
+}

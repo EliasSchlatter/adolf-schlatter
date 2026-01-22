@@ -1,0 +1,240 @@
+{
+  "sourceFile": "page_117.json",
+  "pageNumber": "93",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 8,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 768: Adolf Schlatter, Vortrag über Lütgerts 1934 erschienenes Buch \"Schöpfung und Erlösung\", beim Diözesanverein des Kirchenbezirks Cannstatt. 16.1.1935",
+      "nummer": "768",
+      "titel": "Vortrag über Lütgerts 1934 erschienenes Buch \"Schöpfung und Erlösung\"",
+      "beschreibung": "Vortrag gehalten beim Diözesanverein des Kirchenbezirks Cannstatt.",
+      "typ": "Vortrag",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Vortragender",
+          "entity": "Person"
+        }
+      ],
+      "datum": "1935-01-16",
+      "_quelldatei": "page_117.json",
+      "_pageNumber": "93"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "769: Adolf Schlatter, Der Idealismus und die Erweckung in meiner Jugend.\nManuskript, 115 Blätter",
+      "nummer": "769",
+      "titel": "Der Idealismus und die Erweckung in meiner Jugend",
+      "typ": "Manuskript",
+      "umfang": "115 Blätter",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_117.json",
+      "_pageNumber": "93"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "770: Adolf Schlatter, Das Neue Testament und die zeitgenössische\nTheologie Jerusalems. Antrittsrede in Tübingen.\nManuskript, 20 Blätter",
+      "nummer": "770",
+      "titel": "Das Neue Testament und die zeitgenössische Theologie Jerusalems. Antrittsrede in Tübingen",
+      "typ": "Manuskript",
+      "umfang": "20 Blätter",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Vortragender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_117.json",
+      "_pageNumber": "93"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "771: Karl Eberhard Oehler, Briefe vom 4. und 8.3.1981 mit Schlatter-Erinnerungen.\n\nWilhelm Oehler, Schlatter-Erinnerungen.\nAus: Privater Familien-Rundbrief, Einträge vom 5.7.1923 und\n6.2.1926\n\nWilhelm Oehler, Schlatter-Zitate.\nAus: Das Johannesevangelium, eine Missionschrift für die Welt.\nVerlag Bertelsmann, Gütersloh 1936.\nDas Wort Johannes an die Gemeinde. Dem Andenken Adolf\nSchlatters gewidmet.\nVerlag Bertelsmann, Gütersloh 1938.",
+      "nummer": "771",
+      "titel": "Karl Eberhard Oehler, Briefe mit Schlatter-Erinnerungen; sowie Wilhelm Oehler-Einträge und -Zitate",
+      "beschreibung": "Enthält Briefe von Karl Eberhard Oehler (Briefe vom 4. und 8.3.1981) mit Schlatter-Erinnerungen; sowie Wilhelm Oehlers Schlatter-Erinnerungen (Aus: Privater Familien-Rundbrief, Einträge vom 5.7.1923 und 6.2.1926) und Schlatter-Zitate (Aus: Das Johannesevangelium..., Bertelsmann, Gütersloh 1936) sowie 'Das Wort Johannes an die Gemeinde. Dem Andenken Adolf Schlatters gewidmet.' (Verlag Bertelsmann, Gütersloh 1938).",
+      "typ": "Korrespondenz",
+      "beteiligte": [
+        {
+          "name": "Karl Eberhard Oehler",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Wilhelm Oehler, Schlatter-Erinnerungen. Aus: Privater Familien-Rundbrief, Einträge vom 5.7.1923 und 6.2.1926",
+          "titel": "Schlatter-Erinnerungen",
+          "beschreibung": "Aus: Privater Familien-Rundbrief; Einträge vom 5.7.1923 und 6.2.1926.",
+          "typ": "Erinnerung",
+          "anmerkung": "Enthält Einträge datiert 05.07.1923 und 06.02.1926"
+        },
+        {
+          "rawText": "Wilhelm Oehler, Schlatter-Zitate. Aus: Das Johannesevangelium, eine Missionschrift für die Welt. Verlag Bertelsmann, Gütersloh 1936.",
+          "titel": "Schlatter-Zitate",
+          "in": "Das Johannesevangelium, eine Missionsschrift für die Welt",
+          "verlag": "Verlag Bertelsmann, Gütersloh",
+          "jahr": 1936,
+          "typ": "Druckschrift"
+        },
+        {
+          "rawText": "Das Wort Johannes an die Gemeinde. Dem Andenken Adolf Schlatters gewidmet. Verlag Bertelsmann, Gütersloh 1938.",
+          "titel": "Das Wort Johannes an die Gemeinde. Dem Andenken Adolf Schlatters gewidmet.",
+          "verlag": "Verlag Bertelsmann, Gütersloh",
+          "jahr": 1938,
+          "typ": "Druckschrift"
+        }
+      ],
+      "_quelldatei": "page_117.json",
+      "_pageNumber": "93"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "772: Wilhelm Gundert, Nachschriften von Predigten Schlatters über\nJohannes 8,21-29; Jeremia 6,16; Johannes 6,47-56, gehalten\nFebruar und März 1899.",
+      "nummer": "772",
+      "titel": "Nachschriften von Predigten Schlatters (Johannes 8,21-29; Jeremia 6,16; Johannes 6,47-56)",
+      "beschreibung": "Nachschriften (Abschriften) von Predigten Adolf Schlatters über angegebene Bibelstellen; gehalten im Februar und März 1899.",
+      "typ": "Manuskript",
+      "bibelstelle": "Johannes 8,21-29; Jeremia 6,16; Johannes 6,47-56",
+      "beteiligte": [
+        {
+          "name": "Wilhelm Gundert",
+          "rolle": "Zusammensteller",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Redner",
+          "entity": "Person"
+        }
+      ],
+      "zeitraum": "Februar und März 1899",
+      "jahr": 1899,
+      "_quelldatei": "page_117.json",
+      "_pageNumber": "93"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "773-775: Verschiedene Besprechungen.\nAus: Kirchliche Rundschau für Rheinland und Westfalen\n\n773: Würdigung der \"Beiträge zur Förderung christlicher Theologie.\"\n1897, Seite 62 - 64\n\nDas Christliche Dogma.\n1912, Seite 74 - 78.98 - 103.120 - 125.154 - 158.176 - 180.\n208 - 211\n\nHülfe in Bibelnot. 1926, Seite 239",
+      "nummer": "773",
+      "titel": "Verschiedene Besprechungen (Kirchliche Rundschau für Rheinland und Westfalen)",
+      "beschreibung": "Sammlung von Besprechungen in der Kirchlichen Rundschau für Rheinland und Westfalen.",
+      "typ": "Artikel/Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "Würdigung der \"Beiträge zur Förderung christlicher Theologie.\" 1897, Seite 62 - 64",
+          "titel": "Würdigung der 'Beiträge zur Förderung christlicher Theologie.'",
+          "jahr": 1897,
+          "seiten": "62-64",
+          "typ": "Besprechung"
+        },
+        {
+          "rawText": "Das Christliche Dogma. 1912, Seite 74 - 78.98 - 103.120 - 125.154 - 158.176 - 180.208 - 211",
+          "titel": "Das Christliche Dogma",
+          "jahr": 1912,
+          "seiten": "74-78, 98-103, 120-125, 154-158, 176-180, 208-211",
+          "typ": "Besprechung"
+        },
+        {
+          "rawText": "Hülfe in Bibelnot. 1926, Seite 239",
+          "titel": "Hülfe in Bibelnot",
+          "jahr": 1926,
+          "seiten": "239",
+          "typ": "Besprechung"
+        }
+      ],
+      "_quelldatei": "page_117.json",
+      "_pageNumber": "93"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "774: \"D. Adolf Schlatters 75. Geburtstag.\"\nBericht über die Feier der Evang.-Theologischen Fachschaft am\n13. Juli (1927). 1927, Seite 251",
+      "nummer": "774",
+      "titel": "\"D. Adolf Schlatters 75. Geburtstag.\" Bericht über die Feier der Evang.-Theologischen Fachschaft",
+      "beschreibung": "Bericht über die Feier der Evang.-Theologischen Fachschaft am 13. Juli (1927).",
+      "jahr": 1927,
+      "seiten": "251",
+      "typ": "Besprechung/Artikel",
+      "_quelldatei": "page_117.json",
+      "_pageNumber": "93"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "775: G. Lang, Wiesbaden, \"Ein Dankeswort zu einem Geburtstag.\"\n\nWilhelm Eickmann, \"Professor D. Schlatter 80 Jahre alt.\"\n1932, Seite 131 ff",
+      "nummer": "775",
+      "titel": "Verschiedene Beiträge: G. Lang 'Ein Dankeswort zu einem Geburtstag'; Wilhelm Eickmann 'Professor D. Schlatter 80 Jahre alt.'",
+      "beschreibung": "Enthält Beitrag von G. Lang (Wiesbaden) 'Ein Dankeswort zu einem Geburtstag' und von Wilhelm Eickmann 'Professor D. Schlatter 80 Jahre alt.'",
+      "typ": "Besprechung/Artikel",
+      "untereintraege": [
+        {
+          "rawText": "G. Lang, Wiesbaden, \"Ein Dankeswort zu einem Geburtstag.\"",
+          "titel": "Ein Dankeswort zu einem Geburtstag",
+          "beteiligte": [
+            {
+              "name": "G. Lang",
+              "rolle": "Autor",
+              "entity": "Person",
+              "zusatz": "Wiesbaden"
+            }
+          ],
+          "typ": "Nachricht/Beitrag"
+        },
+        {
+          "rawText": "Wilhelm Eickmann, \"Professor D. Schlatter 80 Jahre alt.\" 1932, Seite 131 ff",
+          "titel": "Professor D. Schlatter 80 Jahre alt",
+          "beteiligte": [
+            {
+              "name": "Wilhelm Eickmann",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ],
+          "jahr": 1932,
+          "seiten": "131 ff",
+          "typ": "Artikel"
+        }
+      ],
+      "_quelldatei": "page_117.json",
+      "_pageNumber": "93"
+    }
+  ],
+  "notes": "Seite im Original Nr. 93. OCR weitgehend lesbar; keine neue Überschrift auf dieser Seite."
+}

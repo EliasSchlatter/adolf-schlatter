@@ -1,0 +1,224 @@
+{
+  "sourceFile": "page_130.json",
+  "pageNumber": "106",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 5,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 867: Friedrich Graeber, Freizeitenverlag Velbert\n\nWerkverträge mit Adolf Schlatter zu Hülfe in Bibelnot (mit\nFahnenabzug). 11.3.1926 - 12.7.1930\n\nMarien-Reden\n\nDie Botschaft des Paulus. Die Gabe des Christus\n\nGesunde Lehre\n\nDer Einzige und wir anderen\n\nBriefwechsel Graeber/Schlatter betreffend Stuttgarter Rede\n\"Wir Christen und die Juden\". 22./23.7.1930",
+      "nummer": "867",
+      "titel": "Friedrich Graeber, Freizeitenverlag Velbert",
+      "beschreibung": "Werkverträge mit Adolf Schlatter zu 'Hülfe in Bibelnot' (mit Fahnenabzug). Enthaltene Schriften/Notizen: Marien-Reden; Die Botschaft des Paulus; Die Gabe des Christus; Gesunde Lehre; Der Einzige und wir anderen; Briefwechsel Graeber/Schlatter betreffend Stuttgarter Rede 'Wir Christen und die Juden'.",
+      "typ": "Sammlung",
+      "zeitraum": "11.3.1926 - 12.7.1930",
+      "umfang": null,
+      "beteiligte": [
+        {
+          "name": "Friedrich Graeber",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Freizeitenverlag Velbert",
+          "rolle": "Verlag",
+          "entity": "Institution"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Marien-Reden",
+          "titel": "Marien-Reden",
+          "typ": "Sonstiges"
+        },
+        {
+          "rawText": "Die Botschaft des Paulus. Die Gabe des Christus",
+          "titel": "Die Botschaft des Paulus; Die Gabe des Christus",
+          "typ": "Sonstiges"
+        },
+        {
+          "rawText": "Gesunde Lehre",
+          "titel": "Gesunde Lehre",
+          "typ": "Sonstiges"
+        },
+        {
+          "rawText": "Der Einzige und wir anderen",
+          "titel": "Der Einzige und wir anderen",
+          "typ": "Sonstiges"
+        },
+        {
+          "rawText": "Briefwechsel Graeber/Schlatter betreffend Stuttgarter Rede \"Wir Christen und die Juden\". 22./23.7.1930",
+          "titel": "Briefwechsel Graeber/Schlatter betreffend Stuttgarter Rede 'Wir Christen und die Juden'",
+          "beschreibung": "Datumangabe: 22./23.7.1930 (nur Jahr angegeben in Hauptfeldern)",
+          "jahr": 1930,
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Friedrich Graeber",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_130.json",
+      "_pageNumber": "106"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "868: Werner Neuer, Besprechung der Schlatter-Bibliographie2 1980\n(vgl. Inventar-Nr. 502).\nAus: Theologische Rundschau, Heft 4/1984",
+      "nummer": "868",
+      "titel": "Werner Neuer: Besprechung der Schlatter-Bibliographie 1980",
+      "beschreibung": "Rezension/Besprechung der Schlatter-Bibliographie (vgl. Inventar-Nr. 502). Erschienen in Theologische Rundschau, Heft 4/1984.",
+      "typ": "Artikel",
+      "jahr": 1984,
+      "beteiligte": [
+        {
+          "name": "Werner Neuer",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "zeitschrift": "Theologische Rundschau",
+      "heft": "4",
+      "verweis": "vgl. Inventar-Nr. 502",
+      "_quelldatei": "page_130.json",
+      "_pageNumber": "106"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "869/1: Werner Neuer, Adolf Schlatters Studienzeit in Basel und Tü-\nbingen 1871 - 1875.\nAus: Theologische Beiträge Nr. 3/1985",
+      "nummer": "869/1",
+      "titel": "Werner Neuer: Adolf Schlatters Studienzeit in Basel und Tübingen 1871-1875",
+      "beschreibung": "Artikel über Schlatters Studienzeit in Basel und Tübingen (1871-1875).",
+      "typ": "Artikel",
+      "jahr": 1985,
+      "zeitraum": "1871-1875",
+      "beteiligte": [
+        {
+          "name": "Werner Neuer",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "zeitschrift": "Theologische Beiträge",
+      "heft": "3",
+      "_quelldatei": "page_130.json",
+      "_pageNumber": "106"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "869/2: Werner Neuer, Der Idealismus und die Erweckung in Schlatters\nJugend.\nBeobachtungen zu einem nichteditierten Manuskript aus Schlatters\nNachlaß.\nSonderdruck aus: Zeitschrift für Kirchengeschichte Heft 1/1985",
+      "nummer": "869/2",
+      "titel": "Werner Neuer: Der Idealismus und die Erweckung in Schlatters Jugend",
+      "beschreibung": "Beobachtungen zu einem nichteditierten Manuskript aus Schlatters Nachlaß. Sonderdruck.",
+      "typ": "Sonderdruck",
+      "jahr": 1985,
+      "beteiligte": [
+        {
+          "name": "Werner Neuer",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "zeitschrift": "Zeitschrift für Kirchengeschichte",
+      "heft": "1",
+      "_quelldatei": "page_130.json",
+      "_pageNumber": "106"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "870: Adolf Schlatter, 10 Bände Folio mit handschriftlichen Arbeiten,\ninsgesamt ca. 3200 Seiten.\n\nIm Einzelnen:\n\n870/1: Arbeitsbuch mit verschiedenen Begriffen und Themen.\n\n870/2: überwiegend Judaica.\n\n870/3: Arbeiten im Umfeld des Neuen Testaments, u. a. zur jüdischen\nGeschichte.\n\n870/4: Sprachliche Untersuchungen (Tabellen) zu den Evangelien und\nJosephus.\n\n870/5: Sprachliche und sachliche Untersuchungen, überwiegend Judaica.\n\n870/6: Vorarbeiten kirchengeschichtlicher und systematischer Art,\n u. a. Kirche und Amt; Ethisches.\n\n870/7: Verschiedene Arbeiten zum Neuen Testament; Judaica-Notizen.\n\n870/8: Arbeiten überwiegend zum Neuen Testament, besonders Römer-\nbrief, Galaterbrief.",
+      "nummer": "870",
+      "titel": "Adolf Schlatter: Hand schriftliche Arbeiten (10 Bände, Folio)",
+      "beschreibung": "10 Bände Folio mit handschriftlichen Arbeiten, insgesamt ca. 3200 Seiten. Enthält verschiedene thematische Bände (siehe Untereinträge).",
+      "typ": "Manuskript",
+      "umfang": "10 Bände; ca. 3200 Seiten",
+      "format": "Folio",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "870/1: Arbeitsbuch mit verschiedenen Begriffen und Themen.",
+          "titel": "Arbeitsbuch mit verschiedenen Begriffen und Themen",
+          "typ": "Notizbuch/Heft"
+        },
+        {
+          "rawText": "870/2: überwiegend Judaica.",
+          "titel": "Überwiegend Judaica",
+          "typ": "Notizbuch/Heft"
+        },
+        {
+          "rawText": "870/3: Arbeiten im Umfeld des Neuen Testaments, u. a. zur jüdischen\nGeschichte.",
+          "titel": "Arbeiten im Umfeld des Neuen Testaments; zur jüdischen Geschichte",
+          "beschreibung": "Enthält Arbeiten zum Neuen Testament und zur jüdischen Geschichte.",
+          "typ": "Manuskript"
+        },
+        {
+          "rawText": "870/4: Sprachliche Untersuchungen (Tabellen) zu den Evangelien und\nJosephus.",
+          "titel": "Sprachliche Untersuchungen (Tabellen) zu den Evangelien und Josephus",
+          "typ": "Manuskript"
+        },
+        {
+          "rawText": "870/5: Sprachliche und sachliche Untersuchungen, überwiegend Judaica.",
+          "titel": "Sprachliche und sachliche Untersuchungen, überwiegend Judaica",
+          "typ": "Manuskript"
+        },
+        {
+          "rawText": "870/6: Vorarbeiten kirchengeschichtlicher und systematischer Art,\n u. a. Kirche und Amt; Ethisches.",
+          "titel": "Vorarbeiten kirchengeschichtlicher und systematischer Art (u. a. Kirche und Amt; Ethisches)",
+          "typ": "Manuskript"
+        },
+        {
+          "rawText": "870/7: Verschiedene Arbeiten zum Neuen Testament; Judaica-Notizen.",
+          "titel": "Verschiedene Arbeiten zum Neuen Testament; Judaica-Notizen",
+          "typ": "Manuskript"
+        },
+        {
+          "rawText": "870/8: Arbeiten überwiegend zum Neuen Testament, besonders Römer-\nbrief, Galaterbrief.",
+          "titel": "Arbeiten überwiegend zum Neuen Testament, besonders Römerbrief, Galaterbrief",
+          "beschreibung": "Betont Arbeiten zu den Briefen an die Römer und an die Galater.",
+          "typ": "Manuskript"
+        }
+      ],
+      "_quelldatei": "page_130.json",
+      "_pageNumber": "106"
+    }
+  ],
+  "notes": "Originalseitenzahl 106. OCR-Text enthält Zeilenumbrüche und mögliche Tippfehler (z.B. 'Bibliographie2'). Kein neuer Kontexttitel auf dieser Seite vermerkt."
+}

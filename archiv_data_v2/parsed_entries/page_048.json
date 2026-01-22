@@ -1,0 +1,292 @@
+{
+  "sourceFile": "page_048.json",
+  "pageNumber": "24",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+    "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+    "unterkategorie": "d) Nr. 115: Beth-El-Monatshefte; e) Die Furche. Evang. Monatsschrift; f) Nr. 117: Biblische Vorträge bei Eisenacher Konferenzen"
+  },
+  "entriesCount": 7,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "d) Nr. 115: Beth-El-Monatshefte; e) Die Furche. Evang. Monatsschrift; f) Nr. 117: Biblische Vorträge bei Eisenacher Konferenzen",
+      "rawText": "Nr. 112/1: Unsere persönliche Stellung zu Christus.\n    In: Die Furche. Seite 33 - 41. Erster Jahrgang\n    1910/1911",
+      "nummer": "112/1",
+      "titel": "Unsere persönliche Stellung zu Christus.",
+      "beschreibung": "Artikel in der Zeitschrift Die Furche, Erster Jahrgang 1910/1911, Seiten 33 - 41.",
+      "typ": "Aufsatz",
+      "zeitschrift": "Die Furche",
+      "seiten": "33-41",
+      "zeitraum": "1910/1911",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "rawText_note": "",
+      "_quelldatei": "page_048.json",
+      "_pageNumber": "24"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "d) Nr. 115: Beth-El-Monatshefte; e) Die Furche. Evang. Monatsschrift; f) Nr. 117: Biblische Vorträge bei Eisenacher Konferenzen",
+      "rawText": "112/2: Die Unterwerfung unter die Gotteswirklichkeit.\n    In: Die Furche. Seite 6 - 12; 47 - 53. Zweiter Jahr-\n    gang 1911/1912",
+      "nummer": "112/2",
+      "titel": "Die Unterwerfung unter die Gotteswirklichkeit.",
+      "beschreibung": "Artikel in der Zeitschrift Die Furche, Zweiter Jahrgang 1911/1912, Seiten 6-12 und 47-53.",
+      "typ": "Aufsatz",
+      "zeitschrift": "Die Furche",
+      "seiten": "6-12; 47-53",
+      "zeitraum": "1911/1912",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_048.json",
+      "_pageNumber": "24"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "d) Nr. 115: Beth-El-Monatshefte; e) Die Furche. Evang. Monatsschrift; f) Nr. 117: Biblische Vorträge bei Eisenacher Konferenzen",
+      "rawText": "113: Kommt und laßt uns Christum ehren!\n    In: Unter dem Stern. MBK-Verlag, Salzuflen 1927",
+      "nummer": "113",
+      "titel": "Kommt und laßt uns Christum ehren!",
+      "beschreibung": "Aufsatz in: Unter dem Stern. Verlag MBK-Verlag, Salzuflen, 1927.",
+      "typ": "Aufsatz",
+      "in": "Unter dem Stern",
+      "verlag": "MBK-Verlag",
+      "ort": "Salzuflen",
+      "jahr": 1927,
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_048.json",
+      "_pageNumber": "24"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "d) Nr. 115: Beth-El-Monatshefte; e) Die Furche. Evang. Monatsschrift; f) Nr. 117: Biblische Vorträge bei Eisenacher Konferenzen",
+      "rawText": "114: Heilung.\n    In: Das Gottesjahr. Seite 38 - 41\n    Stauda-Verlag, Kassel 1936",
+      "nummer": "114",
+      "titel": "Heilung.",
+      "beschreibung": "Aufsatz in: Das Gottesjahr. Stauda-Verlag, Kassel, 1936. Seiten 38-41.",
+      "typ": "Aufsatz",
+      "in": "Das Gottesjahr",
+      "verlag": "Stauda-Verlag",
+      "ort": "Kassel",
+      "seiten": "38-41",
+      "jahr": 1936,
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_048.json",
+      "_pageNumber": "24"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "d) Nr. 115: Beth-El-Monatshefte; e) Die Furche. Evang. Monatsschrift; f) Nr. 117: Biblische Vorträge bei Eisenacher Konferenzen",
+      "rawText": "d) Nr. 115: Beth-El-Monatshefte\n\n    Einzelne Beiträge von Schlatter 1910 - 1936",
+      "nummer": "115",
+      "titel": "Beth-El-Monatshefte",
+      "beschreibung": "Einzelne Beiträge von Schlatter in den Beth-El-Monatsheften. Zeitraum 1910 - 1936.",
+      "typ": "Zeitschrift",
+      "zeitraum": "1910-1936",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_048.json",
+      "_pageNumber": "24"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "d) Nr. 115: Beth-El-Monatshefte; e) Die Furche. Evang. Monatsschrift; f) Nr. 117: Biblische Vorträge bei Eisenacher Konferenzen",
+      "rawText": "e) Die Furche. Evang. Monatsschrift\n\n    Nr. 116: Einzelne Beiträge von Schlatter 1910 - 1938\n\n    Darunter:\n\n    1912\n    Freudiges Studium.\n    In: Sondernummer \"Motive\". Seite 2f\n\n    1919\n    Die religiöse Bedeutung des Weimarer Dichterkreises.\n    Heft 6, Seite 179 - 185\n\n    Ein Wort zur Sittlichkeitsfrage. Heft 8, Seite 231 - 235\n\n    1922\n    Die religiös-soziale Bewegung in der Schweiz. Heft 6,\n    Seite 173 - 177\n\n    Karl Barths Römerbrief 2 1922. Besprochen von Adolf\n    Schlatter, 1922, Heft 6, Seite 228 - 232",
+      "nummer": "116",
+      "titel": "Die Furche. Einzelne Beiträge von Schlatter",
+      "beschreibung": "Sammlung einzelner Beiträge von Adolf Schlatter in der Zeitschrift Die Furche, Zeitraum 1910 - 1938. Enthält mehrere Aufsätze (siehe Untereinträge).",
+      "typ": "Sammlung",
+      "zeitschrift": "Die Furche",
+      "zeitraum": "1910-1938",
+      "untereintraege": [
+        {
+          "rawText": "1912\n    Freudiges Studium.\n    In: Sondernummer \"Motive\". Seite 2f",
+          "titel": "Freudiges Studium.",
+          "beschreibung": "Aufsatz in der Sondernummer 'Motive'. Seite 2f.",
+          "typ": "Aufsatz",
+          "jahr": 1912,
+          "seiten": "2f",
+          "in": "Sondernummer 'Motive'",
+          "beteiligte": [
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "1919\n    Die religiöse Bedeutung des Weimarer Dichterkreises.\n    Heft 6, Seite 179 - 185",
+          "titel": "Die religiöse Bedeutung des Weimarer Dichterkreises.",
+          "beschreibung": "Aufsatz in Heft 6, Seiten 179-185.",
+          "typ": "Aufsatz",
+          "jahr": 1919,
+          "heft": "6",
+          "seiten": "179-185",
+          "beteiligte": [
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Ein Wort zur Sittlichkeitsfrage. Heft 8, Seite 231 - 235",
+          "titel": "Ein Wort zur Sittlichkeitsfrage.",
+          "beschreibung": "Aufsatz in Heft 8, Seiten 231-235.",
+          "typ": "Aufsatz",
+          "jahr": 1919,
+          "heft": "8",
+          "seiten": "231-235",
+          "beteiligte": [
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "1922\n    Die religiös-soziale Bewegung in der Schweiz. Heft 6,\n    Seite 173 - 177",
+          "titel": "Die religiös-soziale Bewegung in der Schweiz.",
+          "beschreibung": "Aufsatz in Heft 6, Seiten 173-177.",
+          "typ": "Aufsatz",
+          "jahr": 1922,
+          "heft": "6",
+          "seiten": "173-177",
+          "beteiligte": [
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Karl Barths Römerbrief 2 1922. Besprochen von Adolf\n    Schlatter, 1922, Heft 6, Seite 228 - 232",
+          "titel": "Karl Barths Römerbrief 2 (Besprechung)",
+          "beschreibung": "Rezension/Besprechung von Karl Barths 'Römerbrief' (Teil 2). Veröffentlicht 1922 in Heft 6, Seiten 228-232. Besprochen von Adolf Schlatter.",
+          "typ": "Aufsatz",
+          "jahr": 1922,
+          "heft": "6",
+          "seiten": "228-232",
+          "beteiligte": [
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Autor",
+              "entity": "Person",
+              "zusatz": "Besprechender"
+            }
+          ]
+        }
+      ],
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_048.json",
+      "_pageNumber": "24"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "d) Nr. 115: Beth-El-Monatshefte; e) Die Furche. Evang. Monatsschrift; f) Nr. 117: Biblische Vorträge bei Eisenacher Konferenzen",
+      "rawText": "f) Nr. 117: Biblische Vorträge bei Eisenacher Konferenzen\n\n    117/1: Die Gottheit Christi.\n    In: 1. Eisenacher Konferenz in Eisenach. Seite 116 - 125\n    Leipzig 1902\n\n    117/2: Die kirchliche Gemeinschaft.\n    In: 10. Eisenacher Konferenz in Essen. Seite 53 - 63\n    Bethel 1911",
+      "nummer": "117",
+      "titel": "Biblische Vorträge bei Eisenacher Konferenzen",
+      "beschreibung": "Sammlung biblischer Vorträge bei den Eisenacher Konferenzen. Enthält Vorträge von Schlatter (siehe 117/1 und 117/2).",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "117/1: Die Gottheit Christi.\n    In: 1. Eisenacher Konferenz in Eisenach. Seite 116 - 125\n    Leipzig 1902",
+          "titel": "Die Gottheit Christi.",
+          "nummer": "117/1",
+          "beschreibung": "Vortrag bei der 1. Eisenacher Konferenz in Eisenach. Veröffentlicht in Leipzig 1902. Seiten 116-125.",
+          "typ": "Vortrag",
+          "seiten": "116-125",
+          "ort": "Leipzig",
+          "jahr": 1902,
+          "beteiligte": [
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Vortragender",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "117/2: Die kirchliche Gemeinschaft.\n    In: 10. Eisenacher Konferenz in Essen. Seite 53 - 63\n    Bethel 1911",
+          "titel": "Die kirchliche Gemeinschaft.",
+          "nummer": "117/2",
+          "beschreibung": "Vortrag bei der 10. Eisenacher Konferenz in Essen. Veröffentlicht Bethel 1911. Seiten 53-63.",
+          "typ": "Vortrag",
+          "seiten": "53-63",
+          "ort": "Bethel",
+          "jahr": 1911,
+          "beteiligte": [
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Vortragender",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Zusammensteller",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_048.json",
+      "_pageNumber": "24"
+    }
+  ],
+  "notes": "Seite enthält die Fortsetzung der Unterkategorie c) Sonstige Schriften mit weiteren Unterpunkte d), e) und f)."
+}

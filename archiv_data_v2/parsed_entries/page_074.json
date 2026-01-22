@@ -1,0 +1,310 @@
+{
+  "sourceFile": "page_074.json",
+  "pageNumber": "50",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+    "unterabschnitt": "4. Manuskripte von Vorträgen. Skizzen",
+    "unterkategorie": "d) Verschiedene Blätter"
+  },
+  "entriesCount": 18,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "4. Manuskripte von Vorträgen. Skizzen",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "Nr. 244: Adolf Schlatter, Vortrag in Greifswald über St. Martin,\n        \"frei gehalten\" anhand von Notizen von E. Fröhlich.\n        6. Dez. 1891",
+      "nummer": "244",
+      "titel": "Vortrag in Greifswald über St. Martin",
+      "beschreibung": "Vortrag frei gehalten, anhand von Notizen von E. Fröhlich.",
+      "typ": "Vortrag",
+      "datum": "1891-12-06",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Vortragender",
+          "entity": "Person"
+        },
+        {
+          "name": "E. Fröhlich",
+          "rolle": "Protokollant",
+          "entity": "Person",
+          "zusatz": "Notizen als Grundlage"
+        }
+      ],
+      "_quelldatei": "page_074.json",
+      "_pageNumber": "50"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "4. Manuskripte von Vorträgen. Skizzen",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "245: Johannes der Täufer. Reime. Vgl. Bibl.2 Nr. 428",
+      "nummer": "245",
+      "titel": "Johannes der Täufer",
+      "beschreibung": "Reime. Verweis: Bibl.2 Nr. 428",
+      "typ": "Gedichte/Lyrik",
+      "verweis": "Bibl.2 Nr. 428",
+      "_quelldatei": "page_074.json",
+      "_pageNumber": "50"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "4. Manuskripte von Vorträgen. Skizzen",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "246: Gedenkrede für Karl von Weizsäcker. Manuskript",
+      "nummer": "246",
+      "titel": "Gedenkrede für Karl von Weizsäcker",
+      "beschreibung": "Manuskript einer Gedenkrede.",
+      "typ": "Rede",
+      "_quelldatei": "page_074.json",
+      "_pageNumber": "50"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "4. Manuskripte von Vorträgen. Skizzen",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "Nr. 247-\n254: Gebündelte Teile. 8 Bde.",
+      "nummer": "247-254",
+      "titel": "Gebündelte Teile",
+      "beschreibung": "Gebündelte Teile, 8 Bände.",
+      "typ": "Sammlung",
+      "umfang": "8 Bde.",
+      "_quelldatei": "page_074.json",
+      "_pageNumber": "50"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "4. Manuskripte von Vorträgen. Skizzen",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "255: Lose Blätter.",
+      "nummer": "255",
+      "titel": "Lose Blätter",
+      "beschreibung": "Lose Blätter (unspezifiziert).",
+      "typ": "Sammlung",
+      "_quelldatei": "page_074.json",
+      "_pageNumber": "50"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "4. Manuskripte von Vorträgen. Skizzen",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "Nr. 256: Zwingli-Gedächtnistag. Vortrag, wahrscheinlich 1884",
+      "nummer": "256",
+      "titel": "Zwingli-Gedächtnistag",
+      "beschreibung": "Vortrag (wahrscheinlich 1884).",
+      "typ": "Vortrag",
+      "jahr": 1884,
+      "anmerkung": "Jahresangabe als wahrscheinlich gekennzeichnet.",
+      "_quelldatei": "page_074.json",
+      "_pageNumber": "50"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "4. Manuskripte von Vorträgen. Skizzen",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "257: \"Einige Bemerkungen zu Zwinglis Büchlein von Gottes Providenz\". Vortrag",
+      "nummer": "257",
+      "titel": "Einige Bemerkungen zu Zwinglis Büchlein von Gottes Providenz",
+      "beschreibung": "Vortrag.",
+      "typ": "Vortrag",
+      "_quelldatei": "page_074.json",
+      "_pageNumber": "50"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "4. Manuskripte von Vorträgen. Skizzen",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "258: Rede über die Anbetung Jesu.",
+      "nummer": "258",
+      "titel": "Rede über die Anbetung Jesu",
+      "typ": "Rede",
+      "beschreibung": "Rede über die Anbetung Jesu.",
+      "_quelldatei": "page_074.json",
+      "_pageNumber": "50"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "4. Manuskripte von Vorträgen. Skizzen",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "259: Vorträge über Lukas 1,67-79; Johannes 12,28-32; Römer 8,1-4",
+      "nummer": "259",
+      "titel": "Vorträge zu biblischen Texten",
+      "beschreibung": "Vorträge über mehrere Bibelstellen.",
+      "typ": "Vortrag",
+      "bibelstelle": "Lukas 1,67-79; Johannes 12,28-32; Römer 8,1-4",
+      "untereintraege": [
+        {
+          "rawText": "Lukas 1,67-79",
+          "titel": "Vortrag über Lukas 1,67-79",
+          "typ": "Vortrag",
+          "bibelstelle": "Lukas 1,67-79"
+        },
+        {
+          "rawText": "Johannes 12,28-32",
+          "titel": "Vortrag über Johannes 12,28-32",
+          "typ": "Vortrag",
+          "bibelstelle": "Johannes 12,28-32"
+        },
+        {
+          "rawText": "Römer 8,1-4",
+          "titel": "Vortrag über Römer 8,1-4",
+          "typ": "Vortrag",
+          "bibelstelle": "Römer 8,1-4"
+        }
+      ],
+      "_quelldatei": "page_074.json",
+      "_pageNumber": "50"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "4. Manuskripte von Vorträgen. Skizzen",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "260: Konfirmation. Entwurf einer Abhandlung",
+      "nummer": "260",
+      "titel": "Konfirmation",
+      "beschreibung": "Entwurf einer Abhandlung.",
+      "typ": "Studie",
+      "anmerkung": "Entwurf",
+      "_quelldatei": "page_074.json",
+      "_pageNumber": "50"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "4. Manuskripte von Vorträgen. Skizzen",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "261: Die Jugend im Aufbau der Gemeinde. Abhandlung",
+      "nummer": "261",
+      "titel": "Die Jugend im Aufbau der Gemeinde",
+      "beschreibung": "Abhandlung.",
+      "typ": "Studie",
+      "_quelldatei": "page_074.json",
+      "_pageNumber": "50"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "4. Manuskripte von Vorträgen. Skizzen",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "262: 3 Vorträge: Jesus unsere Hoffnung.\n      Islam und Christentum.\n      Paulus und Timotheus.\n\n      Vgl. Gesunde Lehre. Hilfe in Bibelnot.",
+      "nummer": "262",
+      "titel": "3 Vorträge",
+      "beschreibung": "Drei Vorträge: \"Jesus unsere Hoffnung\", \"Islam und Christentum\", \"Paulus und Timotheus\". Verweis: Gesunde Lehre. Hilfe in Bibelnot.",
+      "typ": "Vortrag",
+      "verweis": "Gesunde Lehre. Hilfe in Bibelnot.",
+      "untereintraege": [
+        {
+          "rawText": "Jesus unsere Hoffnung",
+          "titel": "Jesus unsere Hoffnung",
+          "typ": "Vortrag"
+        },
+        {
+          "rawText": "Islam und Christentum",
+          "titel": "Islam und Christentum",
+          "typ": "Vortrag"
+        },
+        {
+          "rawText": "Paulus und Timotheus",
+          "titel": "Paulus und Timotheus",
+          "typ": "Vortrag"
+        }
+      ],
+      "_quelldatei": "page_074.json",
+      "_pageNumber": "50"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "4. Manuskripte von Vorträgen. Skizzen",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "263: Luther. Manuskript einer Rede",
+      "nummer": "263",
+      "titel": "Luther",
+      "beschreibung": "Manuskript einer Rede.",
+      "typ": "Rede",
+      "_quelldatei": "page_074.json",
+      "_pageNumber": "50"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "4. Manuskripte von Vorträgen. Skizzen",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "264: Rede über Kelsus im akademischen Missionsverein Tübingen.",
+      "nummer": "264",
+      "titel": "Rede über Kelsus",
+      "beschreibung": "Vortrag im akademischen Missionsverein Tübingen.",
+      "typ": "Rede",
+      "ort": "Tübingen",
+      "_quelldatei": "page_074.json",
+      "_pageNumber": "50"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "4. Manuskripte von Vorträgen. Skizzen",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "265: Die Offenbarung der Gottheit Jesu an seinem Kreuz.\n      Vgl. Beiträge zur Förderung christlicher Theologie.\n      Heft 5/1901",
+      "nummer": "265",
+      "titel": "Die Offenbarung der Gottheit Jesu an seinem Kreuz",
+      "beschreibung": "Mit Verweis auf Publikation: Beiträge zur Förderung christlicher Theologie, Heft 5/1901.",
+      "typ": "Aufsatz",
+      "verweis": "Beiträge zur Förderung christlicher Theologie, Heft 5/1901",
+      "jahr": 1901,
+      "_quelldatei": "page_074.json",
+      "_pageNumber": "50"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "4. Manuskripte von Vorträgen. Skizzen",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "266: Ehre und Schande. Vortrag in Lübeck",
+      "nummer": "266",
+      "titel": "Ehre und Schande",
+      "beschreibung": "Vortrag in Lübeck.",
+      "typ": "Vortrag",
+      "ort": "Lübeck",
+      "_quelldatei": "page_074.json",
+      "_pageNumber": "50"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "4. Manuskripte von Vorträgen. Skizzen",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "267: Was fordert die evangelische Kirche vom Gymnasium?",
+      "nummer": "267",
+      "titel": "Was fordert die evangelische Kirche vom Gymnasium?",
+      "beschreibung": "Frage/Vortragsthema.",
+      "typ": "Vortrag",
+      "_quelldatei": "page_074.json",
+      "_pageNumber": "50"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "4. Manuskripte von Vorträgen. Skizzen",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "268: Wirken und Leiden im Verkehr mit der Jugend. Vortrag vor\n     Lehrerinnen",
+      "nummer": "268",
+      "titel": "Wirken und Leiden im Verkehr mit der Jugend",
+      "beschreibung": "Vortrag vor Lehrerinnen.",
+      "typ": "Vortrag",
+      "_quelldatei": "page_074.json",
+      "_pageNumber": "50"
+    }
+  ],
+  "notes": "Fußzeile mit Seitenzahl '50'."
+}

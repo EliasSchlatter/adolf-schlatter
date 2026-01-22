@@ -1,0 +1,313 @@
+{
+  "sourceFile": "page_179.json",
+  "pageNumber": "155",
+  "context": {
+    "teil": "Anhang",
+    "sektion": "Abschnitt I: Ungedrucktes",
+    "unterabschnitt": "9. Biographisches",
+    "unterkategorie": "c) Erinnerungen von Zeitgenossen an Schlatter"
+  },
+  "entriesCount": 15,
+  "entries": [
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "c) Erinnerungen von Zeitgenossen an Schlatter",
+      "rawText": "Nr. 892/2: Unterlagen zum theol. Examen 3.5.1875.\n    Noten durchgehend I",
+      "nummer": "892/2",
+      "titel": "Unterlagen zum theol. Examen",
+      "beschreibung": "Unterlagen zum theol. Examen. Noten durchgehend I",
+      "typ": "Urkunde",
+      "datum": "1875-05-03",
+      "anmerkung": "Noten durchgehend I",
+      "_quelldatei": "page_179.json",
+      "_pageNumber": "155"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "c) Erinnerungen von Zeitgenossen an Schlatter",
+      "rawText": "893: Amtliches zum Vikariat in Kilchberg und Diakonat in Zürich-Neumünster.",
+      "nummer": "893",
+      "titel": "Amtliches zum Vikariat in Kilchberg und Diakonat in Zürich-Neumünster",
+      "typ": "Urkunde",
+      "_quelldatei": "page_179.json",
+      "_pageNumber": "155"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "c) Erinnerungen von Zeitgenossen an Schlatter",
+      "rawText": "954: Adolf Schlatter, Taufe in St. Gallen, Kirche St. Mangen,\n    22.10.1852.",
+      "nummer": "954",
+      "titel": "Adolf Schlatter, Taufe in St. Gallen, Kirche St. Mangen",
+      "typ": "Urkunde",
+      "datum": "1852-10-22",
+      "ort": "St. Gallen",
+      "anmerkung": "Kirche St. Mangen",
+      "_quelldatei": "page_179.json",
+      "_pageNumber": "155"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "c) Erinnerungen von Zeitgenossen an Schlatter",
+      "rawText": "964: Matura Frühjahr 1871 St. Gallen.\n    Zeugnistabelle: Noten durchgehend I",
+      "nummer": "964",
+      "titel": "Matura Frühjahr 1871 St. Gallen",
+      "beschreibung": "Zeugnistabelle: Noten durchgehend I",
+      "typ": "Urkunde",
+      "jahr": 1871,
+      "_quelldatei": "page_179.json",
+      "_pageNumber": "155"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "c) Erinnerungen von Zeitgenossen an Schlatter",
+      "rawText": "c) Erinnerungen von Zeitgenossen an Schlatter",
+      "nummer": "Überschrift",
+      "titel": "c) Erinnerungen von Zeitgenossen an Schlatter",
+      "_quelldatei": "page_179.json",
+      "_pageNumber": "155"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "c) Erinnerungen von Zeitgenossen an Schlatter",
+      "rawText": "Nr. 160: Moritat zum 80. Geburtstag; Studentengedichte über\n    Schlatter; Erinnerungen von G. Lang.",
+      "nummer": "160",
+      "titel": "Moritat zum 80. Geburtstag; Studentengedichte; Erinnerungen von G. Lang",
+      "typ": "Erinnerungen/Memoiren",
+      "untereintraege": [
+        {
+          "rawText": "Moritat zum 80. Geburtstag",
+          "titel": "Moritat zum 80. Geburtstag",
+          "typ": "Erinnerungen/Memoiren"
+        },
+        {
+          "rawText": "Studentengedichte über Schlatter",
+          "titel": "Studentengedichte über Schlatter",
+          "typ": "Erinnerungen/Memoiren"
+        },
+        {
+          "rawText": "Erinnerungen von G. Lang",
+          "titel": "Erinnerungen von G. Lang",
+          "typ": "Erinnerungen/Memoiren",
+          "beteiligte": [
+            {
+              "name": "G. Lang",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_179.json",
+      "_pageNumber": "155"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "c) Erinnerungen von Zeitgenossen an Schlatter",
+      "rawText": "161: Zum Begräbnis von Schlatter 19.5.1938:\n    Todesanzeige; Feier am Grabe; Nachrufe aus der kirch-\n    lichen und weltlichen Presse.",
+      "nummer": "161",
+      "titel": "Zum Begräbnis von Schlatter",
+      "typ": "Erinnerungen/Memoiren",
+      "datum": "1938-05-19",
+      "untereintraege": [
+        {
+          "rawText": "Todesanzeige",
+          "titel": "Todesanzeige",
+          "typ": "Erinnerungen/Memoiren"
+        },
+        {
+          "rawText": "Feier am Grabe",
+          "titel": "Feier am Grabe",
+          "typ": "Erinnerungen/Memoiren"
+        },
+        {
+          "rawText": "Nachrufe aus der kirchlichen und weltlichen Presse",
+          "titel": "Nachrufe aus der kirchlichen und weltlichen Presse",
+          "typ": "Erinnerungen/Memoiren"
+        }
+      ],
+      "_quelldatei": "page_179.json",
+      "_pageNumber": "155"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "c) Erinnerungen von Zeitgenossen an Schlatter",
+      "rawText": "Nr. 601: Friedrich Leiwe, das Adolf-Schlatter-Heim in Recke-West\nfalen. Dabei: Erinnerungen. Vgl. Nr. 924",
+      "nummer": "601",
+      "titel": "Friedrich Leiwe: das Adolf-Schlatter-Heim in Recke-Westfalen",
+      "beschreibung": "Dabei: Erinnerungen",
+      "typ": "Erinnerungen/Memoiren",
+      "beteiligte": [
+        {
+          "name": "Friedrich Leiwe",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verweis": "924",
+      "_quelldatei": "page_179.json",
+      "_pageNumber": "155"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "c) Erinnerungen von Zeitgenossen an Schlatter",
+      "rawText": "606: Hermann Dietzfelbinger, 2 Briefe 1979 mit Schlatter-Er\ninnerungen.",
+      "nummer": "606",
+      "titel": "Hermann Dietzfelbinger: 2 Briefe mit Schlatter-Erinnerungen",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "jahr": 1979,
+      "beteiligte": [
+        {
+          "name": "Hermann Dietzfelbinger",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_179.json",
+      "_pageNumber": "155"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "c) Erinnerungen von Zeitgenossen an Schlatter",
+      "rawText": "609: Manfred Jehle, u. a. Vorgänge bei der Berufung Schlatters\n    nach Tübingen.",
+      "nummer": "609",
+      "titel": "Manfred Jehle: Vorgänge bei der Berufung Schlatters nach Tübingen",
+      "typ": "Erinnerungen/Memoiren",
+      "beteiligte": [
+        {
+          "name": "Manfred Jehle",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_179.json",
+      "_pageNumber": "155"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "c) Erinnerungen von Zeitgenossen an Schlatter",
+      "rawText": "623: Hans Stroh, unveröffentlichtes Manuskript: \"Was ihm zu-\nletzt noch Sorgen machte\". 1952",
+      "nummer": "623",
+      "titel": "Hans Stroh: \"Was ihm zuletzt noch Sorgen machte\"",
+      "typ": "Manuskript",
+      "jahr": 1952,
+      "beteiligte": [
+        {
+          "name": "Hans Stroh",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_179.json",
+      "_pageNumber": "155"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "c) Erinnerungen von Zeitgenossen an Schlatter",
+      "rawText": "625: Adolf Wischmann, Aufzeichnungen von seiner Assistenten-\n    tätigkeit bei Karl Fezer, Tübingen 1934 und 1935. Darin\n    viele Notizen zu seiner Arbeitsverbindung mit Schlatter.",
+      "nummer": "625",
+      "titel": "Adolf Wischmann: Aufzeichnungen über Assistententätigkeit bei Karl Fezer",
+      "beschreibung": "Tübingen 1934 und 1935. Viele Notizen zur Arbeitsverbindung mit Schlatter.",
+      "typ": "Notizbuch/Heft",
+      "zeitraum": "1934-1935",
+      "beteiligte": [
+        {
+          "name": "Adolf Wischmann",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Karl Fezer",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_179.json",
+      "_pageNumber": "155"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "c) Erinnerungen von Zeitgenossen an Schlatter",
+      "rawText": "640: Karl Gutbrod, Adolf Schlatter 1852 - 1938.\n    Manuskript. Vortrag Kirchheim 1967.",
+      "nummer": "640",
+      "titel": "Karl Gutbrod: Adolf Schlatter 1852 - 1938",
+      "typ": "Manuskript",
+      "jahr": 1967,
+      "beteiligte": [
+        {
+          "name": "Karl Gutbrod",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Manuskript; Vortrag in Kirchheim 1967",
+      "_quelldatei": "page_179.json",
+      "_pageNumber": "155"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "c) Erinnerungen von Zeitgenossen an Schlatter",
+      "rawText": "648: Theodor Kiefner, Erinnerungen u. a. über Verhältnis\n    Schlatters zur CSV.",
+      "nummer": "648",
+      "titel": "Theodor Kiefner: Erinnerungen über Verhältnis Schlatters zur CSV",
+      "typ": "Erinnerungen/Memoiren",
+      "beteiligte": [
+        {
+          "name": "Theodor Kiefner",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_179.json",
+      "_pageNumber": "155"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "c) Erinnerungen von Zeitgenossen an Schlatter",
+      "rawText": "653: Hermann Klemm, Information über Schlatters Verhältnis\n    zur Gruppenbewegung.",
+      "nummer": "653",
+      "titel": "Hermann Klemm: Information über Schlatters Verhältnis zur Gruppenbewegung",
+      "typ": "Erinnerungen/Memoiren",
+      "beteiligte": [
+        {
+          "name": "Hermann Klemm",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_179.json",
+      "_pageNumber": "155"
+    }
+  ],
+  "notes": "Seite im Original: 155. OCR: gut lesbar; Fußzeile mit Seitenzahl 155."
+}

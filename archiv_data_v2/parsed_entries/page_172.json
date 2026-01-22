@@ -1,0 +1,259 @@
+{
+  "sourceFile": "page_172.json",
+  "pageNumber": "148",
+  "context": {
+    "teil": "Anhang Abschnitt I: Ungedrucktes",
+    "sektion": "B Korrespondenz",
+    "unterabschnitt": "4 Systematische Theologie und Philosophie",
+    "unterkategorie": "C Verschiedenes"
+  },
+  "entriesCount": 15,
+  "entries": [
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "Nr. 176: De lege divina. Abhandlung.",
+      "nummer": "176",
+      "titel": "De lege divina",
+      "beschreibung": "Abhandlung.",
+      "typ": "Aufsatz",
+      "_quelldatei": "page_172.json",
+      "_pageNumber": "148"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "177: Reden und Aufsätze der Berner Zeit. Darunter:",
+      "nummer": "177",
+      "titel": "Reden und Aufsätze der Berner Zeit",
+      "beschreibung": "Sammlung mit Untereinträgen (siehe 177/7, 177/8).",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "177/7: Beurteilung der Ascese und Verhältnis derselben zum Christlichen Prinzip.",
+          "titel": "Beurteilung der Ascese und Verhältnis derselben zum Christlichen Prinzip",
+          "typ": "Aufsatz"
+        },
+        {
+          "rawText": "177/8: Das Verhältnis des Augustinisch-reformatorischen Determinismus zum modernen Pantheismus.",
+          "titel": "Das Verhältnis des Augustinisch-reformatorischen Determinismus zum modernen Pantheismus",
+          "typ": "Aufsatz"
+        }
+      ],
+      "_quelldatei": "page_172.json",
+      "_pageNumber": "148"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "183: Geschichte der speculativen Theologie seit Cartesius. Vorlesung Bern.",
+      "nummer": "183",
+      "titel": "Geschichte der speculativen Theologie seit Cartesius",
+      "beschreibung": "Vorlesung, Bern.",
+      "typ": "Vorlesung",
+      "_quelldatei": "page_172.json",
+      "_pageNumber": "148"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "184: Biblische, theologische und philosophische Begriffe. Mit Zitaten aus Franz von Baader und St. Martin.",
+      "nummer": "184",
+      "titel": "Biblische, theologische und philosophische Begriffe",
+      "beschreibung": "Mit Zitaten aus Franz von Baader und St. Martin.",
+      "typ": "Studie",
+      "_quelldatei": "page_172.json",
+      "_pageNumber": "148"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "185: Zur Philosophie Franz von Baaders. Vorlesung Bern. Vgl. Inventar-Nr. 936",
+      "nummer": "185",
+      "titel": "Zur Philosophie Franz von Baaders",
+      "beschreibung": "Vorlesung, Bern.",
+      "typ": "Vorlesung",
+      "verweis": "Inventar-Nr. 936",
+      "_quelldatei": "page_172.json",
+      "_pageNumber": "148"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "191: Wesen und Quellen der Gotteserkenntnis. Vorlesung Bern.",
+      "nummer": "191",
+      "titel": "Wesen und Quellen der Gotteserkenntnis",
+      "beschreibung": "Vorlesung, Bern.",
+      "typ": "Vorlesung",
+      "_quelldatei": "page_172.json",
+      "_pageNumber": "148"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "192: Christologie und Soteriologie. Vorlesung Bern.",
+      "nummer": "192",
+      "titel": "Christologie und Soteriologie",
+      "beschreibung": "Vorlesung, Bern.",
+      "typ": "Vorlesung",
+      "_quelldatei": "page_172.json",
+      "_pageNumber": "148"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "193: Reden und Aufsätze der Berner Zeit. Darunter:",
+      "nummer": "193",
+      "titel": "Reden und Aufsätze der Berner Zeit",
+      "beschreibung": "Sammlung mit Untereinträgen (siehe 193/1–193/6).",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "193/1: Habilitationsrede zum Zusammenhang von Dogma und Geschichte.",
+          "titel": "Habilitationsrede zum Zusammenhang von Dogma und Geschichte",
+          "typ": "Rede"
+        },
+        {
+          "rawText": "193/2: Habilitationsrede, ursprüngliche Fassung.",
+          "titel": "Habilitationsrede (ursprüngliche Fassung)",
+          "typ": "Rede"
+        },
+        {
+          "rawText": "193/3: Zum Zusammenhang von Dogma und Kantianismus. Fragment.",
+          "titel": "Zum Zusammenhang von Dogma und Kantianismus",
+          "beschreibung": "Fragment.",
+          "typ": "Aufsatz"
+        },
+        {
+          "rawText": "193/4: Zu Reinhardt, die wahre Weltanschauung.",
+          "titel": "Zu Reinhardt, die wahre Weltanschauung",
+          "typ": "Aufsatz"
+        },
+        {
+          "rawText": "193/5: Zur Lehre von der Sünde.",
+          "titel": "Zur Lehre von der Sünde",
+          "typ": "Aufsatz"
+        },
+        {
+          "rawText": "193/6: Eine Antwort an Schnedermann.",
+          "titel": "Eine Antwort an Schnedermann",
+          "typ": "Aufsatz"
+        }
+      ],
+      "_quelldatei": "page_172.json",
+      "_pageNumber": "148"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "202: Enzyklopädie. Einführung in die Theologie.",
+      "nummer": "202",
+      "titel": "Enzyklopädie. Einführung in die Theologie",
+      "typ": "Studie",
+      "_quelldatei": "page_172.json",
+      "_pageNumber": "148"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "220: Vom Glauben. 3 Vorträge 1929.",
+      "nummer": "220",
+      "titel": "Vom Glauben",
+      "beschreibung": "3 Vorträge.",
+      "typ": "Vortrag",
+      "umfang": "3 Vorträge",
+      "jahr": 1929,
+      "_quelldatei": "page_172.json",
+      "_pageNumber": "148"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "241: Metaphysik. Eine Skizze. Vgl. Inventar-Nr. 913",
+      "nummer": "241",
+      "titel": "Metaphysik. Eine Skizze",
+      "beschreibung": "Eine Skizze.",
+      "typ": "Studie",
+      "verweis": "Inventar-Nr. 913",
+      "_quelldatei": "page_172.json",
+      "_pageNumber": "148"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "244: Vortrag in Greifswald über St. Martin.",
+      "nummer": "244",
+      "titel": "Vortrag über St. Martin",
+      "beschreibung": "Vortrag in Greifswald.",
+      "typ": "Vortrag",
+      "ort": "Greifswald",
+      "_quelldatei": "page_172.json",
+      "_pageNumber": "148"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "266: Ehre und Schande. Vortrag in Lübeck.",
+      "nummer": "266",
+      "titel": "Ehre und Schande",
+      "beschreibung": "Vortrag in Lübeck.",
+      "typ": "Vortrag",
+      "ort": "Lübeck",
+      "_quelldatei": "page_172.json",
+      "_pageNumber": "148"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "269: Philosophie und Christentum. Vortrag.",
+      "nummer": "269",
+      "titel": "Philosophie und Christentum",
+      "beschreibung": "Vortrag.",
+      "typ": "Vortrag",
+      "_quelldatei": "page_172.json",
+      "_pageNumber": "148"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "270: Paskal. Abhandlung.",
+      "nummer": "270",
+      "titel": "Paskal",
+      "beschreibung": "Abhandlung.",
+      "typ": "Aufsatz",
+      "_quelldatei": "page_172.json",
+      "_pageNumber": "148"
+    }
+  ],
+  "notes": "OCR-Seite enthält klar erkennbare Inventar-Einträge. Kopfzeile zeigt neuen Unterabschnitt '4 Systematische Theologie und Philosophie'."
+}

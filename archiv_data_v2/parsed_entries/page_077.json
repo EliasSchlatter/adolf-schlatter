@@ -1,0 +1,229 @@
+{
+  "sourceFile": "page_077.json",
+  "pageNumber": "77",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+    "unterabschnitt": "6. Rezensionen von Werken Schlatter s",
+    "unterkategorie": "d) Verschiedene Blätter"
+  },
+  "entriesCount": 7,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "6. Rezensionen von Werken Schlatter s",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "Nr. 303/1: Reinhold Seeberg zu:\nDer Dienst des Christen in der älteren Dogmatik.\nBeiträge zur Förderung christlicher Theologie,\nHeft 1/1897.\nAus: Theol. Rundschau I 13",
+      "nummer": "303/1",
+      "titel": "Der Dienst des Christen in der älteren Dogmatik",
+      "beschreibung": "Beiträge zur Förderung christlicher Theologie, Heft 1/1897. Aus: Theol. Rundschau I 13",
+      "typ": "Artikel",
+      "jahr": 1897,
+      "zeitschrift": "Theol. Rundschau",
+      "seiten": "I 13",
+      "beteiligte": [
+        {
+          "name": "Reinhold Seeberg",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_077.json",
+      "_pageNumber": "77"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "6. Rezensionen von Werken Schlatter s",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "303/2: Carl Siegfried zu:\nDie Tage Trajans und Hadrians.\nBeiträge zur Förderung christlicher Theologie,\nHeft 3/1897.\nAus: Theol. Jahresbericht XVIII, 1, 1898",
+      "nummer": "303/2",
+      "titel": "Die Tage Trajans und Hadrians",
+      "beschreibung": "Beiträge zur Förderung christlicher Theologie, Heft 3/1897. Aus: Theol. Jahresbericht XVIII, 1, 1898",
+      "typ": "Artikel",
+      "jahr": 1898,
+      "zeitschrift": "Theol. Jahresbericht",
+      "band": "XVIII",
+      "heft": "1",
+      "beteiligte": [
+        {
+          "name": "Carl Siegfried",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_077.json",
+      "_pageNumber": "77"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "6. Rezensionen von Werken Schlatter s",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "303/3: Verfasser ohne Name zu:\nDas neu gefundene hebräische Stück des Sirach.\nBeiträge zur Förderung christlicher Theologie,\nHeft 5 und 6/1897.\nAus: The Critical Review IX.1.1899",
+      "nummer": "303/3",
+      "titel": "Das neu gefundene hebräische Stück des Sirach",
+      "beschreibung": "Beiträge zur Förderung christlicher Theologie, Heft 5 und 6/1897. Aus: The Critical Review IX.1.1899",
+      "typ": "Artikel",
+      "jahr": 1899,
+      "zeitschrift": "The Critical Review",
+      "band": "IX",
+      "heft": "1",
+      "beteiligte": [
+        {
+          "name": "ohne Name",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_077.json",
+      "_pageNumber": "77"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "6. Rezensionen von Werken Schlatter s",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "303/4: E. Schürer zu:\nDie Kirche Jerusalems vom Jahre 70 - 130.\nBeiträge zur Förderung christlicher Theologie,\nHeft 3/1898.\nAus: Theol. Literaturzeitung, 1899 Nr. 8\n\nDazu weitere Besprechungen\nAus: Mecklenburgisches Kirchen- und Zeitblatt, 1890 Nr. 14\nund Evang. Kirchenblatt für Württ., 1898 Nr. 34",
+      "nummer": "303/4",
+      "titel": "Die Kirche Jerusalems vom Jahre 70 - 130",
+      "beschreibung": "Beiträge zur Förderung christlicher Theologie, Heft 3/1898. Aus: Theol. Literaturzeitung, 1899 Nr. 8",
+      "typ": "Artikel",
+      "jahr": 1899,
+      "zeitschrift": "Theol. Literaturzeitung",
+      "seiten": "Nr. 8",
+      "beteiligte": [
+        {
+          "name": "E. Schürer",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Mecklenburgisches Kirchen- und Zeitblatt, 1890 Nr. 14",
+          "beschreibung": "Weitere Besprechung, Mecklenburgisches Kirchen- und Zeitblatt, 1890 Nr. 14",
+          "jahr": 1890,
+          "zeitschrift": "Mecklenburgisches Kirchen- und Zeitblatt"
+        },
+        {
+          "rawText": "Evang. Kirchenblatt für Württ., 1898 Nr. 34",
+          "beschreibung": "Weitere Besprechung, Evang. Kirchenblatt für Württ., 1898 Nr. 34",
+          "jahr": 1898,
+          "zeitschrift": "Evang. Kirchenblatt für Württ."
+        }
+      ],
+      "_quelldatei": "page_077.json",
+      "_pageNumber": "77"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "6. Rezensionen von Werken Schlatter s",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "303/5: H. Holtzmann zu:\nDie Parallelen in den Worten Jesu bei Johannes und\nMatthäus.\nBeiträge zur Förderung christlicher Theologie,\nHeft 5/1898.\nAus: Theol. Literaturzeitung, 1899 Nr. 6\n\nDazu weitere Besprechungen aus Theol. Jahresbericht\nXVIII, 1898; Leipziger Zeitung, 1898 Nr. 138; Kirch1.\nMonatsschrift 1899.",
+      "nummer": "303/5",
+      "titel": "Die Parallelen in den Worten Jesu bei Johannes und Matthäus",
+      "beschreibung": "Beiträge zur Förderung christlicher Theologie, Heft 5/1898. Aus: Theol. Literaturzeitung, 1899 Nr. 6",
+      "typ": "Artikel",
+      "jahr": 1899,
+      "zeitschrift": "Theol. Literaturzeitung",
+      "seiten": "Nr. 6",
+      "beteiligte": [
+        {
+          "name": "H. Holtzmann",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Theol. Jahresbericht XVIII, 1898",
+          "beschreibung": "Weitere Besprechung, Theol. Jahresbericht XVIII, 1898",
+          "jahr": 1898,
+          "zeitschrift": "Theol. Jahresbericht",
+          "band": "XVIII"
+        },
+        {
+          "rawText": "Leipziger Zeitung, 1898 Nr. 138",
+          "beschreibung": "Weitere Besprechung, Leipziger Zeitung, 1898 Nr. 138",
+          "jahr": 1898,
+          "zeitschrift": "Leipziger Zeitung",
+          "seiten": "Nr. 138"
+        },
+        {
+          "rawText": "Kirch1. Monatsschrift 1899",
+          "beschreibung": "Weitere Besprechung, Kirchl. Monatsschrift 1899",
+          "jahr": 1899,
+          "zeitschrift": "Kirchl. Monatsschrift"
+        }
+      ],
+      "_quelldatei": "page_077.json",
+      "_pageNumber": "77"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "6. Rezensionen von Werken Schlatter s",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "303/6: \"M.\" zu:\nJochanan Ben Zakkai, der Zeitgenosse der Apostel.\nBeiträge zur Förderung christlicher Theologie,\nHeft 4/1899.\nAus: Kreuzzeitung 26.11.1899\n\nDazu \"J. J.\" in Leipziger Zeitung, 1900 Nr. 21",
+      "nummer": "303/6",
+      "titel": "Jochanan Ben Zakkai, der Zeitgenosse der Apostel",
+      "beschreibung": "Beiträge zur Förderung christlicher Theologie, Heft 4/1899. Aus: Kreuzzeitung 26.11.1899",
+      "typ": "Artikel",
+      "datum": "1899-11-26",
+      "zeitschrift": "Kreuzzeitung",
+      "beteiligte": [
+        {
+          "name": "M.",
+          "rolle": "Autor",
+          "entity": "Person",
+          "zusatz": "Initiale"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "\"J. J.\" in Leipziger Zeitung, 1900 Nr. 21",
+          "beschreibung": "Weitere Besprechung, J. J. in Leipziger Zeitung, 1900 Nr. 21",
+          "jahr": 1900,
+          "zeitschrift": "Leipziger Zeitung",
+          "beteiligte": [
+            {
+              "name": "J. J.",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ],
+          "seiten": "Nr. 21"
+        }
+      ],
+      "_quelldatei": "page_077.json",
+      "_pageNumber": "77"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "6. Rezensionen von Werken Schlatter s",
+      "unterkategorie": "d) Verschiedene Blätter",
+      "rawText": "303/7: Walter Bauer zu:\nDie korinthische Theologie.\nBeiträge zur Förderung christlicher Theologie,\nHeft 2/1914.\nAus: Theol. Literaturzeitung, 1916 Nr. 22",
+      "nummer": "303/7",
+      "titel": "Die korinthische Theologie",
+      "beschreibung": "Beiträge zur Förderung christlicher Theologie, Heft 2/1914. Aus: Theol. Literaturzeitung, 1916 Nr. 22",
+      "typ": "Artikel",
+      "jahr": 1916,
+      "zeitschrift": "Theol. Literaturzeitung",
+      "seiten": "Nr. 22",
+      "beteiligte": [
+        {
+          "name": "Walter Bauer",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_077.json",
+      "_pageNumber": "77"
+    }
+  ],
+  "notes": "Seite enthält die Unterüberschrift '6. Rezensionen von Werken Schlatter s'. OCR enthält kleinere Druckfehler (z.B. 'Kirch1.' für 'Kirchl.')."
+}

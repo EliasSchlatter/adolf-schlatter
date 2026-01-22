@@ -1,0 +1,282 @@
+{
+  "sourceFile": "page_100.json",
+  "pageNumber": "76",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "A Bücher",
+    "unterabschnitt": "4 Systematische Theologie und Philosophie",
+    "unterkategorie": "C Verschiedenes"
+  },
+  "entriesCount": 13,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "Nr. 558: Adolf Schlatter, Tübinger Predigten.\n    Verlag Georg Schnürlen, Tübingen 1906",
+      "nummer": "558",
+      "titel": "Tübinger Predigten",
+      "beschreibung": "Adolf Schlatter",
+      "typ": "Buch",
+      "verlag": "Georg Schnürlen",
+      "ort": "Tübingen",
+      "jahr": 1906,
+      "_quelldatei": "page_100.json",
+      "_pageNumber": "76"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "559: Adolf Schlatter, Hilfe in Bibelnot.\n    Freizeiten-Verlag Velbert 1928",
+      "nummer": "559",
+      "titel": "Hilfe in Bibelnot",
+      "beschreibung": "Adolf Schlatter",
+      "typ": "Buch",
+      "verlag": "Freizeiten-Verlag",
+      "ort": "Velbert",
+      "jahr": 1928,
+      "_quelldatei": "page_100.json",
+      "_pageNumber": "76"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "560: Adolf Schlatter, Der Einzige und wir anderen.\n    Freizeiten-Verlag Velbert 1929",
+      "nummer": "560",
+      "titel": "Der Einzige und wir anderen",
+      "beschreibung": "Adolf Schlatter",
+      "typ": "Buch",
+      "verlag": "Freizeiten-Verlag",
+      "ort": "Velbert",
+      "jahr": 1929,
+      "_quelldatei": "page_100.json",
+      "_pageNumber": "76"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "561: Adolf Schlatter, Erlebtes.\n    Furche-Verlag, Berlin 1924",
+      "nummer": "561",
+      "titel": "Erlebtes",
+      "beschreibung": "Adolf Schlatter",
+      "typ": "Buch",
+      "verlag": "Furche-Verlag",
+      "ort": "Berlin",
+      "jahr": 1924,
+      "_quelldatei": "page_100.json",
+      "_pageNumber": "76"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "562: Adolf Schlatter, Sechs Predigten.\n    Osiander'sche Buchhandlung, Tübingen 1926",
+      "nummer": "562",
+      "titel": "Sechs Predigten",
+      "beschreibung": "Adolf Schlatter",
+      "typ": "Buch",
+      "verlag": "Osiander'sche Buchhandlung",
+      "ort": "Tübingen",
+      "jahr": 1926,
+      "_quelldatei": "page_100.json",
+      "_pageNumber": "76"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "563: Der Glaube im Neuen Testament.\n    \"Eine von der Haager Gesellschaft zur Vertheidigung der\n    Christlichen Religion gekrönte Preisschrift von A. Schlatter,\n    Lic. Theol. Dozent in Bern.\"\n    Erschenen in \"Werken van 'het Haagsch Genootschap, Vijfde\n    Reeks, Achttiende Deel, mit Programma voor het jaar 1883 und\n    1884.\"\n    Verlag E. J. Brill, Leiden 1885",
+      "nummer": "563",
+      "titel": "Der Glaube im Neuen Testament",
+      "beschreibung": "Preisschrift von A. Schlatter (Lic. Theol., Dozent in Bern); erschienen in 'Werken van 'het Haagsch Genootschap, Vijfde Reeks, Achttiende Deel, mit Programma voor het jaar 1883 und 1884.'",
+      "typ": "Buch",
+      "verlag": "E. J. Brill",
+      "ort": "Leiden",
+      "jahr": 1885,
+      "beteiligte": [
+        {
+          "name": "A. Schlatter",
+          "rolle": "Autor",
+          "entity": "Person",
+          "zusatz": "Lic. Theol., Dozent in Bern"
+        }
+      ],
+      "_quelldatei": "page_100.json",
+      "_pageNumber": "76"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "564: Der Glaube im Neuen Testament.\n    Calwer Verlag 1896",
+      "nummer": "564",
+      "titel": "Der Glaube im Neuen Testament",
+      "beschreibung": "",
+      "typ": "Buch",
+      "verlag": "Calwer Verlag",
+      "jahr": 1896,
+      "_quelldatei": "page_100.json",
+      "_pageNumber": "76"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "565: Der Glaube im Neuen Testament.\n    Calwer Verlag 1905",
+      "nummer": "565",
+      "titel": "Der Glaube im Neuen Testament",
+      "beschreibung": "",
+      "typ": "Buch",
+      "verlag": "Calwer Verlag",
+      "jahr": 1905,
+      "_quelldatei": "page_100.json",
+      "_pageNumber": "76"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "566: Rudolf Brezger, Gelebte Theologie - Adolf Schlatter 1852 - 1938\n    Quell-Verlag Stuttgart 1983",
+      "nummer": "566",
+      "titel": "Gelebte Theologie - Adolf Schlatter 1852 - 1938",
+      "beschreibung": "Rudolf Brezger",
+      "typ": "Buch",
+      "verlag": "Quell-Verlag",
+      "ort": "Stuttgart",
+      "jahr": 1983,
+      "beteiligte": [
+        {
+          "name": "Rudolf Brezger",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_100.json",
+      "_pageNumber": "76"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "567: Johannes Ninck, Anna Schlatter und ihre Kinder.\n    Schloßmanns Verlagsbuchhandlung, Leipzig und Hamburg 1934",
+      "nummer": "567",
+      "titel": "Anna Schlatter und ihre Kinder",
+      "beschreibung": "Johannes Ninck",
+      "typ": "Buch",
+      "verlag": "Schloßmanns Verlagsbuchhandlung",
+      "ort": "Leipzig und Hamburg",
+      "jahr": 1934,
+      "beteiligte": [
+        {
+          "name": "Johannes Ninck",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_100.json",
+      "_pageNumber": "76"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "568: Adolf Schlatter,\n    (1) Der Römerbrief. Ein Hilfsbüchlein für Bibelleser.\n        Calwer Verlag 1887\n    (2) Der Hebräerbrief. Ausgelegt für Bibelleser.\n        Calwer Verlag 1888",
+      "nummer": "568",
+      "titel": "Adolf Schlatter (Sammelposten)",
+      "beschreibung": "Enthält zwei Kleinschriften von Adolf Schlatter",
+      "typ": "Buch",
+      "untereintraege": [
+        {
+          "rawText": "(1) Der Römerbrief. Ein Hilfsbüchlein für Bibelleser.\n        Calwer Verlag 1887",
+          "titel": "Der Römerbrief. Ein Hilfsbüchlein für Bibelleser",
+          "beschreibung": "Adolf Schlatter",
+          "typ": "Buch",
+          "verlag": "Calwer Verlag",
+          "jahr": 1887
+        },
+        {
+          "rawText": "(2) Der Hebräerbrief. Ausgelegt für Bibelleser.\n        Calwer Verlag 1888",
+          "titel": "Der Hebräerbrief. Ausgelegt für Bibelleser",
+          "beschreibung": "Adolf Schlatter",
+          "typ": "Buch",
+          "verlag": "Calwer Verlag",
+          "jahr": 1888
+        }
+      ],
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_100.json",
+      "_pageNumber": "76"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "569: A. Schlatter, La Première Épitre de Jean, expliquee aux\n    Fidèles. 1905\n    Traduit par E. Burger, Pasteur. Neuchatel, Delachaux et\n    Nestlé S. A., Éditeurs",
+      "nummer": "569",
+      "titel": "La Première Épitre de Jean, expliquée aux Fidèles",
+      "beschreibung": "A. Schlatter; französische Ausgabe, übersetzt von E. Burger (Pasteur)",
+      "typ": "Buch",
+      "verlag": "Delachaux et Nestlé S. A.",
+      "ort": "Neuchatel",
+      "jahr": 1905,
+      "beteiligte": [
+        {
+          "name": "A. Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "E. Burger",
+          "rolle": "Übersetzer",
+          "entity": "Person",
+          "zusatz": "Pasteur"
+        }
+      ],
+      "_quelldatei": "page_100.json",
+      "_pageNumber": "76"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "570: D. A. Schlatter, Geschichte Israels von Alexander dem Großen\n    bis Hadrian.\n    Calwer Verlag 1906",
+      "nummer": "570",
+      "titel": "Geschichte Israels von Alexander dem Großen bis Hadrian",
+      "beschreibung": "D. A. Schlatter",
+      "typ": "Buch",
+      "verlag": "Calwer Verlag",
+      "jahr": 1906,
+      "beteiligte": [
+        {
+          "name": "D. A. Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_100.json",
+      "_pageNumber": "76"
+    }
+  ]
+}

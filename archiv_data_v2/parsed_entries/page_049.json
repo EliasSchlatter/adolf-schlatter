@@ -1,0 +1,251 @@
+{
+  "sourceFile": "page_049.json",
+  "pageNumber": "25",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+    "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+    "unterkategorie": "g) Biblische Vorträge bei Schweizer Vereinigungen; h) Nr. 122: Kriegspredigten und Ähnliches"
+  },
+  "entriesCount": 10,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "g) Biblische Vorträge bei Schweizer Vereinigungen; h) Nr. 122: Kriegspredigten und Ähnliches",
+      "rawText": "Nr. 117/3: Der lebendige Gott und seine Führung mit unserem Volk.\n    In: 14. Eisenacher Konferenz in Wiesbaden.\n         Seite 20 - 31\n         Bethel 1916",
+      "nummer": "117/3",
+      "titel": "Der lebendige Gott und seine Führung mit unserem Volk.",
+      "beschreibung": "In: 14. Eisenacher Konferenz in Wiesbaden. Seite 20-31. Bethel 1916.",
+      "typ": "Vortrag",
+      "seiten": "20-31",
+      "ort": "Bethel",
+      "jahr": 1916,
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_049.json",
+      "_pageNumber": "25"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "g) Biblische Vorträge bei Schweizer Vereinigungen; h) Nr. 122: Kriegspredigten und Ähnliches",
+      "rawText": "117/4: Das Zeichen der Wiederkunft Christi.\n    In: Tagung des Eisenacher Bundes in Kassel.\n         Seite 37 - 48\n         Bethel 1922",
+      "nummer": "117/4",
+      "titel": "Das Zeichen der Wiederkunft Christi.",
+      "beschreibung": "In: Tagung des Eisenacher Bundes in Kassel. Seite 37-48. Bethel 1922.",
+      "typ": "Vortrag",
+      "seiten": "37-48",
+      "ort": "Bethel",
+      "jahr": 1922,
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_049.json",
+      "_pageNumber": "25"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "g) Biblische Vorträge bei Schweizer Vereinigungen; h) Nr. 122: Kriegspredigten und Ähnliches",
+      "rawText": "Nr. 118: Vortrag über Jesaja 43,24 bei der 43. Öffentlichen\n    Missions- und Bibelfeier. St. Gallen (20.6.1878).\n    In: Jahresbericht der Evang. Gesellschaft St. Gallen\n         und Appenzell. Seite 16 - 22.\n    Buchhandlung der Evang. Gesellschaft, 1878",
+      "nummer": "118",
+      "titel": "Vortrag über Jesaja 43,24",
+      "beschreibung": "Bei der 43. Öffentlichen Missions- und Bibelfeier, St. Gallen. In: Jahresbericht der Evang. Gesellschaft St. Gallen und Appenzell. Seite 16-22. Buchhandlung der Evang. Gesellschaft, 1878.",
+      "typ": "Vortrag",
+      "zeitschrift": "Jahresbericht der Evang. Gesellschaft St. Gallen und Appenzell",
+      "seiten": "16-22",
+      "ort": "St. Gallen",
+      "verlag": "Buchhandlung der Evang. Gesellschaft",
+      "datum": "1878-06-20",
+      "jahr": 1878,
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_049.json",
+      "_pageNumber": "25"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "g) Biblische Vorträge bei Schweizer Vereinigungen; h) Nr. 122: Kriegspredigten und Ähnliches",
+      "rawText": "119: Rede über Jesaja 12,6\n    In: 16. Jahresbericht der Evang. Gesellschaft St. Gallen\n         und Appenzell 1878/1879. Seite 15 - 37.\n    1879",
+      "nummer": "119",
+      "titel": "Rede über Jesaja 12,6",
+      "beschreibung": "In: 16. Jahresbericht der Evang. Gesellschaft St. Gallen und Appenzell 1878/1879. Seite 15-37.",
+      "typ": "Rede",
+      "zeitschrift": "16. Jahresbericht der Evang. Gesellschaft St. Gallen und Appenzell",
+      "seiten": "15-37",
+      "jahr": 1879,
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_049.json",
+      "_pageNumber": "25"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "g) Biblische Vorträge bei Schweizer Vereinigungen; h) Nr. 122: Kriegspredigten und Ähnliches",
+      "rawText": "120: Der Bund Gottes mit Israel, Psalm 25,14\n    In: 51. Jahresfest der Freunde Israels. Seite 97 - 105\n    Verlag Schneider, Basel 1882",
+      "nummer": "120",
+      "titel": "Der Bund Gottes mit Israel, Psalm 25,14",
+      "beschreibung": "In: 51. Jahresfest der Freunde Israels. Seite 97-105. Verlag Schneider, Basel 1882.",
+      "typ": "Vortrag",
+      "seiten": "97-105",
+      "verlag": "Verlag Schneider, Basel",
+      "jahr": 1882,
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_049.json",
+      "_pageNumber": "25"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "g) Biblische Vorträge bei Schweizer Vereinigungen; h) Nr. 122: Kriegspredigten und Ähnliches",
+      "rawText": "121: Predigt über Lukas 15,31f\n    In: 13. Jahresversammlung des schweizerischen evang.\n         kirchlichen Vereins in Zürich (29./30.9.1884).\n         Seite 4 - 10\n    1884",
+      "nummer": "121",
+      "titel": "Predigt über Lukas 15,31f",
+      "beschreibung": "In: 13. Jahresversammlung des schweizerischen evang. kirchlichen Vereins in Zürich (29./30.9.1884). Seite 4-10.",
+      "typ": "Predigt",
+      "seiten": "4-10",
+      "ort": "Zürich",
+      "jahr": 1884,
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_049.json",
+      "_pageNumber": "25"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "g) Biblische Vorträge bei Schweizer Vereinigungen; h) Nr. 122: Kriegspredigten und Ähnliches",
+      "rawText": "122/1: Predigt am Bettag beim Beginn des Krieges\n    Hebräer 4,16 (9.8.1914).\n    In: Kriegspredigten 1914. Sonderdruck. Seite 1 - 9.\n    Evang. Gesellschaft Stuttgart 1914",
+      "nummer": "122/1",
+      "titel": "Predigt am Bettag beim Beginn des Krieges",
+      "beschreibung": "Bibelstelle: Hebräer 4,16. In: Kriegspredigten 1914. Sonderdruck. Seite 1-9. Evang. Gesellschaft Stuttgart 1914.",
+      "typ": "Predigt",
+      "bibelstelle": "Hebräer 4,16",
+      "seiten": "1-9",
+      "verlag": "Evang. Gesellschaft Stuttgart",
+      "datum": "1914-08-09",
+      "jahr": 1914,
+      "ort": "Stuttgart",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_049.json",
+      "_pageNumber": "25"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "g) Biblische Vorträge bei Schweizer Vereinigungen; h) Nr. 122: Kriegspredigten und Ähnliches",
+      "rawText": "122/2: Ehre sei Gott in der Höh!\n    In: \"Durch Krieg zum Frieden\". Seite 4 - 6.\n    Verlag der Buchhandlung Kloeres, Tübingen 1914",
+      "nummer": "122/2",
+      "titel": "Ehre sei Gott in der Höh!",
+      "beschreibung": "In: \"Durch Krieg zum Frieden\". Seite 4-6. Verlag der Buchhandlung Kloeres, Tübingen 1914.",
+      "typ": "Predigt",
+      "seiten": "4-6",
+      "verlag": "Verlag der Buchhandlung Kloeres, Tübingen",
+      "jahr": 1914,
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_049.json",
+      "_pageNumber": "25"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "g) Biblische Vorträge bei Schweizer Vereinigungen; h) Nr. 122: Kriegspredigten und Ähnliches",
+      "rawText": "122/3: Gesegnet vom Herrn.\n    In: Aushalten! Durchhalten! Ein Gruß aus der Heimat an\n    unsere Krieger in West und Ost.\n    Calwer Verlag 1915. Seite 3 - 5",
+      "nummer": "122/3",
+      "titel": "Gesegnet vom Herrn.",
+      "beschreibung": "In: Aushalten! Durchhalten! Ein Gruß aus der Heimat an unsere Krieger in West und Ost. Calwer Verlag 1915. Seite 3-5.",
+      "typ": "Predigt",
+      "seiten": "3-5",
+      "verlag": "Calwer Verlag",
+      "jahr": 1915,
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_049.json",
+      "_pageNumber": "25"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "g) Biblische Vorträge bei Schweizer Vereinigungen; h) Nr. 122: Kriegspredigten und Ähnliches",
+      "rawText": "122/4: Jesu Verheißung: \"Ich werde auferstehen\".\n    In: Stuttgarter Evang. Gemeindeblatt.\n    Ostern 1918. Seite 67",
+      "nummer": "122/4",
+      "titel": "Jesu Verheißung: \"Ich werde auferstehen\"",
+      "beschreibung": "In: Stuttgarter Evang. Gemeindeblatt. Ostern 1918. Seite 67.",
+      "typ": "Predigt",
+      "zeitschrift": "Stuttgarter Evang. Gemeindeblatt",
+      "seiten": "67",
+      "jahr": 1918,
+      "anmerkung": "Erscheinung: Ostern 1918",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_049.json",
+      "_pageNumber": "25"
+    }
+  ],
+  "notes": "Seite enthält Kopfzeile Teil I: A Bücher und Druckschriften Nr. 117/3 - 122/4; Fußnote Seitenzahl '25'."
+}

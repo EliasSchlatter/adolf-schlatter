@@ -1,0 +1,255 @@
+{
+  "sourceFile": "page_164.json",
+  "pageNumber": "140",
+  "context": {
+    "teil": "Teil III",
+    "sektion": "B Korrespondenz",
+    "unterabschnitt": "Handakten des Archivars",
+    "unterkategorie": "C Verschiedenes"
+  },
+  "entriesCount": 12,
+  "entries": [
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "Nr. 1571: Formulare für Korrespondenz",
+      "nummer": "1571",
+      "titel": "Formulare für Korrespondenz",
+      "beschreibung": "Sammlung von Formularen für Korrespondenz.",
+      "typ": "Sonstiges",
+      "_quelldatei": "page_164.json",
+      "_pageNumber": "140"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "1572: Arbeitsprotokoll des Archivars 1978 - 1981",
+      "nummer": "1572",
+      "titel": "Arbeitsprotokoll des Archivars",
+      "zeitraum": "1978-1981",
+      "typ": "Protokoll",
+      "_quelldatei": "page_164.json",
+      "_pageNumber": "140"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "1573: Aktennotizen für die Weiterarbeit",
+      "nummer": "1573",
+      "titel": "Aktennotizen für die Weiterarbeit",
+      "typ": "Aktennotiz",
+      "_quelldatei": "page_164.json",
+      "_pageNumber": "140"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "1574 - 1575\nVon der Bibliothek des Evang. Oberkirchenrats Stuttgart\n\n1574: Verzeichnis der Abkürzungen über Biblische Bücher, Zeitschriften u.a.",
+      "nummer": "1574",
+      "titel": "Verzeichnis der Abkürzungen über Biblische Bücher, Zeitschriften u.a.",
+      "beschreibung": "Von der Bibliothek des Evang. Oberkirchenrats Stuttgart.",
+      "typ": "Verzeichnis/Aufstellung",
+      "beteiligte": [
+        {
+          "name": "Bibliothek des Evang. Oberkirchenrats Stuttgart",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_164.json",
+      "_pageNumber": "140"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "1575: Auszüge aus dem Kirchlichen Jahrbuch 1978, mit Ziff. 13:\n       Arbeitsgemeinschaften für das Archiv- und Bibliothekswesen in\n       der evangelischen Kirche",
+      "nummer": "1575",
+      "titel": "Auszüge aus dem Kirchlichen Jahrbuch",
+      "jahr": 1978,
+      "beschreibung": "Mit Ziff. 13: Arbeitsgemeinschaften für das Archiv- und Bibliothekswesen in der evangelischen Kirche. Herkunft: Bibliothek des Evang. Oberkirchenrats Stuttgart.",
+      "typ": "Aufsatz",
+      "beteiligte": [
+        {
+          "name": "Bibliothek des Evang. Oberkirchenrats Stuttgart",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_164.json",
+      "_pageNumber": "140"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "1576 - 1583\nVon dem Universitätsarchiv Tübingen\n\n1576: Auswahl-Bibliographie zur Verzeichnung und Ordnung von Nachlässen\n       (von Dr. Volker Schäfer, Oberstaatsarchivrat, Universitätsarchiv\n       Tübingen).",
+      "nummer": "1576",
+      "titel": "Auswahl-Bibliographie zur Verzeichnung und Ordnung von Nachlässen",
+      "beschreibung": "Herkunft: Universitätsarchiv Tübingen.",
+      "typ": "Verzeichnis/Aufstellung",
+      "beteiligte": [
+        {
+          "name": "Dr. Volker Schäfer",
+          "rolle": "Autor",
+          "entity": "Person",
+          "zusatz": "Oberstaatsarchivrat, Universitätsarchiv Tübingen"
+        },
+        {
+          "name": "Universitätsarchiv Tübingen",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_164.json",
+      "_pageNumber": "140"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "1577: Wolfgang A. Mommsen, Die Nachlässe in den deutschen Archiven.\n       Bundesarchiv in Koblenz (sine dato), Einleitung Seite XI - XXVI",
+      "nummer": "1577",
+      "titel": "Die Nachlässe in den deutschen Archiven",
+      "beschreibung": "Publikation/Broschüre: Bundesarchiv in Koblenz (sine dato).",
+      "seiten": "XI - XXVI",
+      "typ": "Studie",
+      "beteiligte": [
+        {
+          "name": "Wolfgang A. Mommsen",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_164.json",
+      "_pageNumber": "140"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "1578: Gregor Richter, Zur archivatischen Erschließung von Briefnachlässen\n       in Hausarchivbeständen.\n       Aus: Der Archivar, Düsseldorf 1961, Seite 338 - 342",
+      "nummer": "1578",
+      "titel": "Zur archivatischen Erschließung von Briefnachlässen in Hausarchivbeständen",
+      "jahr": 1961,
+      "seiten": "338 - 342",
+      "typ": "Artikel",
+      "zeitschrift": "Der Archivar",
+      "ort": "Düsseldorf",
+      "beteiligte": [
+        {
+          "name": "Gregor Richter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_164.json",
+      "_pageNumber": "140"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "1579: Horst Pohl, Ordnungsmethoden im Archiv für bildende Kunst.\n       Aus: Der Archivar, Düsseldorf 1969, Seite 386 - 396",
+      "nummer": "1579",
+      "titel": "Ordnungsmethoden im Archiv für bildende Kunst",
+      "jahr": 1969,
+      "seiten": "386 - 396",
+      "typ": "Artikel",
+      "zeitschrift": "Der Archivar",
+      "ort": "Düsseldorf",
+      "beteiligte": [
+        {
+          "name": "Horst Pohl",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_164.json",
+      "_pageNumber": "140"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "1580: Otto Meisner, Privatarchivalien und Privatararchive.\n       Aus: Archivalische Zeitschrift; München 1959, Seite 117 - 127",
+      "nummer": "1580",
+      "titel": "Privatarchivalien und Privatararchive",
+      "jahr": 1959,
+      "seiten": "117 - 127",
+      "typ": "Artikel",
+      "zeitschrift": "Archivalische Zeitschrift",
+      "ort": "München",
+      "beteiligte": [
+        {
+          "name": "Otto Meisner",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_164.json",
+      "_pageNumber": "140"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "1581: Gerhard Schmid, Archivische Erschließung literarischer Nachlässe.\n       Aus: Archiv-Mitteilungen, Staatsverlag der DDR, 4/77, Seite\n       123 - 130",
+      "nummer": "1581",
+      "titel": "Archivische Erschließung literarischer Nachlässe",
+      "seiten": "123 - 130",
+      "typ": "Artikel",
+      "zeitschrift": "Archiv-Mitteilungen",
+      "verlag": "Staatsverlag der DDR",
+      "heft": "4/77",
+      "beteiligte": [
+        {
+          "name": "Gerhard Schmid",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_164.json",
+      "_pageNumber": "140"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "1582: Axel v. Harnack, Handschriftliche Nachlässe von Politikern und\n       Gelehrten.\n       Aus: Zentralblatt für Bibliotheksverein, Leipzig 1947, Seite\n       261 - 271",
+      "nummer": "1582",
+      "titel": "Handschriftliche Nachlässe von Politikern und Gelehrten",
+      "jahr": 1947,
+      "seiten": "261 - 271",
+      "typ": "Artikel",
+      "zeitschrift": "Zentralblatt für Bibliotheksverein",
+      "ort": "Leipzig",
+      "beteiligte": [
+        {
+          "name": "Axel v. Harnack",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_164.json",
+      "_pageNumber": "140"
+    }
+  ],
+  "notes": "Seite enthält Überschrift 'C Verschiedenes'. Sichtbare Quellhinweise: '1574 - 1575 Von der Bibliothek des Evang. Oberkirchenrats Stuttgart' und '1576 - 1583 Von dem Universitätsarchiv Tübingen'. Seite endet bei Nr. 1582."
+}

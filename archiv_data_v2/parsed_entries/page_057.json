@@ -1,0 +1,183 @@
+{
+  "sourceFile": "page_057.json",
+  "pageNumber": "33",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+    "unterabschnitt": "13. Autobiographische Äußerungen",
+    "unterkategorie": "a) In Büchern; b) Nr. 146: In Druckschriften"
+  },
+  "entriesCount": 6,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "13. Autobiographische Äußerungen",
+      "unterkategorie": "a) In Büchern; b) Nr. 146: In Druckschriften",
+      "rawText": "Nr. 141: Samuel Oettli, Prof. D. Adolf Schlatter 1852 - 1938,\n        Vortrag in der St. Mangenkirche St. Gallen am 16.1.1939.\n        H. Tschudy u. Co., St. Gallen\n\n        Karl Otto Horch, Offener Abend bei Adolf Schlatter.\n        In: Wort und Tat. Heft 3, März 1965. Seite 90f",
+      "nummer": "141",
+      "titel": "Beiträge über Adolf Schlatter",
+      "beschreibung": "Zwei Publikationen über Adolf Schlatter (Vortrag und Artikel).",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "Samuel Oettli, Prof. D. Adolf Schlatter 1852 - 1938,\nVortrag in der St. Mangenkirche St. Gallen am 16.1.1939.\nH. Tschudy u. Co., St. Gallen",
+          "titel": "Prof. D. Adolf Schlatter 1852 - 1938",
+          "beschreibung": "Vortrag in der St. Mangenkirche St. Gallen",
+          "typ": "Druckschrift",
+          "datum": "1939-01-16",
+          "verlag": "H. Tschudy u. Co., St. Gallen",
+          "beteiligte": [
+            {
+              "name": "Samuel Oettli",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Karl Otto Horch, Offener Abend bei Adolf Schlatter.\nIn: Wort und Tat. Heft 3, März 1965. Seite 90f",
+          "titel": "Offener Abend bei Adolf Schlatter",
+          "beschreibung": "Artikel in der Zeitschrift 'Wort und Tat', Heft 3, März 1965",
+          "typ": "Artikel",
+          "jahr": 1965,
+          "zeitschrift": "Wort und Tat",
+          "heft": "3",
+          "seiten": "90f",
+          "beteiligte": [
+            {
+              "name": "Karl Otto Horch",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_057.json",
+      "_pageNumber": "33"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "13. Autobiographische Äußerungen",
+      "unterkategorie": "a) In Büchern; b) Nr. 146: In Druckschriften",
+      "rawText": "Nr. 142: Erlebtes, erzählt von Adolf Schlatter.\n           Calwer Verlag 1924",
+      "nummer": "142",
+      "titel": "Erlebtes, erzählt von Adolf Schlatter",
+      "typ": "Buch",
+      "jahr": 1924,
+      "verlag": "Calwer Verlag",
+      "_quelldatei": "page_057.json",
+      "_pageNumber": "33"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "13. Autobiographische Äußerungen",
+      "unterkategorie": "a) In Büchern; b) Nr. 146: In Druckschriften",
+      "rawText": "143: Dasselbe. Calwer Verlag 1925",
+      "nummer": "143",
+      "titel": "Erlebtes, erzählt von Adolf Schlatter",
+      "typ": "Buch",
+      "jahr": 1925,
+      "verlag": "Calwer Verlag",
+      "_quelldatei": "page_057.json",
+      "_pageNumber": "33"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "13. Autobiographische Äußerungen",
+      "unterkategorie": "a) In Büchern; b) Nr. 146: In Druckschriften",
+      "rawText": "144: Dasselbe.\n         In: \"Stimmen aus der deutschen christlichen Studenten-\n         bewegung\". Heft 25. Furche-Verlag 1929",
+      "nummer": "144",
+      "titel": "Erlebtes, erzählt von Adolf Schlatter",
+      "beschreibung": "Erschienen in 'Stimmen aus der deutschen christlichen Studentenbewegung', Heft 25",
+      "typ": "Druckschrift",
+      "jahr": 1929,
+      "verlag": "Furche-Verlag",
+      "reihe": "Stimmen aus der deutschen christlichen Studentenbewegung",
+      "heft": "25",
+      "_quelldatei": "page_057.json",
+      "_pageNumber": "33"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "13. Autobiographische Äußerungen",
+      "unterkategorie": "a) In Büchern; b) Nr. 146: In Druckschriften",
+      "rawText": "145: Autor und Verlag.\n         In: Viele Saaten - Eine Ernte!\n             Festschrift zum 100jährigen Bestehen des Calwer\n             Verlagsvereins. Seite 79 - 90. Calwer Verlag 1933",
+      "nummer": "145",
+      "titel": "Autor und Verlag",
+      "beschreibung": "Aufsatz in der Festschrift 'Viele Saaten - Eine Ernte!' zum 100jährigen Bestehen des Calwer Verlagsvereins, Seite 79-90.",
+      "typ": "Artikel",
+      "seiten": "79-90",
+      "verlag": "Calwer Verlag",
+      "jahr": 1933,
+      "in": "Viele Saaten - Eine Ernte! Festschrift zum 100jährigen Bestehen des Calwer Verlagsvereins",
+      "_quelldatei": "page_057.json",
+      "_pageNumber": "33"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "13. Autobiographische Äußerungen",
+      "unterkategorie": "a) In Büchern; b) Nr. 146: In Druckschriften",
+      "rawText": "b) Nr. 146: In Druckschriften\n\n    Verschiedene Artikel von Schlatter in verschiedenen\n    Veröffentlichungen 1922 - 1937",
+      "nummer": "146",
+      "titel": "In Druckschriften (Verschiedene Artikel)",
+      "beschreibung": "Verschiedene Artikel von Schlatter in verschiedenen Veröffentlichungen",
+      "typ": "Druckschrift",
+      "zeitraum": "1922-1937",
+      "untereintraege": [
+        {
+          "rawText": "146/1: Ein Wort zum Preise meines Amtes.\n           Fotokopie aus Evang. Kirchenblatt für Württemberg\n           Nr. 33/34. Seite 197f (vgl. Nr. 132)\n           19.8.1922",
+          "nummer": "146/1",
+          "titel": "Ein Wort zum Preise meines Amtes",
+          "beschreibung": "Fotokopie aus 'Evang. Kirchenblatt für Württemberg', Nr. 33/34; vgl. Nr. 132",
+          "typ": "Artikel",
+          "datum": "1922-08-19",
+          "zeitschrift": "Evang. Kirchenblatt für Württemberg",
+          "heft": "33/34",
+          "seiten": "197f",
+          "verweis": "vgl. Nr. 132",
+          "anmerkung": "Fotokopie"
+        },
+        {
+          "rawText": "146/2: Ein Blick in die Zukunft.\n           In: Furche-Heft August/September 1922. Seite 321 - 325",
+          "nummer": "146/2",
+          "titel": "Ein Blick in die Zukunft",
+          "beschreibung": "Artikel in 'Furche', Heft August/September 1922, S. 321-325",
+          "typ": "Artikel",
+          "jahr": 1922,
+          "zeitschrift": "Furche",
+          "heft": "August/September 1922",
+          "seiten": "321-325"
+        },
+        {
+          "rawText": "146/3: Adolf Schlatter.\n           Aus: \"Die Religionswissenschaft der Gegenwart in Selbst-\n           darstellungen\"\n           Sonderdruck 1925 (vgl. Nr. 44)",
+          "nummer": "146/3",
+          "titel": "Adolf Schlatter",
+          "beschreibung": "Sonderdruck aus 'Die Religionswissenschaft der Gegenwart in Selbstdarstellungen'.",
+          "typ": "Sonderdruck",
+          "jahr": 1925,
+          "verweis": "vgl. Nr. 44",
+          "in": "Die Religionswissenschaft der Gegenwart in Selbstdarstellungen"
+        },
+        {
+          "rawText": "146/4: Der Theologieprofessor.\n           Aus: \"Der Christliche Student\", Herbst 1937, mit hand-\n           schriftlicher Bemerkung Schlatters \"Sommer 1937\"",
+          "nummer": "146/4",
+          "titel": "Der Theologieprofessor",
+          "beschreibung": "Artikel in 'Der Christliche Student', Herbst 1937; mit handschriftlicher Bemerkung Schlatters 'Sommer 1937'.",
+          "typ": "Artikel",
+          "jahr": 1937,
+          "in": "Der Christliche Student",
+          "anmerkung": "Mit handschriftlicher Bemerkung Schlatters 'Sommer 1937'"
+        }
+      ],
+      "_quelldatei": "page_057.json",
+      "_pageNumber": "33"
+    }
+  ],
+  "notes": "Seitenfooter '33' sichtbar. Kopfzeile: 'Teil I: A Bücher und Druckschriften Nr. 141 - 146'. OCR-Zeilenumbrüche beibehalten."
+}

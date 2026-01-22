@@ -1,0 +1,350 @@
+{
+  "sourceFile": "page_111.json",
+  "pageNumber": "87",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 15,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 690: Hans Stroh, Antwortschreiben an Gerhard Maier, Tübingen,\n         13.11.1979 zu dessen \"Fragen für künftige Forschungen im\n         Vorfeld einer Schlatter-Biographie\".",
+      "nummer": "690",
+      "titel": "Antwortschreiben an Gerhard Maier",
+      "beschreibung": "Antwortschreiben von Hans Stroh an Gerhard Maier über dessen \"Fragen für künftige Forschungen im Vorfeld einer Schlatter-Biographie\".",
+      "typ": "Brief",
+      "datum": "1979-11-13",
+      "ort": "Tübingen",
+      "beteiligte": [
+        {
+          "name": "Hans Stroh",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Gerhard Maier",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_111.json",
+      "_pageNumber": "87"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "691: Paul Lempp und Erich Medicus, Schlatter-Erinnerungen.",
+      "nummer": "691",
+      "titel": "Schlatter-Erinnerungen",
+      "beschreibung": "Erinnerungen an Schlatter von Paul Lempp und Erich Medicus.",
+      "typ": "Erinnerungen",
+      "beteiligte": [
+        {
+          "name": "Paul Lempp",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Erich Medicus",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_111.json",
+      "_pageNumber": "87"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "692: Theodor Vöhringer, Schlatter-Erinnerung. (Kirchenkampf 1934)",
+      "nummer": "692",
+      "titel": "Schlatter-Erinnerung",
+      "beschreibung": "Erinnerung von Theodor Vöhringer mit Bezug auf den Kirchenkampf 1934.",
+      "typ": "Erinnerung",
+      "beteiligte": [
+        {
+          "name": "Theodor Vöhringer",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Bezug: Kirchenkampf 1934",
+      "_quelldatei": "page_111.json",
+      "_pageNumber": "87"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "693: Heinrich Bornhäuser, Stellungnahme 4.4.1980 zur Frage einer\n         Beziehung Schlatters zur Evang.-luth. Freikirche in Baden.",
+      "nummer": "693",
+      "titel": "Stellungnahme zur Frage einer Beziehung Schlatters zur Evang.-luth. Freikirche in Baden",
+      "beschreibung": "Stellungnahme von Heinrich Bornhäuser zur Frage einer Beziehung Schlatters zur Evangelisch-lutherischen Freikirche in Baden.",
+      "typ": "Stellungnahme",
+      "datum": "1980-04-04",
+      "beteiligte": [
+        {
+          "name": "Heinrich Bornhäuser",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_111.json",
+      "_pageNumber": "87"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "694: Hans Einwächter, Äußerung 25.4.1980 zur Frage nach der Gruppe\n         der Jungpositiven unter Julius Bender 1924.",
+      "nummer": "694",
+      "titel": "Äußerung zur Gruppe der Jungpositiven unter Julius Bender 1924",
+      "beschreibung": "Äußerung von Hans Einwächter zur Frage nach der Gruppe der Jungpositiven unter Julius Bender (1924).",
+      "typ": "Äußerung",
+      "datum": "1980-04-25",
+      "beteiligte": [
+        {
+          "name": "Hans Einwächter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Thema: Jungpositive unter Julius Bender 1924",
+      "_quelldatei": "page_111.json",
+      "_pageNumber": "87"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "695: Entwurf zum \"Betheler Bekenntnis\", 1933, Fotokopie des Handexemplars von Adolf Schlatter mit dessen kommentierenden Bemerkungen. Schriftwechsel darüber von Friedrich von Bodelschwingh und Stratenwerth mit A. Schlatter und K. Barth.",
+      "nummer": "695",
+      "titel": "Entwurf zum \"Betheler Bekenntnis\"",
+      "beschreibung": "Fotokopie des Handexemplars von Adolf Schlatter mit kommentierenden Bemerkungen; Schriftwechsel zwischen Friedrich von Bodelschwingh und Stratenwerth mit A. Schlatter und K. Barth.",
+      "typ": "Manuskript/Entwurf",
+      "jahr": 1933,
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Bearbeiter",
+          "entity": "Person",
+          "zusatz": "Handexemplar mit kommentierenden Bemerkungen"
+        },
+        {
+          "name": "Friedrich von Bodelschwingh",
+          "rolle": "Korrespondent",
+          "entity": "Person"
+        },
+        {
+          "name": "Stratenwerth",
+          "rolle": "Korrespondent",
+          "entity": "Person"
+        },
+        {
+          "name": "K. Barth",
+          "rolle": "Korrespondent",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_111.json",
+      "_pageNumber": "87"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "696/1: Erster Plan einer Theologischen Schule Bethel 1893 - 1895.\n         Darin: Schlatters Rat 1894",
+      "nummer": "696/1",
+      "titel": "Erster Plan einer Theologischen Schule Bethel 1893-1895",
+      "beschreibung": "Erster Plan zur Theologischen Schule Bethel (1893-1895). Enthält Schlatters Rat von 1894.",
+      "typ": "Plan",
+      "zeitraum": "1893-1895",
+      "anmerkung": "Enthält: Schlatters Rat 1894",
+      "_quelldatei": "page_111.json",
+      "_pageNumber": "87"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "696/2: Eröffnung der Theologischen Schule Bethel Oktober 1905. Unterlagen ab 1903",
+      "nummer": "696/2",
+      "titel": "Eröffnung der Theologischen Schule Bethel",
+      "beschreibung": "Unterlagen zur Eröffnung der Theologischen Schule Bethel (Oktober 1905). Unterlagen vorhanden ab 1903.",
+      "typ": "Unterlagen",
+      "zeitraum": "ab 1903; Eröffnung Oktober 1905",
+      "jahr": 1905,
+      "anmerkung": "Unterlagen ab 1903",
+      "_quelldatei": "page_111.json",
+      "_pageNumber": "87"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "697: Theodor Schlatter, \"25 Jahre Theologische Schule\", zum Jubiläum 1930.\n         Manuskript",
+      "nummer": "697",
+      "titel": "25 Jahre Theologische Schule",
+      "beschreibung": "Manuskript von Theodor Schlatter zum 25jährigen Jubiläum der Theologischen Schule (1930).",
+      "typ": "Manuskript",
+      "jahr": 1930,
+      "beteiligte": [
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_111.json",
+      "_pageNumber": "87"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "698: Prof. G. Schrenk, Notizen aus seiner Rede bei der Nachfeier\n         des Jubiläums am 23.9.1930.",
+      "nummer": "698",
+      "titel": "Notizen aus Rede bei der Nachfeier des Jubiläums",
+      "beschreibung": "Notizen von Prof. G. Schrenk aus seiner Rede bei der Nachfeier des Jubiläums der Theologischen Schule am 23.9.1930.",
+      "typ": "Notiz",
+      "datum": "1930-09-23",
+      "beteiligte": [
+        {
+          "name": "G. Schrenk",
+          "rolle": "Vortragender",
+          "entity": "Person",
+          "zusatz": "Prof."
+        }
+      ],
+      "_quelldatei": "page_111.json",
+      "_pageNumber": "87"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "699: Adolf Schlatter, Aussprache bei der Nachfeier des 25jährigen\n         Jubiläums der Theologischen Schule Bethel am 23.9.1930.\n         Manuskript",
+      "nummer": "699",
+      "titel": "Aussprache bei der Nachfeier des 25jährigen Jubiläums der Theologischen Schule Bethel",
+      "beschreibung": "Manuskript: Aussprache von Adolf Schlatter bei der Nachfeier des 25jährigen Jubiläums der Theologischen Schule Bethel am 23.9.1930.",
+      "typ": "Manuskript",
+      "datum": "1930-09-23",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Redner",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_111.json",
+      "_pageNumber": "87"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "700: Reinhard Mumm, Stöcker und Bodelschwingh.\n         Aus: Arbeiterbote 14.4.1910",
+      "nummer": "700",
+      "titel": "Stöcker und Bodelschwingh",
+      "beschreibung": "Artikel von Reinhard Mumm veröffentlicht im 'Arbeiterbote'.",
+      "typ": "Artikel",
+      "datum": "1910-04-14",
+      "beteiligte": [
+        {
+          "name": "Reinhard Mumm",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "zeitschrift": "Arbeiterbote",
+      "_quelldatei": "page_111.json",
+      "_pageNumber": "87"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "701: Georg Merz, Übersicht über das Archiv der Theologischen Schule, Bethelweg 39.",
+      "nummer": "701",
+      "titel": "Übersicht über das Archiv der Theologischen Schule, Bethelweg 39",
+      "beschreibung": "Übersicht über das Archiv der Theologischen Schule (Bethelweg 39) von Georg Merz.",
+      "typ": "Verzeichnis/Aufstellung",
+      "beteiligte": [
+        {
+          "name": "Georg Merz",
+          "rolle": "Verfasser",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_111.json",
+      "_pageNumber": "87"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "702: Gustav von Bodelschwingh, Schlatters Erinnerungen an Vater.\n         1919. Manuskript",
+      "nummer": "702",
+      "titel": "Schlatters Erinnerungen an Vater",
+      "beschreibung": "Manuskript von Gustav von Bodelschwingh mit dem Titel 'Schlatters Erinnerungen an Vater' (1919).",
+      "typ": "Manuskript",
+      "jahr": 1919,
+      "beteiligte": [
+        {
+          "name": "Gustav von Bodelschwingh",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_111.json",
+      "_pageNumber": "87"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "703: Das Adolf-Schlatter-Haus.\n         Unterlagen zum Studentenheim Bethel 1956.\n         Aus: Bethel-Kalenderblätter.\n\n         Dabei: Das Jochen-Klepper-Haus.\n         Aus: Westfalen-Blatt 24.4.1963",
+      "nummer": "703",
+      "titel": "Das Adolf-Schlatter-Haus",
+      "beschreibung": "Unterlagen zum Studentenheim Bethel (1956), entnommen aus den Bethel-Kalenderblättern. Beiliegend: Artikel zum Jochen-Klepper-Haus.",
+      "typ": "Unterlagen",
+      "jahr": 1956,
+      "in": "Bethel-Kalenderblätter",
+      "untereintraege": [
+        {
+          "rawText": "Das Jochen-Klepper-Haus. Aus: Westfalen-Blatt 24.4.1963",
+          "titel": "Das Jochen-Klepper-Haus",
+          "beschreibung": "Artikel aus dem Westfalen-Blatt über das Jochen-Klepper-Haus.",
+          "typ": "Artikel",
+          "datum": "1963-04-24",
+          "zeitschrift": "Westfalen-Blatt"
+        }
+      ],
+      "_quelldatei": "page_111.json",
+      "_pageNumber": "87"
+    }
+  ],
+  "notes": "Seite OCR: page_111.png (Originalseite 87). Keine neuen Überschriften auf dieser Seite; Kontext bleibt Teil II / B Druckschriften und Manuskripte / 6. Regesten zu Briefen der Gruppe 2 / h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+}

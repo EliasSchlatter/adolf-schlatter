@@ -1,0 +1,360 @@
+{
+  "sourceFile": "page_139.json",
+  "pageNumber": "115",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 15,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 941: Eine Dankrede von Adolf Schlatter, 16.8.1927.\n    Aus: Die Zeichen der Zeit, Heft 8/1952. Nach Stenogramm von\n    Günther Zahn",
+      "nummer": "941",
+      "titel": "Eine Dankrede von Adolf Schlatter",
+      "beschreibung": "Rede (Stenogramm von Günther Zahn). Veröffentlichung: Die Zeichen der Zeit, Heft 8/1952.",
+      "typ": "Rede",
+      "datum": "1927-08-16",
+      "jahr": 1952,
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Günther Zahn",
+          "rolle": "Bearbeiter",
+          "entity": "Person",
+          "zusatz": "Stenogramm"
+        }
+      ],
+      "_quelldatei": "page_139.json",
+      "_pageNumber": "115"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "942: Adolf Schlatter, das Verhältnis Israels zu den Völkern.\n    Aus: Zur Josephus-Forschung, Wiss. Buchgesellschaft Darmstadt.\n    Vgl. \"Beiträge ...\" 1932",
+      "nummer": "942",
+      "titel": "Adolf Schlatter, das Verhältnis Israels zu den Völkern",
+      "beschreibung": "Aufsatz. Veröffentlichung: Zur Josephus-Forschung, Wiss. Buchgesellschaft Darmstadt. Verweis: 'Beiträge ...' 1932.",
+      "typ": "Aufsatz",
+      "jahr": 1932,
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_139.json",
+      "_pageNumber": "115"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "943: Friedrich von Bodelschwingh, Adolf Schlatters Beitrag zur Geschichte von Bethel.\n    Aus: Jahrbuch der Theol. Schule Bethel, 3. Band 1932",
+      "nummer": "943",
+      "titel": "Adolf Schlatters Beitrag zur Geschichte von Bethel",
+      "beschreibung": "Aufsatz von Friedrich von Bodelschwingh. Veröffentlichung: Jahrbuch der Theologischen Schule Bethel, 3. Band 1932.",
+      "typ": "Aufsatz",
+      "jahr": 1932,
+      "beteiligte": [
+        {
+          "name": "Friedrich von Bodelschwingh",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_139.json",
+      "_pageNumber": "115"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "944: Robert Frick, Adolf Schlatter.\n    Aus: Pastoraltheologie, Juli 1938",
+      "nummer": "944",
+      "titel": "Adolf Schlatter",
+      "beschreibung": "Aufsatz von Robert Frick. Veröffentlichung: Pastoraltheologie, Juli 1938.",
+      "typ": "Aufsatz",
+      "jahr": 1938,
+      "anmerkung": "Monatsangabe 'Juli 1938' (kein vollständiges Datum)",
+      "beteiligte": [
+        {
+          "name": "Robert Frick",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_139.json",
+      "_pageNumber": "115"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "945: Merz-Hashimoto, Adolf Schlatter.\n    Aus: Das Wort vom Kreuz, Heft 3/1939.\n    Herausgeber: Die Gemeinde unter dem Kreuz in Japan. Gedruckt in japanischer Schrift.",
+      "nummer": "945",
+      "titel": "Adolf Schlatter",
+      "beschreibung": "Aufsatz von Merz-Hashimoto. Veröffentlichung: Das Wort vom Kreuz, Heft 3/1939. Herausgeber: Die Gemeinde unter dem Kreuz in Japan. Gedruckt in japanischer Schrift.",
+      "typ": "Aufsatz",
+      "jahr": 1939,
+      "beteiligte": [
+        {
+          "name": "Merz-Hashimoto",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Die Gemeinde unter dem Kreuz in Japan",
+          "rolle": "Herausgeber",
+          "entity": "Organisation"
+        }
+      ],
+      "_quelldatei": "page_139.json",
+      "_pageNumber": "115"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "946: Paul Althaus, Adolf Schlatters Wort an die heutige Theologie.\n    Gedenkrede am 9.5.1948 in der Stiftskirche Tübingen.\n    Aus: Zeitschrift für system. Theologie, Heft 1/1950",
+      "nummer": "946",
+      "titel": "Adolf Schlatters Wort an die heutige Theologie",
+      "beschreibung": "Gedenkrede gehalten am 9.5.1948 in der Stiftskirche Tübingen. Veröffentlichung: Zeitschrift für systematische Theologie, Heft 1/1950.",
+      "typ": "Rede",
+      "datum": "1948-05-09",
+      "jahr": 1950,
+      "anlass": "Gedenkrede in der Stiftskirche Tübingen",
+      "beteiligte": [
+        {
+          "name": "Paul Althaus",
+          "rolle": "Redner",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_139.json",
+      "_pageNumber": "115"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "947: Paul Althaus, Adolf Schlatters Verhältnis zur Theologie Luthers.\n    Aus: Zeitschrift für system. Theologie XXII, Heft 3",
+      "nummer": "947",
+      "titel": "Adolf Schlatters Verhältnis zur Theologie Luthers",
+      "beschreibung": "Aufsatz von Paul Althaus. Veröffentlichung: Zeitschrift für systematische Theologie, Band XXII, Heft 3.",
+      "typ": "Aufsatz",
+      "beteiligte": [
+        {
+          "name": "Paul Althaus",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Bandangabe XXII, Heft 3 (kein Jahr in OCR)",
+      "_quelldatei": "page_139.json",
+      "_pageNumber": "115"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "948: Helmuth Kittel, Adolf Schlatter über das Amt des Lehrers.\n    Aus: Der Evangelische Erzieher, Heft 6/1952",
+      "nummer": "948",
+      "titel": "Adolf Schlatter über das Amt des Lehrers",
+      "beschreibung": "Aufsatz von Helmuth Kittel. Veröffentlichung: Der Evangelische Erzieher, Heft 6/1952.",
+      "typ": "Aufsatz",
+      "jahr": 1952,
+      "beteiligte": [
+        {
+          "name": "Helmuth Kittel",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_139.json",
+      "_pageNumber": "115"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "949: Wilhelm Busch, Erinnerung an Professor Adolf Schlatter.\n    Aus: Licht und Leben Nr. 12/1966",
+      "nummer": "949",
+      "titel": "Erinnerung an Professor Adolf Schlatter",
+      "beschreibung": "Beitrag von Wilhelm Busch. Veröffentlichung: Licht und Leben Nr. 12/1966.",
+      "typ": "Aufsatz",
+      "jahr": 1966,
+      "beteiligte": [
+        {
+          "name": "Wilhelm Busch",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_139.json",
+      "_pageNumber": "115"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "950: Adolf Schlatter, Wie wird göttliches Wort?\n    Aus: Das Gottesjahr, Stauda-Verlag 1937",
+      "nummer": "950",
+      "titel": "Wie wird göttliches Wort?",
+      "beschreibung": "Beitrag von Adolf Schlatter. Veröffentlichung: Das Gottesjahr, Stauda-Verlag 1937.",
+      "typ": "Aufsatz",
+      "jahr": 1937,
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Stauda-Verlag",
+          "rolle": "Verlag",
+          "entity": "Organisation"
+        }
+      ],
+      "_quelldatei": "page_139.json",
+      "_pageNumber": "115"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "951: Kurt Müller, Die St. Laurenzenkirche in St. Gallen.\n    Merkblatt 1980",
+      "nummer": "951",
+      "titel": "Die St. Laurenzenkirche in St. Gallen",
+      "beschreibung": "Merkblatt von Kurt Müller. Erscheinungsjahr 1980.",
+      "typ": "Druckschrift",
+      "jahr": 1980,
+      "beteiligte": [
+        {
+          "name": "Kurt Müller",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_139.json",
+      "_pageNumber": "115"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "952: \"Schlatter\". Kurzbeschreibung von Schlatter-Familien St. Gallen ab 1446.\n    Aus: Bürgerbuch 1980, Seite 731 - 737",
+      "nummer": "952",
+      "titel": "„Schlatter\". Kurzbeschreibung von Schlatter-Familien St. Gallen ab 1446",
+      "beschreibung": "Kurzbeschreibung zu Schlatter-Familien in St. Gallen ab 1446. Veröffentlichung: Bürgerbuch 1980, Seiten 731-737.",
+      "typ": "Verzeichnis/Aufstellung",
+      "jahr": 1980,
+      "seiten": "731-737",
+      "_quelldatei": "page_139.json",
+      "_pageNumber": "115"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "953: Hermann Kutter, Pfr. Dr. theol. h. c., Notizen bezüglich Tod in St. Gallen (22.3.1951) und noch lebenden Nachkommen.",
+      "nummer": "953",
+      "titel": "Notizen bezüglich Tod in St. Gallen und lebenden Nachkommen",
+      "beschreibung": "Notizen von Hermann Kutter (Pfr. Dr. theol. h. c.) betreffend Tod in St. Gallen (22.3.1951) und noch lebenden Nachkommen.",
+      "typ": "Notiz",
+      "datum": "1951-03-22",
+      "beteiligte": [
+        {
+          "name": "Hermann Kutter",
+          "rolle": "Autor",
+          "entity": "Person",
+          "zusatz": "Pfr. Dr. theol. h. c."
+        }
+      ],
+      "_quelldatei": "page_139.json",
+      "_pageNumber": "115"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "954: Adolf Schlatter, Taufe St. Mangen 22.10.1852.\n    Aus: Taufregister Stadtarchiv St. Gallen. 1852, Seite 480",
+      "nummer": "954",
+      "titel": "Taufe Adolf Schlatter, St. Mangen",
+      "beschreibung": "Eintrag zur Taufe von Adolf Schlatter im Taufregister. Quelle: Stadtarchiv St. Gallen, Taufregister 1852, Seite 480.",
+      "typ": "Regest",
+      "datum": "1852-10-22",
+      "jahr": 1852,
+      "seiten": "480",
+      "ort": "St. Mangen",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        },
+        {
+          "name": "Stadtarchiv St. Gallen",
+          "rolle": "Herausgeber",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_139.json",
+      "_pageNumber": "115"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "955: Stephan Schlatter, Trauung St. Leonhard 18.6.1839.\n    Aus: Trauungsregister Stadtarchiv St. Gallen, 1839, Seite 225",
+      "nummer": "955",
+      "titel": "Trauung Stephan Schlatter, St. Leonhard",
+      "beschreibung": "Eintrag zur Trauung von Stephan Schlatter im Trauungsregister. Quelle: Stadtarchiv St. Gallen, Trauungsregister 1839, Seite 225.",
+      "typ": "Regest",
+      "datum": "1839-06-18",
+      "jahr": 1839,
+      "seiten": "225",
+      "ort": "St. Leonhard",
+      "beteiligte": [
+        {
+          "name": "Stephan Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        },
+        {
+          "name": "Stadtarchiv St. Gallen",
+          "rolle": "Herausgeber",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_139.json",
+      "_pageNumber": "115"
+    }
+  ],
+  "notes": "OCR-Seite zeigt Einträge Nr. 941-955; keine neue Überschrift auf dieser Seite."
+}

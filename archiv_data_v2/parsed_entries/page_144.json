@@ -1,0 +1,331 @@
+{
+  "sourceFile": "page_144.json",
+  "pageNumber": "120",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 13,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 989: Gerhard Knapp, Am Grabe von Professor D. Adolf Schlatter.\n    Mit Nachruf von Landesbischof D. Wurm.\n    Aus: Luginsländer Blätter, Juli 1938",
+      "nummer": "989",
+      "titel": "Am Grabe von Professor D. Adolf Schlatter",
+      "beschreibung": "Mit Nachruf von Landesbischof D. Wurm. Veröffentlichung in Luginsländer Blätter, Juli 1938.",
+      "typ": "Aufsatz",
+      "jahr": 1938,
+      "beteiligte": [
+        {
+          "name": "Gerhard Knapp",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "D. Wurm",
+          "rolle": "Autor",
+          "entity": "Person",
+          "zusatz": "Nachruf"
+        }
+      ],
+      "zusatzInfo": "Luginsländer Blätter, Juli 1938",
+      "_quelldatei": "page_144.json",
+      "_pageNumber": "120"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "990: Rudolf Bultmann, Das Evangelium des Johannes.\n    Vandenhoeck und Ruprecht Göttingen 1952.\n    Auszug Seite 265 - 267 Schlatter erwähnt.",
+      "nummer": "990",
+      "titel": "Das Evangelium des Johannes",
+      "beschreibung": "Auszug Seite 265-267. Schlatter erwähnt.",
+      "typ": "Buch",
+      "verlag": "Vandenhoeck und Ruprecht",
+      "ort": "Göttingen",
+      "jahr": 1952,
+      "seiten": "265-267",
+      "beteiligte": [
+        {
+          "name": "Rudolf Bultmann",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_144.json",
+      "_pageNumber": "120"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "991: Rudolf Bultmann, Theologie des NT.\n    J. C. B. Mohr Tübingen 1968.\n    Auszug Seite 597, 598 Schlatter gewürdigt.",
+      "nummer": "991",
+      "titel": "Theologie des NT",
+      "beschreibung": "Auszug Seite 597-598. Schlatter gewürdigt.",
+      "typ": "Buch",
+      "verlag": "J. C. B. Mohr",
+      "ort": "Tübingen",
+      "jahr": 1968,
+      "seiten": "597-598",
+      "beteiligte": [
+        {
+          "name": "Rudolf Bultmann",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_144.json",
+      "_pageNumber": "120"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "992: Ernst Käsemann, Exegetische Versuche und Besinnungen, Band 2.\n    Vandenhoeck und Ruprecht Göttingen 1964.\n    Auszug Seite 14, 15 Schlatter gewürdigt.",
+      "nummer": "992",
+      "titel": "Exegetische Versuche und Besinnungen, Band 2",
+      "beschreibung": "Auszug Seite 14-15. Schlatter gewürdigt.",
+      "typ": "Buch",
+      "teilfolge": "Band 2",
+      "verlag": "Vandenhoeck und Ruprecht",
+      "ort": "Göttingen",
+      "jahr": 1964,
+      "seiten": "14-15",
+      "beteiligte": [
+        {
+          "name": "Ernst Käsemann",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_144.json",
+      "_pageNumber": "120"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "993: Walter Künneth, Lebensführungen.\n    R. Brockhaus Verlag Wuppertal 1979.\n    Auszug Seite 52, 53 Schlatter gewürdigt.",
+      "nummer": "993",
+      "titel": "Lebensführungen",
+      "beschreibung": "Auszug Seite 52-53. Schlatter gewürdigt.",
+      "typ": "Buch",
+      "verlag": "R. Brockhaus Verlag",
+      "ort": "Wuppertal",
+      "jahr": 1979,
+      "seiten": "52-53",
+      "beteiligte": [
+        {
+          "name": "Walter Künneth",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_144.json",
+      "_pageNumber": "120"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "994: Martin Kähler, Schriften zur Mission.\n    Neudruck Chr. Kaiser Verlag München 1971.\n    Auszug Seite 334 Schlatter erwähnt.",
+      "nummer": "994",
+      "titel": "Schriften zur Mission",
+      "beschreibung": "Neudruck. Auszug Seite 334. Schlatter erwähnt.",
+      "typ": "Buch",
+      "verlag": "Chr. Kaiser Verlag",
+      "ort": "München",
+      "jahr": 1971,
+      "seiten": "334",
+      "beteiligte": [
+        {
+          "name": "Martin Kähler",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Neudruck",
+      "_quelldatei": "page_144.json",
+      "_pageNumber": "120"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "995: Walter Jens, Eine Deutsche Universität.\n    Kindler Verlag München 1977.\n    Auszug Seite 340 Schlatter erwähnt.",
+      "nummer": "995",
+      "titel": "Eine Deutsche Universität",
+      "beschreibung": "Auszug Seite 340. Schlatter erwähnt.",
+      "typ": "Buch",
+      "verlag": "Kindler Verlag",
+      "ort": "München",
+      "jahr": 1977,
+      "seiten": "340",
+      "beteiligte": [
+        {
+          "name": "Walter Jens",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_144.json",
+      "_pageNumber": "120"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "996: Helmut Kittel, Studieren.\n    Zum 100. Geburtstag von A. Schlatter.\n    Aus: Die neue Furche, August 1952, Seite 531 - 539",
+      "nummer": "996",
+      "titel": "Studieren",
+      "beschreibung": "Zum 100. Geburtstag von A. Schlatter. Veröffentlichung in Die neue Furche, August 1952.",
+      "typ": "Aufsatz",
+      "jahr": 1952,
+      "seiten": "531-539",
+      "beteiligte": [
+        {
+          "name": "Helmut Kittel",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "zusatzInfo": "Die neue Furche, August 1952",
+      "_quelldatei": "page_144.json",
+      "_pageNumber": "120"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "997: D. Dr. Th. Brandt, Adolf Schlatter.\n    Aus: Schritte, Magazin für Christen. 2. Mai 1978,\n    Seite 19 - 21.",
+      "nummer": "997",
+      "titel": "Adolf Schlatter",
+      "beschreibung": "Artikel in Schritte, Magazin für Christen. 2. Mai 1978. Seite 19-21.",
+      "typ": "Aufsatz",
+      "jahr": 1978,
+      "seiten": "19-21",
+      "beteiligte": [
+        {
+          "name": "D. Dr. Th. Brandt",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "zusatzInfo": "Schritte, Magazin für Christen, 2. Mai 1978",
+      "_quelldatei": "page_144.json",
+      "_pageNumber": "120"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "998: Rainer Riesner, Jesus als Lehrer.\n    J. C. B. Mohr Tübingen 1981.\n    Auszug Seite 245, 558 Schlatter erwähnt.",
+      "nummer": "998",
+      "titel": "Jesus als Lehrer",
+      "beschreibung": "Auszug Seiten 245 und 558. Schlatter erwähnt.",
+      "typ": "Buch",
+      "verlag": "J. C. B. Mohr",
+      "ort": "Tübingen",
+      "jahr": 1981,
+      "seiten": "245, 558",
+      "beteiligte": [
+        {
+          "name": "Rainer Riesner",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_144.json",
+      "_pageNumber": "120"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "999: Kurt Scharf, Brücken und Breschen.\n    Radius Verlag Stuttgart 1987.\n    Auszug Seite 20 - 22 Schlatter gewürdigt.",
+      "nummer": "999",
+      "titel": "Brücken und Breschen",
+      "beschreibung": "Auszug Seite 20-22. Schlatter gewürdigt.",
+      "typ": "Buch",
+      "verlag": "Radius Verlag",
+      "ort": "Stuttgart",
+      "jahr": 1987,
+      "seiten": "20-22",
+      "beteiligte": [
+        {
+          "name": "Kurt Scharf",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_144.json",
+      "_pageNumber": "120"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1000: Bogislav von Selchow, Der Glaube in der deutschen Ich-Zeit.\n    Verlag Koehler Leipzig 1933.\n    Abschnitt \"Schlatter\" Seite 125 - 131.",
+      "nummer": "1000",
+      "titel": "Der Glaube in der deutschen Ich-Zeit",
+      "beschreibung": "Abschnitt \"Schlatter\". Seite 125-131.",
+      "typ": "Buch",
+      "verlag": "Verlag Koehler",
+      "ort": "Leipzig",
+      "jahr": 1933,
+      "seiten": "125-131",
+      "beteiligte": [
+        {
+          "name": "Bogislav von Selchow",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_144.json",
+      "_pageNumber": "120"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1001: K. H. Rengstorf, Adolf Schlatter.\n    Aus: Tendenzen der Theologie im 20. Jahrhundert.\n    Kreuz Verlag Stuttgart 1966, Seite 56 - 61",
+      "nummer": "1001",
+      "titel": "Adolf Schlatter",
+      "beschreibung": "Aufsatz in Tendenzen der Theologie im 20. Jahrhundert. Seite 56-61.",
+      "typ": "Aufsatz",
+      "verlag": "Kreuz Verlag",
+      "ort": "Stuttgart",
+      "jahr": 1966,
+      "seiten": "56-61",
+      "beteiligte": [
+        {
+          "name": "K. H. Rengstorf",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "in": "Tendenzen der Theologie im 20. Jahrhundert",
+      "_quelldatei": "page_144.json",
+      "_pageNumber": "120"
+    }
+  ],
+  "notes": "Seite enthält Einträge Nr. 989-1001; Überschrift entspricht dem aktuellen Kontext (Teil II: B Druckschriften und Manuskripte)."
+}

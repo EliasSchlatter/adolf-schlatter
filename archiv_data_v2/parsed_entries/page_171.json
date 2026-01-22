@@ -1,0 +1,298 @@
+{
+  "sourceFile": "page_171.json",
+  "pageNumber": "147",
+  "context": {
+    "teil": "Anhang Abschnitt I: Ungedrucktes",
+    "sektion": "B Korrespondenz",
+    "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+    "unterkategorie": "C Verschiedenes"
+  },
+  "entriesCount": 20,
+  "entries": [
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "Nr. 177: Klausurarbeiten zur Licentiatenprüfung. Darunter:\n\n    177/5: Justinus Martyr.\n\n    177/6: Die Helvetische Consensusformel.",
+      "nummer": "177",
+      "titel": "Klausurarbeiten zur Licentiatenprüfung",
+      "beschreibung": "Sammlung von Klausurarbeiten zur Licentiatenprüfung. Enthält u. a. die Untereinträge 177/5 und 177/6.",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "177/5: Justinus Martyr.",
+          "titel": "Justinus Martyr.",
+          "typ": "Aufsatz"
+        },
+        {
+          "rawText": "177/6: Die Helvetische Consensusformel.",
+          "titel": "Die Helvetische Consensusformel.",
+          "typ": "Aufsatz"
+        }
+      ],
+      "_quelldatei": "page_171.json",
+      "_pageNumber": "147"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "178: Der Donatismus. Abhandlung.",
+      "nummer": "178",
+      "titel": "Der Donatismus",
+      "beschreibung": "Abhandlung",
+      "typ": "Aufsatz",
+      "_quelldatei": "page_171.json",
+      "_pageNumber": "147"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "179/1: Der Montanismus. Abhandlung.",
+      "nummer": "179/1",
+      "titel": "Der Montanismus",
+      "beschreibung": "Abhandlung",
+      "typ": "Aufsatz",
+      "_quelldatei": "page_171.json",
+      "_pageNumber": "147"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "179/2: Der Novatianismus. Abhandlung und Quellen-Excerpte.",
+      "nummer": "179/2",
+      "titel": "Der Novatianismus",
+      "beschreibung": "Abhandlung und Quellen-Excerpte",
+      "typ": "Aufsatz",
+      "_quelldatei": "page_171.json",
+      "_pageNumber": "147"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "180: Kirchengeschichtliche Excerpte und Abhandlungen.",
+      "nummer": "180",
+      "titel": "Kirchengeschichtliche Excerpte und Abhandlungen",
+      "beschreibung": "Excerpte und Abhandlungen zur Kirchengeschichte",
+      "typ": "Exzerpt",
+      "_quelldatei": "page_171.json",
+      "_pageNumber": "147"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "181: Dogmengeschichte. Abhandlung.",
+      "nummer": "181",
+      "titel": "Dogmengeschichte",
+      "beschreibung": "Abhandlung",
+      "typ": "Aufsatz",
+      "_quelldatei": "page_171.json",
+      "_pageNumber": "147"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "182: Geschichte der reformierten Theologie in der Schweiz bis\n1750. Vorlesung Bern.",
+      "nummer": "182",
+      "titel": "Geschichte der reformierten Theologie in der Schweiz bis 1750",
+      "beschreibung": "Vorlesung (Bern)",
+      "typ": "Vorlesung",
+      "ort": "Bern",
+      "_quelldatei": "page_171.json",
+      "_pageNumber": "147"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "193: Reden und Aufsätze der Berner Zeit. Darunter:\n\n    193/15: Die älteste Christenheit und die Bibel.\n\n    193/16: Rede über Contarini.",
+      "nummer": "193",
+      "titel": "Reden und Aufsätze der Berner Zeit",
+      "beschreibung": "Sammlung von Reden und Aufsätzen aus der Berner Zeit. Enthält u. a. Untereinträge 193/15 und 193/16.",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "193/15: Die älteste Christenheit und die Bibel.",
+          "nummer": "193/15",
+          "titel": "Die älteste Christenheit und die Bibel.",
+          "typ": "Aufsatz"
+        },
+        {
+          "rawText": "193/16: Rede über Contarini.",
+          "nummer": "193/16",
+          "titel": "Rede über Contarini.",
+          "typ": "Rede"
+        }
+      ],
+      "_quelldatei": "page_171.json",
+      "_pageNumber": "147"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "203: Die Rechtfertigungslehre nach ihrer Bewegung in der Geschich-\nte der Kirche. Vorlesung Bern.",
+      "nummer": "203",
+      "titel": "Die Rechtfertigungslehre nach ihrer Bewegung in der Geschichte der Kirche",
+      "beschreibung": "Vorlesung (Bern)",
+      "typ": "Vorlesung",
+      "ort": "Bern",
+      "_quelldatei": "page_171.json",
+      "_pageNumber": "147"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "214: Die Bibel des Clemens Alexandrinus.",
+      "nummer": "214",
+      "titel": "Die Bibel des Clemens Alexandrinus",
+      "typ": "Studie",
+      "_quelldatei": "page_171.json",
+      "_pageNumber": "147"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "216: Ein Gespräch mit Calwin. Abhandlung zur Auslegung der Berg-\npredigt.",
+      "nummer": "216",
+      "titel": "Ein Gespräch mit Calwin",
+      "beschreibung": "Abhandlung zur Auslegung der Bergpredigt",
+      "typ": "Aufsatz",
+      "_quelldatei": "page_171.json",
+      "_pageNumber": "147"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "235: Glaube und Unglaube in der Christenheit.",
+      "nummer": "235",
+      "titel": "Glaube und Unglaube in der Christenheit",
+      "typ": "Studie",
+      "_quelldatei": "page_171.json",
+      "_pageNumber": "147"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "256: Zwingli-Gedächtnistag. Vortrag.",
+      "nummer": "256",
+      "titel": "Zwingli-Gedächtnistag",
+      "beschreibung": "Vortrag",
+      "typ": "Vortrag",
+      "_quelldatei": "page_171.json",
+      "_pageNumber": "147"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "257: Bemerkungen zu Zwinglis Büchlein von Gottes Providenz. Vor-\ntrag.",
+      "nummer": "257",
+      "titel": "Bemerkungen zu Zwinglis Büchlein von Gottes Providenz",
+      "beschreibung": "Vortrag",
+      "typ": "Vortrag",
+      "_quelldatei": "page_171.json",
+      "_pageNumber": "147"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "263: Luther. Manuskript einer Rede.",
+      "nummer": "263",
+      "titel": "Luther",
+      "beschreibung": "Manuskript einer Rede",
+      "typ": "Manuskript",
+      "_quelldatei": "page_171.json",
+      "_pageNumber": "147"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "264: Rede über Kelsus.",
+      "nummer": "264",
+      "titel": "Rede über Kelsus",
+      "typ": "Rede",
+      "_quelldatei": "page_171.json",
+      "_pageNumber": "147"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "271: Das Apostolikum. Rede in Stralsund.",
+      "nummer": "271",
+      "titel": "Das Apostolikum",
+      "beschreibung": "Rede in Stralsund",
+      "typ": "Rede",
+      "ort": "Stralsund",
+      "_quelldatei": "page_171.json",
+      "_pageNumber": "147"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "384/1: Das Wörterbuch des Origenes.",
+      "nummer": "384/1",
+      "titel": "Das Wörterbuch des Origenes",
+      "typ": "Wörterbuch",
+      "_quelldatei": "page_171.json",
+      "_pageNumber": "147"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "384/2: Sammlungen zu Origenes.",
+      "nummer": "384/2",
+      "titel": "Sammlungen zu Origenes",
+      "typ": "Sammlung",
+      "_quelldatei": "page_171.json",
+      "_pageNumber": "147"
+    },
+    {
+      "teil": "Anhang Abschnitt I: Ungedrucktes",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "3 Kirchengeschichte und Dogmengeschichte",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "385: Die Namen des Köstliner Codex, die bei Origenes stehen.",
+      "nummer": "385",
+      "titel": "Die Namen des Köstliner Codex, die bei Origenes stehen",
+      "beschreibung": "Liste/Verzeichnis der Namen im Köstliner Codex, die bei Origenes erscheinen",
+      "typ": "Verzeichnis/Aufstellung",
+      "_quelldatei": "page_171.json",
+      "_pageNumber": "147"
+    }
+  ],
+  "notes": "Originalseite 147 (Seitenzahl unten im Scan). OCR insgesamt gut lesbar."
+}

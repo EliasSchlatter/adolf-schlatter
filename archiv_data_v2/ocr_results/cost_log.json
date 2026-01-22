@@ -1,0 +1,374 @@
+{
+  "totalRequests": 46,
+  "totalTokens": 189226,
+  "totalCost": 0.1840445,
+  "requests": [
+    {
+      "page": 43,
+      "inputTokens": 2415,
+      "outputTokens": 2434,
+      "cost": 0.005471750000000001,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:29:42.145Z"
+    },
+    {
+      "page": 76,
+      "inputTokens": 2415,
+      "outputTokens": 1725,
+      "cost": 0.00405375,
+      "timestamp": "2025-12-29T15:30:27.981Z"
+    },
+    {
+      "page": 77,
+      "inputTokens": 2415,
+      "outputTokens": 595,
+      "cost": 0.0017937499999999998,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:30:44.183Z"
+    },
+    {
+      "page": 78,
+      "inputTokens": 2415,
+      "outputTokens": 2847,
+      "cost": 0.00629775,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:31:39.148Z"
+    },
+    {
+      "page": 79,
+      "inputTokens": 2415,
+      "outputTokens": 2132,
+      "cost": 0.0048677500000000005,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:32:09.628Z"
+    },
+    {
+      "page": 80,
+      "inputTokens": 2415,
+      "outputTokens": 1719,
+      "cost": 0.00404175,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:32:41.141Z"
+    },
+    {
+      "page": 81,
+      "inputTokens": 2415,
+      "outputTokens": 2528,
+      "cost": 0.00565975,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:33:24.690Z"
+    },
+    {
+      "page": 82,
+      "inputTokens": 2415,
+      "outputTokens": 2729,
+      "cost": 0.00606175,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:34:09.791Z"
+    },
+    {
+      "page": 83,
+      "inputTokens": 2415,
+      "outputTokens": 1749,
+      "cost": 0.00410175,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:34:41.301Z"
+    },
+    {
+      "page": 84,
+      "inputTokens": 2415,
+      "outputTokens": 2348,
+      "cost": 0.00529975,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:35:26.793Z"
+    },
+    {
+      "page": 85,
+      "inputTokens": 2415,
+      "outputTokens": 2163,
+      "cost": 0.00492975,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:36:00.479Z"
+    },
+    {
+      "page": 86,
+      "inputTokens": 2415,
+      "outputTokens": 1268,
+      "cost": 0.00313975,
+      "pageType": "OVERVIEW",
+      "timestamp": "2025-12-29T15:36:20.084Z"
+    },
+    {
+      "page": 87,
+      "inputTokens": 2415,
+      "outputTokens": 1996,
+      "cost": 0.00459575,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:36:49.259Z"
+    },
+    {
+      "page": 88,
+      "inputTokens": 2415,
+      "outputTokens": 1482,
+      "cost": 0.00356775,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:37:12.136Z"
+    },
+    {
+      "page": 89,
+      "inputTokens": 2415,
+      "outputTokens": 2072,
+      "cost": 0.00474775,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:37:54.640Z"
+    },
+    {
+      "page": 90,
+      "inputTokens": 2415,
+      "outputTokens": 1512,
+      "cost": 0.0036277500000000003,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:38:16.776Z"
+    },
+    {
+      "page": 91,
+      "inputTokens": 2415,
+      "outputTokens": 1447,
+      "cost": 0.0034977500000000004,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:38:36.831Z"
+    },
+    {
+      "page": 92,
+      "inputTokens": 2415,
+      "outputTokens": 1459,
+      "cost": 0.00352175,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:39:00.550Z"
+    },
+    {
+      "page": 93,
+      "inputTokens": 2415,
+      "outputTokens": 1463,
+      "cost": 0.0035297500000000003,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:39:26.931Z"
+    },
+    {
+      "page": 94,
+      "inputTokens": 2415,
+      "outputTokens": 609,
+      "cost": 0.00182175,
+      "pageType": "OVERVIEW",
+      "timestamp": "2025-12-29T15:39:37.980Z"
+    },
+    {
+      "page": 95,
+      "inputTokens": 2415,
+      "outputTokens": 1080,
+      "cost": 0.00276375,
+      "pageType": "OVERVIEW",
+      "timestamp": "2025-12-29T15:39:59.173Z"
+    },
+    {
+      "page": 96,
+      "inputTokens": 2415,
+      "outputTokens": 2213,
+      "cost": 0.00502975,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:40:32.340Z"
+    },
+    {
+      "page": 97,
+      "inputTokens": 2415,
+      "outputTokens": 1920,
+      "cost": 0.00444375,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:40:59.609Z"
+    },
+    {
+      "page": 98,
+      "inputTokens": 2415,
+      "outputTokens": 2130,
+      "cost": 0.00486375,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:41:31.220Z"
+    },
+    {
+      "page": 99,
+      "inputTokens": 2415,
+      "outputTokens": 1643,
+      "cost": 0.0038897500000000004,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:42:00.639Z"
+    },
+    {
+      "page": 100,
+      "inputTokens": 2415,
+      "outputTokens": 597,
+      "cost": 0.0017977499999999999,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:42:11.495Z"
+    },
+    {
+      "page": 101,
+      "inputTokens": 2415,
+      "outputTokens": 2032,
+      "cost": 0.00466775,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:42:49.165Z"
+    },
+    {
+      "page": 102,
+      "inputTokens": 2415,
+      "outputTokens": 1945,
+      "cost": 0.00449375,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:43:25.329Z"
+    },
+    {
+      "page": 103,
+      "inputTokens": 2415,
+      "outputTokens": 371,
+      "cost": 0.0013457500000000002,
+      "pageType": "OTHER",
+      "timestamp": "2025-12-29T15:43:32.761Z"
+    },
+    {
+      "page": 123,
+      "inputTokens": 2415,
+      "outputTokens": 1845,
+      "cost": 0.00429375,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:44:02.145Z"
+    },
+    {
+      "page": 124,
+      "inputTokens": 2415,
+      "outputTokens": 2006,
+      "cost": 0.00461575,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:44:41.634Z"
+    },
+    {
+      "page": 125,
+      "inputTokens": 2415,
+      "outputTokens": 767,
+      "cost": 0.00213775,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:44:55.629Z"
+    },
+    {
+      "page": 126,
+      "inputTokens": 2415,
+      "outputTokens": 723,
+      "cost": 0.00204975,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:45:07.777Z"
+    },
+    {
+      "page": 127,
+      "inputTokens": 2415,
+      "outputTokens": 2368,
+      "cost": 0.00533975,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:45:43.556Z"
+    },
+    {
+      "page": 128,
+      "inputTokens": 2415,
+      "outputTokens": 1944,
+      "cost": 0.00449175,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:46:12.627Z"
+    },
+    {
+      "page": 129,
+      "inputTokens": 2415,
+      "outputTokens": 2071,
+      "cost": 0.004745750000000001,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:46:44.331Z"
+    },
+    {
+      "page": 130,
+      "inputTokens": 2415,
+      "outputTokens": 1718,
+      "cost": 0.00403975,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:47:31.184Z"
+    },
+    {
+      "page": 131,
+      "inputTokens": 2415,
+      "outputTokens": 1823,
+      "cost": 0.00424975,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:48:00.753Z"
+    },
+    {
+      "page": 132,
+      "inputTokens": 2415,
+      "outputTokens": 662,
+      "cost": 0.0019277500000000002,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:48:12.371Z"
+    },
+    {
+      "page": 133,
+      "inputTokens": 2415,
+      "outputTokens": 1886,
+      "cost": 0.004375749999999999,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:48:42.395Z"
+    },
+    {
+      "page": 134,
+      "inputTokens": 2415,
+      "outputTokens": 1595,
+      "cost": 0.0037937500000000002,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:49:11.154Z"
+    },
+    {
+      "page": 135,
+      "inputTokens": 2415,
+      "outputTokens": 1831,
+      "cost": 0.00426575,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:49:39.708Z"
+    },
+    {
+      "page": 136,
+      "inputTokens": 2415,
+      "outputTokens": 2248,
+      "cost": 0.005099750000000001,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:50:17.692Z"
+    },
+    {
+      "page": 137,
+      "inputTokens": 2415,
+      "outputTokens": 2019,
+      "cost": 0.00464175,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:51:16.801Z"
+    },
+    {
+      "page": 138,
+      "inputTokens": 2415,
+      "outputTokens": 1973,
+      "cost": 0.00454975,
+      "pageType": "DATA",
+      "timestamp": "2025-12-29T15:51:56.436Z"
+    },
+    {
+      "page": 166,
+      "inputTokens": 2415,
+      "outputTokens": 449,
+      "cost": 0.00150175,
+      "pageType": "OVERVIEW",
+      "timestamp": "2025-12-29T15:52:06.063Z"
+    }
+  ]
+}

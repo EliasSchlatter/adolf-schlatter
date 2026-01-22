@@ -1,0 +1,223 @@
+{
+  "sourceFile": "page_123.json",
+  "pageNumber": "99",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 4,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 811: Notiz über Schlatters Antrittsvorlesung an der Universität\nBerlin.\nAus: Kreuz-Zeitung 24.10.1893\n\nArtikel der Protestantenvereins-Korrespondenz über Einflüsse\nwürttembergischer Gemeinschaftskreise auf Pastor Bodelschwingh\nbezüglich Gründung einer freien theologischen Fakultät.\nAus: Nationalzeitung 17.2.1895",
+      "nummer": "811",
+      "titel": "Notiz über Schlatters Antrittsvorlesung an der Universität Berlin",
+      "beschreibung": "Sammlung von Zeitungsartikeln mit Nennung Schlatters: Notiz zur Antrittsvorlesung; Artikel der Protestentenvereins-Korrespondenz über Einflüsse württembergischer Gemeinschaftskreise auf Pastor Bodelschwingh bzgl. Gründung einer freien theologischen Fakultät.",
+      "typ": "Druckschrift",
+      "untereintraege": [
+        {
+          "rawText": "Notiz über Schlatters Antrittsvorlesung an der Universität Berlin. Aus: Kreuz-Zeitung 24.10.1893",
+          "titel": "Notiz über Schlatters Antrittsvorlesung an der Universität Berlin",
+          "typ": "Druckschrift",
+          "datum": "1893-10-24"
+        },
+        {
+          "rawText": "Artikel der Protestantenvereins-Korrespondenz über Einflüsse württembergischer Gemeinschaftskreise auf Pastor Bodelschwingh bezüglich Gründung einer freien theologischen Fakultät. Aus: Nationalzeitung 17.2.1895",
+          "titel": "Artikel der Protestantenvereins-Korrespondenz über Einflüsse württembergischer Gemeinschaftskreise auf Pastor Bodelschwingh",
+          "typ": "Druckschrift",
+          "datum": "1895-02-17"
+        }
+      ],
+      "_quelldatei": "page_123.json",
+      "_pageNumber": "99"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "812: \"Einladung zu der landeskirchlichen Versammlung in Berlin am\n8. Mai 1895.\" Namensliste, darunter Schlatter.\nAus: Kreuz-Zeitung 27.3.1895\n\n\"Die rheinisch-westfälische Vereinigung der Freunde des kirch-\nlichen Bekenntnisses.\" Artikel mit Nennung Schlatters.\nAus: Kreuz-Zeitung 24.7.1895\n\n\"Die theologischen Fakultäten und der Unterrichtsminister.\" -\nArtikel über Berufungsfragen. Positive Erwähnung Schlatters.\nAus: Nationalzeitung 17.9.1895\n\n(Angehängt:) Anfrage Unterrichtsministerium an Evang. Ober-\nkirchenrat Berlin 12.6.1888 zur Absicht, den außerordentlichen\nProfessor Lic. theol. Schlatter zu Bern nach Greifswald zu be-\nrufen.\n\n\"Übersicht über die wichtigsten Ereignisse auf dem Gebiete der\ndeutschen evangelischen Landeskirchen von 1.1. bis 31.3.1898\"\nüber den Einfluß des Apostolikumsstreits 1892 - 1893, der lan-\ndeskirchlichen Versammlung 1895, der Positiven Union sowie Adolf\nStöckers auf die Besetzung der Theologischen Fakultäten und das\nVerhältnis von Kirche und Staat.",
+      "nummer": "812",
+      "titel": "Einladung zu der landeskirchlichen Versammlung in Berlin am 8. Mai 1895",
+      "beschreibung": "Mehrere Zeitungsartikel und ein angehängtes Schreiben des Unterrichtsministeriums sowie eine Übersicht über Ereignisse (1.1.–31.3.1898) mit Bezug auf Apostolikumsstreit, landeskirchliche Versammlung 1895, Positive Union und Adolf Stöcker; Nennung Schlatters.",
+      "typ": "Druckschrift",
+      "untereintraege": [
+        {
+          "rawText": "\"Einladung zu der landeskirchlichen Versammlung in Berlin am 8. Mai 1895.\" Namensliste, darunter Schlatter. Aus: Kreuz-Zeitung 27.3.1895",
+          "titel": "Einladung zu der landeskirchlichen Versammlung in Berlin am 8. Mai 1895 (Namensliste)",
+          "typ": "Druckschrift",
+          "datum": "1895-03-27"
+        },
+        {
+          "rawText": "\"Die rheinisch-westfälische Vereinigung der Freunde des kirchlichen Bekenntnisses.\" Artikel mit Nennung Schlatters. Aus: Kreuz-Zeitung 24.7.1895",
+          "titel": "Die rheinisch-westfälische Vereinigung der Freunde des kirchlichen Bekenntnisses",
+          "typ": "Druckschrift",
+          "datum": "1895-07-24"
+        },
+        {
+          "rawText": "\"Die theologischen Fakultäten und der Unterrichtsminister.\" - Artikel über Berufungsfragen. Positive Erwähnung Schlatters. Aus: Nationalzeitung 17.9.1895",
+          "titel": "Die theologischen Fakultäten und der Unterrichtsminister",
+          "typ": "Druckschrift",
+          "datum": "1895-09-17"
+        },
+        {
+          "rawText": "(Angehängt:) Anfrage Unterrichtsministerium an Evang. Oberkirchenrat Berlin 12.6.1888 zur Absicht, den außerordentlichen Professor Lic. theol. Schlatter zu Bern nach Greifswald zu berufen.",
+          "titel": "Anfrage des Unterrichtsministeriums an den Evang. Oberkirchenrat wegen Berufung Schlatters nach Greifswald",
+          "typ": "Brief",
+          "datum": "1888-06-12",
+          "beteiligte": [
+            {
+              "name": "Unterrichtsministerium",
+              "rolle": "Absender",
+              "entity": "Institution"
+            },
+            {
+              "name": "Evang. Oberkirchenrat Berlin",
+              "rolle": "Adressat",
+              "entity": "Institution"
+            },
+            {
+              "name": "D. Schlatter",
+              "rolle": "Erwähnt",
+              "entity": "Person",
+              "zusatz": "außerordentlicher Professor Lic. theol. in Bern"
+            }
+          ]
+        },
+        {
+          "rawText": "\"Übersicht über die wichtigsten Ereignisse auf dem Gebiete der deutschen evangelischen Landeskirchen von 1.1. bis 31.3.1898\" über den Einfluß des Apostolikumsstreits 1892 - 1893, der landeskirchlichen Versammlung 1895, der Positiven Union sowie Adolf Stöckers auf die Besetzung der Theologischen Fakultäten und das Verhältnis von Kirche und Staat.",
+          "titel": "Übersicht über die wichtigsten Ereignisse ... (1.1.–31.3.1898)",
+          "beschreibung": "Übersicht über Ereignisse der deutschen evangelischen Landeskirchen in der Periode 1.1. bis 31.3.1898; behandelt Apostolikumsstreit 1892–1893, landeskirchliche Versammlung 1895, Positive Union, Adolf Stöcker, und Auswirkungen auf Besetzung der theologischen Fakultäten sowie Verhältnis von Kirche und Staat.",
+          "typ": "Druckschrift",
+          "zeitraum": "1898-01-01 - 1898-03-31"
+        }
+      ],
+      "_quelldatei": "page_123.json",
+      "_pageNumber": "99"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "813: Kaiser Wilhelm I., Ansprache bei der Jubiläumsfeier des\nköniglichen Domkandidatenstifts Berlin 1879.\nAus: Festschrift zum fünfzigjährigen Stiftsjubiläum.\nVerlag von Martin Warneck, Berlin 1907\n\nBruno Doehring, Das Domkandidatenstift zu Berlin. - Ulrich\nSeeger, Die Aufgaben des Predigerseminars heute. Auszüge.\nVerlag \"Die Kirche\", Berlin 1954\n\nVgl. Brief Schlatters an Bodelschwingh 4.11.1897, Inventar-\nNr. 1202",
+      "nummer": "813",
+      "titel": "Kaiser Wilhelm I., Ansprache bei der Jubiläumsfeier des königlichen Domkandidatenstifts Berlin 1879",
+      "beschreibung": "Festschriftseintrag und weitere Aufsätze/Auszugsdrucke sowie Verweis auf einen Brief Schlatters an Bodelschwingh (Inv.-Nr. 1202).",
+      "typ": "Druckschrift",
+      "untereintraege": [
+        {
+          "rawText": "Kaiser Wilhelm I., Ansprache bei der Jubiläumsfeier des königlichen Domkandidatenstifts Berlin 1879. Aus: Festschrift zum fünfzigjährigen Stiftsjubiläum. Verlag von Martin Warneck, Berlin 1907",
+          "titel": "Ansprache Kaiser Wilhelm I. bei der Jubiläumsfeier des königlichen Domkandidatenstifts Berlin 1879 (Festschrift)",
+          "typ": "Druckschrift",
+          "jahr": 1907,
+          "verlag": "Verlag von Martin Warneck",
+          "ort": "Berlin",
+          "beteiligte": [
+            {
+              "name": "Kaiser Wilhelm I.",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Bruno Doehring, Das Domkandidatenstift zu Berlin. - Ulrich Seeger, Die Aufgaben des Predigerseminars heute. Auszüge. Verlag \"Die Kirche\", Berlin 1954",
+          "titel": "Bruno Doehring: Das Domkandidatenstift zu Berlin; Ulrich Seeger: Die Aufgaben des Predigerseminars heute (Auszüge)",
+          "typ": "Druckschrift",
+          "jahr": 1954,
+          "verlag": "Die Kirche",
+          "ort": "Berlin",
+          "beteiligte": [
+            {
+              "name": "Bruno Doehring",
+              "rolle": "Autor",
+              "entity": "Person"
+            },
+            {
+              "name": "Ulrich Seeger",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Vgl. Brief Schlatters an Bodelschwingh 4.11.1897, Inventar-Nr. 1202",
+          "titel": "Brief Schlatters an Bodelschwingh",
+          "typ": "Brief",
+          "datum": "1897-11-04",
+          "verweis": "Inventar-Nr. 1202",
+          "beteiligte": [
+            {
+              "name": "D. Schlatter",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Bodelschwingh",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_123.json",
+      "_pageNumber": "99"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "814: Artikel über den \"Fortgang des Professors D. Schlatter von\nBerlin nach Tübingen.\"\nAus: Kreuz-Zeitung 21.1.1898\n\nAnfrage des Unterrichtsministeriums Berlin 1.3.1898 an den\nEvang. Oberkirchenrat bezüglich der Ernennung von Prof. D.\nSeeberg auf \"das durch den Weggang des Professors Schlatter\nzur Erledigung kommende Ordinariat für systematische Theologie ...\"",
+      "nummer": "814",
+      "titel": "Artikel über den Fortgang des Professors D. Schlatter von Berlin nach Tübingen",
+      "beschreibung": "Zeitungsartikel und angehängte Anfrage des Unterrichtsministeriums zur Ernennung von Prof. D. Seeberg infolge des Weggangs von Professor Schlatter.",
+      "typ": "Druckschrift",
+      "untereintraege": [
+        {
+          "rawText": "Artikel über den \"Fortgang des Professors D. Schlatter von Berlin nach Tübingen.\" Aus: Kreuz-Zeitung 21.1.1898",
+          "titel": "Artikel: Fortgang des Professors D. Schlatter von Berlin nach Tübingen",
+          "typ": "Druckschrift",
+          "datum": "1898-01-21"
+        },
+        {
+          "rawText": "Anfrage des Unterrichtsministeriums Berlin 1.3.1898 an den Evang. Oberkirchenrat bezüglich der Ernennung von Prof. D. Seeberg auf \"das durch den Weggang des Professors Schlatter zur Erledigung kommende Ordinariat für systematische Theologie ...\"",
+          "titel": "Anfrage des Unterrichtsministeriums an den Evang. Oberkirchenrat wegen Ernennung von Prof. D. Seeberg",
+          "typ": "Brief",
+          "datum": "1898-03-01",
+          "beteiligte": [
+            {
+              "name": "Unterrichtsministerium Berlin",
+              "rolle": "Absender",
+              "entity": "Institution"
+            },
+            {
+              "name": "Evang. Oberkirchenrat",
+              "rolle": "Adressat",
+              "entity": "Institution"
+            },
+            {
+              "name": "D. Seeberg",
+              "rolle": "Erwähnt",
+              "entity": "Person"
+            },
+            {
+              "name": "D. Schlatter",
+              "rolle": "Erwähnt",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_123.json",
+      "_pageNumber": "99"
+    }
+  ],
+  "notes": ""
+}

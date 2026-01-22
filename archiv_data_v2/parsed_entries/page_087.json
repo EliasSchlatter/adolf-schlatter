@@ -1,0 +1,203 @@
+{
+  "sourceFile": "page_087.json",
+  "pageNumber": "63",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "C BRIEFE",
+    "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+    "unterkategorie": "a) Briefe von Professoren"
+  },
+  "entriesCount": 8,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+      "unterkategorie": "a) Briefe von Professoren",
+      "rawText": "Nr. 420: Briefe an verschiedene Professoren.\n    8 Briefe.\n    Darunter:\n    1 Brief an Adolf Bolliger.                21.6.1874\n    1 Brief an Martin Kähler.                 24.7.1904\n    1 Brief an einen Kollegen.                28.6.1893\n    3 Briefe an einen Kollegen in Basel.      3.2. - 28.7.1889",
+      "nummer": "420",
+      "titel": "Briefe an verschiedene Professoren",
+      "beschreibung": "Sammlung von Briefen an verschiedene Professoren; enthält namentlich einzelne Briefe an aufgeführte Personen und an Kollegen in Basel.",
+      "typ": "Brief",
+      "umfang": "8 Briefe",
+      "untereintraege": [
+        {
+          "rawText": "1 Brief an Adolf Bolliger. 21.6.1874",
+          "titel": "Brief an Adolf Bolliger",
+          "datum": "1874-06-21",
+          "typ": "Brief"
+        },
+        {
+          "rawText": "1 Brief an Martin Kähler. 24.7.1904",
+          "titel": "Brief an Martin Kähler",
+          "datum": "1904-07-24",
+          "typ": "Brief"
+        },
+        {
+          "rawText": "1 Brief an einen Kollegen. 28.6.1893",
+          "titel": "Brief an einen Kollegen",
+          "datum": "1893-06-28",
+          "typ": "Brief"
+        },
+        {
+          "rawText": "3 Briefe an einen Kollegen in Basel. 3.2. - 28.7.1889",
+          "titel": "3 Briefe an einen Kollegen in Basel",
+          "umfang": "3 Briefe",
+          "zeitraum": "03.02.1889 - 28.07.1889",
+          "typ": "Brief"
+        }
+      ],
+      "_quelldatei": "page_087.json",
+      "_pageNumber": "63"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+      "unterkategorie": "a) Briefe von Professoren",
+      "rawText": "421: Briefe an Wilhelm Lütgert.              11.5.1910\n    70 Briefe.                               - 6.1.1938",
+      "nummer": "421",
+      "titel": "Briefe an Wilhelm Lütgert",
+      "typ": "Brief",
+      "umfang": "70 Briefe",
+      "zeitraum": "11.05.1910 - 06.01.1938",
+      "beschreibung": "Korrespondenz mit Wilhelm Lütgert, datiert von 11.5.1910 bis 6.1.1938.",
+      "_quelldatei": "page_087.json",
+      "_pageNumber": "63"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+      "unterkategorie": "a) Briefe von Professoren",
+      "rawText": "422: Briefe an sonstige Adressaten.\n    9 Briefe.\n    Darunter:\n    1 Brief an einen befreundeten Pfarrer.    28.12.1884\n    1 Brief an Catharina Gleiß.               18.7.1904\n    1 Briefentwurf an \"Ew. Exzellenz\" betr.\n    Bibliothek für kirchenhistorisches und neu-\n    testamentliches Seminar.                   23.6.1905\n    1 Brief an Kirchenrat Knapp.              26.2.1924\n    Sowie 3 beratende Briefe an Pfarrer.      12.7.1927\n                                              - 17.1.1937",
+      "nummer": "422",
+      "titel": "Briefe an sonstige Adressaten",
+      "beschreibung": "Verschiedene Briefe an nicht näher bezeichnete Adressaten; enthält u.a. Entwurf an 'Ew. Exzellenz' betreffend Bibliothek für kirchenhistorisches und neutestamentliches Seminar.",
+      "typ": "Brief",
+      "umfang": "9 Briefe",
+      "untereintraege": [
+        {
+          "rawText": "1 Brief an einen befreundeten Pfarrer. 28.12.1884",
+          "titel": "Brief an einen befreundeten Pfarrer",
+          "datum": "1884-12-28",
+          "typ": "Brief"
+        },
+        {
+          "rawText": "1 Brief an Catharina Gleiß. 18.7.1904",
+          "titel": "Brief an Catharina Gleiß",
+          "datum": "1904-07-18",
+          "typ": "Brief",
+          "beteiligte": [
+            {
+              "name": "Catharina Gleiß",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "1 Briefentwurf an \"Ew. Exzellenz\" betr. Bibliothek ... 23.6.1905",
+          "titel": "Briefentwurf an 'Ew. Exzellenz' betreffend Bibliothek für kirchenhistorisches und neutestamentliches Seminar",
+          "datum": "1905-06-23",
+          "typ": "Entwurf"
+        },
+        {
+          "rawText": "1 Brief an Kirchenrat Knapp. 26.2.1924",
+          "titel": "Brief an Kirchenrat Knapp",
+          "datum": "1924-02-26",
+          "typ": "Brief",
+          "beteiligte": [
+            {
+              "name": "Kirchenrat Knapp",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Sowie 3 beratende Briefe an Pfarrer. 12.7.1927 - 17.1.1937",
+          "titel": "3 beratende Briefe an Pfarrer",
+          "umfang": "3 Briefe",
+          "zeitraum": "12.07.1927 - 17.01.1937",
+          "typ": "Brief"
+        }
+      ],
+      "_quelldatei": "page_087.json",
+      "_pageNumber": "63"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+      "unterkategorie": "a) Briefe von Professoren",
+      "rawText": "423: Liste über Briefe von Schlatter:\n    \"Universität und Pfarrer\"",
+      "nummer": "423",
+      "titel": "Liste über Briefe von Schlatter: \"Universität und Pfarrer\"",
+      "beschreibung": "Verzeichnis/Liste der Briefe von Schlatter zum Thema 'Universität und Pfarrer'.",
+      "typ": "Verzeichnis/Aufstellung",
+      "_quelldatei": "page_087.json",
+      "_pageNumber": "63"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+      "unterkategorie": "a) Briefe von Professoren",
+      "rawText": "Nr. 424: Liste der Namen und Briefzahlen der in den Inventar-Num-\n    mern 425 - 430 enthaltenen Professoren und sonstigen im\n    theologischen Lehramt stehenden Personen.\n    Vgl. auch ANHANG Abschnitt II.",
+      "nummer": "424",
+      "titel": "Liste der Namen und Briefzahlen der in den Inventar-Nummern 425-430 enthaltenen Professoren und sonstigen im theologischen Lehramt stehenden Personen",
+      "beschreibung": "Verzeichnis der Namen und Briefzahlen; verweist auf die Inventar-Nummern 425-430 und auf ANHANG Abschnitt II.",
+      "typ": "Verzeichnis/Aufstellung",
+      "verweis": "Inventar-Nrn. 425-430; vgl. ANHANG Abschnitt II",
+      "_quelldatei": "page_087.json",
+      "_pageNumber": "63"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+      "unterkategorie": "a) Briefe von Professoren",
+      "rawText": "425: Briefe Ahlwardt - Dunkmann.\n    277 Briefe. Mit Regesten (Bd. 485)",
+      "nummer": "425",
+      "titel": "Briefe Ahlwardt - Dunkmann",
+      "beschreibung": "Korrespondenz mit Personen von Ahlwardt bis Dunkmann. Mit Regesten.",
+      "typ": "Brief",
+      "umfang": "277 Briefe",
+      "anmerkung": "Mit Regesten (Bd. 485)",
+      "_quelldatei": "page_087.json",
+      "_pageNumber": "63"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+      "unterkategorie": "a) Briefe von Professoren",
+      "rawText": "426: Briefe Eichrodt - von Lerber.\n    282 Briefe. Mit Regesten (Bd. 485)",
+      "nummer": "426",
+      "titel": "Briefe Eichrodt - von Lerber",
+      "beschreibung": "Korrespondenz mit Personen von Eichrodt bis von Lerber. Mit Regesten.",
+      "typ": "Brief",
+      "umfang": "282 Briefe",
+      "anmerkung": "Mit Regesten (Bd. 485)",
+      "_quelldatei": "page_087.json",
+      "_pageNumber": "63"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "1. Briefe von Schlatter; 2. Briefe an Schlatter",
+      "unterkategorie": "a) Briefe von Professoren",
+      "rawText": "427: Briefe Meinhold - Zöckler.\n    277 Briefe. Mit Regesten (Bd. 485)",
+      "nummer": "427",
+      "titel": "Briefe Meinhold - Zöckler",
+      "beschreibung": "Korrespondenz mit Personen von Meinhold bis Zöckler. Mit Regesten.",
+      "typ": "Brief",
+      "umfang": "277 Briefe",
+      "anmerkung": "Mit Regesten (Bd. 485)",
+      "_quelldatei": "page_087.json",
+      "_pageNumber": "63"
+    }
+  ],
+  "notes": "Seitenzahl auf der Seite: 63. Seite zeigt Überschriften 'C BRIEFE', '1. Briefe von Schlatter', '2. Briefe an Schlatter', Unterkategorie 'a) Briefe von Professoren'."
+}

@@ -1,0 +1,242 @@
+{
+  "sourceFile": "page_177.json",
+  "pageNumber": "153",
+  "context": {
+    "teil": "Anhang",
+    "sektion": "Abschnitt I: Ungedrucktes",
+    "unterabschnitt": "9. Biographisches",
+    "unterkategorie": "a) Autobiographisches von Schlatter"
+  },
+  "entriesCount": 16,
+  "entries": [
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "a) Autobiographisches von Schlatter",
+      "rawText": "Nr. 151: Lebenslauf bei der Meldung zum Kirchendienst 1875.",
+      "nummer": "151",
+      "titel": "Lebenslauf bei der Meldung zum Kirchendienst",
+      "jahr": 1875,
+      "_quelldatei": "page_177.json",
+      "_pageNumber": "153"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "a) Autobiographisches von Schlatter",
+      "rawText": "152: Meine Begegnungen mit der CSV.",
+      "nummer": "152",
+      "titel": "Meine Begegnungen mit der CSV.",
+      "_quelldatei": "page_177.json",
+      "_pageNumber": "153"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "a) Autobiographisches von Schlatter",
+      "rawText": "156/2: Dora Schlatter, Aufzeichnungen von Äußerungen Schlatters über Berufung Berlin, Palästinareise u. a., 1891 - 1893.",
+      "nummer": "156/2",
+      "titel": "Dora Schlatter, Aufzeichnungen von Äußerungen Schlatters über Berufung Berlin, Palästinareise u. a.",
+      "zeitraum": "1891-1893",
+      "beteiligte": [
+        {
+          "name": "Dora Schlatter",
+          "rolle": "Zusammensteller",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_177.json",
+      "_pageNumber": "153"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "a) Autobiographisches von Schlatter",
+      "rawText": "159: Manuskript des 12jährigen: Gedichte deutscher und schweizerischer Dichter.",
+      "nummer": "159",
+      "titel": "Manuskript des 12jährigen: Gedichte deutscher und schweizerischer Dichter",
+      "typ": "Manuskript",
+      "_quelldatei": "page_177.json",
+      "_pageNumber": "153"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "a) Autobiographisches von Schlatter",
+      "rawText": "166: Palästinareise 1891. Reisetagebücher.",
+      "nummer": "166",
+      "titel": "Palästinareise 1891. Reisetagebücher",
+      "jahr": 1891,
+      "typ": "Tagebuch/Reisetagebuch",
+      "_quelldatei": "page_177.json",
+      "_pageNumber": "153"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "a) Autobiographisches von Schlatter",
+      "rawText": "286: Ordinationspredigt St. Gallen 9.5.1875.",
+      "nummer": "286",
+      "titel": "Ordinationspredigt St. Gallen",
+      "datum": "1875-05-09",
+      "typ": "Predigt",
+      "_quelldatei": "page_177.json",
+      "_pageNumber": "153"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "a) Autobiographisches von Schlatter",
+      "rawText": "288: Abschiedspredigt Keßwil 1880.",
+      "nummer": "288",
+      "titel": "Abschiedspredigt Keßwil",
+      "jahr": 1880,
+      "typ": "Predigt",
+      "_quelldatei": "page_177.json",
+      "_pageNumber": "153"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "a) Autobiographisches von Schlatter",
+      "rawText": "683: Mitteilungen an Gustav von Bodelschwingh über Pfarrerszeit, Berner, Greifswalder, Berliner Zeit.",
+      "nummer": "683",
+      "titel": "Mitteilungen an Gustav von Bodelschwingh",
+      "beschreibung": "Mitteilungen über Pfarrerszeit, Berner, Greifswalder, Berliner Zeit.",
+      "beteiligte": [
+        {
+          "name": "Gustav von Bodelschwingh",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_177.json",
+      "_pageNumber": "153"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "a) Autobiographisches von Schlatter",
+      "rawText": "699: Ansprache beim 25jährigen Jubiläum der Theol. Schule Bethel 1930.",
+      "nummer": "699",
+      "titel": "Ansprache beim 25jährigen Jubiläum der Theol. Schule Bethel",
+      "jahr": 1930,
+      "typ": "Rede",
+      "_quelldatei": "page_177.json",
+      "_pageNumber": "153"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "a) Autobiographisches von Schlatter",
+      "rawText": "763: Gedichte, ca. 50 Blätter.",
+      "nummer": "763",
+      "titel": "Gedichte",
+      "umfang": "ca. 50 Blätter",
+      "_quelldatei": "page_177.json",
+      "_pageNumber": "153"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "a) Autobiographisches von Schlatter",
+      "rawText": "769: Der Idealismus und die Erweckung in meiner Jugend. Vgl. Nr. 869/2",
+      "nummer": "769",
+      "titel": "Der Idealismus und die Erweckung in meiner Jugend",
+      "verweis": "869/2",
+      "_quelldatei": "page_177.json",
+      "_pageNumber": "153"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "a) Autobiographisches von Schlatter",
+      "rawText": "770: Antrittsrede 16.6.1898 in Tübingen. Manuskript. Nur gekürzt gedruckt (Bibl. 2 Nr. 92)",
+      "nummer": "770",
+      "titel": "Antrittsrede in Tübingen",
+      "datum": "1898-06-16",
+      "anmerkung": "Manuskript. Nur gekürzt gedruckt (Bibl. 2 Nr. 92)",
+      "typ": "Rede",
+      "_quelldatei": "page_177.json",
+      "_pageNumber": "153"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "a) Autobiographisches von Schlatter",
+      "rawText": "892/1: \"Adolf Schlatter stud. theol., Rückblick auf meinen Lebensgang. Basel, den 6. Jan. 1875\".",
+      "nummer": "892/1",
+      "titel": "Adolf Schlatter stud. theol., Rückblick auf meinen Lebensgang",
+      "beschreibung": "Basel, den 6. Jan. 1875",
+      "jahr": 1875,
+      "_quelldatei": "page_177.json",
+      "_pageNumber": "153"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "a) Autobiographisches von Schlatter",
+      "rawText": "156/1: Ein dankbares Wort zum Geburtstag von Vater Bodelschwingh.",
+      "nummer": "156/1",
+      "titel": "Ein dankbares Wort zum Geburtstag von Vater Bodelschwingh",
+      "_quelldatei": "page_177.json",
+      "_pageNumber": "153"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "a) Autobiographisches von Schlatter",
+      "rawText": "445-460: Familienbriefe von Schlatter. 996 Briefe",
+      "nummer": "445-460",
+      "titel": "Familienbriefe von Schlatter",
+      "umfang": "996 Briefe",
+      "_quelldatei": "page_177.json",
+      "_pageNumber": "153"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "a) Autobiographisches von Schlatter",
+      "rawText": "1229: Briefe von Schlatter an Sohn Theodor. 404 Briefe.",
+      "nummer": "1229",
+      "titel": "Briefe von Schlatter an Sohn Theodor",
+      "umfang": "404 Briefe",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Theodor (Sohn)",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_177.json",
+      "_pageNumber": "153"
+    }
+  ],
+  "notes": "Auf der Seite steht vor den Einträgen 156/1, 445-460 und 1229 die Notiz 'Ferner autobiographische Äußerungen in:'. Seite enthält OCR-Fußzeile '153'."
+}

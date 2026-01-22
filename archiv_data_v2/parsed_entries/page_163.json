@@ -1,0 +1,194 @@
+{
+  "sourceFile": "page_163.json",
+  "pageNumber": "139",
+  "context": {
+    "teil": "Teil III",
+    "sektion": "B Korrespondenz",
+    "unterabschnitt": "Handakten des Archivars",
+    "unterkategorie": "Schriftwechsel mit sonstigen Instituten"
+  },
+  "entriesCount": 7,
+  "entries": [
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "Nr. 1562: Hermann Schneller, Pfarrer, Nürtingen\n\nRudolf Smend, Professor, Göttingen\n\nHelle Smidt, Witwe von\n\nUdo Smidt, Landessuperintendent, Detmold\n\nGustav Stählin, Professor, Mainz\n\nPeter Stuhlmacher, Professor, Tübingen\n\nRichard von Weizsäcker, Bundespräsident, Bonn",
+      "nummer": "1562",
+      "titel": "Hermann Schneller, Pfarrer, Nürtingen",
+      "typ": "Korrespondenz",
+      "untereintraege": [
+        {
+          "rawText": "Rudolf Smend, Professor, Göttingen",
+          "titel": "Rudolf Smend",
+          "beschreibung": "Professor, Göttingen",
+          "typ": "Korrespondenz"
+        },
+        {
+          "rawText": "Helle Smidt, Witwe von",
+          "titel": "Helle Smidt",
+          "beschreibung": "Witwe von",
+          "typ": "Korrespondenz",
+          "anmerkung": "Name der verstorbenen Person nicht angegeben im OCR-Text"
+        },
+        {
+          "rawText": "Udo Smidt, Landessuperintendent, Detmold",
+          "titel": "Udo Smidt",
+          "beschreibung": "Landessuperintendent, Detmold",
+          "typ": "Korrespondenz"
+        },
+        {
+          "rawText": "Gustav Stählin, Professor, Mainz",
+          "titel": "Gustav Stählin",
+          "beschreibung": "Professor, Mainz",
+          "typ": "Korrespondenz"
+        },
+        {
+          "rawText": "Peter Stuhlmacher, Professor, Tübingen",
+          "titel": "Peter Stuhlmacher",
+          "beschreibung": "Professor, Tübingen",
+          "typ": "Korrespondenz"
+        },
+        {
+          "rawText": "Richard von Weizsäcker, Bundespräsident, Bonn",
+          "titel": "Richard von Weizsäcker",
+          "beschreibung": "Bundespräsident, Bonn",
+          "typ": "Korrespondenz"
+        }
+      ],
+      "_quelldatei": "page_163.json",
+      "_pageNumber": "139"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "Der Schriftwechsel von Inventar-Nr. 1507 - 1561 wurde im wesentlichen mit den Leitern der genannten Instituten geführt.",
+      "nummer": "note-1507-1561",
+      "titel": "Hinweis zum Umfang des Schriftwechsels 1507-1561",
+      "beschreibung": "Der Schriftwechsel von Inventar-Nr. 1507 - 1561 wurde im wesentlichen mit den Leitern der genannten Instituten geführt.",
+      "typ": "Sonstiges",
+      "_quelldatei": "page_163.json",
+      "_pageNumber": "139"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "(Nr. 1503): Archivdirektor D. Dr. Schäfer, Stuttgart, 1978 - 1988\n\nOberkirchenrat D. Konrad Gottschick, Stuttgart, bis 1980\n\nOberkirchenrat Dr. Hartmut Jetter, Stuttgart, ab 1980\n\nDiplom-Bibliothekarin Katharina Kley, Stuttgart, 1979",
+      "nummer": "1503",
+      "typ": "Korrespondenz",
+      "untereintraege": [
+        {
+          "rawText": "Archivdirektor D. Dr. Schäfer, Stuttgart, 1978 - 1988",
+          "titel": "D. Dr. Schäfer",
+          "beschreibung": "Archivdirektor, Stuttgart",
+          "zeitraum": "1978 - 1988",
+          "typ": "Korrespondenz"
+        },
+        {
+          "rawText": "Oberkirchenrat D. Konrad Gottschick, Stuttgart, bis 1980",
+          "titel": "D. Konrad Gottschick",
+          "beschreibung": "Oberkirchenrat, Stuttgart",
+          "anmerkung": "bis 1980",
+          "typ": "Korrespondenz"
+        },
+        {
+          "rawText": "Oberkirchenrat Dr. Hartmut Jetter, Stuttgart, ab 1980",
+          "titel": "Dr. Hartmut Jetter",
+          "beschreibung": "Oberkirchenrat, Stuttgart",
+          "anmerkung": "ab 1980",
+          "typ": "Korrespondenz"
+        },
+        {
+          "rawText": "Diplom-Bibliothekarin Katharina Kley, Stuttgart, 1979",
+          "titel": "Katharina Kley",
+          "beschreibung": "Diplom-Bibliothekarin, Stuttgart",
+          "jahr": 1979,
+          "typ": "Korrespondenz"
+        }
+      ],
+      "_quelldatei": "page_163.json",
+      "_pageNumber": "139"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "(Nr. 1504): Dekan Theodor Schlatter, Besigheim, 1978 - 1988\n\nKirchenrat i.R. D. Hans Stroh, Reutlingen, 1979 - 1988\n\nDr. theol. Werner Neuer, Gomaringen, 1981 - 1988",
+      "nummer": "1504",
+      "typ": "Korrespondenz",
+      "untereintraege": [
+        {
+          "rawText": "Dekan Theodor Schlatter, Besigheim, 1978 - 1988",
+          "titel": "Theodor Schlatter",
+          "beschreibung": "Dekan, Besigheim",
+          "zeitraum": "1978 - 1988",
+          "typ": "Korrespondenz"
+        },
+        {
+          "rawText": "Kirchenrat i.R. D. Hans Stroh, Reutlingen, 1979 - 1988",
+          "titel": "D. Hans Stroh",
+          "beschreibung": "Kirchenrat i.R., Reutlingen",
+          "zeitraum": "1979 - 1988",
+          "typ": "Korrespondenz"
+        },
+        {
+          "rawText": "Dr. theol. Werner Neuer, Gomaringen, 1981 - 1988",
+          "titel": "Dr. theol. Werner Neuer",
+          "beschreibung": "Gomaringen",
+          "zeitraum": "1981 - 1988",
+          "typ": "Korrespondenz"
+        }
+      ],
+      "_quelldatei": "page_163.json",
+      "_pageNumber": "139"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "(Nr. 1505): Dekan i.R. Rudolf Brezger, Stuttgart, 1979 - 1988",
+      "nummer": "1505",
+      "titel": "Dekan i.R. Rudolf Brezger, Stuttgart",
+      "typ": "Korrespondenz",
+      "beschreibung": "Dekan i.R., Stuttgart",
+      "zeitraum": "1979 - 1988",
+      "_quelldatei": "page_163.json",
+      "_pageNumber": "139"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "(Nr. 1506): Oberstaatsarchivrat Dr. Volker Schäfer, Tübingen, 1978 - 1983",
+      "nummer": "1506",
+      "titel": "Oberstaatsarchivrat Dr. Volker Schäfer, Tübingen",
+      "typ": "Korrespondenz",
+      "beschreibung": "Oberstaatsarchivrat, Tübingen",
+      "zeitraum": "1978 - 1983",
+      "_quelldatei": "page_163.json",
+      "_pageNumber": "139"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "Auf die Vorbemerkung zur Auswertung von Teil II durch die Korrespondenz (Inventar-Nr. 1503 - 1562) wird hingewiesen.",
+      "nummer": "note-vorbemerkung",
+      "titel": "Verweis auf Vorbemerkung zur Auswertung von Teil II",
+      "beschreibung": "Hinweis auf die Vorbemerkung zur Auswertung von Teil II durch die Korrespondenz (Inventar-Nr. 1503 - 1562).",
+      "typ": "Sonstiges",
+      "_quelldatei": "page_163.json",
+      "_pageNumber": "139"
+    }
+  ],
+  "notes": "Seite listet Nr. 1562 (mit mehreren Personen als Untereinträge), einen Hinweis zum Umfang der Nummern 1507-1561, die Einträge Nr. 1503-1506 mit jeweils mehreren beteiligten Personen und einen Verweis auf die Vorbemerkung zur Auswertung von Teil II. Keine neuen Überschriften erkannt."
+}

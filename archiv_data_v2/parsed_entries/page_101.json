@@ -1,0 +1,299 @@
+{
+  "sourceFile": "page_101.json",
+  "pageNumber": "77",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "A Bücher",
+    "unterabschnitt": "4 Systematische Theologie und Philosophie",
+    "unterkategorie": "C Verschiedenes"
+  },
+  "entriesCount": 12,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "Nr. 571: A. von Schlatter, Attitude of German Protestant Theology to the Bible.\nIn: The Constructive Quarterly, New York and London, March 1914",
+      "nummer": "571",
+      "titel": "Attitude of German Protestant Theology to the Bible",
+      "beschreibung": "Aufsatz in The Constructive Quarterly; Erscheinungsort New York and London, März 1914.",
+      "typ": "Artikel",
+      "zeitschrift": "The Constructive Quarterly",
+      "ort": "New York and London",
+      "jahr": 1914,
+      "beteiligte": [
+        {
+          "name": "A. von Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_101.json",
+      "_pageNumber": "77"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "572: Adolfo Schlatter, Introducción a la Biblia. Tomo III.\nTraducción española de Frederico Laranága Gonzalez. Madrid 1935, Librería National y Extranjera Caballero de Gracia",
+      "nummer": "572",
+      "titel": "Introducción a la Biblia. Tomo III",
+      "beschreibung": "Spanische Übersetzung von Frederico Laranága Gonzalez. Verlag: Librería National y Extranjera Caballero de Gracia, Madrid.",
+      "typ": "Buch",
+      "verlag": "Librería National y Extranjera Caballero de Gracia",
+      "ort": "Madrid",
+      "jahr": 1935,
+      "beteiligte": [
+        {
+          "name": "Adolfo Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Frederico Laranága Gonzalez",
+          "rolle": "Übersetzer",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_101.json",
+      "_pageNumber": "77"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "573: Adolf Schlatter, The Church in The New Testament Period.\nTranslated by Paul P. Levertoff, London S.P.C.K. 1955",
+      "nummer": "573",
+      "titel": "The Church in The New Testament Period",
+      "beschreibung": "Übersetzung von Paul P. Levertoff. Verlag S.P.C.K., London.",
+      "typ": "Buch",
+      "verlag": "S.P.C.K.",
+      "ort": "London",
+      "jahr": 1955,
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Paul P. Levertoff",
+          "rolle": "Übersetzer",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_101.json",
+      "_pageNumber": "77"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "574: Johann Gottfried Wetzstein, Hauran und die Trachonen.\nReisebericht, nebst einem Anhang über die Sabaäischen Denkmäler in Ost-Syrien.\nBerlin, Verlag Dietrich Reimer, 1860",
+      "nummer": "574",
+      "titel": "Hauran und die Trachonen",
+      "beschreibung": "Reisebericht, nebst einem Anhang über die Sabaäischen Denkmäler in Ost-Syrien.",
+      "typ": "Buch",
+      "ort": "Berlin",
+      "verlag": "Verlag Dietrich Reimer",
+      "jahr": 1860,
+      "beteiligte": [
+        {
+          "name": "Johann Gottfried Wetzstein",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_101.json",
+      "_pageNumber": "77"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "575: Die Gesetze Hammurabi's, König von Babylon.\nÜbersetzt von Dr. Hugo Winckler.\nLeipzig, S. C. Hinrich'sche Buchhandlung 1902",
+      "nummer": "575",
+      "titel": "Die Gesetze Hammurabi's, König von Babylon",
+      "beschreibung": "Übersetzung von Dr. Hugo Winckler. Verlag S. C. Hinrich'sche Buchhandlung, Leipzig.",
+      "typ": "Buch",
+      "ort": "Leipzig",
+      "verlag": "S. C. Hinrich'sche Buchhandlung",
+      "jahr": 1902,
+      "beteiligte": [
+        {
+          "name": "Dr. Hugo Winckler",
+          "rolle": "Übersetzer",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_101.json",
+      "_pageNumber": "77"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "576: Rudolf Dellsperger, Markus Nägeli, Hansueli Ramser:\nAuf dein Wort.\nBeiträge zur Geschichte und Theologie der Evang. Gesellschaft des Kantons Bern im 19. Jahrhundert, zu ihrem 150jährigen Bestehen. Berchtold-Haller-Verlag Bern 1981.\nSchlatter erwähnt Seite 216 - 220. 310. 312. 355. 442. 546",
+      "nummer": "576",
+      "titel": "Auf dein Wort. Beiträge zur Geschichte und Theologie der Evang. Gesellschaft des Kantons Bern im 19. Jahrhundert, zu ihrem 150jährigen Bestehen",
+      "beschreibung": "Schlatter erwähnt auf den Seiten 216–220, 310, 312, 355, 442, 546.",
+      "typ": "Buch",
+      "verlag": "Berchtold-Haller-Verlag",
+      "ort": "Bern",
+      "jahr": 1981,
+      "beteiligte": [
+        {
+          "name": "Rudolf Dellsperger",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Markus Nägeli",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Hansueli Ramser",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_101.json",
+      "_pageNumber": "77"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "577: Werner Neuer, Der Zusammenhang von Dogmatik und Ethik bei Adolf Schlatter.\nEine Untersuchung zur Grundlegung Christlicher Ethik.\nBrunnen-Verlag Gießen/Basel 1986",
+      "nummer": "577",
+      "titel": "Der Zusammenhang von Dogmatik und Ethik bei Adolf Schlatter. Eine Untersuchung zur Grundlegung Christlicher Ethik",
+      "beschreibung": "",
+      "typ": "Buch",
+      "verlag": "Brunnen-Verlag",
+      "ort": "Gießen/Basel",
+      "jahr": 1986,
+      "beteiligte": [
+        {
+          "name": "Werner Neuer",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_101.json",
+      "_pageNumber": "77"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "578, 1-9: Adolf Schlatter, Erläuterungen zum Neuen Testament.\nCalwer Verlag. Vollzählig in 9 Bänden, aus verschiedenen Auflagen (1913, 1921, 1922, 1923)",
+      "nummer": "578, 1-9",
+      "titel": "Erläuterungen zum Neuen Testament",
+      "beschreibung": "Vollzählig in 9 Bänden, aus verschiedenen Auflagen (1913, 1921, 1922, 1923).",
+      "typ": "Reihenband",
+      "verlag": "Calwer Verlag",
+      "teilfolge": "Bände 1-9",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_101.json",
+      "_pageNumber": "77"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "579: Adolf Schlatter, das Christliche Dogma.\nCalwer Verlag 1923",
+      "nummer": "579",
+      "titel": "das Christliche Dogma",
+      "beschreibung": "",
+      "typ": "Buch",
+      "verlag": "Calwer Verlag",
+      "jahr": 1923,
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_101.json",
+      "_pageNumber": "77"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "580: Ein Lehrer der Kirche. Worte des Gedenkens an D. Adolf Schlatter.\nCalwer Verlag 1938",
+      "nummer": "580",
+      "titel": "Ein Lehrer der Kirche. Worte des Gedenkens an D. Adolf Schlatter",
+      "beschreibung": "",
+      "typ": "Buch",
+      "verlag": "Calwer Verlag",
+      "jahr": 1938,
+      "_quelldatei": "page_101.json",
+      "_pageNumber": "77"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "581: Ein Vater in Christo. Erinnerungen an Adolf Schlatter.\nHrsg. Johannes Kühne.\nFurche-Verlag Berlin 1939",
+      "nummer": "581",
+      "titel": "Ein Vater in Christo. Erinnerungen an Adolf Schlatter",
+      "beschreibung": "",
+      "typ": "Buch",
+      "verlag": "Furche-Verlag",
+      "ort": "Berlin",
+      "jahr": 1939,
+      "beteiligte": [
+        {
+          "name": "Johannes Kühne",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_101.json",
+      "_pageNumber": "77"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "582: Karl Gutbrod, Gottes Mitarbeiter. Unsere Verantwortung vor dem gebenden Gott nach Adolf Schlatter.\nCalwer Verlag 1960",
+      "nummer": "582",
+      "titel": "Gottes Mitarbeiter. Unsere Verantwortung vor dem gebenden Gott nach Adolf Schlatter",
+      "beschreibung": "",
+      "typ": "Buch",
+      "verlag": "Calwer Verlag",
+      "jahr": 1960,
+      "beteiligte": [
+        {
+          "name": "Karl Gutbrod",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_101.json",
+      "_pageNumber": "77"
+    }
+  ],
+  "notes": "Datei: page_101.png; Originalseite 77. Kopf: 'Teil II: A Bücher Nr. 571 - 582'. Keine neue Überschrift auf dieser Seite erkannt."
+}

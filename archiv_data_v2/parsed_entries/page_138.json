@@ -1,0 +1,307 @@
+{
+  "sourceFile": "page_138.json",
+  "pageNumber": "114",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 13,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 929: Artikel von und Hinweise auf Schlatter in verschiedenen\nkirchlichen Blättern. 1938 - 1975",
+      "nummer": "929",
+      "titel": "Artikel von und Hinweise auf Schlatter in verschiedenen kirchlichen Blättern",
+      "beschreibung": "Sammlung von Artikeln und Hinweisen über Schlatter in verschiedenen kirchlichen Blättern.",
+      "typ": "Sammlung",
+      "zeitraum": "1938-1975",
+      "_quelldatei": "page_138.json",
+      "_pageNumber": "114"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "930: Vom Schlatter-Symposion 1977 in Tübingen in Verbindung mit\ndem 500jährigen Tübinger Universitäts-Jubiläum.\n2 Zeitungsartikel",
+      "nummer": "930",
+      "titel": "Vom Schlatter-Symposion 1977 in Tübingen (in Verbindung mit dem 500jährigen Tübinger Universitäts-Jubiläum)",
+      "beschreibung": "Zeitungsartikel zum Schlatter-Symposion 1977 in Tübingen.",
+      "typ": "Artikel",
+      "jahr": 1977,
+      "umfang": "2 Zeitungsartikel",
+      "ort": "Tübingen",
+      "anlass": "500jähriges Tübinger Universitäts-Jubiläum",
+      "_quelldatei": "page_138.json",
+      "_pageNumber": "114"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "931: Baseler Schwyzerhüsli, Verbindungsgeschichte 1847 - 1872.\nAuszug Seite 588 - 601",
+      "nummer": "931",
+      "titel": "Baseler Schwyzerhüsli, Verbindungsgeschichte 1847-1872",
+      "beschreibung": "Auszug aus der Verbindungsgeschichte.",
+      "typ": "Druckschrift",
+      "zeitraum": "1847-1872",
+      "seiten": "588-601",
+      "_quelldatei": "page_138.json",
+      "_pageNumber": "114"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "932: Baseler Schwyzerhüsli 1873 - 1875\nTübinger Wingolf 1873 - 1874\nAuszüge aus Semesterberichten.",
+      "nummer": "932",
+      "titel": "Auszüge aus Semesterberichten",
+      "beschreibung": "Auszüge aus Semesterberichten zu Baseler Schwyzerhüsli und Tübinger Wingolf.",
+      "typ": "Druckschrift",
+      "untereintraege": [
+        {
+          "rawText": "Baseler Schwyzerhüsli 1873 - 1875",
+          "titel": "Baseler Schwyzerhüsli",
+          "zeitraum": "1873-1875",
+          "beschreibung": "Auszüge aus Semesterberichten."
+        },
+        {
+          "rawText": "Tübinger Wingolf 1873 - 1874",
+          "titel": "Tübinger Wingolf",
+          "zeitraum": "1873-1874",
+          "beschreibung": "Auszüge aus Semesterberichten."
+        }
+      ],
+      "_quelldatei": "page_138.json",
+      "_pageNumber": "114"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "933: Greifswalder Wingolf 1889 - 1892\nBerliner Wingolf 1894 - 1898\nTübinger Wingolf 1898 - 1913\nAuszüge aus Semesterberichten.",
+      "nummer": "933",
+      "titel": "Auszüge aus Semesterberichten zu Wingolf-Verbindungen",
+      "beschreibung": "Auszüge aus Semesterberichten zu Greifswalder, Berliner und Tübinger Wingolf.",
+      "typ": "Druckschrift",
+      "untereintraege": [
+        {
+          "rawText": "Greifswalder Wingolf 1889 - 1892",
+          "titel": "Greifswalder Wingolf",
+          "zeitraum": "1889-1892",
+          "beschreibung": "Auszüge aus Semesterberichten."
+        },
+        {
+          "rawText": "Berliner Wingolf 1894 - 1898",
+          "titel": "Berliner Wingolf",
+          "zeitraum": "1894-1898",
+          "beschreibung": "Auszüge aus Semesterberichten."
+        },
+        {
+          "rawText": "Tübinger Wingolf 1898 - 1913",
+          "titel": "Tübinger Wingolf",
+          "zeitraum": "1898-1913",
+          "beschreibung": "Auszüge aus Semesterberichten."
+        }
+      ],
+      "_quelldatei": "page_138.json",
+      "_pageNumber": "114"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "934: Adolf Schlatter, Antwort auf Anfrage von Schriftleiter Jäger\nzur Entwicklung des Wingolf.\nAus: 19. Kriegsbrief des Tübinger Wingolf. 18. Juni 1918",
+      "nummer": "934",
+      "titel": "Antwort zur Entwicklung des Wingolf",
+      "beschreibung": "Antwort von Adolf Schlatter auf eine Anfrage des Schriftleiters Jäger zur Entwicklung des Wingolf. Erschienen im 19. Kriegsbrief des Tübinger Wingolf.",
+      "typ": "Artikel",
+      "datum": "1918-06-18",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Jäger",
+          "rolle": "Adressat",
+          "entity": "Person",
+          "zusatz": "Schriftleiter"
+        }
+      ],
+      "in": "19. Kriegsbrief des Tübinger Wingolf",
+      "_quelldatei": "page_138.json",
+      "_pageNumber": "114"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "935: Zum Wirken von Schlatter im Lehrerseminar Muristalden bei\nBern 1880 - 1888. Hinweise früherer Seminarlehrer mit Zitaten\nu. a. aus Jahresberichten 1880 - 1888.",
+      "nummer": "935",
+      "titel": "Zum Wirken von Schlatter im Lehrerseminar Muristalden bei Bern",
+      "beschreibung": "Hinweise früherer Seminarlehrer mit Zitaten, u. a. aus Jahresberichten.",
+      "typ": "Studie",
+      "zeitraum": "1880-1888",
+      "_quelldatei": "page_138.json",
+      "_pageNumber": "114"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "936: Hans Graßl, Gutachten über Schlatters Vorlesung zur Philoso-\nphie Franz von Baaders. Vgl. Inventar-Nr. 185",
+      "nummer": "936",
+      "titel": "Gutachten über Schlatters Vorlesung zur Philosophie Franz von Baaders",
+      "beschreibung": "Gutachten von Hans Graßl. Verweis auf Inventar-Nr. 185.",
+      "typ": "Material",
+      "beteiligte": [
+        {
+          "name": "Hans Graßl",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verweis": "Inventar-Nr. 185",
+      "_quelldatei": "page_138.json",
+      "_pageNumber": "114"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "937: Paul Althaus, die theologische Lage vor 50 Jahren.\nMit Hinweisen auf Schlatter.\nAus: Deutsches Pfarrerblatt 1965, Seite 742 - 746",
+      "nummer": "937",
+      "titel": "Die theologische Lage vor 50 Jahren",
+      "beschreibung": "Aufsatz von Paul Althaus mit Hinweisen auf Schlatter.",
+      "typ": "Artikel",
+      "beteiligte": [
+        {
+          "name": "Paul Althaus",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "in": "Deutsches Pfarrerblatt",
+      "jahr": 1965,
+      "seiten": "742-746",
+      "_quelldatei": "page_138.json",
+      "_pageNumber": "114"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "938: Werner Neuer, Der Briefwechsel zwischen Karl Barth und Adolf\nSchlatter. Ein Beitrag zum 100. Geburtstag Karl Barths.\nIn: Theologische Beiträge, Heft 2/1986",
+      "nummer": "938",
+      "titel": "Der Briefwechsel zwischen Karl Barth und Adolf Schlatter (Ein Beitrag zum 100. Geburtstag Karl Barths)",
+      "beschreibung": "Aufsatz von Werner Neuer über den Briefwechsel Barth–Schlatter.",
+      "typ": "Artikel",
+      "beteiligte": [
+        {
+          "name": "Werner Neuer",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "zeitschrift": "Theologische Beiträge",
+      "heft": "2",
+      "jahr": 1986,
+      "_quelldatei": "page_138.json",
+      "_pageNumber": "114"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "939/1: Erwin Mülhaupt, Auszüge aus Karl Holls letzter Vorlesung über\ndie Geschichte der protestantischen Theologie, mit Hinweis\nauf Schlatter. 5.8.1986",
+      "nummer": "939/1",
+      "titel": "Auszüge aus Karl Holls letzter Vorlesung über die Geschichte der protestantischen Theologie",
+      "beschreibung": "Auszüge mit Hinweis auf Schlatter, zusammengestellt von Erwin Mülhaupt.",
+      "typ": "Exzerpt",
+      "beteiligte": [
+        {
+          "name": "Erwin Mülhaupt",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Karl Holl",
+          "rolle": "Vorlesender",
+          "entity": "Person"
+        }
+      ],
+      "datum": "1986-08-05",
+      "_quelldatei": "page_138.json",
+      "_pageNumber": "114"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "939/2: Kocher-Grimm, Bern, Transskription der Briefe Kutters an\nSchlatter.",
+      "nummer": "939/2",
+      "titel": "Transskription der Briefe Kutters an Schlatter",
+      "beschreibung": "Transskription der Briefe Kutters an Schlatter, erstellt von Kocher-Grimm (Bern).",
+      "typ": "Manuskript",
+      "beteiligte": [
+        {
+          "name": "Kocher-Grimm",
+          "rolle": "Zusammensteller",
+          "entity": "Person",
+          "zusatz": "Bern"
+        },
+        {
+          "name": "Kutters",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "ort": "Bern",
+      "_quelldatei": "page_138.json",
+      "_pageNumber": "114"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "940: Adolf Schlatter, Der lebendige Gott und seine Führung mit un-\nserem Volk. Vortrag auf der 14. Tagung des Eisenacher Bundes\n17. - 18.10.1916 in Wiesbaden.\nAus: Das Evangelium Jesu Christi und unser Volk. Bethel 1916",
+      "nummer": "940",
+      "titel": "Der lebendige Gott und seine Führung mit unserem Volk",
+      "beschreibung": "Vortrag von Adolf Schlatter auf der 14. Tagung des Eisenacher Bundes in Wiesbaden.",
+      "typ": "Vortrag",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Vortragender",
+          "entity": "Person"
+        }
+      ],
+      "anlass": "14. Tagung des Eisenacher Bundes",
+      "ort": "Wiesbaden",
+      "zeitraum": "17.10.1916-18.10.1916",
+      "jahr": 1916,
+      "in": "Das Evangelium Jesu Christi und unser Volk. Bethel 1916",
+      "_quelldatei": "page_138.json",
+      "_pageNumber": "114"
+    }
+  ],
+  "notes": ""
+}

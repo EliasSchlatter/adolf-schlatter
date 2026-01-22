@@ -1,0 +1,456 @@
+{
+  "sourceFile": "page_190.json",
+  "pageNumber": "166",
+  "context": {
+    "teil": "Anhang",
+    "sektion": "Abschnitt II: Register",
+    "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+    "unterkategorie": "b) Briefe von Schlatter"
+  },
+  "entriesCount": 17,
+  "entries": [
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Lilje, Hans\n\n    Briefe an Schlatter                       1 Brief               438",
+      "nummer": "438",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe des Hans Lilje an Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Hans Lilje",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_190.json",
+      "_pageNumber": "166"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Lütgert, Wilhelm\n\n    a) Briefe an Schlatter                    247 Briefe            429",
+      "nummer": "429",
+      "titel": "a) Briefe an Schlatter",
+      "beschreibung": "Briefe des Wilhelm Lütgert an Schlatter (Unterkategorie a))",
+      "typ": "Brief",
+      "umfang": "247 Briefe",
+      "beteiligte": [
+        {
+          "name": "Wilhelm Lütgert",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_190.json",
+      "_pageNumber": "166"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Lütgert, Wilhelm\n\n    b) Briefe von Schlatter                   178 Briefe            421; 1228",
+      "nummer": "421; 1228",
+      "titel": "b) Briefe von Schlatter",
+      "beschreibung": "Briefe Schlatter an Wilhelm Lütgert (Unterkategorie b))",
+      "typ": "Brief",
+      "umfang": "178 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Wilhelm Lütgert",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_190.json",
+      "_pageNumber": "166"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Meinhold, Johannes\n\n    Briefe an Schlatter                       2 Briefe             427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe des Johannes Meinhold an Schlatter",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Johannes Meinhold",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_190.json",
+      "_pageNumber": "166"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Merx, Adalbert\n\n    Briefe an Schlatter                       1 Brief              427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe des Adalbert Merx an Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Adalbert Merx",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_190.json",
+      "_pageNumber": "166"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Metzger, Wolfgang\n\n    a) Briefe an Schlatter                    3 Briefe             427",
+      "nummer": "427",
+      "titel": "a) Briefe an Schlatter",
+      "beschreibung": "Briefe des Wolfgang Metzger an Schlatter (Unterkategorie a))",
+      "typ": "Brief",
+      "umfang": "3 Briefe",
+      "beteiligte": [
+        {
+          "name": "Wolfgang Metzger",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_190.json",
+      "_pageNumber": "166"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Metzger, Wolfgang\n\n    b) Briefe von Schlatter                   1 Brief              1213",
+      "nummer": "1213",
+      "titel": "b) Briefe von Schlatter",
+      "beschreibung": "Brief Schlatter an Wolfgang Metzger (Unterkategorie b))",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Wolfgang Metzger",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_190.json",
+      "_pageNumber": "166"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Michaelis, Walter\n\n    Briefe an Schlatter                       4 Briefe             427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe des Walter Michaelis an Schlatter",
+      "typ": "Brief",
+      "umfang": "4 Briefe",
+      "beteiligte": [
+        {
+          "name": "Walter Michaelis",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_190.json",
+      "_pageNumber": "166"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Misteli, Franz Joseph\n\n    Briefe an Schlatter                       1 Brief              427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe des Franz Joseph Misteli an Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Franz Joseph Misteli",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_190.json",
+      "_pageNumber": "166"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Moldaenke, Günther\n\n    Briefe an Schlatter                       2 Briefe             427; 438",
+      "nummer": "427; 438",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe des Günther Moldaenke an Schlatter",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Günther Moldaenke",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_190.json",
+      "_pageNumber": "166"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Mülhaupt, Erwin\n\n    a) Briefe an Schlatter                    4 Briefe             427",
+      "nummer": "427",
+      "titel": "a) Briefe an Schlatter",
+      "beschreibung": "Briefe des Erwin Mülhaupt an Schlatter (Unterkategorie a))",
+      "typ": "Brief",
+      "umfang": "4 Briefe",
+      "beteiligte": [
+        {
+          "name": "Erwin Mülhaupt",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_190.json",
+      "_pageNumber": "166"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Mülhaupt, Erwin\n\n    b) Briefe von Schlatter                   1 Brief              1214",
+      "nummer": "1214",
+      "titel": "b) Briefe von Schlatter",
+      "beschreibung": "Brief Schlatter an Erwin Mülhaupt (Unterkategorie b))",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Erwin Mülhaupt",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_190.json",
+      "_pageNumber": "166"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Müller, Eberhard\n\n    Briefe an Schlatter                       2 Briefe             438",
+      "nummer": "438",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe des Eberhard Müller an Schlatter",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Eberhard Müller",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_190.json",
+      "_pageNumber": "166"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Müller, Ernst Friedrich\n\n    Briefe an Schlatter                       1 Brief              427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe des Ernst Friedrich Müller an Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Ernst Friedrich Müller",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_190.json",
+      "_pageNumber": "166"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Müller, Karl\n\n    Briefe an Schlatter                       15 Briefe            427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe des Karl Müller an Schlatter",
+      "typ": "Brief",
+      "umfang": "15 Briefe",
+      "beteiligte": [
+        {
+          "name": "Karl Müller",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_190.json",
+      "_pageNumber": "166"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Müller, Ludwig\n\n    a) Briefe an Schlatter                    1 Brief              169/3",
+      "nummer": "169/3",
+      "titel": "a) Briefe an Schlatter",
+      "beschreibung": "Briefe des Ludwig Müller an Schlatter (Unterkategorie a))",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Ludwig Müller",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_190.json",
+      "_pageNumber": "166"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Müller, Ludwig\n\n    b) Briefe von Schlatter                   1 Brief              820",
+      "nummer": "820",
+      "titel": "b) Briefe von Schlatter",
+      "beschreibung": "Brief Schlatter an Ludwig Müller (Unterkategorie b))",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Ludwig Müller",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_190.json",
+      "_pageNumber": "166"
+    }
+  ],
+  "notes": "Seite zeigt Einträge von Lilje bis Müller (Ludwig). Keine neue Überschrift auf der Seite."
+}

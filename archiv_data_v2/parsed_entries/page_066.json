@@ -1,0 +1,348 @@
+{
+  "sourceFile": "page_066.json",
+  "pageNumber": "42",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+    "unterabschnitt": "1. Zur Person",
+    "unterkategorie": "n) Tübinger Zeit II"
+  },
+  "entriesCount": 8,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "Nr. 168/2: 1 Brief-Entwurf, Schlatter an Ziegler. 3.3.1908\n\nUnterlagen über Darlehensgebung Schlatters. 30.3.1908 -\n10.5.1927",
+      "nummer": "168/2",
+      "titel": "1 Brief-Entwurf, Schlatter an Ziegler",
+      "beschreibung": "Enthält außerdem Unterlagen über Darlehensgebung Schlatters",
+      "typ": "Brief",
+      "datum": "1908-03-03",
+      "untereintraege": [
+        {
+          "rawText": "Unterlagen über Darlehensgebung Schlatters. 30.3.1908 - 10.5.1927",
+          "titel": "Unterlagen über Darlehensgebung Schlatters",
+          "zeitraum": "1908-03-30 - 1927-05-10"
+        }
+      ],
+      "_quelldatei": "page_066.json",
+      "_pageNumber": "42"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "168/3: CVJM Tübingen und anderes\n\nWahl Schlatters zum Vorsitzenden. 20.12.1912\n\nBrief von C. Dannecker zur Frage eines eigenen Heimes.\n25.2.1913\n\nBrief vom Vorstandsmitglied des Blauen Kreuzes betr. Be-\nnutzung des Jünglingsvereinslokals. 5.3.1912",
+      "nummer": "168/3",
+      "titel": "CVJM Tübingen und anderes",
+      "beschreibung": "Materialien und Korrespondenz zum CVJM Tübingen und verwandten Fragen",
+      "typ": "Korrespondenz",
+      "untereintraege": [
+        {
+          "rawText": "Wahl Schlatters zum Vorsitzenden. 20.12.1912",
+          "titel": "Wahl Schlatters zum Vorsitzenden",
+          "datum": "1912-12-20",
+          "beteiligte": [
+            {
+              "name": "Theodor Schlatter",
+              "rolle": "Erwähnt",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Brief von C. Dannecker zur Frage eines eigenen Heimes. 25.2.1913",
+          "titel": "Brief von C. Dannecker zur Frage eines eigenen Heimes",
+          "datum": "1913-02-25",
+          "beteiligte": [
+            {
+              "name": "C. Dannecker",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Theodor Schlatter",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Brief vom Vorstandsmitglied des Blauen Kreuzes betr. Benutzung des Jünglingsvereinslokals. 5.3.1912",
+          "titel": "Brief Vorstandsmitglied des Blauen Kreuzes betr. Benutzung des Jünglingsvereinslokals",
+          "datum": "1912-03-05",
+          "beteiligte": [
+            {
+              "name": "Blaues Kreuz",
+              "rolle": "Absender",
+              "entity": "Organisation"
+            },
+            {
+              "name": "Theodor Schlatter",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_066.json",
+      "_pageNumber": "42"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "168/4: Anfrage des Vorsitzenden der Berliner Missionsgesellschaft betr. Theodor Schlatter als Missionsinspektor. 24.12.1913",
+      "nummer": "168/4",
+      "titel": "Anfrage des Vorsitzenden der Berliner Missionsgesellschaft betr. Theodor Schlatter als Missionsinspektor",
+      "typ": "Brief",
+      "datum": "1913-12-24",
+      "beteiligte": [
+        {
+          "name": "Berliner Missionsgesellschaft",
+          "rolle": "Absender",
+          "entity": "Organisation"
+        },
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_066.json",
+      "_pageNumber": "42"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "168/5: Äußerungen zur Kriegsschuldfrage. 5 Briefe an Schlatter: Wentz, Massart, Chodat, Wehberg, Watts. 1915 - 1919",
+      "nummer": "168/5",
+      "titel": "Äußerungen zur Kriegsschuldfrage",
+      "beschreibung": "Fünf Briefe an Schlatter von Wentz, Massart, Chodat, Wehberg und Watts",
+      "typ": "Korrespondenz",
+      "umfang": "5 Briefe",
+      "zeitraum": "1915 - 1919",
+      "beteiligte": [
+        {
+          "name": "Wentz",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Massart",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Chodat",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Wehberg",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Watts",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_066.json",
+      "_pageNumber": "42"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "168/6: Christlicher Verein für Jugendwohlfahrt e. V. Stuttgart,\nbetr. Darlehen von Schlatter für Tagungsstätte Mönbachtal.\n1924 - 1928",
+      "nummer": "168/6",
+      "titel": "Christlicher Verein für Jugendwohlfahrt e. V. Stuttgart: Darlehen von Schlatter für Tagungsstätte Mönbachtal",
+      "typ": "Material",
+      "zeitraum": "1924 - 1928",
+      "beteiligte": [
+        {
+          "name": "Christlicher Verein für Jugendwohlfahrt e. V. Stuttgart",
+          "rolle": "Adressat",
+          "entity": "Organisation"
+        },
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Beteiligter",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_066.json",
+      "_pageNumber": "42"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "168/7: Bildpostkarten von Tübingen.",
+      "nummer": "168/7",
+      "titel": "Bildpostkarten von Tübingen",
+      "typ": "Fotografie",
+      "_quelldatei": "page_066.json",
+      "_pageNumber": "42"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "Nr. 169/1: Christlicher Volksdienst Württemberg. Ab 1924 ff\n\nAdolf Schlatter, Offene oder verbundene Augen. Zu den\nLeitsätzen von Prälat Wurm.\n\nBriefe an Schlatter von Staeger, Bausch, Kling, Reiff,\nOehler.",
+      "nummer": "169/1",
+      "titel": "Christlicher Volksdienst Württemberg",
+      "beschreibung": "Enthält u.a. Adolf Schlatter: 'Offene oder verbundene Augen. Zu den Leitsätzen von Prälat Wurm' sowie Briefe an Schlatter von Staeger, Bausch, Kling, Reiff, Oehler",
+      "typ": "Sammlung",
+      "anmerkung": "Ab 1924 ff",
+      "jahr": 1924,
+      "untereintraege": [
+        {
+          "rawText": "Adolf Schlatter, Offene oder verbundene Augen. Zu den Leitsätzen von Prälat Wurm.",
+          "titel": "Offene oder verbundene Augen. Zu den Leitsätzen von Prälat Wurm",
+          "beteiligte": [
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Briefe an Schlatter von Staeger, Bausch, Kling, Reiff, Oehler.",
+          "titel": "Briefe an Schlatter",
+          "beschreibung": "Briefe von Staeger, Bausch, Kling, Reiff, Oehler",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Staeger",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Bausch",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Kling",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Reiff",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Oehler",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Theodor Schlatter",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_066.json",
+      "_pageNumber": "42"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "169/2: Bekenntniskampf und -bildung\n\nJunglutherische Bewegung, Erklärung, mit Brief von Lic.\nD. Künneth an Schlatter. 9.5.1933\n\nZum Entwurf Betheler Bekenntnis: Brief Gerhard Straten-\nwerth an Schlatter. 14.9.1933\n\nBarmer Theologische Erklärung, mit Erklärung zur Rechts-\nlage der DEK. 31.5.1934\n\nEvang. Bekenntnissynode im Rheinland: Fürbitteliste.\n9.8.1937\n\nFriedrich Graeber, zeitgemäße Erklärung der 10 Gebote.\nMit Bitte an Schlatter um Stellungnahme. 12.2.1937",
+      "nummer": "169/2",
+      "titel": "Bekenntniskampf und -bildung",
+      "beschreibung": "Sammlung von Erklärungen, Briefen und Unterlagen zur Bekenntnisfrage",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "Junglutherische Bewegung, Erklärung, mit Brief von Lic. D. Künneth an Schlatter. 9.5.1933",
+          "titel": "Junglutherische Bewegung: Erklärung; mit Brief von Lic. D. Künneth an Schlatter",
+          "datum": "1933-05-09",
+          "beteiligte": [
+            {
+              "name": "D. Künneth",
+              "rolle": "Absender",
+              "entity": "Person",
+              "zusatz": "Lic."
+            },
+            {
+              "name": "Theodor Schlatter",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Zum Entwurf Betheler Bekenntnis: Brief Gerhard Stratenwerth an Schlatter. 14.9.1933",
+          "titel": "Brief Gerhard Stratenwerth an Schlatter (Zum Entwurf Betheler Bekenntnis)",
+          "datum": "1933-09-14",
+          "beteiligte": [
+            {
+              "name": "Gerhard Stratenwerth",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Theodor Schlatter",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Barmer Theologische Erklärung, mit Erklärung zur Rechtslage der DEK. 31.5.1934",
+          "titel": "Barmer Theologische Erklärung; mit Erklärung zur Rechtslage der DEK",
+          "datum": "1934-05-31"
+        },
+        {
+          "rawText": "Evang. Bekenntnissynode im Rheinland: Fürbitteliste. 9.8.1937",
+          "titel": "Evang. Bekenntnissynode im Rheinland: Fürbitteliste",
+          "datum": "1937-08-09"
+        },
+        {
+          "rawText": "Friedrich Graeber, zeitgemäße Erklärung der 10 Gebote. Mit Bitte an Schlatter um Stellungnahme. 12.2.1937",
+          "titel": "Friedrich Graeber: zeitgemäße Erklärung der 10 Gebote (Mit Bitte an Schlatter um Stellungnahme)",
+          "datum": "1937-02-12",
+          "beteiligte": [
+            {
+              "name": "Friedrich Graeber",
+              "rolle": "Autor",
+              "entity": "Person"
+            },
+            {
+              "name": "Theodor Schlatter",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_066.json",
+      "_pageNumber": "42"
+    }
+  ],
+  "notes": "Seite enthält Fußzeile mit der Seitenzahl '42'. OCR-Text vermutlich vollständig; Worttrennungen in Zeilen (z.B. 'Be- Nutzung') wurden vereinheitlicht."
+}

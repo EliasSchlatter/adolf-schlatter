@@ -1,0 +1,331 @@
+{
+  "sourceFile": "page_185.json",
+  "pageNumber": "161",
+  "context": {
+    "teil": "Anhang",
+    "sektion": "Abschnitt II: Register",
+    "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+    "unterkategorie": "d) Briefe mit biographischer Bedeutung"
+  },
+  "entriesCount": 14,
+  "entries": [
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Dierauer, Johannes\n    Briefe an Schlatter                          1 Brief              425",
+      "nummer": "425",
+      "titel": "Dierauer, Johannes",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Dierauer, Johannes",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_185.json",
+      "_pageNumber": "161"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Dobschütz, Ernst von\n    Briefe an Schlatter                          1 Brief              425",
+      "nummer": "425",
+      "titel": "Dobschütz, Ernst von",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Dobschütz, Ernst von",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_185.json",
+      "_pageNumber": "161"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Dürr, Karl\n    a) Briefe an Schlatter                       9 Briefe        435/1; 439\n    b) Briefe von Schlatter                      1 Brief             1206",
+      "nummer": "",
+      "titel": "Dürr, Karl",
+      "beschreibung": "Mehrere Untereinträge zu Briefen an und von Schlatter",
+      "untereintraege": [
+        {
+          "rawText": "a) Briefe an Schlatter                       9 Briefe        435/1; 439",
+          "titel": "Briefe an Schlatter",
+          "beschreibung": "Briefe an Schlatter",
+          "typ": "Brief",
+          "umfang": "9 Briefe",
+          "nummer": "435/1; 439",
+          "beteiligte": [
+            {
+              "name": "Dürr, Karl",
+              "rolle": "Absender",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "b) Briefe von Schlatter                      1 Brief             1206",
+          "titel": "Briefe von Schlatter",
+          "beschreibung": "Briefe von Schlatter",
+          "typ": "Brief",
+          "umfang": "1 Brief",
+          "nummer": "1206",
+          "beteiligte": [
+            {
+              "name": "Dürr, Karl",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_185.json",
+      "_pageNumber": "161"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Dunkmann, Karl\n    Briefe an Schlatter                          3 Briefe             425",
+      "nummer": "425",
+      "titel": "Dunkmann, Karl",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "3 Briefe",
+      "beteiligte": [
+        {
+          "name": "Dunkmann, Karl",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_185.json",
+      "_pageNumber": "161"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Eichrodt, Walther\n    Briefe an Schlatter                          4 Briefe             426",
+      "nummer": "426",
+      "titel": "Eichrodt, Walther",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "4 Briefe",
+      "beteiligte": [
+        {
+          "name": "Eichrodt, Walther",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_185.json",
+      "_pageNumber": "161"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Etzold, Otto\n    Briefe an Schlatter                          2 Briefe             426",
+      "nummer": "426",
+      "titel": "Etzold, Otto",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Etzold, Otto",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_185.json",
+      "_pageNumber": "161"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Faber, Hermann\n    Briefe an Schlatter                          1 Brief              426",
+      "nummer": "426",
+      "titel": "Faber, Hermann",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Faber, Hermann",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_185.json",
+      "_pageNumber": "161"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Feine, Paul\n    Briefe an Schlatter                          2 Briefe             426",
+      "nummer": "426",
+      "titel": "Feine, Paul",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Feine, Paul",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_185.json",
+      "_pageNumber": "161"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Fezer, Karl\n    Briefe an Schlatter                          1 Brief              426",
+      "nummer": "426",
+      "titel": "Fezer, Karl",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Fezer, Karl",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_185.json",
+      "_pageNumber": "161"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Fiebig, Paul\n    Briefe an Schlatter                          3 Briefe             426",
+      "nummer": "426",
+      "titel": "Fiebig, Paul",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "3 Briefe",
+      "beteiligte": [
+        {
+          "name": "Fiebig, Paul",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_185.json",
+      "_pageNumber": "161"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Foß, Rudolf\n    Briefe an Schlatter                          2 Briefe             426",
+      "nummer": "426",
+      "titel": "Foß, Rudolf",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Foß, Rudolf",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_185.json",
+      "_pageNumber": "161"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Franz, Wilhelm\n    Briefe an Schlatter                          1 Brief              426",
+      "nummer": "426",
+      "titel": "Franz, Wilhelm",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Franz, Wilhelm",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_185.json",
+      "_pageNumber": "161"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Frick, Heinrich\n    Briefe an Schlatter                          1 Brief              426",
+      "nummer": "426",
+      "titel": "Frick, Heinrich",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Frick, Heinrich",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_185.json",
+      "_pageNumber": "161"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Friese, Werner\n    Briefe an Schlatter                          1 Brief              167/2",
+      "nummer": "167/2",
+      "titel": "Friese, Werner",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Friese, Werner",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_185.json",
+      "_pageNumber": "161"
+    }
+  ],
+  "notes": ""
+}

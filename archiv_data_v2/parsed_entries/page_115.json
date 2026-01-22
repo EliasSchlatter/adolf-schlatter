@@ -1,0 +1,393 @@
+{
+  "sourceFile": "page_115.json",
+  "pageNumber": "91",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 14,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 742: Adolf Schlatter, Jesu Verhalten gegen Gott.\n    Aus: Allgemeine Evang.-Luth. Kirchenzeitung 18.10.1912",
+      "nummer": "742",
+      "titel": "Jesu Verhalten gegen Gott",
+      "beschreibung": "Aufsatz von Adolf Schlatter. Erschienen in der Allgemeinen Evang.-Luth. Kirchenzeitung.",
+      "typ": "Aufsatz",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Allgemeine Evang.-Luth. Kirchenzeitung",
+      "datum": "1912-10-18",
+      "_quelldatei": "page_115.json",
+      "_pageNumber": "91"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "743: Adolf Schlatter, Aufgefahren gen Himmel.\n    Aus: Allgemeine Evang.-Luth. Kirchenzeitung 20.11.1913",
+      "nummer": "743",
+      "titel": "Aufgefahren gen Himmel",
+      "beschreibung": "Aufsatz von Adolf Schlatter. Erschienen in der Allgemeinen Evang.-Luth. Kirchenzeitung.",
+      "typ": "Aufsatz",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Allgemeine Evang.-Luth. Kirchenzeitung",
+      "datum": "1913-11-20",
+      "_quelldatei": "page_115.json",
+      "_pageNumber": "91"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "744: Adolf Schlatter, Seebergs Darstellung der Entstehung des\n    Christenglaubens.\n    Aus: Allgemeine Evang.-Luth. Kirchenzeitung 10.4.1914",
+      "nummer": "744",
+      "titel": "Seebergs Darstellung der Entstehung des Christenglaubens",
+      "beschreibung": "Aufsatz von Adolf Schlatter. Erschienen in der Allgemeinen Evang.-Luth. Kirchenzeitung.",
+      "typ": "Aufsatz",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Seeberg",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Allgemeine Evang.-Luth. Kirchenzeitung",
+      "datum": "1914-04-10",
+      "_quelldatei": "page_115.json",
+      "_pageNumber": "91"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "745: Adolf Schlatter, Biblisches Christentum.\n    Aus: Allgemeine Evang.-Luth. Kirchenzeitung 30.7.1915",
+      "nummer": "745",
+      "titel": "Biblisches Christentum",
+      "beschreibung": "Aufsatz von Adolf Schlatter. Erschienen in der Allgemeinen Evang.-Luth. Kirchenzeitung.",
+      "typ": "Aufsatz",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Allgemeine Evang.-Luth. Kirchenzeitung",
+      "datum": "1915-07-30",
+      "_quelldatei": "page_115.json",
+      "_pageNumber": "91"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "746: Theodor Zahn, \"Kleine Beiträge zur evangelischen Geschichte.\n    Das Land der Gadarener, Gerasener oder Gergensenser.\"\n    Darin: Hinweise auf Schlatters \"Topographie\"",
+      "nummer": "746",
+      "titel": "Kleine Beiträge zur evangelischen Geschichte: Das Land der Gadarener, Gerasener oder Gergensenser",
+      "beschreibung": "Aufsatz von Theodor Zahn. Enthält Hinweise auf Schlatters 'Topographie'.",
+      "typ": "Aufsatz",
+      "beteiligte": [
+        {
+          "name": "Theodor Zahn",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_115.json",
+      "_pageNumber": "91"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "747: Heinrich Laible, Brief 18.12.1918 an Theodor Zahn u. a. mit\n    Hinweis auf Kontroverse von Professor Blau mit Schlatter.",
+      "nummer": "747",
+      "titel": "Brief an Theodor Zahn und andere (Heinrich Laible)",
+      "beschreibung": "Brief von Heinrich Laible an Theodor Zahn u. a.; enthält Hinweis auf Kontroverse von Professor Blau mit Schlatter.",
+      "typ": "Brief",
+      "datum": "1918-12-18",
+      "beteiligte": [
+        {
+          "name": "Heinrich Laible",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Theodor Zahn",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Professor Blau",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_115.json",
+      "_pageNumber": "91"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "748: Unterlagen über Theodor Zahns Vater, Seminardirektor Franz\n    Ludwig Zahn und dessen Ehefrau Anna geborene Schlatter-Bernet.",
+      "nummer": "748",
+      "titel": "Unterlagen zu Franz Ludwig Zahn und Anna (geb. Schlatter-Bernet)",
+      "beschreibung": "Unterlagen über Franz Ludwig Zahn (Seminardirektor) und dessen Ehefrau Anna geb. Schlatter-Bernet.",
+      "typ": "Material",
+      "beteiligte": [
+        {
+          "name": "Franz Ludwig Zahn",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "Seminardirektor"
+        },
+        {
+          "name": "Anna Schlatter-Bernet",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_115.json",
+      "_pageNumber": "91"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "749-761: Einzelne Artikel.\n    Aus: Korrespondenzblatt für die Evang. Konferenz in Baden und\n        Kirchlich-Positive Blätter, Halbmonatsschrift für kirch-\n        liches Leben in Baden",
+      "nummer": "749-761",
+      "titel": "Einzelne Artikel (Sammlung)",
+      "beschreibung": "Sammlung einzelner Artikel, erschienen im 'Korrespondenzblatt für die Evang. Konferenz in Baden' und 'Kirchlich-Positive Blätter, Halbmonatsschrift für kirchliches Leben in Baden'.",
+      "typ": "Sammlung",
+      "verlag": "Korrespondenzblatt für die Evang. Konferenz in Baden; Kirchlich-Positive Blätter",
+      "anmerkung": "Umfasst die Einträge Nr. 749 bis 761; nachfolgend sind einzelne Artikel (749–754) aufgelistet, wie sie auf dieser Seite erscheinen.",
+      "_quelldatei": "page_115.json",
+      "_pageNumber": "91"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "749: Pfarrer Wurth, Besprechung von Schlatter, Die Christliche\n    Ethik. - Die Arbeit für den Staat. Zitate aus Schlatters\n    Ethik. 1914, Seite 398 - 403.\n    Römer: Grundlinien einer deutschen Ethik. 1915, Seite 227 -\n    231.\n    Wurth: Lebenslust und Todeslust. Zitate aus Schlatters Ethik.\n    1915, Seite 57 - 59.",
+      "nummer": "749",
+      "titel": "Besprechungen (Pfarrer Wurth)",
+      "beschreibung": "Besprechungen von Werken (Zitate aus Schlatters Ethik etc.). Enthält mehrere Rezensionshinweise.",
+      "typ": "Aufsatz",
+      "untereintraege": [
+        {
+          "rawText": "Besprechung von Schlatter, Die Christliche Ethik. - Die Arbeit für den Staat. Zitate aus Schlatters Ethik. 1914, Seite 398 - 403.",
+          "titel": "Besprechung von 'Die Christliche Ethik' (Schlatter) / 'Die Arbeit für den Staat'",
+          "beschreibung": "Rezension/Zitate aus Schlatters Ethik. 1914.",
+          "jahr": 1914,
+          "seiten": "398-403",
+          "beteiligte": [
+            {
+              "name": "Pfarrer Wurth",
+              "rolle": "Autor",
+              "entity": "Person"
+            },
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Erwähnt",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Römer: Grundlinien einer deutschen Ethik. 1915, Seite 227 - 231.",
+          "titel": "Grundlinien einer deutschen Ethik (Römer)",
+          "beschreibung": "Besprechung/Verweis auf Römer: Grundlinien einer deutschen Ethik.",
+          "jahr": 1915,
+          "seiten": "227-231",
+          "beteiligte": [
+            {
+              "name": "Römer",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Wurth: Lebenslust und Todeslust. Zitate aus Schlatters Ethik. 1915, Seite 57 - 59.",
+          "titel": "Lebenslust und Todeslust (Wurth) — Zitate aus Schlatters Ethik",
+          "beschreibung": "Besprechung bzw. Zitate aus Schlatters Ethik.",
+          "jahr": 1915,
+          "seiten": "57-59",
+          "beteiligte": [
+            {
+              "name": "Pfarrer Wurth",
+              "rolle": "Autor",
+              "entity": "Person"
+            },
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Erwähnt",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "verweis": "Siehe auch Eintrag 749-761 (Sammlung)",
+      "_quelldatei": "page_115.json",
+      "_pageNumber": "91"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "750: Adolf Schlatter, Andacht über Sprüche 8,17.\n    1915, Seite 153 - 154.",
+      "nummer": "750",
+      "titel": "Andacht über Sprüche 8,17",
+      "beschreibung": "Andacht von Adolf Schlatter. Enthaltene Zitate/Abschnitt in der genannten Zeitschrift.",
+      "typ": "Andacht",
+      "jahr": 1915,
+      "seiten": "153-154",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_115.json",
+      "_pageNumber": "91"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "751: Adolf Schlatter, Der lebendige Gott und seine Führung mit\n    unserem Volke. Zitate.\n    1917, Seite 18 - 19.",
+      "nummer": "751",
+      "titel": "Der lebendige Gott und seine Führung mit unserem Volke",
+      "beschreibung": "Aufsatz/Artikel von Adolf Schlatter; enthält Zitate.",
+      "typ": "Aufsatz",
+      "jahr": 1917,
+      "seiten": "18-19",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_115.json",
+      "_pageNumber": "91"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "752: Pfarrer Wurth, Besprechung von Schlatter, Die Geschichte des\n    Christus. 1921, Seite 160.",
+      "nummer": "752",
+      "titel": "Besprechung von 'Die Geschichte des Christus' (Wurth)",
+      "beschreibung": "Rezension von Pfarrer Wurth über Schlatter: 'Die Geschichte des Christus'.",
+      "typ": "Aufsatz",
+      "jahr": 1921,
+      "seiten": "160",
+      "beteiligte": [
+        {
+          "name": "Pfarrer Wurth",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_115.json",
+      "_pageNumber": "91"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "753: Adolf Schlatter, Ein Wort zum Preise meines Amtes.\n    1922, Seite 137 - 139.",
+      "nummer": "753",
+      "titel": "Ein Wort zum Preise meines Amtes",
+      "beschreibung": "Aufsatz von Adolf Schlatter.",
+      "typ": "Aufsatz",
+      "jahr": 1922,
+      "seiten": "137-139",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_115.json",
+      "_pageNumber": "91"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "754: Adolf Schlatter, Gott ist geoffenbart im Wort. Thesen und\n    Kurzbericht (Gernsbacher Konferenz 1925). 1925, Seite 79 - 80,\n    88, 93 - 94, 103 - 104.",
+      "nummer": "754",
+      "titel": "Gott ist geoffenbart im Wort. Thesen und Kurzbericht (Gernsbacher Konferenz 1925)",
+      "beschreibung": "Thesen und Kurzbericht von Adolf Schlatter zur Gernsbacher Konferenz 1925. Enthaltene Seitenverweise.",
+      "typ": "Aufsatz",
+      "jahr": 1925,
+      "seiten": "79-80, 88, 93-94, 103-104",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "anlass": "Gernsbacher Konferenz 1925",
+      "_quelldatei": "page_115.json",
+      "_pageNumber": "91"
+    }
+  ],
+  "notes": "Seite enthält Fußzeile mit Seitennummer '91'. OCR-Text als Quelle: page_115.png; Seitenbereich Nr. 742-754."
+}

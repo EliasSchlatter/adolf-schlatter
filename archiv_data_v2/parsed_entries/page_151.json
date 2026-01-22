@@ -1,0 +1,490 @@
+{
+  "sourceFile": "page_151.json",
+  "pageNumber": "127",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "C Briefe",
+    "unterabschnitt": "1. Briefe von Schlatter",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 19,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 1357: Brief von Adolf Stoecker an Adolf Harnack.                        10.9.1902",
+      "nummer": "1357",
+      "titel": "Brief von Adolf Stoecker an Adolf Harnack",
+      "typ": "Brief",
+      "datum": "1902-09-10",
+      "beteiligte": [
+        {
+          "name": "Adolf Stoecker",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Harnack",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_151.json",
+      "_pageNumber": "127"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1358: Brief von Karl Heinrich Rengstorf an Friedrich\n       Leiwe.                                                               6.9.1948",
+      "nummer": "1358",
+      "titel": "Brief von Karl Heinrich Rengstorf an Friedrich Leiwe",
+      "typ": "Brief",
+      "datum": "1948-09-06",
+      "beteiligte": [
+        {
+          "name": "Karl Heinrich Rengstorf",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Friedrich Leiwe",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_151.json",
+      "_pageNumber": "127"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1359: Briefwechsel Friedrich Leiwe mit Landeskirchen-\n       amt Westfalen.\n       6 Briefe.                                                          1977\n                                                                          - 1978",
+      "nummer": "1359",
+      "titel": "Briefwechsel Friedrich Leiwe mit Landeskirchenamt Westfalen",
+      "typ": "Korrespondenz",
+      "umfang": "6 Briefe",
+      "zeitraum": "1977-1978",
+      "beteiligte": [
+        {
+          "name": "Friedrich Leiwe",
+          "rolle": "Korrespondent",
+          "entity": "Person"
+        },
+        {
+          "name": "Landeskirchenamt Westfalen",
+          "rolle": "Korrespondent",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_151.json",
+      "_pageNumber": "127"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1360: Briefwechsel Friedrich Leiwe mit Calwer Verlag.\n       9 Briefe.                                                          1977\n                                                                          - 1979",
+      "nummer": "1360",
+      "titel": "Briefwechsel Friedrich Leiwe mit Calwer Verlag",
+      "typ": "Korrespondenz",
+      "umfang": "9 Briefe",
+      "zeitraum": "1977-1979",
+      "beteiligte": [
+        {
+          "name": "Friedrich Leiwe",
+          "rolle": "Korrespondent",
+          "entity": "Person"
+        },
+        {
+          "name": "Calwer Verlag",
+          "rolle": "Korrespondent",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_151.json",
+      "_pageNumber": "127"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1361: Briefwechsel Friedrich Leiwe mit Gerhard Kittel.\n       4 Briefe.                                                          1944\n                                                                          - 1945",
+      "nummer": "1361",
+      "titel": "Briefwechsel Friedrich Leiwe mit Gerhard Kittel",
+      "typ": "Korrespondenz",
+      "umfang": "4 Briefe",
+      "zeitraum": "1944-1945",
+      "beteiligte": [
+        {
+          "name": "Friedrich Leiwe",
+          "rolle": "Korrespondent",
+          "entity": "Person"
+        },
+        {
+          "name": "Gerhard Kittel",
+          "rolle": "Korrespondent",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_151.json",
+      "_pageNumber": "127"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1362: Briefwechsel Friedrich Leiwe mit Peter Stuhl-\n       macher.\n       3 Briefe.                                                          24.8.1977\n                                                                          - 20.10.1978",
+      "nummer": "1362",
+      "titel": "Briefwechsel Friedrich Leiwe mit Peter Stuhlmacher",
+      "typ": "Korrespondenz",
+      "umfang": "3 Briefe",
+      "zeitraum": "1977-08-24 - 1978-10-20",
+      "beteiligte": [
+        {
+          "name": "Friedrich Leiwe",
+          "rolle": "Korrespondent",
+          "entity": "Person"
+        },
+        {
+          "name": "Peter Stuhlmacher",
+          "rolle": "Korrespondent",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_151.json",
+      "_pageNumber": "127"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1363: Brief Dora Schlatter an Friedrich Leiwe.                              13.9.1959",
+      "nummer": "1363",
+      "titel": "Brief von Dora Schlatter an Friedrich Leiwe",
+      "typ": "Brief",
+      "datum": "1959-09-13",
+      "beteiligte": [
+        {
+          "name": "Dora Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Friedrich Leiwe",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_151.json",
+      "_pageNumber": "127"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1364: Briefwechsel Friedrich Leiwe mit verschiedenen\n       Personen.\n       9 Briefe.                                                          1944\n                                                                          - 1948",
+      "nummer": "1364",
+      "titel": "Briefwechsel Friedrich Leiwe mit verschiedenen Personen",
+      "typ": "Korrespondenz",
+      "umfang": "9 Briefe",
+      "zeitraum": "1944-1948",
+      "beteiligte": [
+        {
+          "name": "verschiedene Personen",
+          "rolle": "Korrespondent",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_151.json",
+      "_pageNumber": "127"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1365: Brief von Friedrich von Bodelschwingh an Karl\n       Barth.                                                               13.9.1933",
+      "nummer": "1365",
+      "titel": "Brief von Friedrich von Bodelschwingh an Karl Barth",
+      "typ": "Brief",
+      "datum": "1933-09-13",
+      "beteiligte": [
+        {
+          "name": "Friedrich von Bodelschwingh",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Karl Barth",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_151.json",
+      "_pageNumber": "127"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1366: Brief von Heinrich Laible an Theodor Zahn.                            18.12.1918",
+      "nummer": "1366",
+      "titel": "Brief von Heinrich Laible an Theodor Zahn",
+      "typ": "Brief",
+      "datum": "1918-12-18",
+      "beteiligte": [
+        {
+          "name": "Heinrich Laible",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Theodor Zahn",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_151.json",
+      "_pageNumber": "127"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1367: Brief von Wilhelm Busch an Dora Schlatter.                            22.4.1966",
+      "nummer": "1367",
+      "titel": "Brief von Wilhelm Busch an Dora Schlatter",
+      "typ": "Brief",
+      "datum": "1966-04-22",
+      "beteiligte": [
+        {
+          "name": "Wilhelm Busch",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Dora Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_151.json",
+      "_pageNumber": "127"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1368: Brief von Dora Schlatter an Bruder Theodor.                           13.6.1966",
+      "nummer": "1368",
+      "titel": "Brief von Dora Schlatter an Bruder Theodor",
+      "typ": "Brief",
+      "datum": "1966-06-13",
+      "beteiligte": [
+        {
+          "name": "Dora Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Bruder Theodor",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_151.json",
+      "_pageNumber": "127"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1369: Brief von Pfarrer Schieß an Stephan Schlatter.                        31.12.1870",
+      "nummer": "1369",
+      "titel": "Brief von Pfarrer Schieß an Stephan Schlatter",
+      "typ": "Brief",
+      "datum": "1870-12-31",
+      "beteiligte": [
+        {
+          "name": "Pfarrer Schieß",
+          "rolle": "Absender",
+          "entity": "Person",
+          "zusatz": "Pfarrer"
+        },
+        {
+          "name": "Stephan Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_151.json",
+      "_pageNumber": "127"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1370: Brief von Stephan Schlatter an Evang. Gesellschaft St. Gallen.         1.1.1871",
+      "nummer": "1370",
+      "titel": "Brief von Stephan Schlatter an Evang. Gesellschaft St. Gallen",
+      "typ": "Brief",
+      "datum": "1871-01-01",
+      "beteiligte": [
+        {
+          "name": "Stephan Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Evang. Gesellschaft St. Gallen",
+          "rolle": "Adressat",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_151.json",
+      "_pageNumber": "127"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1371: Brief von Karl Müller an Hans Lietzmann.                              8.2.1925",
+      "nummer": "1371",
+      "titel": "Brief von Karl Müller an Hans Lietzmann",
+      "typ": "Brief",
+      "datum": "1925-02-08",
+      "beteiligte": [
+        {
+          "name": "Karl Müller",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Hans Lietzmann",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_151.json",
+      "_pageNumber": "127"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1372: Brief von Theodor Schlatter an Anneliese\n       Pfahler.                                                             10.6.1970",
+      "nummer": "1372",
+      "titel": "Brief von Theodor Schlatter an Anneliese Pfahler",
+      "typ": "Brief",
+      "datum": "1970-06-10",
+      "beteiligte": [
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Anneliese Pfahler",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_151.json",
+      "_pageNumber": "127"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1373: Brief von Hans Stroh an Gerhard Maier.                                13.11.1979",
+      "nummer": "1373",
+      "titel": "Brief von Hans Stroh an Gerhard Maier",
+      "typ": "Brief",
+      "datum": "1979-11-13",
+      "beteiligte": [
+        {
+          "name": "Hans Stroh",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Gerhard Maier",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_151.json",
+      "_pageNumber": "127"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1374: Brief von Gustav Gruner an Paul Althaus.                               23.9.1952",
+      "nummer": "1374",
+      "titel": "Brief von Gustav Gruner an Paul Althaus",
+      "typ": "Brief",
+      "datum": "1952-09-23",
+      "beteiligte": [
+        {
+          "name": "Gustav Gruner",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Paul Althaus",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_151.json",
+      "_pageNumber": "127"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1375: Brief von Theodor Schlatter (Zimmermeister)\n       an Dora Schlatter.                                                   22.11.1966",
+      "nummer": "1375",
+      "titel": "Brief von Theodor Schlatter (Zimmermeister) an Dora Schlatter",
+      "typ": "Brief",
+      "datum": "1966-11-22",
+      "beteiligte": [
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Absender",
+          "entity": "Person",
+          "zusatz": "Zimmermeister"
+        },
+        {
+          "name": "Dora Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_151.json",
+      "_pageNumber": "127"
+    }
+  ]
+}

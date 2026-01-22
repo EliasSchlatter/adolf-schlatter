@@ -1,0 +1,229 @@
+{
+  "sourceFile": "page_120.json",
+  "pageNumber": "96",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 5,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 794: Walter Tebbe, \"Der literarische und theologische Ertrag des Schlatter-Gedenkens im Jahre 1952.\" Aus: Deutsches Pfarrerblatt 1953, Seite 149 - 150",
+      "nummer": "794",
+      "titel": "Der literarische und theologische Ertrag des Schlatter-Gedenkens im Jahre 1952",
+      "beschreibung": "Aufsatz/Aufsatz in Zeitschrift. Aus: Deutsches Pfarrerblatt, 1953, S. 149-150.",
+      "typ": "Artikel",
+      "jahr": 1953,
+      "seiten": "149-150",
+      "zeitschrift": "Deutsches Pfarrerblatt",
+      "beteiligte": [
+        {
+          "name": "Walter Tebbe",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "rawTextOriginal": null,
+      "_quelldatei": "page_120.json",
+      "_pageNumber": "96"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "795: Adolf Schlatter, Die Kirche und die negative Kritik. Rede bei der Berliner Pastoralkonferenz. 1. Teil. Aus: Evang. Kirchen-Zeitung, Greifswald 21.6.1890 Schlußteil vgl. Inventar-Nr. 133",
+      "nummer": "795",
+      "titel": "Die Kirche und die negative Kritik",
+      "beschreibung": "Rede bei der Berliner Pastoralkonferenz. 1. Teil. Veröffentlicht in der Evang. Kirchen-Zeitung, Greifswald.",
+      "typ": "Rede",
+      "datum": "1890-06-21",
+      "ort": "Greifswald",
+      "zeitschrift": "Evang. Kirchen-Zeitung",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person",
+          "zusatz": null
+        }
+      ],
+      "verweis": "Schlußteil vgl. Inventar-Nr. 133",
+      "_quelldatei": "page_120.json",
+      "_pageNumber": "96"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "796/1: Beiträge zur Förderung christlicher Theologie, Verlag C. Bertelsmann, Gütersloh: Gesamtverzeichnis 1897 - 1941",
+      "nummer": "796/1",
+      "titel": "Beiträge zur Förderung christlicher Theologie: Gesamtverzeichnis 1897 - 1941",
+      "beschreibung": "Gesamtverzeichnis der Reihe 'Beiträge zur Förderung christlicher Theologie'.",
+      "typ": "Verzeichnis/Aufstellung",
+      "zeitraum": "1897-1941",
+      "verlag": "Verlag C. Bertelsmann, Gütersloh",
+      "_quelldatei": "page_120.json",
+      "_pageNumber": "96"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "796/2: Beiträge zur Förderung christlicher Theologie:\nHeft 3/1897. Die Tage Trajans und Hadrians\n\nHeft 3/1898. Die Kirche Jerusalems vom Jahre 70 - 130\n\nHeft 5/1898. Die Parallelen in den Worten Jesu bei Johannes\nund Matthäus\n\nHeft 4/1900. Verkanntes Griechisch (2 Ex.)\n\nHeft 6/1901. Glaube und Gehorsam\n\nHeft 4/1904. Christus und das Christentum\n\nHeft 5/1905. Atheistische Methoden in der Theologie (2 Ex.)\n\nHeft 6/1905. Noch ein Wort über den christlichen Dienst\n\nHeft 3/1907. Recht und Geltung des kirchlichen Bekenntnisses\n\nHeft 4/1907. Der Zweifel an der Messianität Jesu (2 Ex.)\n\nHeft 2/1909. Die Theologie des N.T. und die Dogmatik\n\nHeft 1/1910. Wie sprach Josephus von Gott?\n\nHeft 3/1912. Briefe über das Christliche Dogma",
+      "nummer": "796/2",
+      "titel": "Beiträge zur Förderung christlicher Theologie",
+      "beschreibung": "Einzelne Hefte der Reihe (aufgelistet).",
+      "typ": "Reihenband",
+      "untereintraege": [
+        {
+          "rawText": "Heft 3/1897. Die Tage Trajans und Hadrians",
+          "titel": "Heft 3/1897: Die Tage Trajans und Hadrians",
+          "jahr": 1897
+        },
+        {
+          "rawText": "Heft 3/1898. Die Kirche Jerusalems vom Jahre 70 - 130",
+          "titel": "Heft 3/1898: Die Kirche Jerusalems vom Jahre 70 - 130",
+          "jahr": 1898
+        },
+        {
+          "rawText": "Heft 5/1898. Die Parallelen in den Worten Jesu bei Johannes und Matthäus",
+          "titel": "Heft 5/1898: Die Parallelen in den Worten Jesu bei Johannes und Matthäus",
+          "jahr": 1898
+        },
+        {
+          "rawText": "Heft 4/1900. Verkanntes Griechisch (2 Ex.)",
+          "titel": "Heft 4/1900: Verkanntes Griechisch",
+          "jahr": 1900,
+          "anmerkung": "2 Ex."
+        },
+        {
+          "rawText": "Heft 6/1901. Glaube und Gehorsam",
+          "titel": "Heft 6/1901: Glaube und Gehorsam",
+          "jahr": 1901
+        },
+        {
+          "rawText": "Heft 4/1904. Christus und das Christentum",
+          "titel": "Heft 4/1904: Christus und das Christentum",
+          "jahr": 1904
+        },
+        {
+          "rawText": "Heft 5/1905. Atheistische Methoden in der Theologie (2 Ex.)",
+          "titel": "Heft 5/1905: Atheistische Methoden in der Theologie",
+          "jahr": 1905,
+          "anmerkung": "2 Ex."
+        },
+        {
+          "rawText": "Heft 6/1905. Noch ein Wort über den christlichen Dienst",
+          "titel": "Heft 6/1905: Noch ein Wort über den christlichen Dienst",
+          "jahr": 1905
+        },
+        {
+          "rawText": "Heft 3/1907. Recht und Geltung des kirchlichen Bekenntnisses",
+          "titel": "Heft 3/1907: Recht und Geltung des kirchlichen Bekenntnisses",
+          "jahr": 1907
+        },
+        {
+          "rawText": "Heft 4/1907. Der Zweifel an der Messianität Jesu (2 Ex.)",
+          "titel": "Heft 4/1907: Der Zweifel an der Messianität Jesu",
+          "jahr": 1907,
+          "anmerkung": "2 Ex."
+        },
+        {
+          "rawText": "Heft 2/1909. Die Theologie des N.T. und die Dogmatik",
+          "titel": "Heft 2/1909: Die Theologie des N.T. und die Dogmatik",
+          "jahr": 1909
+        },
+        {
+          "rawText": "Heft 1/1910. Wie sprach Josephus von Gott?",
+          "titel": "Heft 1/1910: Wie sprach Josephus von Gott?",
+          "jahr": 1910
+        },
+        {
+          "rawText": "Heft 3/1912. Briefe über das Christliche Dogma",
+          "titel": "Heft 3/1912: Briefe über das Christliche Dogma",
+          "jahr": 1912
+        }
+      ],
+      "_quelldatei": "page_120.json",
+      "_pageNumber": "96"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "796/3: Beiträge zur Förderung christlicher Theologie:\nHeft 5/1912. Die Gemeinde/Das Wunder in der Synagoge\n\nHeft 6/1912. Das AT in der johanneischen Apokalypse\n\nHeft 5/1901. 2 1913, Jesu Gottheit und das Kreuz\n\nHeft 2/1914. Die korinthische Theologie\n\nHeft 1/1915. Recht und Schuld in der Geschichte\n\nHeft 3/1915. Der Märtyrer in den Anfängen der Kirche (2 Ex.)\n\nHeft 6/1916. Die beiden Schwerter\n\nHeft 1/1920. Die Entstehung der Beiträge (2 Ex.)\n\nHeft 1/1932. Adolf Schlatter als Theologe\n\nHeft 1/1938. A. Schlatter und W. Lütgert zum Gedächtnis",
+      "nummer": "796/3",
+      "titel": "Beiträge zur Förderung christlicher Theologie",
+      "beschreibung": "Weitere Hefte der Reihe (aufgelistet).",
+      "typ": "Reihenband",
+      "untereintraege": [
+        {
+          "rawText": "Heft 5/1912. Die Gemeinde/Das Wunder in der Synagoge",
+          "titel": "Heft 5/1912: Die Gemeinde / Das Wunder in der Synagoge",
+          "jahr": 1912
+        },
+        {
+          "rawText": "Heft 6/1912. Das AT in der johanneischen Apokalypse",
+          "titel": "Heft 6/1912: Das AT in der johanneischen Apokalypse",
+          "jahr": 1912
+        },
+        {
+          "rawText": "Heft 5/1901. 2 1913, Jesu Gottheit und das Kreuz",
+          "titel": "Heft 5/1901/1913: Jesu Gottheit und das Kreuz",
+          "beschreibung": "OCR-Text unklar ('Heft 5/1901. 2 1913'). Originaltext beachten.",
+          "anmerkung": "Unklare Jahresangabe/OCR-Fehler im Original."
+        },
+        {
+          "rawText": "Heft 2/1914. Die korinthische Theologie",
+          "titel": "Heft 2/1914: Die korinthische Theologie",
+          "jahr": 1914
+        },
+        {
+          "rawText": "Heft 1/1915. Recht und Schuld in der Geschichte",
+          "titel": "Heft 1/1915: Recht und Schuld in der Geschichte",
+          "jahr": 1915
+        },
+        {
+          "rawText": "Heft 3/1915. Der Märtyrer in den Anfängen der Kirche (2 Ex.)",
+          "titel": "Heft 3/1915: Der Märtyrer in den Anfängen der Kirche",
+          "jahr": 1915,
+          "anmerkung": "2 Ex."
+        },
+        {
+          "rawText": "Heft 6/1916. Die beiden Schwerter",
+          "titel": "Heft 6/1916: Die beiden Schwerter",
+          "jahr": 1916
+        },
+        {
+          "rawText": "Heft 1/1920. Die Entstehung der Beiträge (2 Ex.)",
+          "titel": "Heft 1/1920: Die Entstehung der Beiträge",
+          "jahr": 1920,
+          "anmerkung": "2 Ex."
+        },
+        {
+          "rawText": "Heft 1/1932. Adolf Schlatter als Theologe",
+          "titel": "Heft 1/1932: Adolf Schlatter als Theologe",
+          "jahr": 1932
+        },
+        {
+          "rawText": "Heft 1/1938. A. Schlatter und W. Lütgert zum Gedächtnis",
+          "titel": "Heft 1/1938: A. Schlatter und W. Lütgert zum Gedächtnis",
+          "jahr": 1938
+        }
+      ],
+      "_quelldatei": "page_120.json",
+      "_pageNumber": "96"
+    }
+  ],
+  "notes": "Seite enthält Listen von Heften; eine Zeile ist OCR-ungenau (\"Heft 5/1901. 2 1913...\"). Seitenzahl '96' am Fuß wurde erkannt."
+}

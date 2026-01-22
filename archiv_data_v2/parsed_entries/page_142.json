@@ -1,0 +1,336 @@
+{
+  "sourceFile": "page_142.json",
+  "pageNumber": "118",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 11,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 966: Schlatterstube in der Evang. Gesellschaft St. Gallen, mit Gedächtnistafel, enthaltend 9 Namen der Familie Schlatter. Darunter: \"Adolf Schlatter, 1852 - 1938, Sohn Stephans, Dr. theol., Professor in Tübingen, fruchtbarer und bibeltreuer Kirchenlehrer.\"\n\nAdolf Schlatter, Rede über Jesaja 12,6.\nAus: 16. Jahresbericht der Evang. Gesellschaft St. Gallen,\n27.10.1879, Seite 15 - 23.\n\nIn Inventar-Nr. 119 lückenhaft enthalten, daher dort eingeordnet.",
+      "nummer": "966",
+      "titel": "Schlatterstube in der Evang. Gesellschaft St. Gallen, mit Gedächtnistafel",
+      "beschreibung": "Gedächtnistafel mit 9 Namen der Familie Schlatter; Textbeispiel: \"Adolf Schlatter, 1852 - 1938, Sohn Stephans, Dr. theol., Professor in Tübingen, fruchtbarer und bibeltreuer Kirchenlehrer.\" Enthalten: Rede von Adolf Schlatter über Jesaja 12,6, veröffentlicht im 16. Jahresbericht der Evang. Gesellschaft St. Gallen, 27.10.1879, S. 15-23. Hinweis: In Inventar-Nr. 119 lückenhaft enthalten und dort eingeordnet.",
+      "typ": "Sonstiges",
+      "verweis": "119",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person",
+          "zusatz": "Rede über Jesaja 12,6; 1852-1938"
+        },
+        {
+          "name": "Evang. Gesellschaft St. Gallen",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Institution"
+        }
+      ],
+      "datum": "1879-10-27",
+      "seiten": "15-23",
+      "anmerkung": "Tafel mit familienbezogenen Namen; Einordnung/Lückenverweis auf Nr. 119",
+      "_quelldatei": "page_142.json",
+      "_pageNumber": "118"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "967: Stephan Schlatter, Brief an Evang. Gesellschaft 1.1.1871:\nBitte um Unterstützung des Armenhauses in Grabs von Pfarrer Schieß.\nDabei: Briefkarte Schieß an Stephan Schlatter. 31.12.1870",
+      "nummer": "967",
+      "titel": "Brief an Evang. Gesellschaft (Stephan Schlatter)",
+      "beschreibung": "Brief von Stephan Schlatter an die Evangelische Gesellschaft (Bitte um Unterstützung des Armenhauses in Grabs von Pfarrer Schieß). Enthalten ist zusätzlich eine Briefkarte von Pfarrer Schieß an Stephan Schlatter.",
+      "typ": "Brief",
+      "datum": "1871-01-01",
+      "untereintraege": [
+        {
+          "rawText": "Briefkarte Schieß an Stephan Schlatter. 31.12.1870",
+          "beschreibung": "Briefkarte von Pfarrer Schieß an Stephan Schlatter",
+          "datum": "1870-12-31",
+          "typ": "Brief"
+        }
+      ],
+      "beteiligte": [
+        {
+          "name": "Stephan Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Evang. Gesellschaft (Evang. Gesellschaft St. Gallen)",
+          "rolle": "Adressat",
+          "entity": "Institution"
+        },
+        {
+          "name": "Pfarrer Schieß",
+          "rolle": "Absender",
+          "entity": "Person",
+          "zusatz": "Autor der beiliegenden Briefkarte"
+        }
+      ],
+      "_quelldatei": "page_142.json",
+      "_pageNumber": "118"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "968: Salomon Schlatter, Zum Licht empor!\nLebensskizze Dora Schlatters mit Auszügen aus ihren Briefen.\nSt. Gallen, Evang. Gesellschaft 1915.\nAdolf Schlatter erwähnt: Seite 19 und 23",
+      "nummer": "968",
+      "titel": "Zum Licht empor! (Lebensskizze Dora Schlatter)",
+      "beschreibung": "Lebensskizze von Dora Schlatter mit Auszügen aus ihren Briefen. Erwähnung von Adolf Schlatter auf S. 19 und 23.",
+      "typ": "Druckschrift",
+      "jahr": 1915,
+      "beteiligte": [
+        {
+          "name": "Salomon Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Evang. Gesellschaft St. Gallen",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Institution"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "ort": "St. Gallen",
+      "seiten": "19, 23",
+      "_quelldatei": "page_142.json",
+      "_pageNumber": "118"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "969: Wilhelm Schlatter, Gott ist getreu.\nAus dem Leben von Theodor Schlatter, Baumeister von St. Gallen. Evang. Gesellschaft 1912",
+      "nummer": "969",
+      "titel": "Gott ist getreu (Aus dem Leben von Theodor Schlatter)",
+      "beschreibung": "Biographischer Text über Theodor Schlatter, Baumeister von St. Gallen.",
+      "typ": "Druckschrift",
+      "jahr": 1912,
+      "beteiligte": [
+        {
+          "name": "Wilhelm Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Evang. Gesellschaft",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_142.json",
+      "_pageNumber": "118"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "970: Freie Evangelische Gemeinde St. Gallen. Unterlagen 1981 und 1985.",
+      "nummer": "970",
+      "titel": "Unterlagen der Freien Evangelischen Gemeinde St. Gallen",
+      "beschreibung": "Sammelunterlagen der Freien Evangelischen Gemeinde St. Gallen aus den Jahren 1981 und 1985.",
+      "typ": "Material",
+      "zeitraum": "1981, 1985",
+      "beteiligte": [
+        {
+          "name": "Freie Evangelische Gemeinde St. Gallen",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_142.json",
+      "_pageNumber": "118"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "971: Freie Evangelische Gemeinde St. Gallen. Festschrift zum 150-jährigen Jubiläum.\nDarin: \"Der Kampf um die Glaubensfreiheit\" (Würdigung des Anteils von Stephan Schlatter).",
+      "nummer": "971",
+      "titel": "Festschrift zum 150-jährigen Jubiläum (Freie Evangelische Gemeinde St. Gallen)",
+      "beschreibung": "Festschrift der Freien Evangelischen Gemeinde St. Gallen zum 150-jährigen Jubiläum. Enthält den Beitrag \"Der Kampf um die Glaubensfreiheit\" (Würdigung des Anteils von Stephan Schlatter).",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "Freie Evangelische Gemeinde St. Gallen",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Institution"
+        },
+        {
+          "name": "Stephan Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Enthält Beitrag 'Der Kampf um die Glaubensfreiheit' (Würdigung des Anteils von Stephan Schlatter)",
+      "_quelldatei": "page_142.json",
+      "_pageNumber": "118"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "972: Wilhelm Schlatter, Gottes Hand im Menschenwerk.\nAuszug Seite 55 - 58, 76 und 77, zur Entstehung des Evang.-kirchlichen Vereins der Schweiz 1871.\nDabei: Ernst Bock, Notizen über Gespräch mit Pfarrer Robert Müller, St. Gallen, 1987.",
+      "nummer": "972",
+      "titel": "Gottes Hand im Menschenwerk (Wilhelm Schlatter) - Auszug",
+      "beschreibung": "Auszug aus 'Gottes Hand im Menschenwerk' von Wilhelm Schlatter, Seiten 55-58 und 76-77, betreffend die Entstehung des evangelisch-kirchlichen Vereins der Schweiz 1871.",
+      "typ": "Druckschrift",
+      "seiten": "55-58, 76-77",
+      "untereintraege": [
+        {
+          "rawText": "Ernst Bock, Notizen über Gespräch mit Pfarrer Robert Müller, St. Gallen, 1987.",
+          "titel": "Notizen (Ernst Bock) über Gespräch mit Pfarrer Robert Müller",
+          "beschreibung": "Notizen von Ernst Bock über ein Gespräch mit Pfarrer Robert Müller.",
+          "jahr": 1987,
+          "ort": "St. Gallen",
+          "typ": "Notiz"
+        }
+      ],
+      "beteiligte": [
+        {
+          "name": "Wilhelm Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Ernst Bock",
+          "rolle": "Zusammensteller",
+          "entity": "Person",
+          "zusatz": "Verfasser der beiliegenden Notizen (1987)"
+        },
+        {
+          "name": "Robert Müller",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "Pfarrer"
+        }
+      ],
+      "anmerkung": "Thema: Entstehung des Evang.-kirchlichen Vereins der Schweiz 1871",
+      "_quelldatei": "page_142.json",
+      "_pageNumber": "118"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "973: Bruno Oetterli, Gemeinde-Archiv Dozwil, Register Familie Schoop und Schlatter. 1 Blatt. 1985",
+      "nummer": "973",
+      "titel": "Register Familie Schoop und Schlatter (Gemeinde-Archiv Dozwil)",
+      "beschreibung": "Registereintrag zur Familie Schoop und Schlatter aus dem Gemeinde-Archiv Dozwil.",
+      "typ": "Verzeichnis/Aufstellung",
+      "jahr": 1985,
+      "umfang": "1 Blatt",
+      "beteiligte": [
+        {
+          "name": "Bruno Oetterli",
+          "rolle": "Zusammensteller",
+          "entity": "Person"
+        },
+        {
+          "name": "Gemeinde-Archiv Dozwil",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_142.json",
+      "_pageNumber": "118"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "974: Martin Schmid, Vorfahren der Emma Schoop, Schwester von Susanna Schlatter geb. Schoop. 7 Blätter. 1981",
+      "nummer": "974",
+      "titel": "Vorfahren der Emma Schoop (Schwester von Susanna Schlatter geb. Schoop)",
+      "beschreibung": "Stammlinien/Angaben zu den Vorfahren der Emma Schoop.",
+      "typ": "Verzeichnis/Aufstellung",
+      "jahr": 1981,
+      "umfang": "7 Blätter",
+      "beteiligte": [
+        {
+          "name": "Martin Schmid",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_142.json",
+      "_pageNumber": "118"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "975: W. Mohr, Staatsarchiv Kanton Thurgau, Register des Archivs der Ev. Kirchgemeinde Keßweil. 27 Blätter. 1982",
+      "nummer": "975",
+      "titel": "Register des Archivs der Ev. Kirchgemeinde Keßweil (Staatsarchiv Kanton Thurgau)",
+      "beschreibung": "Registereinträge des Archivs der evangelischen Kirchgemeinde Keßweil.",
+      "typ": "Verzeichnis/Aufstellung",
+      "jahr": 1982,
+      "umfang": "27 Blätter",
+      "beteiligte": [
+        {
+          "name": "W. Mohr",
+          "rolle": "Zusammensteller",
+          "entity": "Person"
+        },
+        {
+          "name": "Staatsarchiv Kanton Thurgau",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_142.json",
+      "_pageNumber": "118"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "976: Dr. M. Guisolan, Staatsarchiv Kanton Thurgau, Stellungnahme zum schwankenden Gebrauch der Ortsnamen \"Kessweil\" und \"Kesswil\", \"Dozwil\" und Dozwil\" usw.",
+      "nummer": "976",
+      "titel": "Stellungnahme zum Gebrauch der Ortsnamen (Dr. M. Guisolan)",
+      "beschreibung": "Stellungnahme zum schwankenden Gebrauch der Ortsnamen \"Kessweil\"/\"Kesswil\" und \"Dozwil\" (Varianzen in der Schreibweise).",
+      "typ": "Sonstiges",
+      "beteiligte": [
+        {
+          "name": "Dr. M. Guisolan",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Staatsarchiv Kanton Thurgau",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Institution"
+        }
+      ],
+      "anmerkung": "Unterschiedliche Schreibweisen der Ortsnamen werden thematisiert",
+      "_quelldatei": "page_142.json",
+      "_pageNumber": "118"
+    }
+  ],
+  "notes": "OCR-Seite mit Inventar-Einträgen Nr. 966-976; keine neue Überschrift auf dieser Seite erkennbar."
+}

@@ -1,0 +1,268 @@
+{
+  "sourceFile": "page_039.json",
+  "pageNumber": "15",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+    "unterabschnitt": "3. Wissenschaftlich-theologische Werke mit Einzelbeiträgen von Schlatter",
+    "unterkategorie": "a) In Sammelwerken und Reihen; b) In verschiedenen Schriften"
+  },
+  "entriesCount": 10,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "3. Wissenschaftlich-theologische Werke mit Einzelbeiträgen von Schlatter",
+      "unterkategorie": "a) In Sammelwerken und Reihen; b) In verschiedenen Schriften",
+      "rawText": "Nr. 42: Der Bruch Jesu mit der Judenschaft\n    In: Aus Schrift und Geschichte.\n        Festschrift für Orelli\n        R. Reich'sche Buchhandlung, Basel 1898\n        Mit zusätzlichem Sonderdruck",
+      "nummer": "42",
+      "titel": "Der Bruch Jesu mit der Judenschaft",
+      "beschreibung": "Aufsatz in der Festschrift 'Aus Schrift und Geschichte. Festschrift für Orelli'. Mit zusätzlichem Sonderdruck.",
+      "typ": "Aufsatz",
+      "jahr": 1898,
+      "verlag": "R. Reich'sche Buchhandlung",
+      "ort": "Basel",
+      "in": "Aus Schrift und Geschichte. Festschrift für Orelli",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_039.json",
+      "_pageNumber": "15"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "3. Wissenschaftlich-theologische Werke mit Einzelbeiträgen von Schlatter",
+      "unterkategorie": "a) In Sammelwerken und Reihen; b) In verschiedenen Schriften",
+      "rawText": "43: 92 Artikel von Schlatter\n    In: Calwer Bibellexikon, Biblisches Handwörterbuch\n        Calwer Verlag 1924",
+      "nummer": "43",
+      "titel": "92 Artikel von Schlatter",
+      "beschreibung": "Zusammenstellung von 92 Artikeln von Schlatter im Calwer Bibellexikon / Biblisches Handwörterbuch.",
+      "typ": "Aufsatz",
+      "jahr": 1924,
+      "verlag": "Calwer Verlag",
+      "in": "Calwer Bibellexikon, Biblisches Handwörterbuch",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_039.json",
+      "_pageNumber": "15"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "3. Wissenschaftlich-theologische Werke mit Einzelbeiträgen von Schlatter",
+      "unterkategorie": "a) In Sammelwerken und Reihen; b) In verschiedenen Schriften",
+      "rawText": "44: Adolf Schlatter\n    In: Die Religionswissenschaft in Selbstdarstellungen\n        Meiner-Verlag, Leipzig 1925. Vgl. Inventar-Nr. 146",
+      "nummer": "44",
+      "titel": "Adolf Schlatter",
+      "beschreibung": "Beitrag betitelt 'Adolf Schlatter' in der Reihe 'Die Religionswissenschaft in Selbstdarstellungen'. Verweis auf Inventar-Nr. 146.",
+      "typ": "Aufsatz",
+      "jahr": 1925,
+      "verlag": "Meiner-Verlag",
+      "ort": "Leipzig",
+      "in": "Die Religionswissenschaft in Selbstdarstellungen",
+      "verweis": "Inventar-Nr. 146",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_039.json",
+      "_pageNumber": "15"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "3. Wissenschaftlich-theologische Werke mit Einzelbeiträgen von Schlatter",
+      "unterkategorie": "a) In Sammelwerken und Reihen; b) In verschiedenen Schriften",
+      "rawText": "45/1: Jesu Gleichnis von den beiden Söhnen\n      In: Jahrbuch der theol. Schule Bethel 2 1931\n      Herausgegeben von Theodor Schlatter",
+      "nummer": "45/1",
+      "titel": "Jesu Gleichnis von den beiden Söhnen",
+      "beschreibung": "Aufsatz im Jahrbuch der theologischen Schule Bethel, Band 2. Herausgegeben von Theodor Schlatter.",
+      "typ": "Aufsatz",
+      "jahr": 1931,
+      "in": "Jahrbuch der theol. Schule Bethel, Band 2",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_039.json",
+      "_pageNumber": "15"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "3. Wissenschaftlich-theologische Werke mit Einzelbeiträgen von Schlatter",
+      "unterkategorie": "a) In Sammelwerken und Reihen; b) In verschiedenen Schriften",
+      "rawText": "45/2: Der Wandel nach dem Geist\n      In: Jahrbuch der theol. Schule Bethel 4 1933\n      Herausgegeben von Theodor Schlatter",
+      "nummer": "45/2",
+      "titel": "Der Wandel nach dem Geist",
+      "beschreibung": "Aufsatz im Jahrbuch der theologischen Schule Bethel, Band 4. Herausgegeben von Theodor Schlatter.",
+      "typ": "Aufsatz",
+      "jahr": 1933,
+      "in": "Jahrbuch der theol. Schule Bethel, Band 4",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_039.json",
+      "_pageNumber": "15"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "3. Wissenschaftlich-theologische Werke mit Einzelbeiträgen von Schlatter",
+      "unterkategorie": "a) In Sammelwerken und Reihen; b) In verschiedenen Schriften",
+      "rawText": "46: Die Preisgabe des Dienstes\n    In: Pietismus und Theologie, Beiträge zu ihrer Verständigung.\n        Herausgegeben von Otto Schmitz\n        Neukirchner Verlag 1956",
+      "nummer": "46",
+      "titel": "Die Preisgabe des Dienstes",
+      "beschreibung": "Beitrag in 'Pietismus und Theologie, Beiträge zu ihrer Verständigung.' Herausgegeben von Otto Schmitz.",
+      "typ": "Aufsatz",
+      "jahr": 1956,
+      "verlag": "Neukirchner Verlag",
+      "in": "Pietismus und Theologie, Beiträge zu ihrer Verständigung",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Otto Schmitz",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_039.json",
+      "_pageNumber": "15"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "3. Wissenschaftlich-theologische Werke mit Einzelbeiträgen von Schlatter",
+      "unterkategorie": "a) In Sammelwerken und Reihen; b) In verschiedenen Schriften",
+      "rawText": "Nr. 47: Eupolemus als Chronolog\n        und seine Beziehungen zu Josephus und Manetho\n        In: Theologische Studien und Kritiken 4 (1891)",
+      "nummer": "47",
+      "titel": "Eupolemus als Chronolog und seine Beziehungen zu Josephus und Manetho",
+      "beschreibung": "Artikel in 'Theologische Studien und Kritiken', Band 4 (1891).",
+      "typ": "Artikel",
+      "jahr": 1891,
+      "zeitschrift": "Theologische Studien und Kritiken",
+      "band": "4",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_039.json",
+      "_pageNumber": "15"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "3. Wissenschaftlich-theologische Werke mit Einzelbeiträgen von Schlatter",
+      "unterkategorie": "a) In Sammelwerken und Reihen; b) In verschiedenen Schriften",
+      "rawText": "48: Die bene parisim bei Daniel 11,14\n    In: Zeitschrift für Alttestamentliche Wissenschaft\n        14 (1894)",
+      "nummer": "48",
+      "titel": "Die bene parisim bei Daniel 11,14",
+      "beschreibung": "Aufsatz in der 'Zeitschrift für Alttestamentliche Wissenschaft', Band 14 (1894).",
+      "typ": "Artikel",
+      "jahr": 1894,
+      "zeitschrift": "Zeitschrift für Alttestamentliche Wissenschaft",
+      "band": "14",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_039.json",
+      "_pageNumber": "15"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "3. Wissenschaftlich-theologische Werke mit Einzelbeiträgen von Schlatter",
+      "unterkategorie": "a) In Sammelwerken und Reihen; b) In verschiedenen Schriften",
+      "rawText": "49: Der Chronograph aus dem 10. Jahre Antonins\n    In: Texte und Untersuchungen zur Geschichte der altchristlichen Literatur\n        Herausgegeben von O. v. Gebhardt und A. v. Harnack\n        1894",
+      "nummer": "49",
+      "titel": "Der Chronograph aus dem 10. Jahre Antonins",
+      "beschreibung": "Beitrag in der Reihe 'Texte und Untersuchungen zur Geschichte der altchristlichen Literatur'. Herausgegeben von O. v. Gebhardt und A. v. Harnack.",
+      "typ": "Artikel",
+      "jahr": 1894,
+      "in": "Texte und Untersuchungen zur Geschichte der altchristlichen Literatur",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "O. v. Gebhardt",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        },
+        {
+          "name": "A. v. Harnack",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_039.json",
+      "_pageNumber": "15"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "3. Wissenschaftlich-theologische Werke mit Einzelbeiträgen von Schlatter",
+      "unterkategorie": "a) In Sammelwerken und Reihen; b) In verschiedenen Schriften",
+      "rawText": "50: Die Förderung des theol. Unterrichts.\n    Referat bei der Jahresversammlung der schweizerischen\n    reformierten Predigergesellschaft 1887.",
+      "nummer": "50",
+      "titel": "Die Förderung des theol. Unterrichts",
+      "beschreibung": "Referat bei der Jahresversammlung der schweizerischen reformierten Predigergesellschaft.",
+      "typ": "Vortrag",
+      "jahr": 1887,
+      "anlass": "Jahresversammlung der schweizerischen reformierten Predigergesellschaft",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Vortragender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_039.json",
+      "_pageNumber": "15"
+    }
+  ],
+  "notes": "Kopf: Teil I: A Bücher und Druckschriften Nr. 42 - 50. Seite 15 (Fußzeile). Auf der Seite erscheinen die Unterabschnitte '3. Wissenschaftlich-theologische Werke mit Einzelbeiträgen von Schlatter' und die Unterkategorien 'a) In Sammelwerken und Reihen' sowie 'b) In verschiedenen Schriften'."
+}

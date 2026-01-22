@@ -1,0 +1,157 @@
+{
+  "sourceFile": "page_050.json",
+  "pageNumber": "26",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+    "unterabschnitt": "7. Veröffentlichungen von Schlatter aus den Bereichen DCSV, Christliche Akademikerschaft, Weibliche Jugend",
+    "unterkategorie": "a) Deutsche Christliche Studenten-Vereinigung"
+  },
+  "entriesCount": 7,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "7. Veröffentlichungen von Schlatter aus den Bereichen DCSV, Christliche Akademikerschaft, Weibliche Jugend",
+      "unterkategorie": "a) Deutsche Christliche Studenten-Vereinigung",
+      "rawText": "Nr. 122/5: Predigt am allgemeinen Landesbettag über Hebräer 10,39\n      (20.10.1918).\n      In: 3 Predigten aus ernster Zeit.\n      Verlag Steinkopf, Stuttgart 1918. Seite 14 - 22",
+      "nummer": "122/5",
+      "titel": "Predigt am allgemeinen Landesbettag über Hebräer 10,39",
+      "beschreibung": "Abgedruckt in: 3 Predigten aus ernster Zeit. Verlag Steinkopf, Stuttgart 1918. Seiten 14-22.",
+      "typ": "Predigt",
+      "datum": "1918-10-20",
+      "jahr": 1918,
+      "seiten": "14-22",
+      "verlag": "Verlag Steinkopf",
+      "ort": "Stuttgart",
+      "in": "3 Predigten aus ernster Zeit",
+      "_quelldatei": "page_050.json",
+      "_pageNumber": "26"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "7. Veröffentlichungen von Schlatter aus den Bereichen DCSV, Christliche Akademikerschaft, Weibliche Jugend",
+      "unterkategorie": "a) Deutsche Christliche Studenten-Vereinigung",
+      "rawText": "i) Nr. 123: Einzelne Beiträge von Schlatter in verschiedenen Ver-\n   öffentlichungen 1933 - 1936",
+      "nummer": "123",
+      "titel": "Einzelne Beiträge von Schlatter in verschiedenen Veröffentlichungen 1933 - 1936",
+      "beschreibung": "Sammelverzeichnis mit einzelnen Beiträgen (siehe Untereinträge).",
+      "typ": "Sammlung",
+      "zeitraum": "1933-1936",
+      "untereintraege": [
+        {
+          "rawText": "123/1: Die Botschaft des Engels in der Weihnacht.\n         In: Zeitwende, Heft 12/1935. Seite 129 - 131",
+          "titel": "Die Botschaft des Engels in der Weihnacht",
+          "nummer": "123/1",
+          "typ": "Artikel",
+          "zeitschrift": "Zeitwende",
+          "heft": "12/1935",
+          "jahr": 1935,
+          "seiten": "129-131"
+        },
+        {
+          "rawText": "123/2: Seelsorge für Seelsorger.\n         Monatsschrift für praktische Theologie, 29/1933.\n         Seite 108 - 111",
+          "titel": "Seelsorge für Seelsorger",
+          "nummer": "123/2",
+          "typ": "Artikel",
+          "zeitschrift": "Monatsschrift für praktische Theologie",
+          "heft": "29/1933",
+          "jahr": 1933,
+          "seiten": "108-111"
+        },
+        {
+          "rawText": "123/3: Marias Mutterglück.\n         In: Geboren von der Jungfrau Maria\n         Herausgegeben von Aug. de Haas\n         Stiftungsverlag Potsdam 1936. Seite 11 - 15",
+          "titel": "Marias Mutterglück",
+          "nummer": "123/3",
+          "typ": "Aufsatz",
+          "in": "Geboren von der Jungfrau Maria",
+          "beteiligte": [
+            {
+              "name": "Aug. de Haas",
+              "rolle": "Herausgeber",
+              "entity": "Person"
+            }
+          ],
+          "verlag": "Stiftungsverlag",
+          "ort": "Potsdam",
+          "jahr": 1936,
+          "seiten": "11-15"
+        }
+      ],
+      "_quelldatei": "page_050.json",
+      "_pageNumber": "26"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "7. Veröffentlichungen von Schlatter aus den Bereichen DCSV, Christliche Akademikerschaft, Weibliche Jugend",
+      "unterkategorie": "a) Deutsche Christliche Studenten-Vereinigung",
+      "rawText": "Nr. 124: Einzelne Artikel von Schlatter 1910 - 1938",
+      "nummer": "124",
+      "titel": "Einzelne Artikel von Schlatter 1910 - 1938",
+      "beschreibung": "Sammlung einzelner Artikel im Bereich Deutsche Christliche Studenten-Vereinigung.",
+      "typ": "Sammlung",
+      "zeitraum": "1910-1938",
+      "_quelldatei": "page_050.json",
+      "_pageNumber": "26"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "7. Veröffentlichungen von Schlatter aus den Bereichen DCSV, Christliche Akademikerschaft, Weibliche Jugend",
+      "unterkategorie": "a) Deutsche Christliche Studenten-Vereinigung",
+      "rawText": "Nr. 125: Einzelne Artikel von Schlatter 1906 - 1914",
+      "nummer": "125",
+      "titel": "Einzelne Artikel von Schlatter 1906 - 1914",
+      "beschreibung": "Sammlung einzelner Artikel im Bereich Christliche Studentenkonferenzen.",
+      "typ": "Sammlung",
+      "zeitraum": "1906-1914",
+      "_quelldatei": "page_050.json",
+      "_pageNumber": "26"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "7. Veröffentlichungen von Schlatter aus den Bereichen DCSV, Christliche Akademikerschaft, Weibliche Jugend",
+      "unterkategorie": "a) Deutsche Christliche Studenten-Vereinigung",
+      "rawText": "Nr. 126: Einzelne Artikel von Schlatter 1917 - 1937",
+      "nummer": "126",
+      "titel": "Einzelne Artikel von Schlatter 1917 - 1937",
+      "beschreibung": "Sammlung einzelner Artikel im Bereich Christliche Akademikerkonferenzen.",
+      "typ": "Sammlung",
+      "zeitraum": "1917-1937",
+      "_quelldatei": "page_050.json",
+      "_pageNumber": "26"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "7. Veröffentlichungen von Schlatter aus den Bereichen DCSV, Christliche Akademikerschaft, Weibliche Jugend",
+      "unterkategorie": "a) Deutsche Christliche Studenten-Vereinigung",
+      "rawText": "Nr. 127: Einzelne Artikel von Schlatter 1917 - 1936",
+      "nummer": "127",
+      "titel": "Einzelne Artikel von Schlatter 1917 - 1936",
+      "beschreibung": "Sammlung einzelner Artikel im Bereich Weibliche Jugend.",
+      "typ": "Sammlung",
+      "zeitraum": "1917-1936",
+      "_quelldatei": "page_050.json",
+      "_pageNumber": "26"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "7. Veröffentlichungen von Schlatter aus den Bereichen DCSV, Christliche Akademikerschaft, Weibliche Jugend",
+      "unterkategorie": "a) Deutsche Christliche Studenten-Vereinigung",
+      "rawText": "Nr. 128: Einzelne Artikel von Schlatter 1921 - 1934",
+      "nummer": "128",
+      "titel": "Einzelne Artikel von Schlatter 1921 - 1934",
+      "beschreibung": "Sonstige einzelne Artikel von Schlatter.",
+      "typ": "Sammlung",
+      "zeitraum": "1921-1934",
+      "_quelldatei": "page_050.json",
+      "_pageNumber": "26"
+    }
+  ],
+  "notes": "Neue Unterabschnittsüberschrift '7. Veröffentlichungen von Schlatter aus den Bereichen DCSV, Christliche Akademikerschaft, Weibliche Jugend' erkannt. Auf dieser Seite erscheinen die Unterkategorien a) bis e) (a) Deutsche Christliche Studenten-Vereinigung; b) Christliche Studentenkonferenzen; c) Christliche Akademikerkonferenzen; d) Weibliche Jugend; e) Sonstiges). Seitenfuß: '26'. OCR-Zeilenumbruch und Trennungen wurden beibehalten."
+}

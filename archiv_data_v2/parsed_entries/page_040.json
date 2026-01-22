@@ -1,0 +1,247 @@
+{
+  "sourceFile": "page_040.json",
+  "pageNumber": "16",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+    "unterabschnitt": "4. Wissenschaftlich-theologische Werke mit Beiträgen über Schlatter",
+    "unterkategorie": "c) In Zeitschriften"
+  },
+  "entriesCount": 14,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "4. Wissenschaftlich-theologische Werke mit Beiträgen über Schlatter",
+      "unterkategorie": "c) In Zeitschriften",
+      "rawText": "Nr. 51: Christus und das Christentum, Person und Prinzip.\n    Referat bei der Jahresversammlung der schweizerischen\n    reformierten Predigergesellschaft 1903",
+      "nummer": "51",
+      "titel": "Christus und das Christentum, Person und Prinzip",
+      "beschreibung": "Referat bei der Jahresversammlung der schweizerischen reformierten Predigergesellschaft",
+      "jahr": 1903,
+      "typ": "Vortrag",
+      "_quelldatei": "page_040.json",
+      "_pageNumber": "16"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "4. Wissenschaftlich-theologische Werke mit Beiträgen über Schlatter",
+      "unterkategorie": "c) In Zeitschriften",
+      "rawText": "52: Herz und Gehirn im 1. Jahrhundert.\n    Verlag Mohr, Tübingen 1918",
+      "nummer": "52",
+      "titel": "Herz und Gehirn im 1. Jahrhundert",
+      "verlag": "Verlag Mohr, Tübingen",
+      "jahr": 1918,
+      "typ": "Buch",
+      "_quelldatei": "page_040.json",
+      "_pageNumber": "16"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "4. Wissenschaftlich-theologische Werke mit Beiträgen über Schlatter",
+      "unterkategorie": "c) In Zeitschriften",
+      "rawText": "53: Die Letzte Bitte Jesu, Johannes 17,20-25\n    In: Grundfragen einer Einigung der Kirche Christi\n    Verlag Chr. Kaiser, München 1925",
+      "nummer": "53",
+      "titel": "Die Letzte Bitte Jesu, Johannes 17,20-25",
+      "beschreibung": "Erschienen in: Grundfragen einer Einigung der Kirche Christi",
+      "in": "Grundfragen einer Einigung der Kirche Christi",
+      "verlag": "Chr. Kaiser, München",
+      "jahr": 1925,
+      "bibelstelle": "Johannes 17,20-25",
+      "typ": "Artikel",
+      "_quelldatei": "page_040.json",
+      "_pageNumber": "16"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "4. Wissenschaftlich-theologische Werke mit Beiträgen über Schlatter",
+      "unterkategorie": "c) In Zeitschriften",
+      "rawText": "54: Das Gleichnis von den beiden Söhnen\n    Aus: Jahrbuch der Theol. Schule Bethel\n    Herausgegeben von Theodor Schlatter\n    Sonderdruck 1931",
+      "nummer": "54",
+      "titel": "Das Gleichnis von den beiden Söhnen",
+      "in": "Jahrbuch der Theologischen Schule Bethel",
+      "jahr": 1931,
+      "typ": "Aufsatz",
+      "anmerkung": "Sonderdruck",
+      "beteiligte": [
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_040.json",
+      "_pageNumber": "16"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "4. Wissenschaftlich-theologische Werke mit Beiträgen über Schlatter",
+      "unterkategorie": "c) In Zeitschriften",
+      "rawText": "55: Die Grenzen der kirchlichen Gemeinschaft.\n    Das Evangelium und das Bekenntnis.\n    In: Müssen wir heute lutherisch oder reformiert sein?\n    Freizeitenverlag, Velbert 1936",
+      "nummer": "55",
+      "titel": "Die Grenzen der kirchlichen Gemeinschaft. Das Evangelium und das Bekenntnis",
+      "in": "Müssen wir heute lutherisch oder reformiert sein?",
+      "verlag": "Freizeitenverlag, Velbert",
+      "jahr": 1936,
+      "typ": "Aufsatz",
+      "_quelldatei": "page_040.json",
+      "_pageNumber": "16"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "4. Wissenschaftlich-theologische Werke mit Beiträgen über Schlatter",
+      "unterkategorie": "c) In Zeitschriften",
+      "rawText": "c) In Zeitschriften",
+      "nummer": "kontext-heading-c",
+      "titel": "c) In Zeitschriften",
+      "zusatzInfo": "Neue Unterkategorie auf dieser Seite: c) In Zeitschriften",
+      "_quelldatei": "page_040.json",
+      "_pageNumber": "16"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "4. Wissenschaftlich-theologische Werke mit Beiträgen über Schlatter",
+      "unterkategorie": "c) In Zeitschriften",
+      "rawText": "Nr. 56: Theologischer Briefwechsel zwischen Adolf Schlatter und\n    Karl Heim, veranlaßt durch Heims \"Glaube und Denken\"\n    In: Monatsschrift für Pastoraltheologie\n    Nov./Dez. 1931, Febr./März 1932, April 1932",
+      "nummer": "56",
+      "titel": "Theologischer Briefwechsel zwischen Adolf Schlatter und Karl Heim, veranlaßt durch Heims \"Glaube und Denken\"",
+      "in": "Monatsschrift für Pastoraltheologie",
+      "typ": "Korrespondenz",
+      "zeitraum": "1931-1932",
+      "anmerkung": "Erschienen in Nov./Dez. 1931, Febr./März 1932, April 1932",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Karl Heim",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_040.json",
+      "_pageNumber": "16"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "4. Wissenschaftlich-theologische Werke mit Beiträgen über Schlatter",
+      "unterkategorie": "c) In Zeitschriften",
+      "rawText": "57: Das Alte Testament und der Talmud\n    In: Das Alte Testament als Buch der Kirche\n    Bekennende Kirche Heft 7\n    Verlag Chr. Kaiser, München 1934",
+      "nummer": "57",
+      "titel": "Das Alte Testament und der Talmud",
+      "in": "Das Alte Testament als Buch der Kirche",
+      "zeitschrift": "Bekennende Kirche",
+      "heft": "7",
+      "verlag": "Chr. Kaiser, München",
+      "jahr": 1934,
+      "typ": "Artikel",
+      "_quelldatei": "page_040.json",
+      "_pageNumber": "16"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "4. Wissenschaftlich-theologische Werke mit Beiträgen über Schlatter",
+      "unterkategorie": "c) In Zeitschriften",
+      "rawText": "58: Der Kampf des Paulus gegen die Gleichmachung.\n    Rede vor der Evang.-theol. Fakultät Tübingen\n    In: Deutsche Theologie Heft 1/1934",
+      "nummer": "58",
+      "titel": "Der Kampf des Paulus gegen die Gleichmachung",
+      "beschreibung": "Rede vor der Evangelisch-theologischen Fakultät Tübingen",
+      "in": "Deutsche Theologie",
+      "heft": "1/1934",
+      "jahr": 1934,
+      "typ": "Rede",
+      "_quelldatei": "page_040.json",
+      "_pageNumber": "16"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "4. Wissenschaftlich-theologische Werke mit Beiträgen über Schlatter",
+      "unterkategorie": "c) In Zeitschriften",
+      "rawText": "59: Die Grenzen der kirchlichen Gemeinschaft\n    Aus: Deutsche Theologie 2/1935. Teildruck",
+      "nummer": "59",
+      "titel": "Die Grenzen der kirchlichen Gemeinschaft",
+      "in": "Deutsche Theologie",
+      "heft": "2/1935",
+      "jahr": 1935,
+      "anmerkung": "Teildruck",
+      "typ": "Artikel",
+      "_quelldatei": "page_040.json",
+      "_pageNumber": "16"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "4. Wissenschaftlich-theologische Werke mit Beiträgen über Schlatter",
+      "unterkategorie": "c) In Zeitschriften",
+      "rawText": "60: Allegorien - Klingende Schellen, tönendes Erz\n    In: Evangelische Theologie 3/1936",
+      "nummer": "60",
+      "titel": "Allegorien - Klingende Schellen, tönendes Erz",
+      "in": "Evangelische Theologie",
+      "heft": "3/1936",
+      "jahr": 1936,
+      "typ": "Artikel",
+      "_quelldatei": "page_040.json",
+      "_pageNumber": "16"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "4. Wissenschaftlich-theologische Werke mit Beiträgen über Schlatter",
+      "unterkategorie": "c) In Zeitschriften",
+      "rawText": "4. Wissenschaftlich-theologische Werke mit Beiträgen über Schlatter",
+      "nummer": "kontext-heading-4",
+      "titel": "4. Wissenschaftlich-theologische Werke mit Beiträgen über Schlatter",
+      "zusatzInfo": "Neue Unterabschnitt auf dieser Seite: 4. Wissenschaftlich-theologische Werke mit Beiträgen über Schlatter",
+      "_quelldatei": "page_040.json",
+      "_pageNumber": "16"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "4. Wissenschaftlich-theologische Werke mit Beiträgen über Schlatter",
+      "unterkategorie": "c) In Zeitschriften",
+      "rawText": "Nr. 61/1: Georg Merz, Adolf Schlatter.",
+      "nummer": "61/1",
+      "titel": "Georg Merz, Adolf Schlatter",
+      "beschreibung": "Beitrag von Georg Merz über Adolf Schlatter",
+      "typ": "Artikel",
+      "_quelldatei": "page_040.json",
+      "_pageNumber": "16"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "4. Wissenschaftlich-theologische Werke mit Beiträgen über Schlatter",
+      "unterkategorie": "c) In Zeitschriften",
+      "rawText": "Nr. 61/2: Eduard Ellwein, Schlatters Kritik an Luthers Römerbrief-\n    vorlesung.\n    In: Zwischen den Zeiten.\n    Heft 6/1927, Seite 523 - 529; 530 - 543",
+      "nummer": "61/2",
+      "titel": "Schlatters Kritik an Luthers Römerbriefvorlesung",
+      "beteiligte": [
+        {
+          "name": "Eduard Ellwein",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "in": "Zwischen den Zeiten",
+      "heft": "6/1927",
+      "seiten": "523-529; 530-543",
+      "jahr": 1927,
+      "typ": "Artikel",
+      "_quelldatei": "page_040.json",
+      "_pageNumber": "16"
+    }
+  ],
+  "notes": "Seite im Original: 16. OCR-Ausgabe enthält Kopfzeile 'Teil I: A Bücher und Druckschriften Nr. 51 - 61'. Neue Überschriften auf Seite: 'c) In Zeitschriften' und '4. Wissenschaftlich-theologische Werke mit Beiträgen über Schlatter'."
+}

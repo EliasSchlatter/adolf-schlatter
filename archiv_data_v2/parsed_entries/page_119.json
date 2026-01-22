@@ -1,0 +1,342 @@
+{
+  "sourceFile": "page_119.json",
+  "pageNumber": "95",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 11,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 783 a: D. Adolf Schlatter zum Gedächtnis.\nSonderheft der Monatsschrift für Pastoraltheologie, Heft 7,\nJuli 1952",
+      "nummer": "783 a",
+      "titel": "D. Adolf Schlatter zum Gedächtnis",
+      "beschreibung": "Sonderheft der Monatsschrift für Pastoraltheologie, Heft 7, Juli 1952",
+      "typ": "Druckschrift",
+      "jahr": 1952,
+      "verlag": "Monatsschrift für Pastoraltheologie",
+      "umfang": "Heft 7",
+      "_quelldatei": "page_119.json",
+      "_pageNumber": "95"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "784: Robert Frick, Schlatterzitate.\nAus: Pfarrerkalender 1977, Vandenhoeck und Ruprecht,\nGöttingen",
+      "nummer": "784",
+      "titel": "Schlatterzitate",
+      "beschreibung": "Aus: Pfarrerkalender 1977. Verlag: Vandenhoeck und Ruprecht, Göttingen",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "Robert Frick",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Vandenhoeck und Ruprecht",
+          "rolle": "Verlag",
+          "entity": "Institution"
+        }
+      ],
+      "jahr": 1977,
+      "ort": "Göttingen",
+      "in": "Pfarrerkalender",
+      "_quelldatei": "page_119.json",
+      "_pageNumber": "95"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "785: Lippische Bibelgesellschaft 1816 - 1966.\nDruckschrift, herausgegeben von Udo Smidt, 1966, mit Hinweis\nauf Adolf Schlatter und Zitat Seite 59 - 60 aus \"Hülfe in\nBibelnot\".",
+      "nummer": "785",
+      "titel": "Lippische Bibelgesellschaft 1816 - 1966",
+      "beschreibung": "Druckschrift, herausgegeben von Udo Smidt, 1966. Mit Hinweis auf Adolf Schlatter und Zitat Seite 59-60 aus 'Hülfe in Bibelnot'.",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "Udo Smidt",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        }
+      ],
+      "jahr": 1966,
+      "seiten": "59-60",
+      "anmerkung": "Enthält Zitat aus 'Hülfe in Bibelnot'",
+      "_quelldatei": "page_119.json",
+      "_pageNumber": "95"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "786: Lippische Landesbibliothek, Karteikarten der dort vorhandenen\nSchriften Adolf Schlatters.",
+      "nummer": "786",
+      "titel": "Karteikarten der Lippischen Landesbibliothek",
+      "beschreibung": "Karteikarten der in der Lippischen Landesbibliothek vorhandenen Schriften Adolf Schlatters.",
+      "typ": "Sammlung",
+      "beteiligte": [
+        {
+          "name": "Lippische Landesbibliothek",
+          "rolle": "Institution",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_119.json",
+      "_pageNumber": "95"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "787: Landeskirchliches Archiv der Evang. Kirche von Westfalen in\nBielefeld: Auszüge aus dem landeskirchlichen Pfarrer-Register - Absender von Briefen an Adolf Schlatter.\nDazu: Schreiben Ernst Bock 10.3.1981 an Dr. Steinberg",
+      "nummer": "787",
+      "titel": "Auszüge aus dem landeskirchlichen Pfarrer-Register (Landeskirchliches Archiv Bielefeld)",
+      "beschreibung": "Auszüge aus dem landeskirchlichen Pfarrer-Register: Absender von Briefen an Adolf Schlatter. Dazu: Schreiben von Ernst Bock an Dr. Steinberg.",
+      "typ": "Verzeichnis/Aufstellung",
+      "beteiligte": [
+        {
+          "name": "Landeskirchliches Archiv der Evang. Kirche von Westfalen",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Institution",
+          "zusatz": "Bielefeld"
+        },
+        {
+          "name": "Ernst Bock",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Dr. Steinberg",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Schreiben Ernst Bock 10.3.1981 an Dr. Steinberg",
+          "titel": "Schreiben von Ernst Bock an Dr. Steinberg",
+          "datum": "1981-03-10",
+          "beteiligte": [
+            {
+              "name": "Ernst Bock",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Dr. Steinberg",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ],
+          "typ": "Schreiben"
+        }
+      ],
+      "_quelldatei": "page_119.json",
+      "_pageNumber": "95"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "788: Adolf Schlatter, Predigt über Lukas 10,38-42 (20. Juni 1929).\nAbschiedspredigt über Matthäus 16,24-28 (28. Juli 1929).\nManuskript.\nDazu: Brief Friedrich Leiwe 9.4.1981 mit Hinweis auf seine\nArbeiten über Adolf Schlatter",
+      "nummer": "788",
+      "titel": "Predigten Adolf Schlatter (Lukas 10,38-42; Matthäus 16,24-28)",
+      "beschreibung": "Manuskript: Predigt über Lukas 10,38-42 (20. Juni 1929) und Abschiedspredigt über Matthäus 16,24-28 (28. Juli 1929). Dazu ein Brief von Friedrich Leiwe (9.4.1981) mit Hinweis auf seine Arbeiten über Adolf Schlatter.",
+      "typ": "Manuskript",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Brief Friedrich Leiwe 9.4.1981 mit Hinweis auf seine Arbeiten über Adolf Schlatter",
+          "titel": "Brief von Friedrich Leiwe",
+          "beschreibung": "Brief mit Hinweis auf seine Arbeiten über Adolf Schlatter",
+          "datum": "1981-04-09",
+          "beteiligte": [
+            {
+              "name": "Friedrich Leiwe",
+              "rolle": "Absender",
+              "entity": "Person"
+            }
+          ],
+          "typ": "Brief"
+        }
+      ],
+      "jahr": 1929,
+      "anmerkung": "Enthält Predigten datiert 20. Juni 1929 und 28. Juli 1929",
+      "_quelldatei": "page_119.json",
+      "_pageNumber": "95"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "789: Ausschnitte aus (Tübinger) Zeitungen: Artikel pro und contra\nmögliche Abberufung Adolf Schlatters nach Halle 1910.",
+      "nummer": "789",
+      "titel": "Ausschnitte aus (Tübinger) Zeitungen",
+      "beschreibung": "Artikel pro und contra mögliche Abberufung Adolf Schlatters nach Halle 1910.",
+      "typ": "Sammlung",
+      "jahr": 1910,
+      "anmerkung": "Zeitungsausschnitte, Tübinger Zeitungen",
+      "_quelldatei": "page_119.json",
+      "_pageNumber": "95"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "790: Paul Althaus, Die Quelle der theologischen Erkenntnis bei\nAdolf Schlatter. Entwurf 11.7.1912;\nPaul Althaus, Zur Stellung Schlatters in der Frage des Gottesbeweises. Notiz (nach 1934);\nPaul Althaus, weitere Notizen \"Schlatter\", wohl für Nachruf\n(1938);\nPaul Althaus, \"Ein Schriftgelehrter, gelehrt zum Himmelreich. Zu Adolf Schlatters 100. Geburtstag (16.8.1952)\"",
+      "nummer": "790",
+      "titel": "Sammlung: Schriftliche Notizen und Entwürfe von Paul Althaus zu Adolf Schlatter",
+      "beschreibung": "Enthält mehrere Stücke von Paul Althaus zu Adolf Schlatter, darunter ein Entwurf 'Die Quelle der theologischen Erkenntnis bei Adolf Schlatter' (11.7.1912), eine Notiz 'Zur Stellung Schlatters in der Frage des Gottesbeweises' (nach 1934), weitere Notizen wohl für einen Nachruf (1938) und ein Beitrag 'Ein Schriftgelehrter, gelehrt zum Himmelreich' zum 100. Geburtstag (16.8.1952).",
+      "typ": "Sammlung",
+      "beteiligte": [
+        {
+          "name": "Paul Althaus",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Die Quelle der theologischen Erkenntnis bei Adolf Schlatter. Entwurf 11.7.1912",
+          "titel": "Die Quelle der theologischen Erkenntnis bei Adolf Schlatter (Entwurf)",
+          "datum": "1912-07-11",
+          "typ": "Entwurf"
+        },
+        {
+          "rawText": "Zur Stellung Schlatters in der Frage des Gottesbeweises. Notiz (nach 1934)",
+          "titel": "Zur Stellung Schlatters in der Frage des Gottesbeweises (Notiz)",
+          "jahr": 1934,
+          "anmerkung": "Formulierung: 'nach 1934'",
+          "typ": "Notiz"
+        },
+        {
+          "rawText": "weitere Notizen 'Schlatter', wohl für Nachruf (1938)",
+          "titel": "Weitere Notizen (wohl für Nachruf)",
+          "jahr": 1938,
+          "typ": "Notiz"
+        },
+        {
+          "rawText": "Ein Schriftgelehrter, gelehrt zum Himmelreich. Zu Adolf Schlatters 100. Geburtstag (16.8.1952)",
+          "titel": "Ein Schriftgelehrter, gelehrt zum Himmelreich (Beitrag zum 100. Geburtstag)",
+          "datum": "1952-08-16",
+          "typ": "Artikel"
+        }
+      ],
+      "_quelldatei": "page_119.json",
+      "_pageNumber": "95"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "791: Gustav Gruner, Bericht über Begräbnis von Schlatter, an Paul\nAlthaus, Ende Mai 1938.\nGustav Gruner, Dank an Paul Althaus 23.9.1952 für dessen\n\"Schlatter-Gruss in den bayerischen Nachrichten ...\", und\nSchlatter-Erinnerungen.",
+      "nummer": "791",
+      "titel": "Schriftstücke von Gustav Gruner zu Schlatter",
+      "beschreibung": "Enthält Bericht über das Begräbnis von Schlatter an Paul Althaus (Ende Mai 1938) sowie Dank an Paul Althaus (23.9.1952) für seinen 'Schlatter-Gruss' in den bayerischen Nachrichten und weitere Schlatter-Erinnerungen.",
+      "typ": "Sammlung",
+      "beteiligte": [
+        {
+          "name": "Gustav Gruner",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Paul Althaus",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Bericht über Begräbnis von Schlatter, an Paul Althaus, Ende Mai 1938",
+          "titel": "Bericht über das Begräbnis von Schlatter (an Paul Althaus)",
+          "jahr": 1938,
+          "anmerkung": "Datumsangabe: 'Ende Mai 1938'"
+        },
+        {
+          "rawText": "Dank an Paul Althaus 23.9.1952",
+          "titel": "Dank an Paul Althaus",
+          "datum": "1952-09-23"
+        }
+      ],
+      "_quelldatei": "page_119.json",
+      "_pageNumber": "95"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "792: Friedrich Büchsel, \"Zu D. A. Schlatters 70. Geburtstag.\"\nAus: Mecklenburgisches Kirchen- und Zeitblatt 20.8.1922",
+      "nummer": "792",
+      "titel": "Zu D. A. Schlatters 70. Geburtstag",
+      "beschreibung": "Beitrag von Friedrich Büchsel. Aus: Mecklenburgisches Kirchen- und Zeitblatt, 20.8.1922.",
+      "typ": "Artikel",
+      "beteiligte": [
+        {
+          "name": "Friedrich Büchsel",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "datum": "1922-08-20",
+      "in": "Mecklenburgisches Kirchen- und Zeitblatt",
+      "_quelldatei": "page_119.json",
+      "_pageNumber": "95"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "793: Johannes Rupprecht, \"Was ich Adolf Schlatter verdanke.\"\nAus: Korrespondenzblatt für die evangelisch-lutherischen\nGeistlichen in Bayern. 13.9. und 20.9.1938",
+      "nummer": "793",
+      "titel": "Was ich Adolf Schlatter verdanke",
+      "beschreibung": "Beitrag von Johannes Rupprecht. Aus: Korrespondenzblatt für die evangelisch-lutherischen Geistlichen in Bayern. Veröffentlichungen am 13.9.1938 und 20.9.1938.",
+      "typ": "Artikel",
+      "beteiligte": [
+        {
+          "name": "Johannes Rupprecht",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Aus: Korrespondenzblatt ... 13.9.1938",
+          "datum": "1938-09-13"
+        },
+        {
+          "rawText": "Aus: Korrespondenzblatt ... 20.9.1938",
+          "datum": "1938-09-20"
+        }
+      ],
+      "_quelldatei": "page_119.json",
+      "_pageNumber": "95"
+    }
+  ],
+  "notes": "Seite enthält Inventar-Einträge Nr. 783 a bis 793; Header bestätigt Teil II: B Druckschriften und Manuskripte. Keine neue Überschrift erkennbar."
+}

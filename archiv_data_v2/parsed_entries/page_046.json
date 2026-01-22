@@ -1,0 +1,216 @@
+{
+  "sourceFile": "page_046.json",
+  "pageNumber": "22",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+    "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+    "unterkategorie": "a) Nr. 109: Neue Christoterpe; b) Nr. 110: Beth-El-Jahresbände von 'Blicke aus Gottes Haus in Gottes Welt'"
+  },
+  "entriesCount": 6,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "a) Nr. 109: Neue Christoterpe; b) Nr. 110: Beth-El-Jahresbände von 'Blicke aus Gottes Haus in Gottes Welt'",
+      "rawText": "Nr. 110: Das Gott wohlgefällige Opfer. Seite 285 - 303\nAußerdem:\nAnna Schlatter-Bernet. Zum 100. Todestag, 25. Februar 1826. Von Christine Schlatter in St. Gallen. Seite 50 - 53\n\n1927\nHiob. Seite 32 - 39\n\nDer Anteil der Christenheit an der Gestaltung unseres Volkstums. Seite 7 - 13\n\nUnsere Kirchliche Arbeit gemessen am Galaterbrief. Seite 115 - 121\n\nNatur, Sünde und Gnade:\n1. Natur und Sünde. Seite 271 - 279\n2. Natur und Gnade. Seite 293 - 298",
+      "nummer": "110",
+      "titel": "Das Gott wohlgefällige Opfer",
+      "beschreibung": "Hauptbeitrag: Seiten 285-303. Außerdem mehrere weitere Beiträge und Aufsätze (siehe Untereinträge).",
+      "typ": "Artikel",
+      "seiten": "285-303",
+      "untereintraege": [
+        {
+          "rawText": "Anna Schlatter-Bernet. Zum 100. Todestag, 25. Februar 1826. Von Christine Schlatter in St. Gallen. Seite 50 - 53",
+          "titel": "Anna Schlatter-Bernet. Zum 100. Todestag, 25. Februar 1826",
+          "beschreibung": "Von Christine Schlatter in St. Gallen",
+          "seiten": "50-53",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "1927\nHiob. Seite 32 - 39",
+          "jahr": 1927,
+          "titel": "Hiob",
+          "seiten": "32-39",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Der Anteil der Christenheit an der Gestaltung unseres Volkstums. Seite 7 - 13",
+          "jahr": 1927,
+          "titel": "Der Anteil der Christenheit an der Gestaltung unseres Volkstums",
+          "seiten": "7-13",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Unsere Kirchliche Arbeit gemessen am Galaterbrief. Seite 115 - 121",
+          "jahr": 1927,
+          "titel": "Unsere Kirchliche Arbeit gemessen am Galaterbrief",
+          "seiten": "115-121",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Natur, Sünde und Gnade:\n1. Natur und Sünde. Seite 271 - 279\n2. Natur und Gnade. Seite 293 - 298",
+          "jahr": 1927,
+          "titel": "Natur, Sünde und Gnade",
+          "beschreibung": "Enthält zwei Teile: 1. Natur und Sünde (Seite 271-279); 2. Natur und Gnade (Seite 293-298)",
+          "untereintraege": [
+            {
+              "rawText": "1. Natur und Sünde. Seite 271 - 279",
+              "titel": "Natur und Sünde",
+              "seiten": "271-279",
+              "typ": "Artikel"
+            },
+            {
+              "rawText": "2. Natur und Gnade. Seite 293 - 298",
+              "titel": "Natur und Gnade",
+              "seiten": "293-298",
+              "typ": "Artikel"
+            }
+          ],
+          "typ": "Artikel"
+        }
+      ],
+      "_quelldatei": "page_046.json",
+      "_pageNumber": "22"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "a) Nr. 109: Neue Christoterpe; b) Nr. 110: Beth-El-Jahresbände von 'Blicke aus Gottes Haus in Gottes Welt'",
+      "rawText": "1928\nDie christliche Verwaltung der Sakramente. Seite 31 - 38\n\nAus meiner Sprechstunde. Seite 89 - 91; 116 - 119; 316f",
+      "nummer": "110",
+      "untereintraege": [
+        {
+          "rawText": "Die christliche Verwaltung der Sakramente. Seite 31 - 38",
+          "jahr": 1928,
+          "titel": "Die christliche Verwaltung der Sakramente",
+          "seiten": "31-38",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Aus meiner Sprechstunde. Seite 89 - 91; 116 - 119; 316f",
+          "jahr": 1928,
+          "titel": "Aus meiner Sprechstunde",
+          "seiten": "89-91; 116-119; 316f",
+          "typ": "Kollegheft"
+        }
+      ],
+      "_quelldatei": "page_046.json",
+      "_pageNumber": "22"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "a) Nr. 109: Neue Christoterpe; b) Nr. 110: Beth-El-Jahresbände von 'Blicke aus Gottes Haus in Gottes Welt'",
+      "rawText": "1929\nZur Auslegung der Schrift (Texte aus dem 1. Johannesbrief).\nSeite 1 - 4; 29 - 31; 57 - 61; 85 - 88; 113 - 116\n\nWas geschieht in der gegenwärtigen Kirchengeschichte?\nSeite 153 - 161\n\nAus meiner Sprechstunde. Seite 319f\n\nDie weltliche und die christliche Schule.\nSeite 98 - 100; 125 - 133",
+      "nummer": "110",
+      "untereintraege": [
+        {
+          "rawText": "Zur Auslegung der Schrift (Texte aus dem 1. Johannesbrief). Seite 1 - 4; 29 - 31; 57 - 61; 85 - 88; 113 - 116",
+          "jahr": 1929,
+          "titel": "Zur Auslegung der Schrift (Texte aus dem 1. Johannesbrief)",
+          "seiten": "1-4; 29-31; 57-61; 85-88; 113-116",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Was geschieht in der gegenwärtigen Kirchengeschichte? Seite 153 - 161",
+          "jahr": 1929,
+          "titel": "Was geschieht in der gegenwärtigen Kirchengeschichte?",
+          "seiten": "153-161",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Aus meiner Sprechstunde. Seite 319f",
+          "jahr": 1929,
+          "titel": "Aus meiner Sprechstunde",
+          "seiten": "319f",
+          "typ": "Kollegheft"
+        },
+        {
+          "rawText": "Die weltliche und die christliche Schule. Seite 98 - 100; 125 - 133",
+          "jahr": 1929,
+          "titel": "Die weltliche und die christliche Schule",
+          "seiten": "98-100; 125-133",
+          "typ": "Artikel"
+        }
+      ],
+      "_quelldatei": "page_046.json",
+      "_pageNumber": "22"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "a) Nr. 109: Neue Christoterpe; b) Nr. 110: Beth-El-Jahresbände von 'Blicke aus Gottes Haus in Gottes Welt'",
+      "rawText": "1930\nDas Gesetz und das Evangelium in der Schule.\nSeite 64 - 70; 90 - 96; 116 - 122",
+      "nummer": "110",
+      "untereintraege": [
+        {
+          "rawText": "Das Gesetz und das Evangelium in der Schule. Seite 64 - 70; 90 - 96; 116 - 122",
+          "jahr": 1930,
+          "titel": "Das Gesetz und das Evangelium in der Schule",
+          "seiten": "64-70; 90-96; 116-122",
+          "typ": "Artikel"
+        }
+      ],
+      "_quelldatei": "page_046.json",
+      "_pageNumber": "22"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "a) Nr. 109: Neue Christoterpe; b) Nr. 110: Beth-El-Jahresbände von 'Blicke aus Gottes Haus in Gottes Welt'",
+      "rawText": "1931\nSehet den Vater! Seite 34 - 42; 89 - 96\n\nEin dankbares Wort zum 100. Geburtstag von Pastor\nFriedrich von Bodelschwingh. Seite 62 - 68",
+      "nummer": "110",
+      "untereintraege": [
+        {
+          "rawText": "Sehet den Vater! Seite 34 - 42; 89 - 96",
+          "jahr": 1931,
+          "titel": "Sehet den Vater!",
+          "seiten": "34-42; 89-96",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Ein dankbares Wort zum 100. Geburtstag von Pastor Friedrich von Bodelschwingh. Seite 62 - 68",
+          "jahr": 1931,
+          "titel": "Ein dankbares Wort zum 100. Geburtstag von Pastor Friedrich von Bodelschwingh",
+          "seiten": "62-68",
+          "typ": "Artikel"
+        }
+      ],
+      "_quelldatei": "page_046.json",
+      "_pageNumber": "22"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "6. Erbauliche und sonstige Werke mit Einzelbeiträgen von Schlatter. Einzelne Beiträge über Schlatter",
+      "unterkategorie": "a) Nr. 109: Neue Christoterpe; b) Nr. 110: Beth-El-Jahresbände von 'Blicke aus Gottes Haus in Gottes Welt'",
+      "rawText": "1932\nZur Auslegung der Schrift (Psalmstellen). Seite 1 - 3;\n29f; 57f; 85 - 87; 113 - 115; 141 - 143; 169 - 171;\n197 - 200; 229 - 231; 261 - 264; 289 - 291; 321 - 323\n\nAus meiner Sprechstunde. Seite 116 - 119; 143 - 147;\n200 - 202",
+      "nummer": "110",
+      "untereintraege": [
+        {
+          "rawText": "Zur Auslegung der Schrift (Psalmstellen). Seite 1 - 3; 29f; 57f; 85 - 87; 113 - 115; 141 - 143; 169 - 171; 197 - 200; 229 - 231; 261 - 264; 289 - 291; 321 - 323",
+          "jahr": 1932,
+          "titel": "Zur Auslegung der Schrift (Psalmstellen)",
+          "seiten": "1-3; 29f; 57f; 85-87; 113-115; 141-143; 169-171; 197-200; 229-231; 261-264; 289-291; 321-323",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Aus meiner Sprechstunde. Seite 116 - 119; 143 - 147; 200 - 202",
+          "jahr": 1932,
+          "titel": "Aus meiner Sprechstunde",
+          "seiten": "116-119; 143-147; 200-202",
+          "typ": "Kollegheft"
+        }
+      ],
+      "_quelldatei": "page_046.json",
+      "_pageNumber": "22"
+    }
+  ],
+  "notes": "OCR-Seite 22. Enthält Haupteintrag Nr. 110 mit zahlreichen Untereinträgen aus den Jahren 1927-1932. Einige Seitenangaben mit 'f' belassen wie im OCR."
+}

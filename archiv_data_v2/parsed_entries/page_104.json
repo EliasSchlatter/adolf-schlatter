@@ -1,0 +1,369 @@
+{
+  "sourceFile": "page_104.json",
+  "pageNumber": "80",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "4 Systematische Theologie und Philosophie",
+    "unterkategorie": "C Verschiedenes"
+  },
+  "entriesCount": 13,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "Nr. 601: Pfarrer Leiwe, Beschreibung des \"Adolf-Schlatter-Heims\" in Recke/Westfalen.\n        Dabei: Schlatter-Erinnerungen",
+      "nummer": "601",
+      "titel": "Beschreibung des \"Adolf-Schlatter-Heims\" in Recke/Westfalen",
+      "beschreibung": "Pfarrer Leiwe. Dabei: Schlatter-Erinnerungen",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "Pfarrer Leiwe",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Dabei: Schlatter-Erinnerungen",
+          "titel": "Schlatter-Erinnerungen",
+          "beschreibung": "Beiliegend: Erinnerungen an Schlatter"
+        }
+      ],
+      "_quelldatei": "page_104.json",
+      "_pageNumber": "80"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "602: Paul Winckler, Schlatter-Erinnerungen.",
+      "nummer": "602",
+      "titel": "Schlatter-Erinnerungen",
+      "beschreibung": "Paul Winckler",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "Paul Winckler",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_104.json",
+      "_pageNumber": "80"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "603: Lutherische Kirchengemeinde St. Gallen, Notiz über Schlatter-\n     Stube im Gebäude Katharinenkirche.",
+      "nummer": "603",
+      "titel": "Notiz über Schlatter-Stube im Gebäude Katharinenkirche",
+      "beschreibung": "Lutherische Kirchengemeinde St. Gallen",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "Lutherische Kirchengemeinde St. Gallen",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Organisation"
+        }
+      ],
+      "_quelldatei": "page_104.json",
+      "_pageNumber": "80"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "604: Adolf Schlatter, Christ und Politik.\n     Christlicher Volksdienst-Verlag, Korntal 1923",
+      "nummer": "604",
+      "titel": "Christ und Politik",
+      "beschreibung": "Veröffentlichung von Adolf Schlatter",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Christlicher Volksdienst-Verlag",
+          "rolle": "Verlag",
+          "entity": "Organisation"
+        }
+      ],
+      "verlag": "Christlicher Volksdienst-Verlag",
+      "ort": "Korntal",
+      "jahr": 1923,
+      "_quelldatei": "page_104.json",
+      "_pageNumber": "80"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "605: Hermann Schlingensiepen, Schlatter-Erinnerungen.\n     Dabei: Schlatters Verhältnis zu Karl Heim",
+      "nummer": "605",
+      "titel": "Schlatter-Erinnerungen",
+      "beschreibung": "Hermann Schlingensiepen. Beiliegend: Schlatters Verhältnis zu Karl Heim",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "Hermann Schlingensiepen",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Karl Heim",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Dabei: Schlatters Verhältnis zu Karl Heim",
+          "beschreibung": "Schlatters Verhältnis zu Karl Heim"
+        }
+      ],
+      "_quelldatei": "page_104.json",
+      "_pageNumber": "80"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "606: Hermann Dietzfelbinger, Zum Selbstverständnis des Pfarrers\n     heute. Mit Gedicht Schlatters Seite 22.\n     Verlagshaus Gerd Mohn, Gütersloh 1965.\n     Dazu Briefe 31.1. und 5.4.1979 mit Hinweisen und Schlatter-\n     Erinnerungen.",
+      "nummer": "606",
+      "titel": "Zum Selbstverständnis des Pfarrers heute",
+      "beschreibung": "Hermann Dietzfelbinger. Mit Gedicht Schlatters (Seite 22). Verlagshaus Gerd Mohn, Gütersloh 1965.",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "Hermann Dietzfelbinger",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "Gedicht auf Seite 22"
+        },
+        {
+          "name": "Verlagshaus Gerd Mohn",
+          "rolle": "Verlag",
+          "entity": "Organisation"
+        }
+      ],
+      "verlag": "Verlagshaus Gerd Mohn",
+      "ort": "Gütersloh",
+      "jahr": 1965,
+      "untereintraege": [
+        {
+          "rawText": "Mit Gedicht Schlatters Seite 22",
+          "beschreibung": "Enthält ein Gedicht von Adolf Schlatter (Seite 22)"
+        },
+        {
+          "rawText": "Briefe 31.1.1979",
+          "beschreibung": "Brief vom 31.1.1979 (Jahr aus Kontext)",
+          "jahr": 1979
+        },
+        {
+          "rawText": "Brief 5.4.1979",
+          "beschreibung": "Brief vom 5.4.1979",
+          "datum": "1979-04-05"
+        }
+      ],
+      "_quelldatei": "page_104.json",
+      "_pageNumber": "80"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "607: Pfarrer Dr. Feller, Erinnerung an Schlatters Verständnis für\n     die Missionsarbeit in Ägypten-Nubien.",
+      "nummer": "607",
+      "titel": "Erinnerung an Schlatters Verständnis für die Missionsarbeit in Ägypten-Nubien",
+      "beschreibung": "Pfarrer Dr. Feller",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "Pfarrer Dr. Feller",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_104.json",
+      "_pageNumber": "80"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "608: Rainer Riesner, Adolf Schlatter, ein Lehrer der Kirche.\n     Aus: Evang. Gemeindeblatt für Württemberg 21/1978",
+      "nummer": "608",
+      "titel": "Adolf Schlatter, ein Lehrer der Kirche",
+      "beschreibung": "Rainer Riesner. Aus: Evang. Gemeindeblatt für Württemberg, Nr. 21/1978",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "Rainer Riesner",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "zeitschrift": "Evang. Gemeindeblatt für Württemberg",
+      "band": "21",
+      "jahr": 1978,
+      "_quelldatei": "page_104.json",
+      "_pageNumber": "80"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "609: Pfarrer Manfred Jehle, Schlatter-Erinnerungen.\n     (Tübinger Bibelkreis; Vorgänge bei der Berufung Schlatters\n     nach Tübingen)",
+      "nummer": "609",
+      "titel": "Schlatter-Erinnerungen",
+      "beschreibung": "Pfarrer Manfred Jehle. (Tübinger Bibelkreis; Vorgänge bei der Berufung Schlatters nach Tübingen)",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "Pfarrer Manfred Jehle",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Tübinger Bibelkreis",
+          "rolle": "Erwähnt",
+          "entity": "Organisation"
+        }
+      ],
+      "_quelldatei": "page_104.json",
+      "_pageNumber": "80"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "610: Peter Stuhlmacher, Adolf Schlatter als Bibelausleger.\n     Sonderdruck aus Zeitschrift für Theologie und Kirche, Beiheft\n     4/1978. Dazu englische Kurzfassung in New Testament Studies\n     1977/1978.",
+      "nummer": "610",
+      "titel": "Adolf Schlatter als Bibelausleger",
+      "beschreibung": "Peter Stuhlmacher. Sonderdruck aus Zeitschrift für Theologie und Kirche, Beiheft 4/1978.",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "Peter Stuhlmacher",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "zeitschrift": "Zeitschrift für Theologie und Kirche",
+      "heft": "Beiheft 4",
+      "jahr": 1978,
+      "untereintraege": [
+        {
+          "rawText": "Dazu englische Kurzfassung in New Testament Studies 1977/1978",
+          "beschreibung": "Englische Kurzfassung erschienen in New Testament Studies (1977/1978)",
+          "zeitraum": "1977/1978"
+        }
+      ],
+      "_quelldatei": "page_104.json",
+      "_pageNumber": "80"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "611: Maria Mayer geborene Eppinger, Nachschriften von Predigten\n     und Bibelstunden Schlatters 1927 - 1929.",
+      "nummer": "611",
+      "titel": "Nachschriften von Predigten und Bibelstunden Schlatters",
+      "beschreibung": "Sammlung von Nachschriften 1927-1929, zusammengestellt von Maria Mayer (geb. Eppinger)",
+      "typ": "Manuskript",
+      "beteiligte": [
+        {
+          "name": "Maria Mayer",
+          "rolle": "Zusammensteller",
+          "entity": "Person",
+          "zusatz": "geb. Eppinger"
+        }
+      ],
+      "zeitraum": "1927-1929",
+      "_quelldatei": "page_104.json",
+      "_pageNumber": "80"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "612: Wilhelm Pressel, Schlatter-Erinnerungen.\n     Dazu: Bericht an Evang. Oberkirchenrat Stuttgart, April 1978,\n     über das erste Evangelische Studentenpfarramt Tübingen\n     1929 - 1933.",
+      "nummer": "612",
+      "titel": "Schlatter-Erinnerungen",
+      "beschreibung": "Wilhelm Pressel. Dazu Bericht an Evang. Oberkirchenrat Stuttgart (April 1978) über das erste Evangelische Studentenpfarramt Tübingen 1929-1933.",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "Wilhelm Pressel",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Evang. Oberkirchenrat Stuttgart",
+          "rolle": "Erwähnt",
+          "entity": "Organisation"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Bericht an Evang. Oberkirchenrat Stuttgart, April 1978",
+          "beschreibung": "Bericht (April 1978) an den Evangelischen Oberkirchenrat Stuttgart",
+          "jahr": 1978
+        },
+        {
+          "rawText": "über das erste Evangelische Studentenpfarramt Tübingen 1929 - 1933",
+          "beschreibung": "Thema: Erstes Evangelisches Studentenpfarramt Tübingen (1929-1933)",
+          "zeitraum": "1929-1933"
+        }
+      ],
+      "_quelldatei": "page_104.json",
+      "_pageNumber": "80"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "613: Ein Offener Abend bei Professor Schlatter am 18.11.1923.\n     Aus: Reformierte Kirchenzeitung 12.6.1938",
+      "nummer": "613",
+      "titel": "Ein Offener Abend bei Professor Schlatter",
+      "beschreibung": "Veranstaltung am 18.11.1923; publiziert in Reformierte Kirchenzeitung 12.6.1938",
+      "typ": "Druckschrift",
+      "datum": "1923-11-18",
+      "untereintraege": [
+        {
+          "rawText": "Aus: Reformierte Kirchenzeitung 12.6.1938",
+          "zeitschrift": "Reformierte Kirchenzeitung",
+          "beschreibung": "Erschienen in Reformierte Kirchenzeitung",
+          "datum": "1938-06-12"
+        }
+      ],
+      "_quelldatei": "page_104.json",
+      "_pageNumber": "80"
+    }
+  ],
+  "notes": "Seite zeigt Überschrift 'B DRUCKSCHRIFTEN UND MANUSKRIPTE' — Sektion wechselt zu B. Einträge Nr. 601–613 vollständig extrahiert."
+}

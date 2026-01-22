@@ -1,0 +1,1809 @@
+{
+  "mergeLog": [
+    {
+      "nummer": "38/2",
+      "pages": [
+        "page_037.json",
+        "page_038.json"
+      ],
+      "action": "merged"
+    },
+    {
+      "nummer": "110",
+      "pages": [
+        "page_045.json",
+        "page_046.json",
+        "page_046.json",
+        "page_046.json",
+        "page_046.json",
+        "page_046.json",
+        "page_046.json",
+        "page_047.json"
+      ],
+      "action": "merged"
+    },
+    {
+      "nummer": "130",
+      "pages": [
+        "page_051.json",
+        "page_052.json"
+      ],
+      "action": "merged"
+    },
+    {
+      "nummer": "132",
+      "pages": [
+        "page_053.json",
+        "page_054.json"
+      ],
+      "action": "merged"
+    },
+    {
+      "nummer": "133",
+      "pages": [
+        "page_054.json",
+        "page_055.json"
+      ],
+      "action": "merged"
+    },
+    {
+      "nummer": "141",
+      "pages": [
+        "page_056.json",
+        "page_057.json"
+      ],
+      "action": "merged"
+    },
+    {
+      "nummer": "168/2",
+      "pages": [
+        "page_065.json",
+        "page_066.json"
+      ],
+      "action": "merged"
+    },
+    {
+      "nummer": "807",
+      "pages": [
+        "page_121.json",
+        "page_122.json"
+      ],
+      "action": "merged"
+    },
+    {
+      "nummer": "811",
+      "pages": [
+        "page_122.json",
+        "page_123.json"
+      ],
+      "action": "merged"
+    },
+    {
+      "nummer": "846",
+      "pages": [
+        "page_127.json",
+        "page_128.json"
+      ],
+      "action": "merged"
+    },
+    {
+      "nummer": "1555",
+      "pages": [
+        "page_161.json",
+        "page_161.json"
+      ],
+      "action": "merged"
+    },
+    {
+      "nummer": "1562",
+      "pages": [
+        "page_162.json",
+        "page_163.json"
+      ],
+      "action": "merged"
+    },
+    {
+      "nummer": "N/A",
+      "pages": [
+        "page_200.json",
+        "page_200.json",
+        "page_200.json",
+        "page_200.json",
+        "page_200.json"
+      ],
+      "action": "merged"
+    }
+  ],
+  "warnings": [
+    {
+      "nummer": "151",
+      "pages": [
+        "page_062.json",
+        "page_177.json"
+      ],
+      "message": "Inventarnummer 151 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "152",
+      "pages": [
+        "page_062.json",
+        "page_177.json"
+      ],
+      "message": "Inventarnummer 152 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "156/1",
+      "pages": [
+        "page_062.json",
+        "page_177.json"
+      ],
+      "message": "Inventarnummer 156/1 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "156/2",
+      "pages": [
+        "page_062.json",
+        "page_177.json"
+      ],
+      "message": "Inventarnummer 156/2 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "157",
+      "pages": [
+        "page_062.json",
+        "page_178.json"
+      ],
+      "message": "Inventarnummer 157 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "159",
+      "pages": [
+        "page_063.json",
+        "page_177.json"
+      ],
+      "message": "Inventarnummer 159 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "160",
+      "pages": [
+        "page_063.json",
+        "page_179.json"
+      ],
+      "message": "Inventarnummer 160 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "161",
+      "pages": [
+        "page_063.json",
+        "page_178.json",
+        "page_179.json"
+      ],
+      "message": "Inventarnummer 161 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "162",
+      "pages": [
+        "page_063.json",
+        "page_064.json",
+        "page_178.json"
+      ],
+      "message": "Inventarnummer 162 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "165",
+      "pages": [
+        "page_064.json",
+        "page_065.json",
+        "page_182.json"
+      ],
+      "message": "Inventarnummer 165 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "166",
+      "pages": [
+        "page_065.json",
+        "page_177.json"
+      ],
+      "message": "Inventarnummer 166 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "167/1",
+      "pages": [
+        "page_065.json",
+        "page_178.json"
+      ],
+      "message": "Inventarnummer 167/1 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "167/2",
+      "pages": [
+        "page_065.json",
+        "page_182.json",
+        "page_185.json",
+        "page_193.json"
+      ],
+      "message": "Inventarnummer 167/2 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "168/5",
+      "pages": [
+        "page_066.json",
+        "page_195.json",
+        "page_198.json",
+        "page_199.json",
+        "page_199.json",
+        "page_200.json"
+      ],
+      "message": "Inventarnummer 168/5 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "169/1",
+      "pages": [
+        "page_066.json",
+        "page_175.json"
+      ],
+      "message": "Inventarnummer 169/1 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "169/2",
+      "pages": [
+        "page_066.json",
+        "page_067.json",
+        "page_175.json",
+        "page_189.json",
+        "page_191.json"
+      ],
+      "message": "Inventarnummer 169/2 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "169/3",
+      "pages": [
+        "page_067.json",
+        "page_175.json",
+        "page_190.json"
+      ],
+      "message": "Inventarnummer 169/3 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "169/4",
+      "pages": [
+        "page_067.json",
+        "page_175.json"
+      ],
+      "message": "Inventarnummer 169/4 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "169/5",
+      "pages": [
+        "page_067.json",
+        "page_175.json"
+      ],
+      "message": "Inventarnummer 169/5 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "169/6",
+      "pages": [
+        "page_067.json",
+        "page_174.json"
+      ],
+      "message": "Inventarnummer 169/6 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "169/7",
+      "pages": [
+        "page_067.json",
+        "page_175.json"
+      ],
+      "message": "Inventarnummer 169/7 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "169/11",
+      "pages": [
+        "page_067.json",
+        "page_174.json"
+      ],
+      "message": "Inventarnummer 169/11 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "169/12",
+      "pages": [
+        "page_067.json",
+        "page_175.json"
+      ],
+      "message": "Inventarnummer 169/12 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "169/13",
+      "pages": [
+        "page_067.json",
+        "page_175.json"
+      ],
+      "message": "Inventarnummer 169/13 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "169/14",
+      "pages": [
+        "page_067.json",
+        "page_175.json"
+      ],
+      "message": "Inventarnummer 169/14 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "176",
+      "pages": [
+        "page_068.json",
+        "page_172.json"
+      ],
+      "message": "Inventarnummer 176 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "177",
+      "pages": [
+        "page_068.json",
+        "page_169.json",
+        "page_169.json",
+        "page_171.json",
+        "page_172.json"
+      ],
+      "message": "Inventarnummer 177 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "177/1",
+      "pages": [
+        "page_068.json",
+        "page_169.json"
+      ],
+      "message": "Inventarnummer 177/1 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "177/2",
+      "pages": [
+        "page_068.json",
+        "page_169.json"
+      ],
+      "message": "Inventarnummer 177/2 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "190",
+      "pages": [
+        "page_070.json",
+        "page_169.json"
+      ],
+      "message": "Inventarnummer 190 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "191",
+      "pages": [
+        "page_070.json",
+        "page_172.json"
+      ],
+      "message": "Inventarnummer 191 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "192",
+      "pages": [
+        "page_070.json",
+        "page_172.json"
+      ],
+      "message": "Inventarnummer 192 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "193",
+      "pages": [
+        "page_070.json",
+        "page_169.json",
+        "page_169.json",
+        "page_171.json",
+        "page_172.json",
+        "page_174.json",
+        "page_175.json"
+      ],
+      "message": "Inventarnummer 193 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "193/7",
+      "pages": [
+        "page_070.json",
+        "page_169.json"
+      ],
+      "message": "Inventarnummer 193/7 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "193/8",
+      "pages": [
+        "page_070.json",
+        "page_169.json"
+      ],
+      "message": "Inventarnummer 193/8 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "193/9",
+      "pages": [
+        "page_070.json",
+        "page_169.json"
+      ],
+      "message": "Inventarnummer 193/9 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "193/10",
+      "pages": [
+        "page_070.json",
+        "page_169.json"
+      ],
+      "message": "Inventarnummer 193/10 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "193/11",
+      "pages": [
+        "page_070.json",
+        "page_169.json"
+      ],
+      "message": "Inventarnummer 193/11 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "193/12",
+      "pages": [
+        "page_070.json",
+        "page_169.json"
+      ],
+      "message": "Inventarnummer 193/12 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "193/13",
+      "pages": [
+        "page_070.json",
+        "page_169.json"
+      ],
+      "message": "Inventarnummer 193/13 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "193/14",
+      "pages": [
+        "page_070.json",
+        "page_169.json"
+      ],
+      "message": "Inventarnummer 193/14 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "193/17",
+      "pages": [
+        "page_070.json",
+        "page_174.json"
+      ],
+      "message": "Inventarnummer 193/17 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "193/18",
+      "pages": [
+        "page_070.json",
+        "page_175.json"
+      ],
+      "message": "Inventarnummer 193/18 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "195",
+      "pages": [
+        "page_071.json",
+        "page_170.json"
+      ],
+      "message": "Inventarnummer 195 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "196",
+      "pages": [
+        "page_071.json",
+        "page_170.json"
+      ],
+      "message": "Inventarnummer 196 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "202",
+      "pages": [
+        "page_071.json",
+        "page_172.json"
+      ],
+      "message": "Inventarnummer 202 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "203",
+      "pages": [
+        "page_071.json",
+        "page_171.json"
+      ],
+      "message": "Inventarnummer 203 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "",
+      "pages": [
+        "page_072.json",
+        "page_072.json",
+        "page_072.json",
+        "page_184.json",
+        "page_185.json",
+        "page_186.json",
+        "page_186.json",
+        "page_186.json",
+        "page_186.json",
+        "page_186.json",
+        "page_186.json",
+        "page_186.json",
+        "page_186.json",
+        "page_186.json",
+        "page_186.json",
+        "page_186.json",
+        "page_186.json",
+        "page_186.json",
+        "page_186.json"
+      ],
+      "message": "Inventarnummer  erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "214",
+      "pages": [
+        "page_072.json",
+        "page_171.json"
+      ],
+      "message": "Inventarnummer 214 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "215",
+      "pages": [
+        "page_072.json",
+        "page_169.json"
+      ],
+      "message": "Inventarnummer 215 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "216",
+      "pages": [
+        "page_072.json",
+        "page_171.json"
+      ],
+      "message": "Inventarnummer 216 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "220",
+      "pages": [
+        "page_072.json",
+        "page_172.json"
+      ],
+      "message": "Inventarnummer 220 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "221",
+      "pages": [
+        "page_072.json",
+        "page_175.json"
+      ],
+      "message": "Inventarnummer 221 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "223",
+      "pages": [
+        "page_073.json",
+        "page_173.json"
+      ],
+      "message": "Inventarnummer 223 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "224",
+      "pages": [
+        "page_073.json",
+        "page_174.json"
+      ],
+      "message": "Inventarnummer 224 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "226",
+      "pages": [
+        "page_073.json",
+        "page_173.json"
+      ],
+      "message": "Inventarnummer 226 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "227",
+      "pages": [
+        "page_073.json",
+        "page_173.json"
+      ],
+      "message": "Inventarnummer 227 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "228",
+      "pages": [
+        "page_073.json",
+        "page_173.json"
+      ],
+      "message": "Inventarnummer 228 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "229",
+      "pages": [
+        "page_073.json",
+        "page_170.json"
+      ],
+      "message": "Inventarnummer 229 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "230",
+      "pages": [
+        "page_073.json",
+        "page_174.json"
+      ],
+      "message": "Inventarnummer 230 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "232",
+      "pages": [
+        "page_073.json",
+        "page_173.json"
+      ],
+      "message": "Inventarnummer 232 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "234",
+      "pages": [
+        "page_073.json",
+        "page_173.json"
+      ],
+      "message": "Inventarnummer 234 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "235",
+      "pages": [
+        "page_073.json",
+        "page_171.json"
+      ],
+      "message": "Inventarnummer 235 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "236",
+      "pages": [
+        "page_073.json",
+        "page_174.json"
+      ],
+      "message": "Inventarnummer 236 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "237",
+      "pages": [
+        "page_073.json",
+        "page_174.json"
+      ],
+      "message": "Inventarnummer 237 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "238",
+      "pages": [
+        "page_073.json",
+        "page_174.json"
+      ],
+      "message": "Inventarnummer 238 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "239",
+      "pages": [
+        "page_073.json",
+        "page_173.json"
+      ],
+      "message": "Inventarnummer 239 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "240",
+      "pages": [
+        "page_073.json",
+        "page_173.json"
+      ],
+      "message": "Inventarnummer 240 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "241",
+      "pages": [
+        "page_073.json",
+        "page_172.json"
+      ],
+      "message": "Inventarnummer 241 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "244",
+      "pages": [
+        "page_074.json",
+        "page_172.json"
+      ],
+      "message": "Inventarnummer 244 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "256",
+      "pages": [
+        "page_074.json",
+        "page_171.json"
+      ],
+      "message": "Inventarnummer 256 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "257",
+      "pages": [
+        "page_074.json",
+        "page_171.json"
+      ],
+      "message": "Inventarnummer 257 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "260",
+      "pages": [
+        "page_074.json",
+        "page_174.json"
+      ],
+      "message": "Inventarnummer 260 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "261",
+      "pages": [
+        "page_074.json",
+        "page_174.json"
+      ],
+      "message": "Inventarnummer 261 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "263",
+      "pages": [
+        "page_074.json",
+        "page_171.json"
+      ],
+      "message": "Inventarnummer 263 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "264",
+      "pages": [
+        "page_074.json",
+        "page_171.json"
+      ],
+      "message": "Inventarnummer 264 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "266",
+      "pages": [
+        "page_074.json",
+        "page_172.json"
+      ],
+      "message": "Inventarnummer 266 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "268",
+      "pages": [
+        "page_074.json",
+        "page_174.json"
+      ],
+      "message": "Inventarnummer 268 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "269",
+      "pages": [
+        "page_075.json",
+        "page_172.json"
+      ],
+      "message": "Inventarnummer 269 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "270",
+      "pages": [
+        "page_075.json",
+        "page_172.json"
+      ],
+      "message": "Inventarnummer 270 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "271",
+      "pages": [
+        "page_075.json",
+        "page_171.json"
+      ],
+      "message": "Inventarnummer 271 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "319",
+      "pages": [
+        "page_079.json",
+        "page_170.json"
+      ],
+      "message": "Inventarnummer 319 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "320",
+      "pages": [
+        "page_079.json",
+        "page_170.json"
+      ],
+      "message": "Inventarnummer 320 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "323",
+      "pages": [
+        "page_079.json",
+        "page_170.json"
+      ],
+      "message": "Inventarnummer 323 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "328",
+      "pages": [
+        "page_080.json",
+        "page_170.json"
+      ],
+      "message": "Inventarnummer 328 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "331",
+      "pages": [
+        "page_080.json",
+        "page_170.json"
+      ],
+      "message": "Inventarnummer 331 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "332",
+      "pages": [
+        "page_080.json",
+        "page_170.json"
+      ],
+      "message": "Inventarnummer 332 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "333",
+      "pages": [
+        "page_080.json",
+        "page_170.json"
+      ],
+      "message": "Inventarnummer 333 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "334",
+      "pages": [
+        "page_080.json",
+        "page_170.json"
+      ],
+      "message": "Inventarnummer 334 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "335",
+      "pages": [
+        "page_080.json",
+        "page_170.json"
+      ],
+      "message": "Inventarnummer 335 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "338",
+      "pages": [
+        "page_081.json",
+        "page_170.json"
+      ],
+      "message": "Inventarnummer 338 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "339",
+      "pages": [
+        "page_081.json",
+        "page_170.json"
+      ],
+      "message": "Inventarnummer 339 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "340",
+      "pages": [
+        "page_081.json",
+        "page_170.json"
+      ],
+      "message": "Inventarnummer 340 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "341",
+      "pages": [
+        "page_081.json",
+        "page_170.json"
+      ],
+      "message": "Inventarnummer 341 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "342",
+      "pages": [
+        "page_081.json",
+        "page_170.json"
+      ],
+      "message": "Inventarnummer 342 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "343",
+      "pages": [
+        "page_081.json",
+        "page_170.json"
+      ],
+      "message": "Inventarnummer 343 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "344",
+      "pages": [
+        "page_081.json",
+        "page_170.json"
+      ],
+      "message": "Inventarnummer 344 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "345",
+      "pages": [
+        "page_081.json",
+        "page_170.json"
+      ],
+      "message": "Inventarnummer 345 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "351",
+      "pages": [
+        "page_082.json",
+        "page_169.json"
+      ],
+      "message": "Inventarnummer 351 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "353",
+      "pages": [
+        "page_082.json",
+        "page_169.json"
+      ],
+      "message": "Inventarnummer 353 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "357",
+      "pages": [
+        "page_082.json",
+        "page_169.json"
+      ],
+      "message": "Inventarnummer 357 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "384/1",
+      "pages": [
+        "page_083.json",
+        "page_171.json"
+      ],
+      "message": "Inventarnummer 384/1 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "384/2",
+      "pages": [
+        "page_083.json",
+        "page_171.json"
+      ],
+      "message": "Inventarnummer 384/2 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "385",
+      "pages": [
+        "page_083.json",
+        "page_171.json"
+      ],
+      "message": "Inventarnummer 385 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "389",
+      "pages": [
+        "page_084.json",
+        "page_174.json"
+      ],
+      "message": "Inventarnummer 389 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "390",
+      "pages": [
+        "page_084.json",
+        "page_174.json"
+      ],
+      "message": "Inventarnummer 390 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "392",
+      "pages": [
+        "page_084.json",
+        "page_174.json"
+      ],
+      "message": "Inventarnummer 392 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "394",
+      "pages": [
+        "page_084.json",
+        "page_169.json"
+      ],
+      "message": "Inventarnummer 394 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "420",
+      "pages": [
+        "page_087.json",
+        "page_183.json"
+      ],
+      "message": "Inventarnummer 420 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "425",
+      "pages": [
+        "page_087.json",
+        "page_182.json",
+        "page_182.json",
+        "page_182.json",
+        "page_182.json",
+        "page_182.json",
+        "page_182.json",
+        "page_182.json",
+        "page_182.json",
+        "page_182.json",
+        "page_182.json",
+        "page_182.json",
+        "page_183.json",
+        "page_183.json",
+        "page_183.json",
+        "page_183.json",
+        "page_183.json",
+        "page_183.json",
+        "page_183.json",
+        "page_183.json",
+        "page_183.json",
+        "page_183.json",
+        "page_183.json",
+        "page_184.json",
+        "page_184.json",
+        "page_184.json",
+        "page_184.json",
+        "page_184.json",
+        "page_184.json",
+        "page_184.json",
+        "page_184.json",
+        "page_184.json",
+        "page_184.json",
+        "page_184.json",
+        "page_184.json",
+        "page_184.json",
+        "page_185.json",
+        "page_185.json",
+        "page_185.json"
+      ],
+      "message": "Inventarnummer 425 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "426",
+      "pages": [
+        "page_087.json",
+        "page_185.json",
+        "page_185.json",
+        "page_185.json",
+        "page_185.json",
+        "page_185.json",
+        "page_185.json",
+        "page_185.json",
+        "page_185.json",
+        "page_185.json",
+        "page_188.json",
+        "page_188.json",
+        "page_188.json",
+        "page_188.json",
+        "page_188.json",
+        "page_188.json",
+        "page_188.json",
+        "page_188.json",
+        "page_188.json",
+        "page_188.json",
+        "page_188.json",
+        "page_188.json",
+        "page_188.json",
+        "page_189.json",
+        "page_189.json",
+        "page_189.json",
+        "page_189.json",
+        "page_189.json",
+        "page_189.json",
+        "page_189.json",
+        "page_189.json",
+        "page_189.json",
+        "page_189.json",
+        "page_189.json",
+        "page_189.json"
+      ],
+      "message": "Inventarnummer 426 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "427",
+      "pages": [
+        "page_087.json",
+        "page_190.json",
+        "page_190.json",
+        "page_190.json",
+        "page_190.json",
+        "page_190.json",
+        "page_190.json",
+        "page_190.json",
+        "page_190.json",
+        "page_191.json",
+        "page_191.json",
+        "page_191.json",
+        "page_191.json",
+        "page_191.json",
+        "page_191.json",
+        "page_191.json",
+        "page_191.json",
+        "page_191.json",
+        "page_191.json",
+        "page_191.json",
+        "page_191.json",
+        "page_192.json",
+        "page_192.json",
+        "page_192.json",
+        "page_192.json",
+        "page_192.json",
+        "page_192.json",
+        "page_192.json",
+        "page_192.json",
+        "page_192.json",
+        "page_192.json",
+        "page_192.json",
+        "page_193.json",
+        "page_193.json",
+        "page_193.json",
+        "page_193.json",
+        "page_193.json",
+        "page_193.json",
+        "page_193.json",
+        "page_193.json",
+        "page_193.json",
+        "page_193.json",
+        "page_193.json",
+        "page_193.json",
+        "page_195.json",
+        "page_195.json",
+        "page_195.json",
+        "page_195.json",
+        "page_195.json",
+        "page_195.json",
+        "page_195.json",
+        "page_195.json",
+        "page_195.json",
+        "page_195.json"
+      ],
+      "message": "Inventarnummer 427 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "428/2",
+      "pages": [
+        "page_088.json",
+        "page_198.json",
+        "page_198.json",
+        "page_198.json",
+        "page_198.json"
+      ],
+      "message": "Inventarnummer 428/2 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "428/3",
+      "pages": [
+        "page_088.json",
+        "page_199.json",
+        "page_199.json",
+        "page_199.json",
+        "page_199.json",
+        "page_199.json",
+        "page_199.json",
+        "page_199.json",
+        "page_199.json",
+        "page_199.json",
+        "page_199.json",
+        "page_199.json",
+        "page_200.json"
+      ],
+      "message": "Inventarnummer 428/3 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "429",
+      "pages": [
+        "page_088.json",
+        "page_190.json"
+      ],
+      "message": "Inventarnummer 429 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "430",
+      "pages": [
+        "page_088.json",
+        "page_192.json"
+      ],
+      "message": "Inventarnummer 430 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "434",
+      "pages": [
+        "page_088.json",
+        "page_195.json"
+      ],
+      "message": "Inventarnummer 434 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "438",
+      "pages": [
+        "page_089.json",
+        "page_188.json",
+        "page_189.json",
+        "page_190.json",
+        "page_190.json",
+        "page_191.json",
+        "page_195.json"
+      ],
+      "message": "Inventarnummer 438 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "669",
+      "pages": [
+        "page_109.json",
+        "page_180.json"
+      ],
+      "message": "Inventarnummer 669 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "679",
+      "pages": [
+        "page_110.json",
+        "page_175.json",
+        "page_178.json"
+      ],
+      "message": "Inventarnummer 679 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "682",
+      "pages": [
+        "page_110.json",
+        "page_174.json"
+      ],
+      "message": "Inventarnummer 682 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "683",
+      "pages": [
+        "page_110.json",
+        "page_177.json"
+      ],
+      "message": "Inventarnummer 683 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "689",
+      "pages": [
+        "page_110.json",
+        "page_176.json"
+      ],
+      "message": "Inventarnummer 689 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "695",
+      "pages": [
+        "page_111.json",
+        "page_176.json"
+      ],
+      "message": "Inventarnummer 695 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "699",
+      "pages": [
+        "page_111.json",
+        "page_177.json"
+      ],
+      "message": "Inventarnummer 699 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "702",
+      "pages": [
+        "page_111.json",
+        "page_178.json"
+      ],
+      "message": "Inventarnummer 702 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "705",
+      "pages": [
+        "page_112.json",
+        "page_176.json"
+      ],
+      "message": "Inventarnummer 705 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "711",
+      "pages": [
+        "page_112.json",
+        "page_173.json"
+      ],
+      "message": "Inventarnummer 711 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "713",
+      "pages": [
+        "page_112.json",
+        "page_173.json"
+      ],
+      "message": "Inventarnummer 713 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "714",
+      "pages": [
+        "page_112.json",
+        "page_173.json"
+      ],
+      "message": "Inventarnummer 714 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "715",
+      "pages": [
+        "page_112.json",
+        "page_173.json"
+      ],
+      "message": "Inventarnummer 715 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "721",
+      "pages": [
+        "page_113.json",
+        "page_173.json"
+      ],
+      "message": "Inventarnummer 721 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "728",
+      "pages": [
+        "page_113.json",
+        "page_176.json"
+      ],
+      "message": "Inventarnummer 728 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "732",
+      "pages": [
+        "page_114.json",
+        "page_178.json"
+      ],
+      "message": "Inventarnummer 732 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "762",
+      "pages": [
+        "page_116.json",
+        "page_180.json"
+      ],
+      "message": "Inventarnummer 762 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "763",
+      "pages": [
+        "page_116.json",
+        "page_177.json"
+      ],
+      "message": "Inventarnummer 763 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "767",
+      "pages": [
+        "page_116.json",
+        "page_176.json"
+      ],
+      "message": "Inventarnummer 767 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "768",
+      "pages": [
+        "page_117.json",
+        "page_173.json"
+      ],
+      "message": "Inventarnummer 768 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "769",
+      "pages": [
+        "page_117.json",
+        "page_177.json"
+      ],
+      "message": "Inventarnummer 769 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "770",
+      "pages": [
+        "page_117.json",
+        "page_177.json"
+      ],
+      "message": "Inventarnummer 770 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "776",
+      "pages": [
+        "page_118.json",
+        "page_180.json"
+      ],
+      "message": "Inventarnummer 776 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "791",
+      "pages": [
+        "page_119.json",
+        "page_180.json"
+      ],
+      "message": "Inventarnummer 791 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "812",
+      "pages": [
+        "page_123.json",
+        "page_178.json"
+      ],
+      "message": "Inventarnummer 812 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "818",
+      "pages": [
+        "page_124.json",
+        "page_193.json",
+        "page_193.json"
+      ],
+      "message": "Inventarnummer 818 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "820",
+      "pages": [
+        "page_124.json",
+        "page_176.json",
+        "page_190.json"
+      ],
+      "message": "Inventarnummer 820 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "822",
+      "pages": [
+        "page_124.json",
+        "page_125.json",
+        "page_178.json"
+      ],
+      "message": "Inventarnummer 822 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "827",
+      "pages": [
+        "page_125.json",
+        "page_178.json"
+      ],
+      "message": "Inventarnummer 827 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "832",
+      "pages": [
+        "page_126.json",
+        "page_178.json"
+      ],
+      "message": "Inventarnummer 832 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "834",
+      "pages": [
+        "page_126.json",
+        "page_178.json"
+      ],
+      "message": "Inventarnummer 834 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "838",
+      "pages": [
+        "page_126.json",
+        "page_178.json"
+      ],
+      "message": "Inventarnummer 838 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "855",
+      "pages": [
+        "page_128.json",
+        "page_175.json"
+      ],
+      "message": "Inventarnummer 855 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "858",
+      "pages": [
+        "page_129.json",
+        "page_178.json"
+      ],
+      "message": "Inventarnummer 858 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "865",
+      "pages": [
+        "page_129.json",
+        "page_175.json"
+      ],
+      "message": "Inventarnummer 865 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "892/1",
+      "pages": [
+        "page_134.json",
+        "page_177.json"
+      ],
+      "message": "Inventarnummer 892/1 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "892/2",
+      "pages": [
+        "page_134.json",
+        "page_179.json"
+      ],
+      "message": "Inventarnummer 892/2 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "893",
+      "pages": [
+        "page_134.json",
+        "page_179.json"
+      ],
+      "message": "Inventarnummer 893 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "945",
+      "pages": [
+        "page_139.json",
+        "page_180.json"
+      ],
+      "message": "Inventarnummer 945 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "954",
+      "pages": [
+        "page_139.json",
+        "page_179.json"
+      ],
+      "message": "Inventarnummer 954 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "964",
+      "pages": [
+        "page_141.json",
+        "page_179.json"
+      ],
+      "message": "Inventarnummer 964 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "986",
+      "pages": [
+        "page_143.json",
+        "page_182.json"
+      ],
+      "message": "Inventarnummer 986 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "1201",
+      "pages": [
+        "page_148.json",
+        "page_182.json"
+      ],
+      "message": "Inventarnummer 1201 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "1202",
+      "pages": [
+        "page_148.json",
+        "page_183.json"
+      ],
+      "message": "Inventarnummer 1202 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "1203",
+      "pages": [
+        "page_148.json",
+        "page_176.json",
+        "page_183.json"
+      ],
+      "message": "Inventarnummer 1203 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "1204",
+      "pages": [
+        "page_148.json",
+        "page_183.json"
+      ],
+      "message": "Inventarnummer 1204 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "1206",
+      "pages": [
+        "page_148.json",
+        "page_176.json"
+      ],
+      "message": "Inventarnummer 1206 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "1213",
+      "pages": [
+        "page_148.json",
+        "page_176.json",
+        "page_190.json"
+      ],
+      "message": "Inventarnummer 1213 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "1214",
+      "pages": [
+        "page_148.json",
+        "page_190.json"
+      ],
+      "message": "Inventarnummer 1214 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "1216",
+      "pages": [
+        "page_148.json",
+        "page_192.json"
+      ],
+      "message": "Inventarnummer 1216 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "1229",
+      "pages": [
+        "page_149.json",
+        "page_177.json",
+        "page_192.json"
+      ],
+      "message": "Inventarnummer 1229 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "1230",
+      "pages": [
+        "page_149.json",
+        "page_195.json"
+      ],
+      "message": "Inventarnummer 1230 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "1232",
+      "pages": [
+        "page_149.json",
+        "page_182.json"
+      ],
+      "message": "Inventarnummer 1232 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "1234",
+      "pages": [
+        "page_149.json",
+        "page_182.json"
+      ],
+      "message": "Inventarnummer 1234 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "1236",
+      "pages": [
+        "page_149.json",
+        "page_195.json"
+      ],
+      "message": "Inventarnummer 1236 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "1503",
+      "pages": [
+        "page_159.json",
+        "page_163.json"
+      ],
+      "message": "Inventarnummer 1503 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "1504",
+      "pages": [
+        "page_159.json",
+        "page_163.json"
+      ],
+      "message": "Inventarnummer 1504 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "1505",
+      "pages": [
+        "page_159.json",
+        "page_163.json"
+      ],
+      "message": "Inventarnummer 1505 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "1506",
+      "pages": [
+        "page_159.json",
+        "page_163.json"
+      ],
+      "message": "Inventarnummer 1506 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "601",
+      "pages": [
+        "page_104.json",
+        "page_179.json"
+      ],
+      "message": "Inventarnummer 601 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "606",
+      "pages": [
+        "page_104.json",
+        "page_179.json"
+      ],
+      "message": "Inventarnummer 606 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "609",
+      "pages": [
+        "page_104.json",
+        "page_179.json"
+      ],
+      "message": "Inventarnummer 609 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "623",
+      "pages": [
+        "page_105.json",
+        "page_179.json"
+      ],
+      "message": "Inventarnummer 623 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "625",
+      "pages": [
+        "page_105.json",
+        "page_179.json"
+      ],
+      "message": "Inventarnummer 625 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "640",
+      "pages": [
+        "page_107.json",
+        "page_179.json"
+      ],
+      "message": "Inventarnummer 640 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "646",
+      "pages": [
+        "page_107.json",
+        "page_188.json"
+      ],
+      "message": "Inventarnummer 646 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "648",
+      "pages": [
+        "page_107.json",
+        "page_179.json"
+      ],
+      "message": "Inventarnummer 648 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "653",
+      "pages": [
+        "page_107.json",
+        "page_179.json"
+      ],
+      "message": "Inventarnummer 653 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "661",
+      "pages": [
+        "page_108.json",
+        "page_173.json"
+      ],
+      "message": "Inventarnummer 661 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    },
+    {
+      "nummer": "664",
+      "pages": [
+        "page_108.json",
+        "page_173.json"
+      ],
+      "message": "Inventarnummer 664 erscheint auf nicht-aufeinanderfolgenden Seiten"
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "sourceFile": "page_098.json",
+  "pageNumber": "74",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "A Bücher",
+    "unterabschnitt": "4 Systematische Theologie und Philosophie",
+    "unterkategorie": "C Verschiedenes"
+  },
+  "entriesCount": 16,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "Nr. 525: Friedrich von Bodelschwingh, Briefwechsel 1852 - 1893 Bd. I\n    Verlagshandlung der Anstalt Bethel. 1975",
+      "nummer": "525",
+      "titel": "Briefwechsel 1852 - 1893 Bd. I",
+      "beschreibung": "Korrespondenzenammlung",
+      "typ": "Korrespondenz",
+      "beteiligte": [
+        {
+          "name": "Friedrich von Bodelschwingh",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Verlagshandlung der Anstalt Bethel",
+      "jahr": 1975,
+      "_quelldatei": "page_098.json",
+      "_pageNumber": "74"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "526: Friedrich von Bodelschwingh, Briefwechsel 1893 - 1910 Bd. II\n    Verlagshandlung der Anstalt Bethel. 1975",
+      "nummer": "526",
+      "titel": "Briefwechsel 1893 - 1910 Bd. II",
+      "beschreibung": "Korrespondenzenammlung",
+      "typ": "Korrespondenz",
+      "beteiligte": [
+        {
+          "name": "Friedrich von Bodelschwingh",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Verlagshandlung der Anstalt Bethel",
+      "jahr": 1975,
+      "_quelldatei": "page_098.json",
+      "_pageNumber": "74"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "527: Wilhelm Brandt, Friedrich von Bodelschwingh 1877 - 1946,\n    Nachfolger und Gestalter.\n    Verlagshandlung der Anstalt Bethel. 1967",
+      "nummer": "527",
+      "titel": "Friedrich von Bodelschwingh 1877 - 1946, Nachfolger und Gestalter",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Wilhelm Brandt",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Verlagshandlung der Anstalt Bethel",
+      "jahr": 1967,
+      "_quelldatei": "page_098.json",
+      "_pageNumber": "74"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "528: Margarethe Stoevesandt und Friedrich von Bodelschwingh, Julia\n    von Bodelschwingh.\n    Verlagshandlung der Anstalt Bethel. 1977",
+      "nummer": "528",
+      "titel": "Julia von Bodelschwingh",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Margarethe Stoevesandt",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Friedrich von Bodelschwingh",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Verlagshandlung der Anstalt Bethel",
+      "jahr": 1977,
+      "_quelldatei": "page_098.json",
+      "_pageNumber": "74"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "529: Adolf Köberle, Karl Heim, Leben und Denken.\n    Verlag Steinkopf, Stuttgart 1979",
+      "nummer": "529",
+      "titel": "Karl Heim, Leben und Denken",
+      "beschreibung": "Biographie/Studie",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Adolf Köberle",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Karl Heim",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Verlag Steinkopf",
+      "ort": "Stuttgart",
+      "jahr": 1979,
+      "_quelldatei": "page_098.json",
+      "_pageNumber": "74"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "530: Wolfgang Trillhaas, Aufgehobene Vergangenheit.\n    Verlag Vandenhoeck und Ruprecht. Göttingen 1976",
+      "nummer": "530",
+      "titel": "Aufgehobene Vergangenheit",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Wolfgang Trillhaas",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Vandenhoeck und Ruprecht",
+      "ort": "Göttingen",
+      "jahr": 1976,
+      "_quelldatei": "page_098.json",
+      "_pageNumber": "74"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "531: Adolf Schlatter, Luthers Deutung des Römerbriefs.\n    Beiträge zur Förderung christlicher Theologie, Heft 7/1917",
+      "nummer": "531",
+      "titel": "Luthers Deutung des Römerbriefs",
+      "typ": "Aufsatz",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "reihe": "Beiträge zur Förderung christlicher Theologie",
+      "heft": "7",
+      "jahr": 1917,
+      "_quelldatei": "page_098.json",
+      "_pageNumber": "74"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "532: Adolf Schlatter, Kennen wir Jesus? Mit Geleitwort von Hans\n    Stroh. 1980",
+      "nummer": "532",
+      "titel": "Kennen wir Jesus?",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Hans Stroh",
+          "rolle": "Bearbeiter",
+          "entity": "Person",
+          "zusatz": "Geleitwort von"
+        }
+      ],
+      "jahr": 1980,
+      "anmerkung": "Mit Geleitwort von Hans Stroh",
+      "_quelldatei": "page_098.json",
+      "_pageNumber": "74"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "533: Adolf Schlatter, Ich will ihn loben bis zum Tod. Predigten.\n    Freizeiten-Verlag Velbert. 1928",
+      "nummer": "533",
+      "titel": "Ich will ihn loben bis zum Tod",
+      "typ": "Predigt",
+      "beschreibung": "Predigten",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Freizeiten-Verlag",
+      "ort": "Velbert",
+      "jahr": 1928,
+      "_quelldatei": "page_098.json",
+      "_pageNumber": "74"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "535: Calwer Bibellexikon.\n    Calwer Verlag 1885",
+      "nummer": "535",
+      "titel": "Calwer Bibellexikon",
+      "typ": "Lexikon",
+      "verlag": "Calwer Verlag",
+      "jahr": 1885,
+      "_quelldatei": "page_098.json",
+      "_pageNumber": "74"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "536: Friedrich Hauß, Erinnerungen und Erfahrungen.\n    Brunnen-Verlag, Metzingen 1976",
+      "nummer": "536",
+      "titel": "Erinnerungen und Erfahrungen",
+      "typ": "Erinnerungen/Memoiren",
+      "beteiligte": [
+        {
+          "name": "Friedrich Hauß",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Brunnen-Verlag",
+      "ort": "Metzingen",
+      "jahr": 1976,
+      "_quelldatei": "page_098.json",
+      "_pageNumber": "74"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "537: Adolf Schlatter, Jesus und Paulus.\n    Kohlhammer-Verlag, Stuttgart 1940",
+      "nummer": "537",
+      "titel": "Jesus und Paulus",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Kohlhammer-Verlag",
+      "ort": "Stuttgart",
+      "jahr": 1940,
+      "_quelldatei": "page_098.json",
+      "_pageNumber": "74"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "538: Adolf Schlatter, Erlebtes.\n    Furche-Verlag, Berlin 1924",
+      "nummer": "538",
+      "titel": "Erlebtes",
+      "typ": "Erinnerungen/Memoiren",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Furche-Verlag",
+      "ort": "Berlin",
+      "jahr": 1924,
+      "_quelldatei": "page_098.json",
+      "_pageNumber": "74"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "539: Adolf Schlatter, Marien-Reden.\n    Freizeiten-Verlag Velbert. 1927",
+      "nummer": "539",
+      "titel": "Marien-Reden",
+      "typ": "Rede",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Freizeiten-Verlag",
+      "ort": "Velbert",
+      "jahr": 1927,
+      "_quelldatei": "page_098.json",
+      "_pageNumber": "74"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "540: Adolf Schlatter, Drei Erzählungen Jesu.\n    Wichern-Verlag, Berlin 1932",
+      "nummer": "540",
+      "titel": "Drei Erzählungen Jesu",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Wichern-Verlag",
+      "ort": "Berlin",
+      "jahr": 1932,
+      "_quelldatei": "page_098.json",
+      "_pageNumber": "74"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "541: Adolf Schlatter, Aus meiner Sprechstunde.\n    Herausgegeben von Theodor Schlatter.\n    Verlagshandlung der Anstalt Bethel. 1952",
+      "nummer": "541",
+      "titel": "Aus meiner Sprechstunde",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Verlagshandlung der Anstalt Bethel",
+      "jahr": 1952,
+      "_quelldatei": "page_098.json",
+      "_pageNumber": "74"
+    }
+  ],
+  "notes": "Seitenfuß: '74'. Kopfzeile: 'Teil II: A Bücher   Nr. 525 - 541'. Keine neuen Überschriften auf dieser Seite."
+}

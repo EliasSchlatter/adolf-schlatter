@@ -1,0 +1,323 @@
+{
+  "sourceFile": "page_107.json",
+  "pageNumber": "83",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "4 Systematische Theologie und Philosophie",
+    "unterkategorie": "C Verschiedenes"
+  },
+  "entriesCount": 14,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "Nr. 640: Karl Gutbrod, Adolf Schlatter 1852 - 1938.\n    Manuskript vom Vortrag in Kirchheim 1967",
+      "nummer": "640",
+      "titel": "Adolf Schlatter 1852 - 1938",
+      "beschreibung": "Manuskript vom Vortrag in Kirchheim",
+      "typ": "Manuskript",
+      "jahr": 1967,
+      "beteiligte": [
+        {
+          "name": "Karl Gutbrod",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_107.json",
+      "_pageNumber": "83"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "641: Karl Gutbrod, Rezensionen von \"Hilfe in Bibelnot\".\n    Freizeitverlag Gladbeck, 1953, und \"Aus Adolf Schlatter, Berner Zeit\", Berchtold Haller-Verlag, Bern 1952\n    Aus: Für Arbeit und Besinnung (1953)",
+      "nummer": "641",
+      "titel": "Rezensionen von \"Hilfe in Bibelnot\"; \"Aus Adolf Schlatter, Berner Zeit\"",
+      "beschreibung": "Freizeitverlag Gladbeck, 1953; Berchtold Haller-Verlag, Bern 1952. Aus: Für Arbeit und Besinnung (1953).",
+      "typ": "Aufsatz",
+      "jahr": 1953,
+      "beteiligte": [
+        {
+          "name": "Karl Gutbrod",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_107.json",
+      "_pageNumber": "83"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "642: W. Bader, Schlatter-Anekdote.",
+      "nummer": "642",
+      "titel": "Schlatter-Anekdote",
+      "typ": "Notiz",
+      "beteiligte": [
+        {
+          "name": "W. Bader",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_107.json",
+      "_pageNumber": "83"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "643: Robert Stupperich, \"Bodelschwingh, Schlatter und die Theologische Woche in Bethel\".\n    Aus: \"Unsere Kirche\", Bielefelder Kirchenzeitung 29.9.1963",
+      "nummer": "643",
+      "titel": "Bodelschwingh, Schlatter und die Theologische Woche in Bethel",
+      "beschreibung": "Erschienen in: \"Unsere Kirche\", Bielefelder Kirchenzeitung.",
+      "typ": "Artikel",
+      "datum": "1963-09-29",
+      "beteiligte": [
+        {
+          "name": "Robert Stupperich",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_107.json",
+      "_pageNumber": "83"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "644: Robert Stupperich, Adolf Schlatters Berufungen.\n    Aus: Zeitschrift für Theologie und Kirche, Heft 1/1979",
+      "nummer": "644",
+      "titel": "Adolf Schlatters Berufungen",
+      "beschreibung": "Erschienen in: Zeitschrift für Theologie und Kirche, Heft 1/1979.",
+      "typ": "Artikel",
+      "jahr": 1979,
+      "beteiligte": [
+        {
+          "name": "Robert Stupperich",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_107.json",
+      "_pageNumber": "83"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "645: Udo Smidt, Begegnung mit Adolf Schlatter.\n    Manuskript zum Vorwort von \"Die Freude des Glaubens\".\n    (Verlagshaus Gerd Mohn, Gütersloh 1978)",
+      "nummer": "645",
+      "titel": "Begegnung mit Adolf Schlatter",
+      "beschreibung": "Manuskript zum Vorwort von \"Die Freude des Glaubens\". Verlagshaus Gerd Mohn, Gütersloh 1978.",
+      "typ": "Manuskript",
+      "jahr": 1978,
+      "beteiligte": [
+        {
+          "name": "Udo Smidt",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_107.json",
+      "_pageNumber": "83"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "646: In Memoriam Adolf Schlatter. Druckblatt mit Brief Schlatters\n    an Helmuth Kittel 1.12.1934.\n    Aus: Evangelischer Religionsunterricht, 49. Jahrgang, Heft 10",
+      "nummer": "646",
+      "titel": "In Memoriam Adolf Schlatter",
+      "beschreibung": "Druckblatt. Enthält Brief Schlatters an Helmuth Kittel (1.12.1934). Erschienen in: Evangelischer Religionsunterricht, 49. Jahrgang, Heft 10.",
+      "typ": "Druckschrift",
+      "untereintraege": [
+        {
+          "rawText": "Brief Schlatters an Helmuth Kittel 1.12.1934",
+          "titel": "Brief an Helmuth Kittel",
+          "beschreibung": "Brief von Adolf Schlatter an Helmuth Kittel, datiert 1.12.1934. Enthalten in obigem Druckblatt.",
+          "typ": "Brief",
+          "datum": "1934-12-01"
+        }
+      ],
+      "_quelldatei": "page_107.json",
+      "_pageNumber": "83"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "647: Margrit Haenchen, Schlatter-Erinnerungen.",
+      "nummer": "647",
+      "titel": "Schlatter-Erinnerungen",
+      "beschreibung": "",
+      "typ": "Erinnerungen/Memoiren",
+      "beteiligte": [
+        {
+          "name": "Margrit Haenchen",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_107.json",
+      "_pageNumber": "83"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "648: Theodor Kiefner, Erinnerungen über das Verhältnis von Schlatter zur CSV, sowie Hinweise auf weitere Zeugen.",
+      "nummer": "648",
+      "titel": "Erinnerungen über das Verhältnis von Schlatter zur CSV",
+      "beschreibung": "Sowie Hinweise auf weitere Zeugen.",
+      "typ": "Erinnerungen/Memoiren",
+      "beteiligte": [
+        {
+          "name": "Theodor Kiefner",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_107.json",
+      "_pageNumber": "83"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "649: Horst Beintker, Rezension der Neuausgaben von \"Die Geschichte des Christus\" und \"Das Christliche Dogma\".\n    Aus: Theologische Literaturzeitung 1979 Nr. 1",
+      "nummer": "649",
+      "titel": "Rezension der Neuausgaben von \"Die Geschichte des Christus\" und \"Das Christliche Dogma\"",
+      "beschreibung": "Erschienen in: Theologische Literaturzeitung 1979 Nr. 1.",
+      "typ": "Artikel",
+      "jahr": 1979,
+      "beteiligte": [
+        {
+          "name": "Horst Beintker",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_107.json",
+      "_pageNumber": "83"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "650: Hans Stroh, Aus Adolf Schlatters letzten Lebensjahren.\n    Aus: Deutsches Pfarrerblatt 1952, Seite 515 - 516, 542 - 543\n    (vgl. Nr. 623)",
+      "nummer": "650",
+      "titel": "Aus Adolf Schlatters letzten Lebensjahren",
+      "beschreibung": "Erschienen in: Deutsches Pfarrerblatt 1952. Seiten 515-516, 542-543. (vgl. Nr. 623)",
+      "typ": "Artikel",
+      "jahr": 1952,
+      "seiten": "515-516, 542-543",
+      "verweis": "vgl. Nr. 623",
+      "beteiligte": [
+        {
+          "name": "Hans Stroh",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_107.json",
+      "_pageNumber": "83"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "651: Walter Tebbe, Gedanken und Wünsche zum Schlatter-Gedenken im\n    Jahre 1952.\n    Aus: Deutsches Pfarrerblatt 1.2.1952, Seite 65 - 68\n\n    Walter Tebbe, Begegnung mit Adolf Schlatter.\n    Aus: Deutsches Pfarrerblatt 15.8.1952, Seite 477 - 481",
+      "nummer": "651",
+      "titel": "Gedanken und Wünsche zum Schlatter-Gedenken im Jahre 1952",
+      "beschreibung": "Erschienen in: Deutsches Pfarrerblatt.",
+      "typ": "Artikel",
+      "datum": "1952-02-01",
+      "seiten": "65-68",
+      "beteiligte": [
+        {
+          "name": "Walter Tebbe",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Walter Tebbe, Begegnung mit Adolf Schlatter.\n    Aus: Deutsches Pfarrerblatt 15.8.1952, Seite 477 - 481",
+          "titel": "Begegnung mit Adolf Schlatter",
+          "beschreibung": "Erschienen in: Deutsches Pfarrerblatt 15.8.1952.",
+          "typ": "Artikel",
+          "datum": "1952-08-15",
+          "seiten": "477-481",
+          "beteiligte": [
+            {
+              "name": "Walter Tebbe",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_107.json",
+      "_pageNumber": "83"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "652: Martin Strothmann, Schlatter-Erinnerungen.\n    (Verhältnis Heim-Schlatter; DCSV-Bibelstunde u. a.).",
+      "nummer": "652",
+      "titel": "Schlatter-Erinnerungen",
+      "beschreibung": "Thema u. a.: Verhältnis Heim-Schlatter; DCSV-Bibelstunde.",
+      "typ": "Erinnerungen/Memoiren",
+      "beteiligte": [
+        {
+          "name": "Martin Strothmann",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_107.json",
+      "_pageNumber": "83"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "653: Hermann Klemm, Information über Schlatters Verhältnis zur\n    Gruppenbewegung und Äußerung zur Biographie von Walter Grundmann.",
+      "nummer": "653",
+      "titel": "Information über Schlatters Verhältnis zur Gruppenbewegung",
+      "beschreibung": "Enthält auch Äußerung zur Biographie von Walter Grundmann.",
+      "typ": "Mitteilung",
+      "beteiligte": [
+        {
+          "name": "Hermann Klemm",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_107.json",
+      "_pageNumber": "83"
+    }
+  ],
+  "notes": "OCR gut lesbar. Keine neuen Überschriften auf dieser Seite erkannt; aktueller Kontext bleibt Teil II / B Druckschriften und Manuskripte / 4 Systematische Theologie und Philosophie / C Verschiedenes."
+}

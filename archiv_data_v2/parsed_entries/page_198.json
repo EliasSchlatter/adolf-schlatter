@@ -1,0 +1,144 @@
+{
+  "sourceFile": "page_198.json",
+  "pageNumber": "174",
+  "context": {
+    "teil": "Anhang",
+    "sektion": "Abschnitt II: Register",
+    "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+    "unterkategorie": "b) Briefe von Schlatter"
+  },
+  "entriesCount": 5,
+  "entries": [
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Lodder, W.\n\n    Briefe an Schlatter                         2 Briefe                428/2",
+      "nummer": "428/2",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Lodder, W.",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_198.json",
+      "_pageNumber": "174"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Ohmann, Karl\n\n    Briefe an Schlatter                         1 Brief                 428/2",
+      "nummer": "428/2",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Ohmann, Karl",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_198.json",
+      "_pageNumber": "174"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Pirtsch, Gregor\n\n    Briefe an Schlatter                         1 Brief                 428/2",
+      "nummer": "428/2",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Pirtsch, Gregor",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_198.json",
+      "_pageNumber": "174"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Wentz, Abdel Ross\n\n    Briefe an Schlatter                         1 Brief                 168/5",
+      "nummer": "168/5",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Wentz, Abdel Ross",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_198.json",
+      "_pageNumber": "174"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Witt, Otto\n\n    Briefe an Schlatter                         1 Brief                 428/2",
+      "nummer": "428/2",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Witt, Otto",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_198.json",
+      "_pageNumber": "174"
+    }
+  ],
+  "notes": "Header shows range 'Lod - Wit'. Footer: page number 174. Summary lines on page: 'B gesamt: 18 Professoren' and 'Briefe an Schlatter: 24 Briefe'."
+}

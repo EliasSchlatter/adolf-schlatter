@@ -1,0 +1,136 @@
+{
+  "sourceFile": "page_200.json",
+  "pageNumber": "176",
+  "context": {
+    "teil": "Anhang",
+    "sektion": "Abschnitt II: Register",
+    "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+    "unterkategorie": "b) Briefe von Schlatter"
+  },
+  "entriesCount": 7,
+  "entries": [
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Watts, Harvey M.\n\n    Briefe an Schlatter                          1 Brief                  168/5",
+      "nummer": "168/5",
+      "titel": "Watts, Harvey M.",
+      "beschreibung": "Briefe an Schlatter; 1 Brief",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Watts, Harvey M.",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_200.json",
+      "_pageNumber": "176"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Zwemer, S. M.\n\n    Briefe an Schlatter                          1 Brief                  428/3",
+      "nummer": "428/3",
+      "titel": "Zwemer, S. M.",
+      "beschreibung": "Briefe an Schlatter; 1 Brief",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Zwemer, S. M.",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_200.json",
+      "_pageNumber": "176"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "C gesamt:               15 Professoren",
+      "nummer": "N/A",
+      "titel": "C gesamt",
+      "beschreibung": "Zusammenfassung: 15 Professoren (Kategorie C gesamt)",
+      "typ": "Sonstiges",
+      "anmerkung": "Seitenzusammenfassung/Statistik",
+      "_quelldatei": "page_200.json",
+      "_pageNumber": "176"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "    Briefe an Schlatter:        36",
+      "nummer": "N/A",
+      "titel": "Briefe an Schlatter (C)",
+      "beschreibung": "Anzahl Briefe an Schlatter in Kategorie C: 36",
+      "typ": "Sonstiges",
+      "anmerkung": "Seitenzusammenfassung/Statistik",
+      "_quelldatei": "page_200.json",
+      "_pageNumber": "176"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "A, B, C gesamt:         239 Professoren",
+      "nummer": "N/A",
+      "titel": "A, B, C gesamt",
+      "beschreibung": "Gesamtzahl Professoren in A, B, C: 239",
+      "typ": "Sonstiges",
+      "anmerkung": "Seitenzusammenfassung/Statistik",
+      "_quelldatei": "page_200.json",
+      "_pageNumber": "176"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "    a) Briefe an Schlatter:   1964",
+      "nummer": "N/A",
+      "titel": "a) Briefe an Schlatter (gesamt)",
+      "beschreibung": "Gesamtzahl Briefe an Schlatter (A,B,C): 1964",
+      "typ": "Sonstiges",
+      "anmerkung": "Seitenzusammenfassung/Statistik",
+      "_quelldatei": "page_200.json",
+      "_pageNumber": "176"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "C Ausländische Professoren mit nicht deutsch geschriebenen Briefen",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "    b) Briefe von Schlatter:  741",
+      "nummer": "N/A",
+      "titel": "b) Briefe von Schlatter (gesamt)",
+      "beschreibung": "Gesamtzahl Briefe von Schlatter (A,B,C): 741",
+      "typ": "Sonstiges",
+      "anmerkung": "Seitenzusammenfassung/Statistik",
+      "_quelldatei": "page_200.json",
+      "_pageNumber": "176"
+    }
+  ],
+  "notes": "Seite enthält zwei einzelne Einträge (Watts, Zwemer) und mehrere zusammenfassende Statistikzeilen. Kein neuer Kontext/Überschrift erkannt."
+}

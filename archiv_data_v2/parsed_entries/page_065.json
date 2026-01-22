@@ -1,0 +1,232 @@
+{
+  "sourceFile": "page_065.json",
+  "pageNumber": "41",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+    "unterabschnitt": "1. Zur Person",
+    "unterkategorie": "m) Tübinger Zeit I"
+  },
+  "entriesCount": 6,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "m) Tübinger Zeit I",
+      "rawText": "Nr. 165: Schreiben von Rothkirch an Schlatter betreffend Wieder-\nbeginn der Biblischen Besprechungen im CVJM. 15.10.1897\n\nMinisterialerlaß mit Urkunde zur Verleihung der Erinnerungsmedaille zum 100. Geburtstag Kaiser Wilhelms I. an Prodekan Professor Schlatter. 21.6.1897\n\nEntwurf eines Schreibens Schlatters betreffend Neubesetzung der von ihm bisher verwalteten theologischen Professur. (1897)\n\n1) Palästinareise",
+      "nummer": "165",
+      "titel": "Schreiben von Rothkirch an Schlatter betreffend Wiederbeginn der Biblischen Besprechungen im CVJM",
+      "beschreibung": "Sammlung von Dokumenten: Brief von Rothkirch an Schlatter bezüglich Wiederbeginn der biblischen Besprechungen im CVJM; Ministerialerlaß mit Urkunde zur Verleihung der Erinnerungsmedaille zum 100. Geburtstag Kaiser Wilhelms I. an Prodekan Professor Schlatter; Entwurf eines Schreibens Schlatters zur Neubesetzung der von ihm verwalteten theologischen Professur; Vermerk 'Palästinareise'.",
+      "untereintraege": [
+        {
+          "rawText": "Schreiben von Rothkirch an Schlatter betreffend Wiederbeginn der Biblischen Besprechungen im CVJM. 15.10.1897",
+          "titel": "Schreiben von Rothkirch an Schlatter betreffend Wiederbeginn der Biblischen Besprechungen im CVJM",
+          "typ": "Brief",
+          "datum": "1897-10-15"
+        },
+        {
+          "rawText": "Ministerialerlaß mit Urkunde zur Verleihung der Erinnerungsmedaille zum 100. Geburtstag Kaiser Wilhelms I. an Prodekan Professor Schlatter. 21.6.1897",
+          "titel": "Ministerialerlaß mit Urkunde zur Verleihung der Erinnerungsmedaille zum 100. Geburtstag Kaiser Wilhelms I. an Prodekan Professor Schlatter",
+          "typ": "Urkunde",
+          "datum": "1897-06-21"
+        },
+        {
+          "rawText": "Entwurf eines Schreibens Schlatters betreffend Neubesetzung der von ihm bisher verwalteten theologischen Professur. (1897)",
+          "titel": "Entwurf eines Schreibens Schlatters betreffend Neubesetzung der theologischen Professur",
+          "typ": "Entwurf",
+          "jahr": 1897
+        },
+        {
+          "rawText": "1) Palästinareise",
+          "titel": "Palästinareise",
+          "beschreibung": "Eintragspunkt 'Palästinareise' (weitere Details auf anderen Seiten möglich)"
+        }
+      ],
+      "_quelldatei": "page_065.json",
+      "_pageNumber": "41"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "m) Tübinger Zeit I",
+      "rawText": "Nr. 166: Mappe \"Herbarium\" (Reste). 1891\n\n3 Reisetagebücher",
+      "nummer": "166",
+      "titel": "Mappe \"Herbarium\" (Reste)",
+      "jahr": 1891,
+      "beschreibung": "Mappe mit Resten eines Herbariums; auf der Seite ebenfalls vermerkt: 3 Reisetagebücher (als Untereintrag).",
+      "untereintraege": [
+        {
+          "rawText": "3 Reisetagebücher",
+          "titel": "3 Reisetagebücher",
+          "typ": "Reisetagebuch",
+          "umfang": "3"
+        }
+      ],
+      "_quelldatei": "page_065.json",
+      "_pageNumber": "41"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "m) Tübinger Zeit I",
+      "rawText": "Nr. 167/1: Staatliche Urkunden. Besoldungsunterlagen. Auszeich-\nnungen. 1897 - 1932\n\nEhrenkreuz des Ordens der Württ. Krone, verbunden mit der Verleihung des Personenadels. 1912\n\nWilhelmskreuz. 1917\n\nEhrenzeichen für 25jährige Zugehörigkeit zum Schwäbischen Albverein. 1922",
+      "nummer": "167/1",
+      "titel": "Staatliche Urkunden. Besoldungsunterlagen. Auszeichnungen.",
+      "zeitraum": "1897 - 1932",
+      "beschreibung": "Sammlung staatlicher Urkunden, Besoldungsunterlagen und Auszeichnungen im Zeitraum 1897-1932.",
+      "untereintraege": [
+        {
+          "rawText": "Ehrenkreuz des Ordens der Württ. Krone, verbunden mit der Verleihung des Personenadels. 1912",
+          "titel": "Ehrenkreuz des Ordens der Württ. Krone (Verleihung des Personenadels)",
+          "jahr": 1912,
+          "typ": "Auszeichnung"
+        },
+        {
+          "rawText": "Wilhelmskreuz. 1917",
+          "titel": "Wilhelmskreuz",
+          "jahr": 1917,
+          "typ": "Auszeichnung"
+        },
+        {
+          "rawText": "Ehrenzeichen für 25jährige Zugehörigkeit zum Schwäbischen Albverein. 1922",
+          "titel": "Ehrenzeichen für 25-jährige Zugehörigkeit zum Schwäbischen Albverein",
+          "jahr": 1922,
+          "typ": "Auszeichnung"
+        }
+      ],
+      "_quelldatei": "page_065.json",
+      "_pageNumber": "41"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "m) Tübinger Zeit I",
+      "rawText": "167/2: Glückwünsche von Repräsentanten aus Staat und Kirche zum 80. Geburtstag. 1932\n\nDankesgruß Frauenbibelstunde Tübingen zum 85. Geburtstag. 15.8.1937",
+      "nummer": "167/2",
+      "titel": "Glückwünsche von Repräsentanten aus Staat und Kirche zum 80. Geburtstag",
+      "jahr": 1932,
+      "untereintraege": [
+        {
+          "rawText": "Dankesgruß Frauenbibelstunde Tübingen zum 85. Geburtstag. 15.8.1937",
+          "titel": "Dankesgruß Frauenbibelstunde Tübingen zum 85. Geburtstag",
+          "datum": "1937-08-15",
+          "typ": "Dankesgruß"
+        }
+      ],
+      "_quelldatei": "page_065.json",
+      "_pageNumber": "41"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "m) Tübinger Zeit I",
+      "rawText": "168/1: Evangelischer Verein für Innere Mission Tübingen. 1904ff\n\nMit Briefen von Stadtpfarrer Finkh, Dekan Elsässer, Wilhelm Eisenmann. 1910ff\n\nPfarrer Theophil Wurm (Evang. Gesellschaft Stuttgart) an Dekan Elsässer. 1904 - 1906\n\nPfarrer Kohler und Horch, Süddeutscher Evang. Jünglingsbund, Briefe an Schlatter. 1908 - 1914",
+      "nummer": "168/1",
+      "titel": "Evangelischer Verein für Innere Mission Tübingen",
+      "zeitraum": "1904ff",
+      "beschreibung": "Unterlagen zum Evangelischen Verein für Innere Mission Tübingen, mit zugehörigen Briefen und Korrespondenzen.",
+      "untereintraege": [
+        {
+          "rawText": "Mit Briefen von Stadtpfarrer Finkh, Dekan Elsässer, Wilhelm Eisenmann. 1910ff",
+          "titel": "Briefe von Finkh, Elsässer, Wilhelm Eisenmann",
+          "beschreibung": "Briefe von Stadtpfarrer Finkh, Dekan Elsässer, Wilhelm Eisenmann",
+          "zeitraum": "1910ff",
+          "beteiligte": [
+            {
+              "name": "Finkh",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Dekan Elsässer",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Wilhelm Eisenmann",
+              "rolle": "Absender",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Pfarrer Theophil Wurm (Evang. Gesellschaft Stuttgart) an Dekan Elsässer. 1904 - 1906",
+          "titel": "Brief: Pfarrer Theophil Wurm an Dekan Elsässer",
+          "zeitraum": "1904 - 1906",
+          "beteiligte": [
+            {
+              "name": "Theophil Wurm",
+              "rolle": "Absender",
+              "entity": "Person",
+              "zusatz": "Pfarrer (Evang. Gesellschaft Stuttgart)"
+            },
+            {
+              "name": "Dekan Elsässer",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Pfarrer Kohler und Horch, Süddeutscher Evang. Jünglingsbund, Briefe an Schlatter. 1908 - 1914",
+          "titel": "Briefe: Pfarrer Kohler und Horch (Süddeutscher Evang. Jünglingsbund) an Schlatter",
+          "zeitraum": "1908 - 1914",
+          "beteiligte": [
+            {
+              "name": "Pfarrer Kohler",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Horch",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Schlatter",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_065.json",
+      "_pageNumber": "41"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "m) Tübinger Zeit I",
+      "rawText": "168/2: Haus Österberg 2\n\n10 Briefe von Jakob Ziegler vom Württ. Altfreundeverband. 6.11.1907 - 12.5.1908",
+      "nummer": "168/2",
+      "titel": "Haus Österberg 2",
+      "beschreibung": "Unterlage betreffend Haus Österberg 2; enthält Briefe von Jakob Ziegler (Württ. Altfreundeverband).",
+      "untereintraege": [
+        {
+          "rawText": "10 Briefe von Jakob Ziegler vom Württ. Altfreundeverband. 6.11.1907 - 12.5.1908",
+          "titel": "10 Briefe von Jakob Ziegler (Württ. Altfreundeverband)",
+          "umfang": "10 Briefe",
+          "zeitraum": "6.11.1907 - 12.5.1908",
+          "beteiligte": [
+            {
+              "name": "Jakob Ziegler",
+              "rolle": "Absender",
+              "entity": "Person",
+              "zusatz": "Württ. Altfreundeverband"
+            }
+          ],
+          "typ": "Brief"
+        }
+      ],
+      "_quelldatei": "page_065.json",
+      "_pageNumber": "41"
+    }
+  ],
+  "notes": "Seitenzahl im Original: 41. OCR erfasste Fußnote/Seitenzahl '41'. Keine weitere Überschrift auf der Seite außer Unterkategorie 'm) Tübinger Zeit I'."
+}

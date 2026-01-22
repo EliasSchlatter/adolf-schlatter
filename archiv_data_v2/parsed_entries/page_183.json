@@ -1,0 +1,371 @@
+{
+  "sourceFile": "page_183.json",
+  "pageNumber": "159",
+  "context": {
+    "teil": "Anhang",
+    "sektion": "Abschnitt II: Register",
+    "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+    "unterkategorie": "d) Briefe mit biographischer Bedeutung"
+  },
+  "entriesCount": 17,
+  "entries": [
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Bensow, Oskar\nBriefe an Schlatter                       4 Briefe                 425",
+      "nummer": "425",
+      "titel": "Bensow, Oskar",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "4 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_183.json",
+      "_pageNumber": "159"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Bertholet, Alfred\nBriefe an Schlatter                       2 Briefe                 425",
+      "nummer": "425",
+      "titel": "Bertholet, Alfred",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_183.json",
+      "_pageNumber": "159"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Beth, Karl\nBriefe an Schlatter                       1 Brief                  425",
+      "nummer": "425",
+      "titel": "Beth, Karl",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_183.json",
+      "_pageNumber": "159"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Bodelschwingh, Friedrich von (sen.)\na) Briefe an Schlatter                    47 Briefe               1301; 1302",
+      "nummer": "1301; 1302",
+      "titel": "Bodelschwingh, Friedrich von (sen.) — a) Briefe an Schlatter",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "47 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_183.json",
+      "_pageNumber": "159"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Bodelschwingh, Friedrich von (sen.)\nb) Briefe von Schlatter                   12 Briefe               1202",
+      "nummer": "1202",
+      "titel": "Bodelschwingh, Friedrich von (sen.) — b) Briefe von Schlatter",
+      "beschreibung": "Briefe von Schlatter",
+      "typ": "Brief",
+      "umfang": "12 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_183.json",
+      "_pageNumber": "159"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Bodelschwingh, Friedrich von (jun.)\na) Briefe an Schlatter                    3 Briefe                1303; 695",
+      "nummer": "1303; 695",
+      "titel": "Bodelschwingh, Friedrich von (jun.) — a) Briefe an Schlatter",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "3 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_183.json",
+      "_pageNumber": "159"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Bodelschwingh, Friedrich von (jun.)\nb) Briefe von Schlatter                   9 Briefe                1203",
+      "nummer": "1203",
+      "titel": "Bodelschwingh, Friedrich von (jun.) — b) Briefe von Schlatter",
+      "beschreibung": "Briefe von Schlatter",
+      "typ": "Brief",
+      "umfang": "9 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_183.json",
+      "_pageNumber": "159"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Boehmer, Julius\nBriefe an Schlatter                       6 Briefe                425",
+      "nummer": "425",
+      "titel": "Boehmer, Julius",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "6 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_183.json",
+      "_pageNumber": "159"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Bolliger, Adolf\na) Briefe an Schlatter                    79 Briefe               425",
+      "nummer": "425",
+      "titel": "Bolliger, Adolf — a) Briefe an Schlatter",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "79 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_183.json",
+      "_pageNumber": "159"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Bolliger, Adolf\nb) Briefe von Schlatter                   1 Brief                 420",
+      "nummer": "420",
+      "titel": "Bolliger, Adolf — b) Briefe von Schlatter",
+      "beschreibung": "Briefe von Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_183.json",
+      "_pageNumber": "159"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Bonwetsch, Nathanael Werner\nBriefe an Schlatter                       5 Briefe                425",
+      "nummer": "425",
+      "titel": "Bonwetsch, Nathanael Werner",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "5 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_183.json",
+      "_pageNumber": "159"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Boor, Werner de\nBriefe an Schlatter                       11 Briefe               425",
+      "nummer": "425",
+      "titel": "Boor, Werner de",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "11 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_183.json",
+      "_pageNumber": "159"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Bornhäuser, Karl\nBriefe an Schlatter                       35 Briefe               425",
+      "nummer": "425",
+      "titel": "Bornhäuser, Karl",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "35 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_183.json",
+      "_pageNumber": "159"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Bornkamm, Heinrich\na) Briefe an Schlatter                    6 Briefe                425",
+      "nummer": "425",
+      "titel": "Bornkamm, Heinrich — a) Briefe an Schlatter",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "6 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_183.json",
+      "_pageNumber": "159"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Bornkamm, Heinrich\nb) Briefe von Schlatter                   2 Briefe                1204",
+      "nummer": "1204",
+      "titel": "Bornkamm, Heinrich — b) Briefe von Schlatter",
+      "beschreibung": "Briefe von Schlatter",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_183.json",
+      "_pageNumber": "159"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Brandt, Theodor\nBriefe an Schlatter                       3 Briefe                425",
+      "nummer": "425",
+      "titel": "Brandt, Theodor",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "3 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_183.json",
+      "_pageNumber": "159"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "d) Briefe mit biographischer Bedeutung",
+      "rawText": "Brunner, Emil\nBriefe an Schlatter                       5 Briefe                425",
+      "nummer": "425",
+      "titel": "Brunner, Emil",
+      "beschreibung": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "5 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_183.json",
+      "_pageNumber": "159"
+    }
+  ],
+  "notes": "Kopfzeile: 'Anhang Abschnitt II: Register   Ben - Bru'. Blattnummer unten: 159. Keine neuen Überschriften auf dieser Seite."
+}

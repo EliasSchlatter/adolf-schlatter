@@ -1,0 +1,199 @@
+{
+  "sourceFile": "page_063.json",
+  "pageNumber": "39",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+    "unterabschnitt": "1. Zur Person",
+    "unterkategorie": "d) Gedichte und anderes; e) Biographische Aufzeichnungen von Freunden und Verwandten; f) Das Begräbnis Schlatters; g) Kirchendienst"
+  },
+  "entriesCount": 4,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "d) Gedichte und anderes; e) Biographische Aufzeichnungen von Freunden und Verwandten; f) Das Begräbnis Schlatters; g) Kirchendienst",
+      "rawText": "d) Nr. 159: Gedichte und anderes\n\nManuskript des 12jährigen. Gedichte deutscher und schweizerischer Dichter. Heft 1864/1865\n\nTabellen von Blumen und Pflanzen",
+      "nummer": "159",
+      "titel": "Gedichte und anderes",
+      "beschreibung": "Manuskript des 12jährigen; Gedichte deutscher und schweizerischer Dichter. Heft 1864/1865. Zusätzlich: Tabellen von Blumen und Pflanzen.",
+      "typ": "Manuskript",
+      "zeitraum": "1864-1865",
+      "untereintraege": [
+        {
+          "rawText": "Manuskript des 12jährigen. Gedichte deutscher und schweizerischer Dichter. Heft 1864/1865",
+          "titel": "Manuskript (Gedichte deutscher und schweizerischer Dichter)",
+          "beschreibung": "Heft des 12jährigen, enthält Gedichte deutscher und schweizerischer Dichter.",
+          "zeitraum": "1864-1865",
+          "typ": "Manuskript"
+        },
+        {
+          "rawText": "Tabellen von Blumen und Pflanzen",
+          "titel": "Tabellen von Blumen und Pflanzen",
+          "beschreibung": "Tabellarische Zusammenstellungen zu Blumen und Pflanzen.",
+          "typ": "Material"
+        }
+      ],
+      "_quelldatei": "page_063.json",
+      "_pageNumber": "39"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "d) Gedichte und anderes; e) Biographische Aufzeichnungen von Freunden und Verwandten; f) Das Begräbnis Schlatters; g) Kirchendienst",
+      "rawText": "e) Nr. 160: Biographische Aufzeichnungen von Freunden und Verwandten\n\nMoritaten zum 85. Geburtstag von Adolf Schlatter und zum 50. Geburtstag von Sohn Theodor. 1902.1937\n\nStudentengedichte über Adolf Schlatter\n\nG. Lang (Komtal), Erinnerungen an Schlatter, nach 1938",
+      "nummer": "160",
+      "titel": "Biographische Aufzeichnungen von Freunden und Verwandten",
+      "beschreibung": "Sammlung biographischer Aufzeichnungen, Erinnerungen und Gedichte von Freunden und Verwandten.",
+      "typ": "Sammlung",
+      "zeitraum": "1902-1937",
+      "untereintraege": [
+        {
+          "rawText": "Moritaten zum 85. Geburtstag von Adolf Schlatter und zum 50. Geburtstag von Sohn Theodor. 1902.1937",
+          "titel": "Moritaten zu Jubiläen",
+          "beschreibung": "Moritaten zum 85. Geburtstag von Adolf Schlatter und zum 50. Geburtstag seines Sohnes Theodor.",
+          "zeitraum": "1902-1937"
+        },
+        {
+          "rawText": "Studentengedichte über Adolf Schlatter",
+          "titel": "Studentengedichte über Adolf Schlatter",
+          "beschreibung": "Gedichte von Studenten über Adolf Schlatter.",
+          "typ": "Druckschrift"
+        },
+        {
+          "rawText": "G. Lang (Komtal), Erinnerungen an Schlatter, nach 1938",
+          "titel": "Erinnerungen von G. Lang",
+          "beschreibung": "Erinnerungen an Schlatter von G. Lang (Komtal). Kennzeichnung: nach 1938.",
+          "beteiligte": [
+            {
+              "name": "G. Lang",
+              "rolle": "Autor",
+              "entity": "Person",
+              "zusatz": "Komtal"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_063.json",
+      "_pageNumber": "39"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "d) Gedichte und anderes; e) Biographische Aufzeichnungen von Freunden und Verwandten; f) Das Begräbnis Schlatters; g) Kirchendienst",
+      "rawText": "f) Nr. 161: Das Begräbnis Schlatters\n\nTodesanzeige, Feier am Grabe. 1938\n\nErste Nachrufe aus der kirchlichen und weltlichen Presse",
+      "nummer": "161",
+      "titel": "Das Begräbnis Schlatters",
+      "beschreibung": "Materialien und Presseberichte zum Begräbnis von Adolf Schlatter.",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "Todesanzeige, Feier am Grabe. 1938",
+          "titel": "Todesanzeige und Feier am Grabe",
+          "beschreibung": "Todesanzeige und Unterlagen zur Feier am Grab.",
+          "jahr": 1938
+        },
+        {
+          "rawText": "Erste Nachrufe aus der kirchlichen und weltlichen Presse",
+          "titel": "Erste Nachrufe",
+          "beschreibung": "Erste Nachrufe aus kirchlicher und weltlicher Presse.",
+          "typ": "Material"
+        }
+      ],
+      "_quelldatei": "page_063.json",
+      "_pageNumber": "39"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "d) Gedichte und anderes; e) Biographische Aufzeichnungen von Freunden und Verwandten; f) Das Begräbnis Schlatters; g) Kirchendienst",
+      "rawText": "g) Nr. 162: Kirchendienst\n\nUrkunden u. a. betreffend Pfarrdienst in Kilchberg, Neumünster und Kesswil.\nDazu: 25 Briefe an, 1 Brief von Schlatter\n\nVikariat in Kilchberg. 10.5.1875\n\nDiakonat in Zürich-Neumünster. 30.8.1875 - 31.12.1876\n\nAbschied von Neumünster. 8.1.1877\n\nUnterlagen zur Wiederbesetzung. 1877\n\n2 nachträgliche Briefe an Schlatter aus Neumünster. 1878\n\nPfarrer in Kesswil-Uttweil. 22.1.1877\n\nBrautstand; darunter: Sept. 1877\n1 Brief von Schlatter an seine Braut Okt. 1877\n1 Brief von Bruder Theodor 9.11.1877\n\nMagd Maria Keller:\n5 Briefe an Schlatter vom Armenreferat Schaffhausen,\n2 Briefe von Maria Keller. 1879\n\n17 Briefe an Schlatter, u. a. auf 1877.1878\nseine Anfragen betreffend Helfer 1880\nim Pfarramt Kesswil",
+      "nummer": "162",
+      "titel": "Kirchendienst",
+      "beschreibung": "Urkunden und Schreiben betreffend Pfarrdienst in Kilchberg, Neumünster und Kesswil. Beigefügt umfangreicher Briefbestand (insgesamt 25 Briefe an Schlatter, 1 Brief von Schlatter).",
+      "typ": "Urkunde",
+      "umfang": "25 Briefe an, 1 Brief von Schlatter (zusätzlich diverse Urkunden)",
+      "untereintraege": [
+        {
+          "rawText": "Vikariat in Kilchberg. 10.5.1875",
+          "titel": "Vikariat in Kilchberg",
+          "beschreibung": "Unterlagen zum Vikariat in Kilchberg.",
+          "datum": "1875-05-10"
+        },
+        {
+          "rawText": "Diakonat in Zürich-Neumünster. 30.8.1875 - 31.12.1876",
+          "titel": "Diakonat in Zürich-Neumünster",
+          "beschreibung": "Unterlagen zum Diakonat in Zürich-Neumünster.",
+          "zeitraum": "30.08.1875 - 31.12.1876"
+        },
+        {
+          "rawText": "Abschied von Neumünster. 8.1.1877",
+          "titel": "Abschied von Neumünster",
+          "datum": "1877-01-08"
+        },
+        {
+          "rawText": "Unterlagen zur Wiederbesetzung. 1877",
+          "titel": "Unterlagen zur Wiederbesetzung",
+          "jahr": 1877
+        },
+        {
+          "rawText": "2 nachträgliche Briefe an Schlatter aus Neumünster. 1878",
+          "titel": "2 nachträgliche Briefe aus Neumünster",
+          "beschreibung": "Zwei nachträgliche Briefe an Schlatter aus Neumünster.",
+          "jahr": 1878,
+          "umfang": "2 Briefe"
+        },
+        {
+          "rawText": "Pfarrer in Kesswil-Uttweil. 22.1.1877",
+          "titel": "Pfarrer in Kesswil-Uttweil",
+          "datum": "1877-01-22"
+        },
+        {
+          "rawText": "Brautstand; darunter: Sept. 1877",
+          "titel": "Brautstand",
+          "beschreibung": "Unterlagen zum Brautstand; darunter Eintrag Sept. 1877.",
+          "jahr": 1877
+        },
+        {
+          "rawText": "1 Brief von Schlatter an seine Braut Okt. 1877",
+          "titel": "Brief von Schlatter an seine Braut",
+          "beschreibung": "Brief an die Braut, Oktober 1877.",
+          "jahr": 1877
+        },
+        {
+          "rawText": "1 Brief von Bruder Theodor 9.11.1877",
+          "titel": "Brief von Bruder Theodor",
+          "datum": "1877-11-09",
+          "beteiligte": [
+            {
+              "name": "Theodor (Bruder)",
+              "rolle": "Absender",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Magd Maria Keller:\n5 Briefe an Schlatter vom Armenreferat Schaffhausen,\n2 Briefe von Maria Keller. 1879",
+          "titel": "Schreiben betreffend Maria Keller",
+          "beschreibung": "Fünf Briefe an Schlatter vom Armenreferat Schaffhausen; zwei Briefe von Maria Keller (1879).",
+          "jahr": 1879,
+          "umfang": "5 Briefe (Armenreferat Schaffhausen); 2 Briefe (Maria Keller)"
+        },
+        {
+          "rawText": "17 Briefe an Schlatter, u. a. auf 1877.1878\nseine Anfragen betreffend Helfer 1880\nim Pfarramt Kesswil",
+          "titel": "17 Briefe an Schlatter; Anfragen betreffend Helfer",
+          "beschreibung": "17 Briefe an Schlatter (u. a. aus 1877-1878). Enthält Anfragen betreffend Helfer (1880) im Pfarramt Kesswil.",
+          "zeitraum": "1877-1878",
+          "anmerkung": "Enthält zudem Anfragen betreffend Helfer aus 1880."
+        }
+      ],
+      "_quelldatei": "page_063.json",
+      "_pageNumber": "39"
+    }
+  ],
+  "notes": "Seite 39 (Datei page_063.png). OCR-Zeilen enthalten einige Punkte statt Bindestriche/Beistriche (z. B. '1902.1937' interpretiert als 1902-1937)."
+}

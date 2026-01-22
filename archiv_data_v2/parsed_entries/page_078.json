@@ -1,0 +1,271 @@
+{
+  "sourceFile": "page_078.json",
+  "pageNumber": "54",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+    "unterabschnitt": "7. Sammlungen. Scholien. Arbeiten zu Erläuterungen und Kommentaren des Neuen Testaments",
+    "unterkategorie": "a) Synoptiker"
+  },
+  "entriesCount": 15,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "7. Sammlungen. Scholien. Arbeiten zu Erläuterungen und Kommentaren des Neuen Testaments",
+      "unterkategorie": "a) Synoptiker",
+      "rawText": "Nr. 304: Unbekannter Verfasser zu:\nAndachten. Oskar-Günther-Verlag, Dresden 1927.\nGesammelte Besprechungen aus 19 kirchlichen Blättern und\nZeitschriften.",
+      "nummer": "304",
+      "titel": "Unbekannter Verfasser zu: Andachten",
+      "beschreibung": "Rezension/Besprechung des Buches 'Andachten'. Gesammelte Besprechungen aus 19 kirchlichen Blättern und Zeitschriften. Verlag: Oskar-Günther-Verlag, Dresden.",
+      "typ": "Artikel",
+      "verlag": "Oskar-Günther-Verlag",
+      "ort": "Dresden",
+      "jahr": 1927,
+      "_quelldatei": "page_078.json",
+      "_pageNumber": "54"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "7. Sammlungen. Scholien. Arbeiten zu Erläuterungen und Kommentaren des Neuen Testaments",
+      "unterkategorie": "a) Synoptiker",
+      "rawText": "305: Rudolf Bultmann \"Mit ergebenstem Gruß\" zu:\nDer Glaube im Neuen Testament.\nCalwer Verlag 1927.\nAus: Theol. Literaturzeitung, 1929 Nr. 9",
+      "nummer": "305",
+      "titel": "\"Mit ergebenstem Gruß\"",
+      "beschreibung": "Rezension von Rudolf Bultmann zum Buch 'Der Glaube im Neuen Testament' (Calwer Verlag 1927). Erschienen in: Theologische Literaturzeitung, 1929 Nr. 9.",
+      "typ": "Artikel",
+      "beteiligte": [
+        {
+          "name": "Rudolf Bultmann",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Der Glaube im Neuen Testament",
+          "rolle": "Erwähnt"
+        }
+      ],
+      "verlag": "Calwer Verlag",
+      "jahr": 1929,
+      "_quelldatei": "page_078.json",
+      "_pageNumber": "54"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "7. Sammlungen. Scholien. Arbeiten zu Erläuterungen und Kommentaren des Neuen Testaments",
+      "unterkategorie": "a) Synoptiker",
+      "rawText": "306: Wilhelm Michaelis zu:\nThe Church in the New Testament Period; translated by Paul\nP. Levertoff. London, S.P.C.K., 1955. XII + 335 S. 21 sh.\nTheol. Zeitschrift, Verlag Friedrich Reinhardt AG. Basel,\n13 - 1957",
+      "nummer": "306",
+      "titel": "Rezension zu: The Church in the New Testament Period",
+      "beschreibung": "Rezension von Wilhelm Michaelis. Buch: The Church in the New Testament Period, Übersetzung: Paul P. Levertoff. Verlag: S.P.C.K., London, 1955. Umfang: XII + 335 S. erschienen in Theol. Zeitschrift (Verlag Friedrich Reinhardt AG, Basel). (Hinweis: OCR-Zeile '13 - 1957' unklar; vermutlich 1957.)",
+      "typ": "Artikel",
+      "beteiligte": [
+        {
+          "name": "Wilhelm Michaelis",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Paul P. Levertoff",
+          "rolle": "Übersetzer",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "S.P.C.K.; Theol. Zeitschrift (Friedrich Reinhardt AG)",
+      "ort": "London; Basel",
+      "jahr": 1957,
+      "umfang": "XII + 335 S.",
+      "_quelldatei": "page_078.json",
+      "_pageNumber": "54"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "7. Sammlungen. Scholien. Arbeiten zu Erläuterungen und Kommentaren des Neuen Testaments",
+      "unterkategorie": "a) Synoptiker",
+      "rawText": "307: Horst Beintker zu:\nDie Geschichte des Christus. Die Theologie der Apostel. Das\nChristliche Dogma.\nNachdruck der jeweils 3. Auflage, Calwer Verlag 1977.\nAus: Theol. Literaturzeitung, 1979 Nr. 1",
+      "nummer": "307",
+      "titel": "Rezension zu: Die Geschichte des Christus. Die Theologie der Apostel. Das Christliche Dogma",
+      "beschreibung": "Rezension von Horst Beintker. Nachdruck (jeweils 3. Auflage) erschienen im Calwer Verlag 1977. Erschienen in: Theologische Literaturzeitung, 1979 Nr. 1.",
+      "typ": "Artikel",
+      "beteiligte": [
+        {
+          "name": "Horst Beintker",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Calwer Verlag",
+      "jahr": 1979,
+      "_quelldatei": "page_078.json",
+      "_pageNumber": "54"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "7. Sammlungen. Scholien. Arbeiten zu Erläuterungen und Kommentaren des Neuen Testaments",
+      "unterkategorie": "a) Synoptiker",
+      "rawText": "308: Moses Buttenwieser zu:\nIsraels Geschichte von Alexander dem Großen bis Hadrian.\nCalwer Verlag 1901\nAus: Americ. Journal of Theology, October 1902 issue",
+      "nummer": "308",
+      "titel": "Rezension zu: Israels Geschichte von Alexander dem Großen bis Hadrian",
+      "beschreibung": "Rezension von Moses Buttenwieser. Buch: 'Israels Geschichte von Alexander dem Großen bis Hadrian' (Calwer Verlag 1901). Erschienen in: American Journal of Theology, October 1902 (Heft).",
+      "typ": "Artikel",
+      "beteiligte": [
+        {
+          "name": "Moses Buttenwieser",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Calwer Verlag",
+      "jahr": 1902,
+      "anmerkung": "Monatsangabe 'October' aus OCR; nur Jahr als strukturierte Jahresangabe gesetzt.",
+      "_quelldatei": "page_078.json",
+      "_pageNumber": "54"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "7. Sammlungen. Scholien. Arbeiten zu Erläuterungen und Kommentaren des Neuen Testaments",
+      "unterkategorie": "a) Synoptiker",
+      "rawText": "Nr. 311: Kommentar zum Matthäus-Evangelium                             1 Bd.",
+      "nummer": "311",
+      "titel": "Kommentar zum Matthäus-Evangelium",
+      "beschreibung": "Kommentar zum Matthäus-Evangelium.",
+      "typ": "Kommentar",
+      "umfang": "1 Bd.",
+      "_quelldatei": "page_078.json",
+      "_pageNumber": "54"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "7. Sammlungen. Scholien. Arbeiten zu Erläuterungen und Kommentaren des Neuen Testaments",
+      "unterkategorie": "a) Synoptiker",
+      "rawText": "312/1: Sammlungen zu Matthäus Kapitel 1 - 13                         1 Bd.",
+      "nummer": "312/1",
+      "titel": "Sammlungen zu Matthäus Kapitel 1 - 13",
+      "beschreibung": "Sammlungen und Material zu Matthäus Kapitel 1-13.",
+      "typ": "Sammlung",
+      "umfang": "1 Bd.",
+      "_quelldatei": "page_078.json",
+      "_pageNumber": "54"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "7. Sammlungen. Scholien. Arbeiten zu Erläuterungen und Kommentaren des Neuen Testaments",
+      "unterkategorie": "a) Synoptiker",
+      "rawText": "312/2: Sammlungen zu Matthäus Kapitel 1 - 28                         1 Bd.",
+      "nummer": "312/2",
+      "titel": "Sammlungen zu Matthäus Kapitel 1 - 28",
+      "beschreibung": "Sammlungen und Material zu Matthäus Kapitel 1-28.",
+      "typ": "Sammlung",
+      "umfang": "1 Bd.",
+      "_quelldatei": "page_078.json",
+      "_pageNumber": "54"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "7. Sammlungen. Scholien. Arbeiten zu Erläuterungen und Kommentaren des Neuen Testaments",
+      "unterkategorie": "a) Synoptiker",
+      "rawText": "312/3: Sammlungen zu Matthäus Kapitel 14 ff                          1 Bd.",
+      "nummer": "312/3",
+      "titel": "Sammlungen zu Matthäus Kapitel 14 ff.",
+      "beschreibung": "Sammlungen und Material zu Matthäus Kapitel 14 ff.",
+      "typ": "Sammlung",
+      "umfang": "1 Bd.",
+      "_quelldatei": "page_078.json",
+      "_pageNumber": "54"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "7. Sammlungen. Scholien. Arbeiten zu Erläuterungen und Kommentaren des Neuen Testaments",
+      "unterkategorie": "a) Synoptiker",
+      "rawText": "312/4: Scholien zum Matthäus-Evangelium                              1 Bd.",
+      "nummer": "312/4",
+      "titel": "Scholien zum Matthäus-Evangelium",
+      "beschreibung": "Scholien/Anmerkungen zum Matthäus-Evangelium.",
+      "typ": "Sammlung",
+      "umfang": "1 Bd.",
+      "_quelldatei": "page_078.json",
+      "_pageNumber": "54"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "7. Sammlungen. Scholien. Arbeiten zu Erläuterungen und Kommentaren des Neuen Testaments",
+      "unterkategorie": "a) Synoptiker",
+      "rawText": "313/1: Studien zur Doppelsprachigkeit des Matthäus-\n       Evangeliums                                                 1 Bd.",
+      "nummer": "313/1",
+      "titel": "Studien zur Doppelsprachigkeit des Matthäus-Evangeliums",
+      "beschreibung": "Studien zur Doppelsprachigkeit des Matthäus-Evangeliums.",
+      "typ": "Studie",
+      "umfang": "1 Bd.",
+      "_quelldatei": "page_078.json",
+      "_pageNumber": "54"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "7. Sammlungen. Scholien. Arbeiten zu Erläuterungen und Kommentaren des Neuen Testaments",
+      "unterkategorie": "a) Synoptiker",
+      "rawText": "313/2: Studien zur Zweisprachigkeit des Matthäus- und\n       Markus-Evangeliums und des Lukas                            1 Bd.",
+      "nummer": "313/2",
+      "titel": "Studien zur Zweisprachigkeit des Matthäus-, Markus- und Lukas-Evangeliums",
+      "beschreibung": "Studien zur Zweisprachigkeit der Evangelien Matthäus, Markus und Lukas.",
+      "typ": "Studie",
+      "umfang": "1 Bd.",
+      "_quelldatei": "page_078.json",
+      "_pageNumber": "54"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "7. Sammlungen. Scholien. Arbeiten zu Erläuterungen und Kommentaren des Neuen Testaments",
+      "unterkategorie": "a) Synoptiker",
+      "rawText": "314: Exegetische Sammlungen zum Markus-Evangelium                 3 Bde.",
+      "nummer": "314",
+      "titel": "Exegetische Sammlungen zum Markus-Evangelium",
+      "beschreibung": "Exegetische Sammlungen zum Markus-Evangelium.",
+      "typ": "Sammlung",
+      "umfang": "3 Bde.",
+      "_quelldatei": "page_078.json",
+      "_pageNumber": "54"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "7. Sammlungen. Scholien. Arbeiten zu Erläuterungen und Kommentaren des Neuen Testaments",
+      "unterkategorie": "a) Synoptiker",
+      "rawText": "315/1: Konzeption des Lukaskommentars (?)                         1 Bd.",
+      "nummer": "315/1",
+      "titel": "Konzeption des Lukaskommentars (?)",
+      "beschreibung": "Vermutliche Konzeption/Entwurf des Lukaskommentars (Fragezeichen im Original).",
+      "typ": "Sammlung",
+      "umfang": "1 Bd.",
+      "anmerkung": "Fragezeichen im Titel steht im OCR-Text.",
+      "_quelldatei": "page_078.json",
+      "_pageNumber": "54"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "7. Sammlungen. Scholien. Arbeiten zu Erläuterungen und Kommentaren des Neuen Testaments",
+      "unterkategorie": "a) Synoptiker",
+      "rawText": "315/2: Quellen des Sprachschatzes des Lukas-Evangeliums           1 Bd.",
+      "nummer": "315/2",
+      "titel": "Quellen des Sprachschatzes des Lukas-Evangeliums",
+      "beschreibung": "Sammlung zu den Quellen des Sprachschatzes des Lukas-Evangeliums.",
+      "typ": "Sammlung",
+      "umfang": "1 Bd.",
+      "_quelldatei": "page_078.json",
+      "_pageNumber": "54"
+    }
+  ],
+  "notes": "OCR: Einige Zeilen unklar (z.B. '13 - 1957' in Eintrag 306). 'Americ.' ist abgekürzt. Seitenzahl '54' als Fußnote."
+}

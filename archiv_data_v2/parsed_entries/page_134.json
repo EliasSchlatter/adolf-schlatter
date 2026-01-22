@@ -1,0 +1,272 @@
+{
+  "sourceFile": "page_134.json",
+  "pageNumber": "110",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 16,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 891: Festschriften \"70 Jahre ...\" und \"100 Jahre Freies Gymnasium\nin Bern\". 1934 und 1959. Auszüge mit Erwähnungen von Schlatter",
+      "nummer": "891",
+      "titel": "Festschriften \"70 Jahre ...\" und \"100 Jahre Freies Gymnasium in Bern\"",
+      "beschreibung": "Auszüge mit Erwähnungen von Schlatter",
+      "typ": "Druckschrift",
+      "zeitraum": "1934, 1959",
+      "_quelldatei": "page_134.json",
+      "_pageNumber": "110"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "892/1: \"Adolf Schlatter stud. theol. Rückblick auf meinen Entwick-\nlungsgang. Basel, den 6. Jan. 1875.\" 6 Blätter",
+      "nummer": "892/1",
+      "titel": "Adolf Schlatter stud. theol. Rückblick auf meinen Entwicklungsgang",
+      "beschreibung": "Basel, den 6. Jan. 1875. 6 Blätter",
+      "typ": "Manuskript",
+      "datum": "1875-01-06",
+      "umfang": "6 Blätter",
+      "_quelldatei": "page_134.json",
+      "_pageNumber": "110"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "892/2: \"Adolf Schlatter von St. Gallen.\" Examen, Generalzensur Note I\nAus: Bericht der Prüfungsbehörde 31.5.1875 über Ergebnis der\nPrüfung der \"am 3. Mai 1975 für wahlfähig erklärten\" Kan-\ndidaten des Predigtamtes. Tag der Ordination 9. Mai 1875",
+      "nummer": "892/2",
+      "titel": "\"Adolf Schlatter von St. Gallen.\" Examen, Generalzensur Note I",
+      "beschreibung": "Aus: Bericht der Prüfungsbehörde über Ergebnis der Prüfung der \"am 3. Mai 1975 für wahlfähig erklärten\" Kandidaten des Predigtamtes. Tag der Ordination 9. Mai 1875",
+      "typ": "Material",
+      "datum": "1875-05-31",
+      "anmerkung": "OCR enthält offenbar eine Datumsungereimtheit: Text nennt 'am 3. Mai 1975' (wahrscheinlich 1875).",
+      "_quelldatei": "page_134.json",
+      "_pageNumber": "110"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "893: Amtliche Unterlagen betr. Adolf Schlatter:\nVikariat in Kilchberg 1875, Diakonat in Zürich-Neumünster 1876",
+      "nummer": "893",
+      "titel": "Amtliche Unterlagen betr. Adolf Schlatter",
+      "beschreibung": "Vikariat in Kilchberg 1875; Diakonat in Zürich-Neumünster 1876",
+      "typ": "Material",
+      "zeitraum": "1875-1876",
+      "_quelldatei": "page_134.json",
+      "_pageNumber": "110"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "894/1: Schlatter, Adolf, Kurzbiographie.",
+      "nummer": "894/1",
+      "titel": "Schlatter, Adolf, Kurzbiographie",
+      "typ": "Notiz",
+      "_quelldatei": "page_134.json",
+      "_pageNumber": "110"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "894/2: Ortsliste Zürich-Neumünster.\nAus: Züricher Pfarrerbuch 1953",
+      "nummer": "894/2",
+      "titel": "Ortsliste Zürich-Neumünster",
+      "beschreibung": "Aus: Züricher Pfarrerbuch 1953",
+      "typ": "Verzeichnis/Aufstellung",
+      "jahr": 1953,
+      "_quelldatei": "page_134.json",
+      "_pageNumber": "110"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "895: Adolf Schlatter, Rückblick.\nCalwer Verlag 1977. Teilkopie des Staatsarchivs Zürich",
+      "nummer": "895",
+      "titel": "Adolf Schlatter, Rückblick",
+      "verlag": "Calwer Verlag",
+      "beschreibung": "Teilkopie des Staatsarchivs Zürich",
+      "typ": "Buch",
+      "jahr": 1977,
+      "_quelldatei": "page_134.json",
+      "_pageNumber": "110"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "896/1: Fröhlich, Edmund, Kurzbiographie.",
+      "nummer": "896/1",
+      "titel": "Fröhlich, Edmund, Kurzbiographie",
+      "typ": "Notiz",
+      "_quelldatei": "page_134.json",
+      "_pageNumber": "110"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "896/2: Ortsliste Zürich St. Anna.\nAus: Züricher Pfarrerbuch 1953",
+      "nummer": "896/2",
+      "titel": "Ortsliste Zürich St. Anna",
+      "beschreibung": "Aus: Züricher Pfarrerbuch 1953",
+      "typ": "Verzeichnis/Aufstellung",
+      "jahr": 1953,
+      "_quelldatei": "page_134.json",
+      "_pageNumber": "110"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "896/3: Bürgerverzeichnis Stadt Zürich. 1892",
+      "nummer": "896/3",
+      "titel": "Bürgerverzeichnis Stadt Zürich",
+      "typ": "Verzeichnis/Aufstellung",
+      "jahr": 1892,
+      "_quelldatei": "page_134.json",
+      "_pageNumber": "110"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "896/4: Karl Wetli, Gedächtnisrede auf Herrn Pfarrer Edmund Fröhlich.\n9.10.1898",
+      "nummer": "896/4",
+      "titel": "Karl Wetli, Gedächtnisrede auf Herrn Pfarrer Edmund Fröhlich",
+      "typ": "Rede",
+      "datum": "1898-10-09",
+      "beteiligte": [
+        {
+          "name": "Karl Wetli",
+          "rolle": "Redner",
+          "entity": "Person"
+        },
+        {
+          "name": "Edmund Fröhlich",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_134.json",
+      "_pageNumber": "110"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "897/1: Übernahme der Kirche St. Anna durch die Evang. Gesellschaft\nKanton Zürich.\nIn: Jahresberichte Evang. Gesellschaft 1873 - 1877",
+      "nummer": "897/1",
+      "titel": "Übernahme der Kirche St. Anna durch die Evang. Gesellschaft Kanton Zürich",
+      "in": "Jahresberichte Evang. Gesellschaft",
+      "zeitraum": "1873-1877",
+      "typ": "Druckschrift",
+      "_quelldatei": "page_134.json",
+      "_pageNumber": "110"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "897/2: Aufhebung des Pfarramtes St. Anna. Schreiben Evang. Gesell-\nschaft an den Kirchenrat Kanton Zürich 1.4.1930",
+      "nummer": "897/2",
+      "titel": "Aufhebung des Pfarramtes St. Anna. Schreiben Evang. Gesellschaft an den Kirchenrat Kanton Zürich",
+      "typ": "Brief",
+      "datum": "1930-04-01",
+      "beteiligte": [
+        {
+          "name": "Evang. Gesellschaft Kanton Zürich",
+          "rolle": "Absender",
+          "entity": "Institution"
+        },
+        {
+          "name": "Kirchenrat Kanton Zürich",
+          "rolle": "Adressat",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_134.json",
+      "_pageNumber": "110"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "898: Kutter, Hermann, Kurzbiographie - u. a. Pfarrer Neumünster\nZürich 1898 - 1926.\nAus: Züricher Pfarrerbuch 1953",
+      "nummer": "898",
+      "titel": "Kutter, Hermann, Kurzbiographie",
+      "beschreibung": "u. a. Pfarrer Neumünster Zürich 1898 - 1926. Aus: Züricher Pfarrerbuch 1953",
+      "typ": "Notiz",
+      "zeitraum": "1898-1926",
+      "jahr": 1953,
+      "_quelldatei": "page_134.json",
+      "_pageNumber": "110"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "899: Die Evang.-soziale Bewegung in Berlin und ihre Entwicklung ab\n1890. Notiz aus Bearbeitungsmaterial im Nachlaß von Hermann\nKutter, Zentralbibliothek Zürich.",
+      "nummer": "899",
+      "titel": "Die Evang.-soziale Bewegung in Berlin und ihre Entwicklung ab 1890",
+      "beschreibung": "Notiz aus Bearbeitungsmaterial im Nachlaß von Hermann Kutter, Zentralbibliothek Zürich.",
+      "typ": "Notiz",
+      "zeitraum": "ab 1890",
+      "beteiligte": [
+        {
+          "name": "Hermann Kutter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        },
+        {
+          "name": "Zentralbibliothek Zürich",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_134.json",
+      "_pageNumber": "110"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "900: St. Anna-Kapelle Zürich.\nIn: Jahresberichte der Evang. Gesellschaft Zürich 1900 - 1901,\nSeite 32 und 1984, Seite 4 (Rückkauf).\nVorhanden: Jahresberichte 1968 - 1983",
+      "nummer": "900",
+      "titel": "St. Anna-Kapelle Zürich",
+      "in": "Jahresberichte der Evang. Gesellschaft Zürich",
+      "beschreibung": "1900-1901, Seite 32 und 1984, Seite 4 (Rückkauf). Vorhanden: Jahresberichte 1968 - 1983",
+      "typ": "Druckschrift",
+      "seiten": "Seite 32 (1900-1901); Seite 4 (1984)",
+      "_quelldatei": "page_134.json",
+      "_pageNumber": "110"
+    }
+  ],
+  "notes": ""
+}

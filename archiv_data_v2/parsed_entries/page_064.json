@@ -1,0 +1,187 @@
+{
+  "sourceFile": "page_064.json",
+  "pageNumber": "40",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+    "unterabschnitt": "1. Zur Person",
+    "unterkategorie": "h) Berner Zeit; i) Greifswalder Zeit; k) Berliner Zeit"
+  },
+  "entriesCount": 4,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "h) Berner Zeit; i) Greifswalder Zeit; k) Berliner Zeit",
+      "rawText": "Nr. 162: Entlassung auf Wunsch. 19.3.1880/19.6.1880",
+      "nummer": "162",
+      "titel": "Entlassung auf Wunsch",
+      "beschreibung": "Datumsangaben im Eintrag: 19.3.1880 und 19.6.1880",
+      "zeitraum": "1880-03-19 - 1880-06-19",
+      "jahr": 1880,
+      "typ": "Urkunde",
+      "_quelldatei": "page_064.json",
+      "_pageNumber": "40"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "h) Berner Zeit; i) Greifswalder Zeit; k) Berliner Zeit",
+      "rawText": "Nr. 163: Urkunde betreffend Venia docendi. 5.1.1881\nEinladungsschreiben von Pfr. F. Gerber betr. Winterbibelstunde für Männer mit Auslegung des Römerbriefs durch A. Schlatter. Okt. 1885\nBrief an Schlatter vom Evang.-kirchlichen Verein Bern in \"Dankbarkeit\" für sein \"Wirken\" im \"Dienst der Kirche\". 7.5.1886\nUrkunde betreffend Wahl zum außerordentlichen Professor für Neues Testament und Systematische Theologie. 14.3.1888\nAntwortschreiben an die Evang.-Theol. Fakultät Bern. 22.12.1930",
+      "nummer": "163",
+      "titel": "Urkunde betreffend Venia docendi",
+      "datum": "1881-01-05",
+      "typ": "Urkunde",
+      "untereintraege": [
+        {
+          "rawText": "Einladungsschreiben von Pfr. F. Gerber betr. Winterbibelstunde für Männer mit Auslegung des Römerbriefs durch A. Schlatter. Okt. 1885",
+          "titel": "Einladungsschreiben betr. Winterbibelstunde für Männer (Auslegung des Römerbriefs durch A. Schlatter)",
+          "beschreibung": "Einladungsschreiben von Pfr. F. Gerber; Monat: Oktober 1885",
+          "jahr": 1885,
+          "typ": "Einladungsschreiben",
+          "beteiligte": [
+            {
+              "name": "F. Gerber",
+              "rolle": "Absender",
+              "entity": "Person",
+              "zusatz": "Pfr."
+            },
+            {
+              "name": "A. Schlatter",
+              "rolle": "Vortragender",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Brief an Schlatter vom Evang.-kirchlichen Verein Bern in \"Dankbarkeit\" für sein \"Wirken\" im \"Dienst der Kirche\". 7.5.1886",
+          "titel": "Brief an Schlatter vom Evang.-kirchlichen Verein Bern",
+          "beschreibung": "Brief mit Dankbarkeit für Schlatters Wirken im Dienst der Kirche",
+          "datum": "1886-05-07",
+          "typ": "Brief",
+          "beteiligte": [
+            {
+              "name": "Evang.-kirchlicher Verein Bern",
+              "rolle": "Absender",
+              "entity": "Organisation"
+            },
+            {
+              "name": "A. Schlatter",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Urkunde betreffend Wahl zum außerordentlichen Professor für Neues Testament und Systematische Theologie. 14.3.1888",
+          "titel": "Urkunde betreffend Wahl zum außerordentlichen Professor für Neues Testament und Systematische Theologie",
+          "datum": "1888-03-14",
+          "typ": "Urkunde"
+        },
+        {
+          "rawText": "Antwortschreiben an die Evang.-Theol. Fakultät Bern. 22.12.1930",
+          "titel": "Antwortschreiben an die Evang.-Theol. Fakultät Bern",
+          "datum": "1930-12-22",
+          "typ": "Schreiben"
+        }
+      ],
+      "_quelldatei": "page_064.json",
+      "_pageNumber": "40"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "h) Berner Zeit; i) Greifswalder Zeit; k) Berliner Zeit",
+      "rawText": "i) Greifswalder Zeit\nNr. 164: Urkunde betreffend Ernennung zum ordentlichen Professor an der Theol. Fakultät der Universität Greifswald, durch Wilhelm II., König von Preußen. 2.7.1888\nSatzungen der Greifswalder Gelehrten-Gesellschaft für Lutherforschung und neuzeitliche Geistesgeschichte. s. d.\nVerzeichnis von Schweizer Studenten in Greifswald.\n1888 - 1893",
+      "nummer": "164",
+      "titel": "Urkunde betreffend Ernennung zum ordentlichen Professor an der Theol. Fakultät der Universität Greifswald (durch Wilhelm II., König von Preußen)",
+      "datum": "1888-07-02",
+      "typ": "Urkunde",
+      "untereintraege": [
+        {
+          "rawText": "Satzungen der Greifswalder Gelehrten-Gesellschaft für Lutherforschung und neuzeitliche Geistesgeschichte. s. d.",
+          "titel": "Satzungen der Greifswalder Gelehrten-Gesellschaft für Lutherforschung und neuzeitliche Geistesgeschichte",
+          "beschreibung": "Satzungen; kein Datum angegeben (s. d.)",
+          "typ": "Satzung"
+        },
+        {
+          "rawText": "Verzeichnis von Schweizer Studenten in Greifswald. 1888 - 1893",
+          "titel": "Verzeichnis von Schweizer Studenten in Greifswald",
+          "zeitraum": "1888 - 1893",
+          "typ": "Verzeichnis"
+        }
+      ],
+      "_quelldatei": "page_064.json",
+      "_pageNumber": "40"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "h) Berner Zeit; i) Greifswalder Zeit; k) Berliner Zeit",
+      "rawText": "k) Berliner Zeit\nNr. 165: 12 Briefe von Althoff an Schlatter, 5 davon aus der Greifswalder Zeit. 9.10.1890 - 17.10.1897\nMinisterialerlaß betreffend Versetzung Schlatters an die Theol. Fakultät der Königlichen Friedrich-Wilhelms-Universität zu Berlin zu Beginn des Wintersemesters 1893/1894. 20.4.1893\nAusschreiben an Kandidaten betr. Anmeldung zur Dekanatsprüfung. 6.12.1893\nSchreiben von Schwartzkopff an Schlatter im Namen des Vorstandes des Evang. Vereins für kirchliche Zwecke in Berlin. 31.1.1897\nProtokoll der Vorstandssitzung des Evang. Vereins für kirchliche Zwecke in Berlin. 10.6.1897",
+      "nummer": "165",
+      "titel": "12 Briefe von Althoff an Schlatter (5 davon aus der Greifswalder Zeit)",
+      "beschreibung": "12 Briefe insgesamt; 5 Briefe stammen aus der Greifswalder Zeit",
+      "zeitraum": "1890-10-09 - 1897-10-17",
+      "umfang": "12 Briefe",
+      "typ": "Korrespondenz",
+      "beteiligte": [
+        {
+          "name": "Althoff",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "A. Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Ministerialerlaß betreffend Versetzung Schlatters an die Theol. Fakultät der Königlichen Friedrich-Wilhelms-Universität zu Berlin zu Beginn des Wintersemesters 1893/1894. 20.4.1893",
+          "titel": "Ministerialerlaß betreffend Versetzung Schlatters an die Theol. Fakultät der Königlichen Friedrich-Wilhelms-Universität zu Berlin",
+          "datum": "1893-04-20",
+          "typ": "Erlass"
+        },
+        {
+          "rawText": "Ausschreiben an Kandidaten betr. Anmeldung zur Dekanatsprüfung. 6.12.1893",
+          "titel": "Ausschreiben an Kandidaten betr. Anmeldung zur Dekanatsprüfung",
+          "datum": "1893-12-06",
+          "typ": "Mitteilung"
+        },
+        {
+          "rawText": "Schreiben von Schwartzkopff an Schlatter im Namen des Vorstandes des Evang. Vereins für kirchliche Zwecke in Berlin. 31.1.1897",
+          "titel": "Schreiben von Schwartzkopff an Schlatter (im Namen des Vorstandes des Evang. Vereins für kirchliche Zwecke in Berlin)",
+          "datum": "1897-01-31",
+          "typ": "Schreiben",
+          "beteiligte": [
+            {
+              "name": "Schwartzkopff",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Vorstand des Evang. Vereins für kirchliche Zwecke in Berlin",
+              "rolle": "Erwähnt",
+              "entity": "Organisation"
+            }
+          ]
+        },
+        {
+          "rawText": "Protokoll der Vorstandssitzung des Evang. Vereins für kirchliche Zwecke in Berlin. 10.6.1897",
+          "titel": "Protokoll der Vorstandssitzung des Evang. Vereins für kirchliche Zwecke in Berlin",
+          "datum": "1897-06-10",
+          "typ": "Protokoll"
+        }
+      ],
+      "_quelldatei": "page_064.json",
+      "_pageNumber": "40"
+    }
+  ],
+  "notes": "Originalseite 40 (Datei page_064.png). OCR-Text extrahiert; klare Gliederung. Erkannte neue Unterkategorien: h), i), k)."
+}

@@ -1,0 +1,360 @@
+{
+  "sourceFile": "page_097.json",
+  "pageNumber": "73",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "A Bücher",
+    "unterabschnitt": "4 Systematische Theologie und Philosophie",
+    "unterkategorie": "C Verschiedenes"
+  },
+  "entriesCount": 13,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "Nr. 513: Robert Stupperich, Vom biblischen Wort zur theologischen Er-\nkenntnis.\nBriefe Hermann Cremers an Adolf Schlatter und Friedrich von\nBodelschwingh (1893 - 1903).\nVerlagshandlung Bethel 1954",
+      "nummer": "513",
+      "titel": "Vom biblischen Wort zur theologischen Erkenntnis. Briefe Hermann Cremers an Adolf Schlatter und Friedrich von Bodelschwingh (1893-1903)",
+      "beschreibung": "Enthält Briefe von Hermann Cremer an Adolf Schlatter und Friedrich von Bodelschwingh aus den Jahren 1893-1903.",
+      "typ": "Buch",
+      "jahr": 1954,
+      "verlag": "Verlagshandlung Bethel",
+      "beteiligte": [
+        {
+          "name": "Robert Stupperich",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Hermann Cremer",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "Verfasser der Briefe"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        },
+        {
+          "name": "Friedrich von Bodelschwingh",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_097.json",
+      "_pageNumber": "73"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "514: Robert Stupperich, Briefe Adolf Schlatters an Hermann Cremer\nund Friedrich von Bodelschwingh.\nVerlagshandlung Bethel 1963",
+      "nummer": "514",
+      "titel": "Briefe Adolf Schlatters an Hermann Cremer und Friedrich von Bodelschwingh",
+      "beschreibung": "Edition von Briefen Adolf Schlatters an Hermann Cremer und Friedrich von Bodelschwingh.",
+      "typ": "Buch",
+      "jahr": 1963,
+      "verlag": "Verlagshandlung Bethel",
+      "beteiligte": [
+        {
+          "name": "Robert Stupperich",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        },
+        {
+          "name": "Hermann Cremer",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        },
+        {
+          "name": "Friedrich von Bodelschwingh",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_097.json",
+      "_pageNumber": "73"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "515: Hermann Oeser - Dora Schlatter, Briefwechsel.\nEugen Salzer-Verlag, Heilbronn 1920",
+      "nummer": "515",
+      "titel": "Briefwechsel (Hermann Oeser - Dora Schlatter)",
+      "beschreibung": "Briefwechsel zwischen Hermann Oeser und Dora Schlatter.",
+      "typ": "Korrespondenz",
+      "jahr": 1920,
+      "verlag": "Eugen Salzer-Verlag",
+      "ort": "Heilbronn",
+      "beteiligte": [
+        {
+          "name": "Hermann Oeser",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Dora Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_097.json",
+      "_pageNumber": "73"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "516: In unseres Vaters Hand. Briefe aus 5 Jahrhunderten\nDarin: 1 Brief von Schlatter an seine Tochter Ruth Hinderer.\nEvang. Verlagsanstalt, Berlin 1966",
+      "nummer": "516",
+      "titel": "In unseres Vaters Hand. Briefe aus 5 Jahrhunderten",
+      "beschreibung": "Enthält u. a. 1 Brief von Adolf Schlatter an seine Tochter Ruth Hinderer.",
+      "typ": "Sammlung",
+      "jahr": 1966,
+      "verlag": "Evang. Verlagsanstalt",
+      "ort": "Berlin",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "1 Brief an Tochter Ruth Hinderer enthalten"
+        }
+      ],
+      "_quelldatei": "page_097.json",
+      "_pageNumber": "73"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "517: Eberhard Jüngel, Tübinger Theologie im 20. Jahrhundert.\nDarin: Peter Stuhlmacher: Adolf Schlatter als Bibelausleger\nAus: Zeitschrift für Theologie und Kirche, Beiheft 4/1978",
+      "nummer": "517",
+      "titel": "Tübinger Theologie im 20. Jahrhundert",
+      "beschreibung": "Sammel- bzw. Themenband; enthält den Beitrag 'Adolf Schlatter als Bibelausleger' von Peter Stuhlmacher. Erscheinung in Zeitschrift für Theologie und Kirche, Beiheft 4/1978.",
+      "typ": "Artikel",
+      "jahr": 1978,
+      "zeitschrift": "Zeitschrift für Theologie und Kirche",
+      "heft": "Beiheft 4/1978",
+      "beteiligte": [
+        {
+          "name": "Eberhard Jüngel",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Peter Stuhlmacher",
+          "rolle": "Autor",
+          "entity": "Person",
+          "zusatz": "Verfasser des Beitrags 'Adolf Schlatter als Bibelausleger'"
+        }
+      ],
+      "_quelldatei": "page_097.json",
+      "_pageNumber": "73"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "518: Adolf Schlatter, Der Glaube im Neuen Testament.\nZwei Exemplare. Calwer Verlag 1896",
+      "nummer": "518",
+      "titel": "Der Glaube im Neuen Testament",
+      "beschreibung": "Exemplar (es sind zwei Exemplare verzeichnet).",
+      "typ": "Buch",
+      "jahr": 1896,
+      "verlag": "Calwer Verlag",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Zwei Exemplare",
+      "_quelldatei": "page_097.json",
+      "_pageNumber": "73"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "519: Adolf Schlatter, Tübinger Predigten Bd. I (1903 - 1909)\nVerlag von Georg Schnürlen, Tübingen",
+      "nummer": "519",
+      "titel": "Tübinger Predigten Bd. I",
+      "beschreibung": "Sammlung von Predigten. Band I, 1903-1909.",
+      "typ": "Buch",
+      "zeitraum": "1903-1909",
+      "verlag": "Verlag von Georg Schnürlen",
+      "ort": "Tübingen",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_097.json",
+      "_pageNumber": "73"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "520: Adolf Schlatter, Tübinger Predigten Bd. II (1909 - 1915)\nVerlag von Georg Schnürlen, Tübingen",
+      "nummer": "520",
+      "titel": "Tübinger Predigten Bd. II",
+      "beschreibung": "Sammlung von Predigten. Band II, 1909-1915.",
+      "typ": "Buch",
+      "zeitraum": "1909-1915",
+      "verlag": "Verlag von Georg Schnürlen",
+      "ort": "Tübingen",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_097.json",
+      "_pageNumber": "73"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "521: Hermann Klemm, Elias Schrenk.\nBrockhaus-Verlag, Wuppertal 1961",
+      "nummer": "521",
+      "titel": "Elias Schrenk",
+      "beschreibung": "Monographie von Hermann Klemm.",
+      "typ": "Buch",
+      "jahr": 1961,
+      "verlag": "Brockhaus-Verlag",
+      "ort": "Wuppertal",
+      "beteiligte": [
+        {
+          "name": "Hermann Klemm",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_097.json",
+      "_pageNumber": "73"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "522: Julius Schniewind, Evangelion.\nNachdruck der Wissenschaftlichen Buchgesellschaft Darmstadt\naus Beiträge zur Förderung christlicher Theologie\n1927 und 1931, 2. Reihe Bd. 13 und 25. 1970",
+      "nummer": "522",
+      "titel": "Evangelion",
+      "beschreibung": "Nachdruck der Wissenschaftlichen Buchgesellschaft Darmstadt; Originalbeiträge aus 1927 und 1931 (2. Reihe Bd. 13 und 25).",
+      "typ": "Buch",
+      "jahr": 1970,
+      "verlag": "Wissenschaftliche Buchgesellschaft Darmstadt",
+      "beteiligte": [
+        {
+          "name": "Julius Schniewind",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Nachdruck; Original 1927 und 1931 (2. Reihe Bd. 13 und 25)",
+      "_quelldatei": "page_097.json",
+      "_pageNumber": "73"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "522 a: Gottlob Schrenk, Gottesreich und Bund im älteren Protestan-\n\tismus.\nNachdruck der Wissenschaftlichen Buchgesellschaft Darmstadt\naus Beiträge zur Förderung christlicher Theologie\n1923, 2. Reihe Bd. 5. 1967",
+      "nummer": "522 a",
+      "titel": "Gottesreich und Bund im älteren Protestantismus",
+      "beschreibung": "Nachdruck der Wissenschaftlichen Buchgesellschaft Darmstadt; Original 1923 (2. Reihe Bd. 5).",
+      "typ": "Buch",
+      "jahr": 1967,
+      "verlag": "Wissenschaftliche Buchgesellschaft Darmstadt",
+      "beteiligte": [
+        {
+          "name": "Gottlob Schrenk",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Nachdruck; Original 1923 (2. Reihe Bd. 5)",
+      "_quelldatei": "page_097.json",
+      "_pageNumber": "73"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "523: Adolf Schlatter, Rückblick.\nVerlag Bertelsmann, Gütersloh 1952",
+      "nummer": "523",
+      "titel": "Rückblick",
+      "beschreibung": "Werk von Adolf Schlatter.",
+      "typ": "Buch",
+      "jahr": 1952,
+      "verlag": "Verlag Bertelsmann",
+      "ort": "Gütersloh",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_097.json",
+      "_pageNumber": "73"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "524: Gustav von Bodelschwingh, Friedrich von Bodelschwingh,\nEin Lebensbild.\n\"Durchgesehene Auflage\"\nSchriftenniederlage der Anstalt Bethel. 1922",
+      "nummer": "524",
+      "titel": "Friedrich von Bodelschwingh. Ein Lebensbild",
+      "beschreibung": "Biographisches Lebensbild; 'Durchgesehene Auflage'. Herausgegeben/Schriftenniederlage der Anstalt Bethel.",
+      "typ": "Buch",
+      "jahr": 1922,
+      "verlag": "Schriftenniederlage der Anstalt Bethel",
+      "beteiligte": [
+        {
+          "name": "Gustav von Bodelschwingh",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Friedrich von Bodelschwingh",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "Gegenstand des Lebensbildes"
+        }
+      ],
+      "anmerkung": "Bezeichnet als 'Durchgesehene Auflage'",
+      "_quelldatei": "page_097.json",
+      "_pageNumber": "73"
+    }
+  ],
+  "notes": "Seite enthält Überschrift 'Teil II: A Bücher' (kontextUpdate gesetzt). OCR-Text sauber erkennbar."
+}

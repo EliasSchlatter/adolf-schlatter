@@ -1,0 +1,323 @@
+{
+  "sourceFile": "page_109.json",
+  "pageNumber": "85",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 11,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 667: Gedächtnisheft der Deutschen Theologie.\nW. Kohlhammer-Verlag, Stuttgart (1938)",
+      "nummer": "667",
+      "titel": "Gedächtnisheft der Deutschen Theologie",
+      "beschreibung": "W. Kohlhammer-Verlag, Stuttgart",
+      "typ": "Druckschrift",
+      "jahr": 1938,
+      "verlag": "W. Kohlhammer-Verlag",
+      "ort": "Stuttgart",
+      "_quelldatei": "page_109.json",
+      "_pageNumber": "85"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "668: Karl-Heinz Michel, Die Bibel im Spannungsfeld der Wissenschaften.\nIn: Theologische Beiträge, Heft 5/1979",
+      "nummer": "668",
+      "titel": "Die Bibel im Spannungsfeld der Wissenschaften",
+      "typ": "Artikel",
+      "beteiligte": [
+        {
+          "name": "Karl-Heinz Michel",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "zeitschrift": "Theologische Beiträge",
+      "heft": "5",
+      "jahr": 1979,
+      "_quelldatei": "page_109.json",
+      "_pageNumber": "85"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "669: Wilhelm Brandt, \"Adolf Schlatter\".\nManuskript 1938\nDabei: Friedrich von Bodelschwingh, Lebensbild von Wilhelm\nBrandt; Nachrufe auf Wilhelm Brandt.",
+      "nummer": "669",
+      "titel": "Adolf Schlatter",
+      "typ": "Manuskript",
+      "beteiligte": [
+        {
+          "name": "Wilhelm Brandt",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "jahr": 1938,
+      "untereintraege": [
+        {
+          "rawText": "Friedrich von Bodelschwingh, Lebensbild von Wilhelm Brandt; Nachrufe auf Wilhelm Brandt.",
+          "titel": "Lebensbild von Wilhelm Brandt; Nachrufe auf Wilhelm Brandt",
+          "beteiligte": [
+            {
+              "name": "Friedrich von Bodelschwingh",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ],
+          "typ": "Sonstiges"
+        }
+      ],
+      "_quelldatei": "page_109.json",
+      "_pageNumber": "85"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "670: Adolf Schlatter, \"Stimme der Väter - Kritik und Glaube\".\nAus: Der Kirchenfreund, Basel 1881, Seite 183f.\nMit obigem neuen Titel abgedruckt in Theologische Beiträge, Heft 5/1979, Seite 213 - 214",
+      "nummer": "670",
+      "titel": "Stimme der Väter - Kritik und Glaube",
+      "typ": "Artikel",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "beschreibung": "Erschienen in: Der Kirchenfreund, Basel 1881; nachgedruckt in Theologische Beiträge, Heft 5/1979, S. 213-214",
+      "jahr": 1881,
+      "seiten": "183f",
+      "verweis": "Nachdruck: Theologische Beiträge, Heft 5/1979, Seite 213-214",
+      "_quelldatei": "page_109.json",
+      "_pageNumber": "85"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "671: Georg Gudelius, Schlatter-Erinnerung.",
+      "nummer": "671",
+      "titel": "Schlatter-Erinnerung",
+      "typ": "Erinnerungen/Memoiren",
+      "beteiligte": [
+        {
+          "name": "Georg Gudelius",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_109.json",
+      "_pageNumber": "85"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "672: Theodor Schlatter, Brief an Anneliese geborene Pfahler mit\nErinnerungen an das Adolf Schlatter-Haus in Tübingen, u. a.",
+      "nummer": "672",
+      "titel": "Brief an Anneliese (geb. Pfahler)",
+      "typ": "Brief",
+      "beschreibung": "Brief mit Erinnerungen an das Adolf Schlatter-Haus in Tübingen",
+      "beteiligte": [
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Anneliese (geb. Pfahler)",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_109.json",
+      "_pageNumber": "85"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "673: Reinhard Mumm, Brief 20.11.1979 an Ernst Bock mit Hinweisen\nauf Adolf Stöcker und Reinhard Mumm (Vater). Schlatter-Zitat.\nAus: Reinhard Mumm, Der christlich-soziale Gedanke, Seite 10.\nVerlag E. S. Mittler und Sohn, Berlin 1933\n\nDora Schlatter, Sonntagabend an der Bergstraße.\nAus: Neue Christoterpe, Herausgeber Reinhard Mumm, 1904,\nSeite 347 - 350",
+      "nummer": "673",
+      "titel": "Reinhard Mumm, Brief an Ernst Bock",
+      "typ": "Brief",
+      "datum": "1979-11-20",
+      "beschreibung": "Brief mit Hinweisen auf Adolf Stöcker und Reinhard Mumm (Vater); enthält Schlatter-Zitat. Zusätzlich Hinweise auf Publikationen (siehe Untereinträge).",
+      "beteiligte": [
+        {
+          "name": "Reinhard Mumm",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Ernst Bock",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Aus: Reinhard Mumm, Der christlich-soziale Gedanke, Seite 10. Verlag E. S. Mittler und Sohn, Berlin 1933",
+          "titel": "Der christlich-soziale Gedanke",
+          "beteiligte": [
+            {
+              "name": "Reinhard Mumm",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ],
+          "verlag": "E. S. Mittler und Sohn",
+          "ort": "Berlin",
+          "seiten": "10",
+          "jahr": 1933,
+          "typ": "Druckschrift"
+        },
+        {
+          "rawText": "Dora Schlatter, Sonntagabend an der Bergstraße. Aus: Neue Christoterpe, Herausgeber Reinhard Mumm, 1904, Seite 347 - 350",
+          "titel": "Sonntagabend an der Bergstraße",
+          "beteiligte": [
+            {
+              "name": "Dora Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            },
+            {
+              "name": "Reinhard Mumm",
+              "rolle": "Herausgeber",
+              "entity": "Person"
+            }
+          ],
+          "zeitschrift": "Neue Christoterpe",
+          "seiten": "347-350",
+          "jahr": 1904,
+          "typ": "Artikel"
+        }
+      ],
+      "_quelldatei": "page_109.json",
+      "_pageNumber": "85"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "674: Theophil Wumm, Schreiben 6.2.1942 an Deutsche Evangelische\nKirchenkanzlei betreffend getaufte Nichtarier, mit Bemerkung\nüber Adolf Schlatter.\nAus: Kirchliches Jahrbuch 1933 - 1944, 2. Auflage, Seite\n461 - 463",
+      "nummer": "674",
+      "titel": "Schreiben an Deutsche Evangelische Kirchenkanzlei betreffend getaufte Nichtarier",
+      "typ": "Brief",
+      "datum": "1942-02-06",
+      "beschreibung": "Schreiben mit Bemerkung über Adolf Schlatter. Nachgedruckt in Kirchliches Jahrbuch 1933-1944, 2. Auflage.",
+      "beteiligte": [
+        {
+          "name": "Theophil Wumm",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Deutsche Evangelische Kirchenkanzlei",
+          "rolle": "Adressat",
+          "entity": "Organisation"
+        }
+      ],
+      "in": "Kirchliches Jahrbuch 1933 - 1944, 2. Auflage",
+      "seiten": "461-463",
+      "zeitraum": "1933-1944",
+      "_quelldatei": "page_109.json",
+      "_pageNumber": "85"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "675: Gesamtverzeichnis Bertelsmann, Gütersloh, Teil \"Schlatter,\nA., Prof. D.\" Seite 186 - 187, 35 Titel",
+      "nummer": "675",
+      "titel": "Gesamtverzeichnis Bertelsmann, Teil \"Schlatter, A., Prof. D.\"",
+      "typ": "Verzeichnis/Aufstellung",
+      "verlag": "Bertelsmann",
+      "ort": "Gütersloh",
+      "seiten": "186-187",
+      "umfang": "35 Titel",
+      "_quelldatei": "page_109.json",
+      "_pageNumber": "85"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "676: Gustav von Bodelschwingh, \"Theologische Woche\". Aktennotiz\nund Stenogramm über Adolf Schlatters Anregung an Friedrich\nvon Bodelschwingh, einen Theologischen Kursus in Bethel ein-\nzurichten (Gespräch in Braunlage 1897 \"unter einem Regen-\nschirm\"). Programm dieser Theologischen Woche (1898).",
+      "nummer": "676",
+      "titel": "Theologische Woche (Aktennotiz und Stenogramm)",
+      "typ": "Protokoll",
+      "beschreibung": "Aktennotiz und Stenogramm über Adolf Schlatters Anregung an Friedrich von Bodelschwingh, einen theologischen Kursus in Bethel einzurichten (Gespräch in Braunlage 1897). Enthält Programm der Theologischen Woche (1898).",
+      "beteiligte": [
+        {
+          "name": "Gustav von Bodelschwingh",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        },
+        {
+          "name": "Friedrich von Bodelschwingh",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "zeitraum": "1897-1898",
+      "_quelldatei": "page_109.json",
+      "_pageNumber": "85"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "677: P. Runge, Der theologische Kursus in Bethel bei Bielefeld\n(1898).\nBericht über Verlauf und Vorträge von Hermann Cremer und\nAdolf Schlatter.",
+      "nummer": "677",
+      "titel": "Der theologische Kursus in Bethel bei Bielefeld (1898)",
+      "typ": "Bericht",
+      "beteiligte": [
+        {
+          "name": "P. Runge",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Hermann Cremer",
+          "rolle": "Vortragender",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Vortragender",
+          "entity": "Person"
+        }
+      ],
+      "jahr": 1898,
+      "_quelldatei": "page_109.json",
+      "_pageNumber": "85"
+    }
+  ],
+  "notes": "Seite enthält Überschrift 'Teil II: B Druckschriften und Manuskripte Nr. 667 - 677' — Sektion wechselt von vorheriger Seite."
+}

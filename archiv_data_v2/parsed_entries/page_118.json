@@ -1,0 +1,274 @@
+{
+  "sourceFile": "page_118.json",
+  "pageNumber": "94",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 8,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 776: Udo Smidt, Anfangs- und Schlußblatt von 2 Seminar-Arbeiten,\nTübingen 1921, mit Beurteilungen Schlatters.\nUdo Smidt, \"Ab Sommer-Semester 1920\", Tübinger Erinnerungen\nmit CSV, Schlatter und Heim, 9.3.1964.\n\"Landessuperintendent Udo Smidt.\"\nAus: Evang. Presseverband in Westfalen und Lippe e. V.\n6.5.1958",
+      "nummer": "776",
+      "titel": "Udo Smidt",
+      "beschreibung": "Sammlung mehrerer Drucksachen / Notizen von Udo Smidt: Anfangs- und Schlußblatt von 2 Seminar-Arbeiten (Tübingen 1921) mit Beurteilungen durch Adolf Schlatter; außerdem 'Ab Sommer-Semester 1920' (Tübinger Erinnerungen, mit CSV, Schlatter und Heim) und ein Kurzstück 'Landessuperintendent Udo Smidt' (Evang. Presseverband in Westfalen und Lippe e. V.).",
+      "typ": "Druckschrift",
+      "untereintraege": [
+        {
+          "rawText": "Anfangs- und Schlußblatt von 2 Seminar-Arbeiten, Tübingen 1921, mit Beurteilungen Schlatters.",
+          "titel": "Anfangs- und Schlußblatt von 2 Seminar-Arbeiten",
+          "jahr": 1921,
+          "beschreibung": "Mit Beurteilungen von Adolf Schlatter."
+        },
+        {
+          "rawText": "Udo Smidt, \"Ab Sommer-Semester 1920\", Tübinger Erinnerungen mit CSV, Schlatter und Heim, 9.3.1964.",
+          "titel": "Ab Sommer-Semester 1920",
+          "beschreibung": "Tübinger Erinnerungen; mit CSV, Schlatter und Heim.",
+          "beteiligte": [
+            {
+              "name": "Udo Smidt",
+              "rolle": "Autor",
+              "entity": "Person"
+            },
+            {
+              "name": "CSV",
+              "rolle": "Erwähnt",
+              "entity": "Organisation"
+            },
+            {
+              "name": "Schlatter",
+              "rolle": "Erwähnt",
+              "entity": "Person"
+            },
+            {
+              "name": "Heim",
+              "rolle": "Erwähnt",
+              "entity": "Person"
+            }
+          ],
+          "datum": "1964-03-09"
+        },
+        {
+          "rawText": "\"Landessuperintendent Udo Smidt.\" Aus: Evang. Presseverband in Westfalen und Lippe e. V. 6.5.1958",
+          "titel": "Landessuperintendent Udo Smidt",
+          "beschreibung": "Veröffentlicht im Evang. Presseverband in Westfalen und Lippe e. V.",
+          "datum": "1958-05-06"
+        }
+      ],
+      "_quelldatei": "page_118.json",
+      "_pageNumber": "94"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "777: Udo Smidt, Calvins Bezeugung der Ehre Gottes. Schlatter-Fest-\ngabe Mai 1927. Manuskript",
+      "nummer": "777",
+      "titel": "Calvins Bezeugung der Ehre Gottes",
+      "beschreibung": "Schlatter-Festgabe, Manuskript. Mai 1927.",
+      "typ": "Manuskript",
+      "jahr": 1927,
+      "_quelldatei": "page_118.json",
+      "_pageNumber": "94"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "778: Calwer Verlag, Werbedruck anläßlich Neuerscheinung von Adolf\nSchlatter, Der Evangelist Matthäus (1929), mit Anrede \"An\nmeine Leser\" und weiteren Voten.",
+      "nummer": "778",
+      "titel": "Werbedruck (Calwer Verlag) zur Neuerscheinung 'Der Evangelist Matthäus' von Adolf Schlatter",
+      "beschreibung": "Werbedruck des Calwer Verlags anlässlich der Neuerscheinung von Adolf Schlatter: 'Der Evangelist Matthäus' (1929). Enthält Anrede 'An meine Leser' und weitere Voten.",
+      "typ": "Druckschrift",
+      "jahr": 1929,
+      "verlag": "Calwer Verlag",
+      "_quelldatei": "page_118.json",
+      "_pageNumber": "94"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "779: Udo Smidt, Natürliche Theologie - als Problem bei Adolf\nSchlatter. Sonderdruck\nAus: Evang. Theologie, Heft 3/1952/1953, Seite 105 - 120",
+      "nummer": "779",
+      "titel": "Natürliche Theologie - als Problem bei Adolf Schlatter",
+      "beschreibung": "Sonderdruck von Udo Smidt. Erschienen in 'Evang. Theologie', Heft 3 (1952/1953), Seiten 105-120.",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "Udo Smidt",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "zeitschrift": "Evang. Theologie",
+      "heft": "3",
+      "zeitsraum": "1952/1953",
+      "seiten": "105-120",
+      "zeitraum": "1952-1953",
+      "_quelldatei": "page_118.json",
+      "_pageNumber": "94"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "780: E. Lohmeyer, \"Adolf Schlatter\".\nAus: Unsere Kirche, Sonntagsblatt für Lippe 8.9.1963\n\nTheodor Schlatter, Die Autorität der Schrift-Erinnerung an\nAdolf Schlatter.\nAus: Unsere Kirche, Sonntagsblatt für Lippe 17. und 24.8.1975",
+      "nummer": "780",
+      "titel": "Verschiedene Beiträge in 'Unsere Kirche' zum Thema Adolf Schlatter",
+      "beschreibung": "Sammlung von Artikeln/Aufsätzen in 'Unsere Kirche, Sonntagsblatt für Lippe' zu Adolf Schlatter.",
+      "typ": "Druckschrift",
+      "untereintraege": [
+        {
+          "rawText": "E. Lohmeyer, \"Adolf Schlatter\". Aus: Unsere Kirche, Sonntagsblatt für Lippe 8.9.1963",
+          "titel": "Adolf Schlatter",
+          "beteiligte": [
+            {
+              "name": "E. Lohmeyer",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ],
+          "datum": "1963-09-08",
+          "in": "Unsere Kirche, Sonntagsblatt für Lippe"
+        },
+        {
+          "rawText": "Theodor Schlatter, Die Autorität der Schrift-Erinnerung an Adolf Schlatter. Aus: Unsere Kirche, Sonntagsblatt für Lippe 17. und 24.8.1975",
+          "titel": "Die Autorität der Schrift - Erinnerung an Adolf Schlatter",
+          "beteiligte": [
+            {
+              "name": "Theodor Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ],
+          "beschreibung": "Erschienen in zwei Ausgaben (17.8.1975 und 24.8.1975) von 'Unsere Kirche, Sonntagsblatt für Lippe'.",
+          "jahr": 1975,
+          "anmerkung": "Erschien in den Ausgaben vom 17.08.1975 und 24.08.1975."
+        }
+      ],
+      "_quelldatei": "page_118.json",
+      "_pageNumber": "94"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "781: \"Die Engel der Gemeinden.\nAus: Die Geschichte der ersten Christenheit, von D. A. Schlat-\nter.\"\nAus: Reformierte Kirchenzeitung 8.7.1926\n\nWessel, Besprechung von Adolf Schlatter, Die Theologie des\nJudentums nach dem Bericht des Josefus.\nVerlag Bertelsmann, Gütersloh 1932.\nAus: Reformierte Kirchenzeitung 8.2.1932\n\nTheodor Hesse, Besprechung von Adolf Schlatter, Paulus, der\nBote Jesu.\nCalwer Verlag 1934\nAus: Reformierte Kirchenzeitung 8.4.1934",
+      "nummer": "781",
+      "titel": "Rezensionen/Aufsätze in Reformierte Kirchenzeitung zu Werken von D. A. Schlatter",
+      "beschreibung": "Mehrere Einträge: Artikel/Rezensonen in der 'Reformierten Kirchenzeitung' betreffend Schlatters Werke.",
+      "typ": "Druckschrift",
+      "untereintraege": [
+        {
+          "rawText": "\"Die Engel der Gemeinden.\" Aus: Die Geschichte der ersten Christenheit, von D. A. Schlatter. Aus: Reformierte Kirchenzeitung 8.7.1926",
+          "titel": "Die Engel der Gemeinden",
+          "beschreibung": "Aus: Die Geschichte der ersten Christenheit, von D. A. Schlatter. Veröffentlichung in der Reformierten Kirchenzeitung.",
+          "datum": "1926-07-08",
+          "in": "Reformierte Kirchenzeitung"
+        },
+        {
+          "rawText": "Wessel, Besprechung von Adolf Schlatter, Die Theologie des Judentums nach dem Bericht des Josefus. Verlag Bertelsmann, Gütersloh 1932. Aus: Reformierte Kirchenzeitung 8.2.1932",
+          "titel": "Besprechung: Die Theologie des Judentums nach dem Bericht des Josefus (Adolf Schlatter)",
+          "beteiligte": [
+            {
+              "name": "Wessel",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ],
+          "beschreibung": "Besprechung von Schlatters Werk (Verlag Bertelsmann, Gütersloh 1932).",
+          "datum": "1932-02-08",
+          "in": "Reformierte Kirchenzeitung"
+        },
+        {
+          "rawText": "Theodor Hesse, Besprechung von Adolf Schlatter, Paulus, der Bote Jesu. Calwer Verlag 1934 Aus: Reformierte Kirchenzeitung 8.4.1934",
+          "titel": "Besprechung: Paulus, der Bote Jesu (Adolf Schlatter)",
+          "beteiligte": [
+            {
+              "name": "Theodor Hesse",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ],
+          "beschreibung": "Besprechung von Schlatters 'Paulus, der Bote Jesu' (Calwer Verlag 1934).",
+          "datum": "1934-04-08",
+          "in": "Reformierte Kirchenzeitung"
+        }
+      ],
+      "_quelldatei": "page_118.json",
+      "_pageNumber": "94"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "782: Adolf Schlatter, Andachtswort über 1. Korinther 4,20.\nAus: Reformierte Kirchenzeitung 15.8./1.9.1952.\n\nDas Weihnachtswunder. Zitat aus Adolf Schlatters \"Hülfe in\nBibelnoth\".\nAus: Reformierte Kirchenzeitung 1953, Seite 526",
+      "nummer": "782",
+      "titel": "Kurzbeiträge/ Zitate von Adolf Schlatter in Reformierter Kirchenzeitung",
+      "beschreibung": "Enthält 'Andachtswort über 1. Korinther 4,20' (Reformierte Kirchenzeitung, 15.8. und 1.9.1952) sowie ein Zitat 'Das Weihnachtswunder' aus Schlatters 'Hülfe in Bibelnoth' (Reformierte Kirchenzeitung 1953, S. 526).",
+      "typ": "Druckschrift",
+      "untereintraege": [
+        {
+          "rawText": "Adolf Schlatter, Andachtswort über 1. Korinther 4,20. Aus: Reformierte Kirchenzeitung 15.8./1.9.1952.",
+          "titel": "Andachtswort über 1. Korinther 4,20",
+          "beteiligte": [
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ],
+          "jahr": 1952,
+          "anmerkung": "Erschien in der Reformierten Kirchenzeitung am 15.08.1952 und am 01.09.1952."
+        },
+        {
+          "rawText": "Das Weihnachtswunder. Zitat aus Adolf Schlatters \"Hülfe in Bibelnoth\". Aus: Reformierte Kirchenzeitung 1953, Seite 526",
+          "titel": "Das Weihnachtswunder (Zitat aus 'Hülfe in Bibelnoth')",
+          "beschreibung": "Zitat aus Adolf Schlatters 'Hülfe in Bibelnoth'.",
+          "jahr": 1953,
+          "seiten": "526",
+          "in": "Reformierte Kirchenzeitung"
+        }
+      ],
+      "_quelldatei": "page_118.json",
+      "_pageNumber": "94"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "783: Udo Smidt, Adolf Schlatter.\nAus: Reformierte Kirchenzeitung 1952, Seite 359 - 363",
+      "nummer": "783",
+      "titel": "Adolf Schlatter",
+      "beschreibung": "Beitrag von Udo Smidt über Adolf Schlatter. Veröffentlicht in der Reformierten Kirchenzeitung 1952, S. 359-363.",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "Udo Smidt",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "jahr": 1952,
+      "seiten": "359-363",
+      "in": "Reformierte Kirchenzeitung",
+      "_quelldatei": "page_118.json",
+      "_pageNumber": "94"
+    }
+  ],
+  "notes": "OCR-Seite 94 (page_118.png). Kopf: 'Teil II: B Druckschriften und Manuskripte Nr. 776 - 783'. Keine neue Überschrift erkannt."
+}

@@ -1,0 +1,346 @@
+{
+  "sourceFile": "page_143.json",
+  "pageNumber": "119",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 13,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 977: Adolf Schlatter, Pfarrer von Kesswil-Dozwil mit Uttwil.\nAuszüge aus dem Protokoll der Kirchenvorsteherschaft betr.\nPfarrerwahl 31.12.1876 und Resignation 11./26.4.1880",
+      "nummer": "977",
+      "titel": "Adolf Schlatter, Pfarrer von Kesswil-Dozwil mit Uttwil",
+      "beschreibung": "Auszüge aus dem Protokoll der Kirchenvorsteherschaft betreffend Pfarrerwahl 31.12.1876 und Resignation 11./26.4.1880.",
+      "typ": "Material",
+      "zeitraum": "1876-1880",
+      "anmerkung": "Enthält zwei Datumsangaben: 31.12.1876 und 11./26.4.1880 (Resignation).",
+      "_quelldatei": "page_143.json",
+      "_pageNumber": "119"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "978: Eheschließung von Adolf Schlatter und Susanna geb. Schoop\n15.1.1878. Auszug aus Eheregister 1878, Nr. 1, Kessweil",
+      "nummer": "978",
+      "titel": "Eheschließung von Adolf Schlatter und Susanna geb. Schoop",
+      "beschreibung": "Auszug aus dem Eheregister 1878, Nr. 1, Kessweil.",
+      "typ": "Urkunde",
+      "datum": "1878-01-15",
+      "jahr": 1878,
+      "ort": "Kessweil",
+      "_quelldatei": "page_143.json",
+      "_pageNumber": "119"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "979: J. Meili, Festschrift zum 25. Jubiläum der Evang. Gesellschaft\nSt. Gallen-Appenzell.\nSt. Gallen, Buchhandlung Evang. Gesellschaft, 1889",
+      "nummer": "979",
+      "titel": "Festschrift zum 25. Jubiläum der Evang. Gesellschaft St. Gallen-Appenzell",
+      "beschreibung": "Festschrift. Autor: J. Meili.",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "J. Meili",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Buchhandlung Evang. Gesellschaft",
+          "rolle": "Verlag",
+          "entity": "Institution"
+        }
+      ],
+      "ort": "St. Gallen",
+      "jahr": 1889,
+      "_quelldatei": "page_143.json",
+      "_pageNumber": "119"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "980: 50. Jahresbericht der Evang. Gesellschaft St. Gallen-Appenzell. R. Weber, Heiden 1913",
+      "nummer": "980",
+      "titel": "50. Jahresbericht der Evang. Gesellschaft St. Gallen-Appenzell",
+      "beschreibung": "Jahresbericht. Herausgeber/Verfasser: R. Weber.",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "R. Weber",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        }
+      ],
+      "ort": "Heiden",
+      "jahr": 1913,
+      "_quelldatei": "page_143.json",
+      "_pageNumber": "119"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "981: Evang.-theol. Fakultät Greifswald, Sitzungsprotokolle betr.\nNeubesetzung der neutestamentlichen Professur. 6 Blätter.\n1888",
+      "nummer": "981",
+      "titel": "Sitzungsprotokolle der Evang.-theol. Fakultät Greifswald",
+      "beschreibung": "Sitzungsprotokolle betreffend Neubesetzung der neutestamentlichen Professur. Umfang: 6 Blätter.",
+      "typ": "Protokoll",
+      "umfang": "6 Blätter",
+      "jahr": 1888,
+      "beteiligte": [
+        {
+          "name": "Evang.-theol. Fakultät Greifswald",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_143.json",
+      "_pageNumber": "119"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "982: Ernennung von Adolf Schlatter zum ordentlichen Professor in\nGreifswald, durch Schreiben an ihn vom Ministerium der geistlichen Angelegenheiten, Berlin den 6. Juli 1888.",
+      "nummer": "982",
+      "titel": "Ernennung von Adolf Schlatter zum ordentlichen Professor in Greifswald",
+      "beschreibung": "Schreiben des Ministeriums der geistlichen Angelegenheiten (Berlin) an Adolf Schlatter vom 6.7.1888 betreffend Ernennung zum ordentlichen Professor in Greifswald.",
+      "typ": "Schreiben",
+      "datum": "1888-07-06",
+      "jahr": 1888,
+      "ort": "Berlin",
+      "beteiligte": [
+        {
+          "name": "Ministerium der geistlichen Angelegenheiten",
+          "rolle": "Absender",
+          "entity": "Institution"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_143.json",
+      "_pageNumber": "119"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "983: Standesliste des ordentlichen Professors Schlatter.\nAus: Personalakte PA 359. 3 Blätter. 1888",
+      "nummer": "983",
+      "titel": "Standesliste des ordentlichen Professors Schlatter",
+      "beschreibung": "Aus Personalakte PA 359. Umfang: 3 Blätter.",
+      "typ": "Material",
+      "umfang": "3 Blätter",
+      "jahr": 1888,
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "verweis": "PA 359",
+      "_quelldatei": "page_143.json",
+      "_pageNumber": "119"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "984/1: Adolf Schlatter, Brief 30.8.1888 an das Ministerium betr.\nVerhältnis seiner Naturalisation zu seinem Schweizer Heimatrecht.",
+      "nummer": "984/1",
+      "titel": "Brief Adolf Schlatter an das Ministerium: Verhältnis seiner Naturalisation zu seinem Schweizer Heimatrecht",
+      "beschreibung": "Brief von Adolf Schlatter an das Ministerium betreffend das Verhältnis seiner Naturalisation zu seinem Schweizer Heimatrecht.",
+      "typ": "Brief",
+      "datum": "1888-08-30",
+      "jahr": 1888,
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Ministerium der geistlichen Angelegenheiten",
+          "rolle": "Adressat",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_143.json",
+      "_pageNumber": "119"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "984/2: Antwortschreiben des Ministeriums 9.9.1888.",
+      "nummer": "984/2",
+      "titel": "Antwortschreiben des Ministeriums",
+      "beschreibung": "Antwort des Ministeriums auf Schreiben vom 30.8.1888.",
+      "typ": "Brief",
+      "datum": "1888-09-09",
+      "jahr": 1888,
+      "beteiligte": [
+        {
+          "name": "Ministerium der geistlichen Angelegenheiten",
+          "rolle": "Absender",
+          "entity": "Institution"
+        }
+      ],
+      "verweis": "984/1",
+      "_quelldatei": "page_143.json",
+      "_pageNumber": "119"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "985: Anerkennung von Fakultät und Ministerium für Schlatters Absage des Rufs nach Heidelberg. Gehaltserhöhung. Danksbrief\nSchlatters 31.7.1890.",
+      "nummer": "985",
+      "titel": "Anerkennung für Schlatters Absage des Rufs nach Heidelberg; Gehaltserhöhung; Danksbrief Schlatters",
+      "beschreibung": "Anerkennung durch Fakultät und Ministerium für Schlatters Absage des Rufs nach Heidelberg; Gehaltserhöhung; Danksbrief von Adolf Schlatter datiert 31.7.1890.",
+      "typ": "Korrespondenz",
+      "datum": "1890-07-31",
+      "jahr": 1890,
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Evang.-theol. Fakultät Greifswald",
+          "rolle": "Erwähnt",
+          "entity": "Institution"
+        },
+        {
+          "name": "Ministerium der geistlichen Angelegenheiten",
+          "rolle": "Erwähnt",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_143.json",
+      "_pageNumber": "119"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "986: Briefe Schlatters an Althoff zur Begründung einer Palästinareise; Bitte um Empfehlungen an die deutschen Konsulate in\nJerusalem, Damaskus und Beirut, und Nennung seiner Begleiter\nProf. Oettli, Bern, und Pfarrer Jaccard, Zürich. 8.10.1890\nund 6.1.1891. Vgl. Inventar-Nr. 165",
+      "nummer": "986",
+      "titel": "Briefe Schlatters an Althoff zur Begründung einer Palästinareise",
+      "beschreibung": "Briefe mit Bitte um Empfehlungen an die deutschen Konsulate in Jerusalem, Damaskus und Beirut; Nennung der Begleiter Prof. Oettli (Bern) und Pfarrer Jaccard (Zürich).",
+      "typ": "Korrespondenz",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Althoff",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Prof. Oettli",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "Bern"
+        },
+        {
+          "name": "Pfarrer Jaccard",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "Zürich"
+        }
+      ],
+      "datum": "1890-10-08",
+      "jahr": 1890,
+      "anmerkung": "Enthält außerdem ein Schreiben vom 1891-01-06. Vgl. Inventar-Nr. 165",
+      "verweis": "165",
+      "_quelldatei": "page_143.json",
+      "_pageNumber": "119"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "987: Schreiben des Ministeriums vom 21.2.1891 betr. Genehmigung\nder Palästinareise von Prof. Schlatter Februar bis Mai 1891\nund Zusage entsprechender Weisungen an die zuständigen Konsulate.",
+      "nummer": "987",
+      "titel": "Schreiben des Ministeriums betr. Genehmigung der Palästinareise von Prof. Schlatter",
+      "beschreibung": "Schreiben des Ministeriums vom 21.2.1891 betreffend Genehmigung der Palästinareise (Februar bis Mai 1891) und Zusage entsprechender Weisungen an die zuständigen Konsulate.",
+      "typ": "Schreiben",
+      "datum": "1891-02-21",
+      "jahr": 1891,
+      "zeitraum": "Februar-Mai 1891",
+      "beteiligte": [
+        {
+          "name": "Ministerium der geistlichen Angelegenheiten",
+          "rolle": "Absender",
+          "entity": "Institution"
+        },
+        {
+          "name": "Prof. Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_143.json",
+      "_pageNumber": "119"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "988: Verleihung des Rothen Adler Ordens 4. Klasse an Prof. Schlatter gemäß Erlaß vom 2.7. und 19.7.1892.\nD. A. Schlatter, Bestätigungsschreiben 23.7.1892.",
+      "nummer": "988",
+      "titel": "Verleihung des Rothen Adler Ordens 4. Klasse an Prof. Schlatter",
+      "beschreibung": "Verleihung des Roten Adler Ordens 4. Klasse gemäß Erlaß vom 2.7.1892 und 19.7.1892. Bestätigungsschreiben von D. A. Schlatter datiert 23.7.1892.",
+      "typ": "Urkunde",
+      "jahr": 1892,
+      "datum": "1892-07-23",
+      "beteiligte": [
+        {
+          "name": "Prof. Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        },
+        {
+          "name": "D. A. Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Erlaßdaten 2.7.1892 und 19.7.1892 angegeben; Bestätigungsschreiben 23.7.1892.",
+      "_quelldatei": "page_143.json",
+      "_pageNumber": "119"
+    }
+  ],
+  "notes": "Seite enthält Einträge Nr. 977–988; Kopfzeile bestätigt Teil II: B Druckschriften und Manuskripte (kein Kontextwechsel auf dieser Seite)."
+}

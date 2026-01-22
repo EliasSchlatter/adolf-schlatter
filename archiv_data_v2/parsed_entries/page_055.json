@@ -1,0 +1,194 @@
+{
+  "sourceFile": "page_055.json",
+  "pageNumber": "31",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+    "unterabschnitt": "10. Artikel von und über Schlatter in deutschen Kirchenblättern",
+    "unterkategorie": "b) Nr. 133: Einzelne Artikel aus verschiedenen Blättern 1890 - 1969"
+  },
+  "entriesCount": 2,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "10. Artikel von und über Schlatter in deutschen Kirchenblättern",
+      "unterkategorie": "b) Nr. 133: Einzelne Artikel aus verschiedenen Blättern 1890 - 1969",
+      "rawText": "Nr. 133: Das göttliche Gesetz in der Missionspredigt und in der\nChristengemeinde.\nVortrag auf der 40. Jahresversammlung der Missions-Konfe-\nrenz in der Provinz Sachsen zu Halle am 23. April 1918\n(Fortsetzung).\nIn: Thüringer Pfarrerblatt, Juni 1918\n\nWas uns der Galaterbrief heute zu sagen hat.\nIn: Evang. Gemeindeblatt für Remscheid. 21.8.1927\n\nD. Adolf Schlatter, ein Führer im Ringen um eine kommende\nKirche. Von Pastor Loewe\nIn: Evang. Gemeindeblatt für Remscheid. 21.8.1927\n\nSuchet in der Schrift. Bibellese für die Woche.\nIn: Evang. Gemeindeblatt für Stuttgart\n15., 22., 29.3.1936\n\nVergrabene Gaben? Matthäus 25,24-30\nIn: Licht und Leben, Evang. Wochenblatt. 9.8.1936\n\nWoher kommt die Bibel?\nIn: Licht und Leben, Evang. Wochenblatt. 12.6.1938\n\nDie Verheißung Jesu, der Grund des kirchlichen Amtes.\nAbschiedspredigt an Kandidaten über Matthäus 5,1-10\nIn: Deutsches Pfarrerblatt, September 1919",
+      "nummer": "133",
+      "titel": "Sammlung: Artikel von und über Schlatter in deutschen Kirchenblättern (Auswahl)",
+      "beschreibung": "Verschiedene Artikel, Predigten und Kurzbeiträge von oder über Adolf Schlatter, erschienen in verschiedenen kirchlichen Blättern (Fortsetzung auf dieser Seite).",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "Das göttliche Gesetz in der Missionspredigt und in der Christengemeinde. Vortrag ... am 23. April 1918 (Fortsetzung). In: Thüringer Pfarrerblatt, Juni 1918",
+          "titel": "Das göttliche Gesetz in der Missionspredigt und in der Christengemeinde",
+          "beschreibung": "Vortrag auf der 40. Jahresversammlung der Missions-Konferenz in der Provinz Sachsen zu Halle; als Fortsetzung abgedruckt.",
+          "typ": "Vortrag",
+          "datum": "1918-04-23",
+          "zeitschrift": "Thüringer Pfarrerblatt",
+          "jahr": 1918,
+          "anmerkung": "Fortsetzung; Ausgabe Juni 1918"
+        },
+        {
+          "rawText": "Was uns der Galaterbrief heute zu sagen hat. In: Evang. Gemeindeblatt für Remscheid. 21.8.1927",
+          "titel": "Was uns der Galaterbrief heute zu sagen hat",
+          "typ": "Artikel",
+          "zeitschrift": "Evang. Gemeindeblatt für Remscheid",
+          "datum": "1927-08-21"
+        },
+        {
+          "rawText": "D. Adolf Schlatter, ein Führer im Ringen um eine kommende Kirche. Von Pastor Loewe. In: Evang. Gemeindeblatt für Remscheid. 21.8.1927",
+          "titel": "D. Adolf Schlatter, ein Führer im Ringen um eine kommende Kirche",
+          "typ": "Artikel",
+          "zeitschrift": "Evang. Gemeindeblatt für Remscheid",
+          "datum": "1927-08-21",
+          "beteiligte": [
+            {
+              "name": "Pastor Loewe",
+              "rolle": "Autor",
+              "entity": "Person"
+            },
+            {
+              "name": "D. Adolf Schlatter",
+              "rolle": "Erwähnt",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Suchet in der Schrift. Bibellese für die Woche. In: Evang. Gemeindeblatt für Stuttgart. 15.3.1936",
+          "titel": "Suchet in der Schrift. Bibellese für die Woche",
+          "typ": "Artikel",
+          "zeitschrift": "Evang. Gemeindeblatt für Stuttgart",
+          "datum": "1936-03-15"
+        },
+        {
+          "rawText": "Suchet in der Schrift. Bibellese für die Woche. In: Evang. Gemeindeblatt für Stuttgart. 22.3.1936",
+          "titel": "Suchet in der Schrift. Bibellese für die Woche",
+          "typ": "Artikel",
+          "zeitschrift": "Evang. Gemeindeblatt für Stuttgart",
+          "datum": "1936-03-22"
+        },
+        {
+          "rawText": "Suchet in der Schrift. Bibellese für die Woche. In: Evang. Gemeindeblatt für Stuttgart. 29.3.1936",
+          "titel": "Suchet in der Schrift. Bibellese für die Woche",
+          "typ": "Artikel",
+          "zeitschrift": "Evang. Gemeindeblatt für Stuttgart",
+          "datum": "1936-03-29"
+        },
+        {
+          "rawText": "Vergrabene Gaben? Matthäus 25,24-30. In: Licht und Leben, Evang. Wochenblatt. 9.8.1936",
+          "titel": "Vergrabene Gaben?",
+          "typ": "Artikel",
+          "bibelstelle": "Matthäus 25,24-30",
+          "zeitschrift": "Licht und Leben (Evang. Wochenblatt)",
+          "datum": "1936-08-09"
+        },
+        {
+          "rawText": "Woher kommt die Bibel? In: Licht und Leben, Evang. Wochenblatt. 12.6.1938",
+          "titel": "Woher kommt die Bibel?",
+          "typ": "Artikel",
+          "zeitschrift": "Licht und Leben (Evang. Wochenblatt)",
+          "datum": "1938-06-12"
+        },
+        {
+          "rawText": "Die Verheißung Jesu, der Grund des kirchlichen Amtes. Abschiedspredigt an Kandidaten über Matthäus 5,1-10. In: Deutsches Pfarrerblatt, September 1919",
+          "titel": "Die Verheißung Jesu, der Grund des kirchlichen Amtes",
+          "beschreibung": "Abschiedspredigt an Kandidaten; biblische Grundlage: Matthäus 5,1-10",
+          "typ": "Predigt",
+          "bibelstelle": "Matthäus 5,1-10",
+          "zeitschrift": "Deutsches Pfarrerblatt",
+          "jahr": 1919,
+          "anmerkung": "Erschienen September 1919 (kein genaues Datum angegeben)"
+        }
+      ],
+      "_quelldatei": "page_055.json",
+      "_pageNumber": "31"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "10. Artikel von und über Schlatter in deutschen Kirchenblättern",
+      "unterkategorie": "b) Nr. 133: Einzelne Artikel aus verschiedenen Blättern 1890 - 1969",
+      "rawText": "Nr. 134: Gedenkreden von Schlatter\n\nWorte der Erinnerung an D. Karl Weizsäcker.\n15. August 1899. Seite 12 - 14\n\nRede am Sarge des D. Dr. Hermann Cremer.\nAbel, Greifswald 1903\n\nRede am Sarge.\nAus: \"August Hermann Cremer\"\nSonderdruck Verlag Bertelsmann. Seite 5 - 13\n\nNachruf August Hermann Cremer.\nSonderdruck Verlag Bertelsmann\n\nNachruf für D. Hermann v. Weiß.\nIn: \"Zum Andenken\"\nEßlingen 1914. Seite 8 - 10\n\nWort am Grab für Ephorus Buder.\nIn: \"Zur Erinnerung an D. Paul Buder\"\nTübingen 1914. Seite 11 - 14\n\nTannenreiser aus treuer Professorenhand auf das ferne Hel-\ndengrab. Worte von Karl Heim und Adolf Schlatter\nIn: Gedächtnisheft für Arthur Stupp. März 1920. Seite 16f",
+      "nummer": "134",
+      "titel": "Gedenkreden von Schlatter",
+      "beschreibung": "Sammlung von Gedenkreden, Worten am Grab und Nachrufen von bzw. gehalten von Adolf Schlatter; Angaben zu Publikationsorten und -jahren, Seitenangaben.",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "Worte der Erinnerung an D. Karl Weizsäcker. 15. August 1899. Seite 12 - 14",
+          "titel": "Worte der Erinnerung an D. Karl Weizsäcker",
+          "typ": "Gedenkrede",
+          "datum": "1899-08-15",
+          "seiten": "12-14"
+        },
+        {
+          "rawText": "Rede am Sarge des D. Dr. Hermann Cremer. Abel, Greifswald 1903",
+          "titel": "Rede am Sarge des D. Dr. Hermann Cremer",
+          "typ": "Rede",
+          "verlag": "Abel",
+          "ort": "Greifswald",
+          "jahr": 1903
+        },
+        {
+          "rawText": "Rede am Sarge. Aus: \"August Hermann Cremer\" Sonderdruck Verlag Bertelsmann. Seite 5 - 13",
+          "titel": "Rede am Sarge",
+          "typ": "Rede",
+          "in": "August Hermann Cremer",
+          "verlag": "Bertelsmann (Sonderdruck)",
+          "seiten": "5-13"
+        },
+        {
+          "rawText": "Nachruf August Hermann Cremer. Sonderdruck Verlag Bertelsmann",
+          "titel": "Nachruf August Hermann Cremer",
+          "typ": "Nachruf",
+          "verlag": "Bertelsmann (Sonderdruck)"
+        },
+        {
+          "rawText": "Nachruf für D. Hermann v. Weiß. In: \"Zum Andenken\" Eßlingen 1914. Seite 8 - 10",
+          "titel": "Nachruf für D. Hermann v. Weiß",
+          "typ": "Nachruf",
+          "in": "Zum Andenken",
+          "ort": "Eßlingen",
+          "jahr": 1914,
+          "seiten": "8-10"
+        },
+        {
+          "rawText": "Wort am Grab für Ephorus Buder. In: \"Zur Erinnerung an D. Paul Buder\" Tübingen 1914. Seite 11 - 14",
+          "titel": "Wort am Grab für Ephorus Buder",
+          "typ": "Wort am Grab",
+          "in": "Zur Erinnerung an D. Paul Buder",
+          "ort": "Tübingen",
+          "jahr": 1914,
+          "seiten": "11-14"
+        },
+        {
+          "rawText": "Tannenreiser aus treuer Professorenhand auf das ferne Heldengrab. Worte von Karl Heim und Adolf Schlatter In: Gedächtnisheft für Arthur Stupp. März 1920. Seite 16f",
+          "titel": "Tannenreiser aus treuer Professorenhand auf das ferne Heldengrab",
+          "beschreibung": "Worte von Karl Heim und Adolf Schlatter; erschienen im Gedächtnisheft für Arthur Stupp.",
+          "typ": "Gedenktext",
+          "beteiligte": [
+            {
+              "name": "Karl Heim",
+              "rolle": "Autor",
+              "entity": "Person"
+            },
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ],
+          "zeitschrift": "Gedächtnisheft für Arthur Stupp",
+          "jahr": 1920,
+          "anmerkung": "März 1920; Seite 16f"
+        }
+      ],
+      "_quelldatei": "page_055.json",
+      "_pageNumber": "31"
+    }
+  ],
+  "notes": "Seite aus Datei page_055.png (Originalseite 31). OCR-Text verarbeitet. Keine neue Hauptüberschrift auf dieser Seite erkannt; Einträge Nr. 133 und Nr. 134 extrahiert."
+}

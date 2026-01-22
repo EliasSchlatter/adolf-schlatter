@@ -1,0 +1,305 @@
+{
+  "sourceFile": "page_093.json",
+  "pageNumber": "69",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "C BRIEFE",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 16,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 476: Die Strumpfregel.\nManuskripte, 1 Blatt.",
+      "nummer": "476",
+      "titel": "Die Strumpfregel",
+      "typ": "Manuskript",
+      "umfang": "1 Blatt",
+      "beschreibung": "",
+      "rawText_note": "",
+      "_quelldatei": "page_093.json",
+      "_pageNumber": "69"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "477: Aus meinem Skizzenbuch.\nVermutlich Manuskript von Dora Schlatter, 12 Seiten.",
+      "nummer": "477",
+      "titel": "Aus meinem Skizzenbuch",
+      "typ": "Manuskript",
+      "seiten": "12 Seiten",
+      "beschreibung": "Vermutlich Manuskript von Dora Schlatter",
+      "beteiligte": [
+        {
+          "name": "Dora Schlatter",
+          "rolle": "Autor",
+          "entity": "Person",
+          "zusatz": "vermutlich"
+        }
+      ],
+      "_quelldatei": "page_093.json",
+      "_pageNumber": "69"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "478: Aufzeichnungen aus Briefen von und an Dora Schlatter über\nBruder Adolf, Schwester Christina, Bruder Theodor u. a.\nManuskript, 17 Blätter.",
+      "nummer": "478",
+      "titel": "Aufzeichnungen aus Briefen von und an Dora Schlatter über Bruder Adolf, Schwester Christina, Bruder Theodor u. a.",
+      "typ": "Manuskript",
+      "seiten": "17 Blätter",
+      "beteiligte": [
+        {
+          "name": "Dora Schlatter",
+          "rolle": "Korrespondent",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf (Bruder)",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        },
+        {
+          "name": "Christina (Schwester)",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        },
+        {
+          "name": "Theodor (Bruder)",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_093.json",
+      "_pageNumber": "69"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "479: \"Aufgeschriebenes, als ich Ende Juni 1938 beim Tänti war.\"\nManuskript, 6 Blätter.\nDabei: \"Bemerkungen über die Familie aus Tante Doras Brie\nfen\", 3 Blätter.",
+      "nummer": "479",
+      "titel": "Aufgeschriebenes, als ich Ende Juni 1938 beim Tänti war.",
+      "typ": "Manuskript",
+      "jahr": 1938,
+      "umfang": "6 Blätter",
+      "untereintraege": [
+        {
+          "rawText": "Dabei: \"Bemerkungen über die Familie aus Tante Doras Briefen\", 3 Blätter.",
+          "titel": "Bemerkungen über die Familie aus Tante Doras Briefen",
+          "typ": "Manuskript",
+          "umfang": "3 Blätter"
+        }
+      ],
+      "_quelldatei": "page_093.json",
+      "_pageNumber": "69"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "480: Salomon Schlatter, Aufsatz über Schwager Theodors \"deutsche\nStellung\" im Krieg und sein Urteil über die Entente.\nManuskript, St. Gallen, 12.5.1919, 8 Seiten.\nDabei: Beatrice, Tochter Theodors, Kleines Bücherverzeichnis\n\"für die Soldatenstuben\".",
+      "nummer": "480",
+      "titel": "Aufsatz über Schwager Theodors \"deutsche Stellung\" im Krieg und sein Urteil über die Entente",
+      "typ": "Manuskript",
+      "datum": "1919-05-12",
+      "ort": "St. Gallen",
+      "seiten": "8 Seiten",
+      "beteiligte": [
+        {
+          "name": "Salomon Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Dabei: Beatrice, Tochter Theodors, Kleines Bücherverzeichnis \"für die Soldatenstuben\".",
+          "titel": "Kleines Bücherverzeichnis \"für die Soldatenstuben\"",
+          "beschreibung": "Dabei: Beatrice, Tochter Theodors",
+          "beteiligte": [
+            {
+              "name": "Beatrice",
+              "rolle": "Zusammensteller",
+              "entity": "Person",
+              "zusatz": "Tochter Theodors"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_093.json",
+      "_pageNumber": "69"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "481: Briefe von Bekannten und Freunden an Adolf Schlatter:\n24 Briefe;\nan Familienangehörige:\n6 Briefe.",
+      "nummer": "481",
+      "titel": "Briefe von Bekannten und Freunden an Adolf Schlatter",
+      "typ": "Korrespondenz",
+      "beschreibung": "Enthält 24 Briefe an Adolf Schlatter; zusätzlich 6 Briefe an Familienangehörige.",
+      "untereintraege": [
+        {
+          "titel": "An Adolf Schlatter",
+          "umfang": "24 Briefe",
+          "beteiligte": [
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "titel": "An Familienangehörige",
+          "umfang": "6 Briefe"
+        }
+      ],
+      "_quelldatei": "page_093.json",
+      "_pageNumber": "69"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "482: Fotografien von Bekannten und Freunden der Familie Schlat\nter: 86 Fotografien.",
+      "nummer": "482",
+      "titel": "Fotografien von Bekannten und Freunden der Familie Schlatter",
+      "typ": "Fotografie",
+      "umfang": "86 Fotografien",
+      "_quelldatei": "page_093.json",
+      "_pageNumber": "69"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 485: Regesten zu Briefen von Professoren.\n(Vgl. Bd. 425 - 428/1)",
+      "nummer": "485",
+      "titel": "Regesten zu Briefen von Professoren",
+      "typ": "Verzeichnis/Aufstellung",
+      "verweis": "Vgl. Bd. 425 - 428/1",
+      "_quelldatei": "page_093.json",
+      "_pageNumber": "69"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "486: Regesten zu Briefen von Verlagen. (Vgl. Bd. 431)",
+      "nummer": "486",
+      "titel": "Regesten zu Briefen von Verlagen",
+      "typ": "Verzeichnis/Aufstellung",
+      "verweis": "Vgl. Bd. 431",
+      "_quelldatei": "page_093.json",
+      "_pageNumber": "69"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "487: Regesten zu Briefen von Zeitschriften-Redaktionen und\nInstitutionen. (Vgl. Bd. 432 und 433)",
+      "nummer": "487",
+      "titel": "Regesten zu Briefen von Zeitschriften-Redaktionen und Institutionen",
+      "typ": "Verzeichnis/Aufstellung",
+      "verweis": "Vgl. Bd. 432 und 433",
+      "_quelldatei": "page_093.json",
+      "_pageNumber": "69"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "488: Regesten zu Briefen aus Württemberg. (Vgl. Bd. 434)",
+      "nummer": "488",
+      "titel": "Regesten zu Briefen aus Württemberg",
+      "typ": "Verzeichnis/Aufstellung",
+      "verweis": "Vgl. Bd. 434",
+      "_quelldatei": "page_093.json",
+      "_pageNumber": "69"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "489: Regesten zu Briefen aus Baden und Bayern. (Vgl. Bd. 435)",
+      "nummer": "489",
+      "titel": "Regesten zu Briefen aus Baden und Bayern",
+      "typ": "Verzeichnis/Aufstellung",
+      "verweis": "Vgl. Bd. 435",
+      "_quelldatei": "page_093.json",
+      "_pageNumber": "69"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "490: Regesten zu Briefen aus dem westlichen Bereich Deutsch\nlands. (Vgl. Bd. 436)",
+      "nummer": "490",
+      "titel": "Regesten zu Briefen aus dem westlichen Bereich Deutschlands",
+      "typ": "Verzeichnis/Aufstellung",
+      "verweis": "Vgl. Bd. 436",
+      "_quelldatei": "page_093.json",
+      "_pageNumber": "69"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "491: Regesten zu Briefen aus dem nördlichen Bereich Deutsch\nlands. (Vgl. Bd. 437)",
+      "nummer": "491",
+      "titel": "Regesten zu Briefen aus dem nördlichen Bereich Deutschlands",
+      "typ": "Verzeichnis/Aufstellung",
+      "verweis": "Vgl. Bd. 437",
+      "_quelldatei": "page_093.json",
+      "_pageNumber": "69"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "492: Regesten zu Briefen aus dem Umkreis der DCSV.\n(Vgl. Bd. 438)",
+      "nummer": "492",
+      "titel": "Regesten zu Briefen aus dem Umkreis der DCSV",
+      "typ": "Verzeichnis/Aufstellung",
+      "verweis": "Vgl. Bd. 438",
+      "_quelldatei": "page_093.json",
+      "_pageNumber": "69"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "493: Regesten von weiteren Briefen. 14 Briefe.",
+      "nummer": "493",
+      "titel": "Regesten von weiteren Briefen",
+      "typ": "Verzeichnis/Aufstellung",
+      "umfang": "14 Briefe",
+      "_quelldatei": "page_093.json",
+      "_pageNumber": "69"
+    }
+  ],
+  "notes": ""
+}

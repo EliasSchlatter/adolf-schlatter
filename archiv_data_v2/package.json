@@ -1,0 +1,12 @@
+{
+  "name": "archiv-data-v2-ocr",
+  "version": "1.0.0",
+  "description": "OCR für Schlatter-Archiv mit GPT-5-mini Vision",
+  "main": "ocr-pdf-pages.js",
+  "scripts": {
+    "ocr": "node ocr-pdf-pages.js"
+  },
+  "dependencies": {
+    "openai": "^4.24.1"
+  }
+}

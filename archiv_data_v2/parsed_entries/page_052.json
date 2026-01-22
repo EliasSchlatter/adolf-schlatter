@@ -1,0 +1,146 @@
+{
+  "sourceFile": "page_052.json",
+  "pageNumber": "28",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+    "unterabschnitt": "8. Veröffentlichungen von Schlatter aus den Bereichen Mission, Diakonie, Christlicher Volksdienst; 9. Artikel von Schlatter in Schweizer Blättern",
+    "unterkategorie": "b) Veröffentlichungen aus dem Bereich der Schule"
+  },
+  "entriesCount": 2,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "8. Veröffentlichungen von Schlatter aus den Bereichen Mission, Diakonie, Christlicher Volksdienst; 9. Artikel von Schlatter in Schweizer Blättern",
+      "unterkategorie": "b) Veröffentlichungen aus dem Bereich der Schule",
+      "rawText": "Nr. 130: Weisheit oder Thorheit? 1. Kor. 1,17 - 2,16\n23.12.1881. Seite 402 - 411\n\nVon der Rechtfertigung. Römer 4,25\n12.1.1883. Seite 5 - 10; 22f\n\nTodter und lebendiger Glaube.\n18.5.1883. Seite 145 - 149\n\nLukas 15,31.32\n14.11.1884. Seite 365 - 370\n\nDie Pforte zum Römerbrief. Römer 1,18-32\n17.4.1885. Seite 113 - 118\n\nDer zweite Abschnitt des Römerbriefs. Römer 2,1-29\n10.7.1885. Seite 209 - 216\n\nDer Vorzug des Juden. Römer 3,1-8\n19.2.1886. Seite 49 - 56\n\nFragen und Antworten über das Gebet.\n29.10.1886. Seite 347 - 352\n\nFragen und Antworten ... (Schluß)\n12.11.1886. Seite 361 - 369\n\nAus dem inneren Leben der Schule Ritschls.\n27.12.1886. Seite 409 - 417\n\nSollen wir gegen unsre Sünden kämpfen?\n20.4.1888. Seite 113 - 120\n\nNochmals vom Kampf mit unseren Sünden.\n2.8.1888. Seite 263 - 269\n\nFröhlichs Traktat über die Gnadenordnung.\n7.9.1888. Seite 279 - 282\n\nEin Wort für meinen treuen Warner in Nr. 16.\n29.11.1889. Seite 385 - 390",
+      "nummer": "130",
+      "titel": "Sammlung von Artikeln (Nr. 130)",
+      "beschreibung": "Sammelnummer mit einzelnen Artikeln (Titel, biblische Bezüge, Datum und Seitenangaben) wie aufgelistet.",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "Weisheit oder Thorheit? 1. Kor. 1,17 - 2,16\n23.12.1881. Seite 402 - 411",
+          "titel": "Weisheit oder Thorheit?",
+          "bibelstelle": "1. Kor. 1,17-2,16",
+          "datum": "1881-12-23",
+          "seiten": "402-411",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Von der Rechtfertigung. Römer 4,25\n12.1.1883. Seite 5 - 10; 22f",
+          "titel": "Von der Rechtfertigung",
+          "bibelstelle": "Römer 4,25",
+          "datum": "1883-01-12",
+          "seiten": "5-10; 22f",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Todter und lebendiger Glaube.\n18.5.1883. Seite 145 - 149",
+          "titel": "Todter und lebendiger Glaube",
+          "datum": "1883-05-18",
+          "seiten": "145-149",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Lukas 15,31.32\n14.11.1884. Seite 365 - 370",
+          "titel": "Lukas 15,31.32",
+          "bibelstelle": "Lukas 15,31-32",
+          "datum": "1884-11-14",
+          "seiten": "365-370",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Die Pforte zum Römerbrief. Römer 1,18-32\n17.4.1885. Seite 113 - 118",
+          "titel": "Die Pforte zum Römerbrief",
+          "bibelstelle": "Römer 1,18-32",
+          "datum": "1885-04-17",
+          "seiten": "113-118",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Der zweite Abschnitt des Römerbriefs. Römer 2,1-29\n10.7.1885. Seite 209 - 216",
+          "titel": "Der zweite Abschnitt des Römerbriefs",
+          "bibelstelle": "Römer 2,1-29",
+          "datum": "1885-07-10",
+          "seiten": "209-216",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Der Vorzug des Juden. Römer 3,1-8\n19.2.1886. Seite 49 - 56",
+          "titel": "Der Vorzug des Juden",
+          "bibelstelle": "Römer 3,1-8",
+          "datum": "1886-02-19",
+          "seiten": "49-56",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Fragen und Antworten über das Gebet.\n29.10.1886. Seite 347 - 352",
+          "titel": "Fragen und Antworten über das Gebet",
+          "datum": "1886-10-29",
+          "seiten": "347-352",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Fragen und Antworten ... (Schluß)\n12.11.1886. Seite 361 - 369",
+          "titel": "Fragen und Antworten ... (Schluß)",
+          "datum": "1886-11-12",
+          "seiten": "361-369",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Aus dem inneren Leben der Schule Ritschls.\n27.12.1886. Seite 409 - 417",
+          "titel": "Aus dem inneren Leben der Schule Ritschls",
+          "datum": "1886-12-27",
+          "seiten": "409-417",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Sollen wir gegen unsre Sünden kämpfen?\n20.4.1888. Seite 113 - 120",
+          "titel": "Sollen wir gegen unsre Sünden kämpfen?",
+          "datum": "1888-04-20",
+          "seiten": "113-120",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Nochmals vom Kampf mit unseren Sünden.\n2.8.1888. Seite 263 - 269",
+          "titel": "Nochmals vom Kampf mit unseren Sünden",
+          "datum": "1888-08-02",
+          "seiten": "263-269",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Fröhlichs Traktat über die Gnadenordnung.\n7.9.1888. Seite 279 - 282",
+          "titel": "Fröhlichs Traktat über die Gnadenordnung",
+          "datum": "1888-09-07",
+          "seiten": "279-282",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Ein Wort für meinen treuen Warner in Nr. 16.\n29.11.1889. Seite 385 - 390",
+          "titel": "Ein Wort für meinen treuen Warner in Nr. 16",
+          "datum": "1889-11-29",
+          "seiten": "385-390",
+          "typ": "Artikel"
+        }
+      ],
+      "_quelldatei": "page_052.json",
+      "_pageNumber": "28"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "8. Veröffentlichungen von Schlatter aus den Bereichen Mission, Diakonie, Christlicher Volksdienst; 9. Artikel von Schlatter in Schweizer Blättern",
+      "unterkategorie": "b) Veröffentlichungen aus dem Bereich der Schule",
+      "rawText": "b) Nr. 131: Veröffentlichungen aus dem Bereich der Schule\n\nEinzelne Artikel aus den \"Blättern für die christliche\nSchule\" 1880 - 1888, den \"Mittheilungen aus der Neuen\nMädchenschule\" 1881 - 1888 und dem \"Schweizerischen\nEvangelischen Schulblatt\" 1897.",
+      "nummer": "131",
+      "titel": "Veröffentlichungen aus dem Bereich der Schule",
+      "beschreibung": "Einzelne Artikel aus den 'Blättern für die christliche Schule' (1880-1888), den 'Mittheilungen aus der Neuen Mädchenschule' (1881-1888) und dem 'Schweizerischen Evangelischen Schulblatt' (1897).",
+      "typ": "Sammlung",
+      "_quelldatei": "page_052.json",
+      "_pageNumber": "28"
+    }
+  ],
+  "notes": "Seite enthält zwei Inventarnummern (130 und 131). Neue Überschrift 'b) Nr. 131: Veröffentlichungen aus dem Bereich der Schule' erkannt; kontext unterkategorie aktualisiert."
+}

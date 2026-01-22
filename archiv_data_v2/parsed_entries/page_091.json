@@ -1,0 +1,395 @@
+{
+  "sourceFile": "page_091.json",
+  "pageNumber": "67",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "C BRIEFE",
+    "unterabschnitt": "4. Familienbriefe an Schlatter",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 14,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "4. Familienbriefe an Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 461/1: Briefe von Vater Stephan.                1857 - 1880\n    29 Briefe.",
+      "nummer": "461/1",
+      "titel": "Briefe von Vater Stephan",
+      "beschreibung": "Familienbriefe an Schlatter von Vater Stephan.",
+      "typ": "Brief",
+      "zeitraum": "1857 - 1880",
+      "umfang": "29 Briefe",
+      "beteiligte": [
+        {
+          "name": "Stephan",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_091.json",
+      "_pageNumber": "67"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "4. Familienbriefe an Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "461/2: Briefe von Mutter Wilhelmine.                1887 - 1891\n    5 Briefe.",
+      "nummer": "461/2",
+      "titel": "Briefe von Mutter Wilhelmine",
+      "beschreibung": "Briefe von Mutter Wilhelmine an Schlatter.",
+      "typ": "Brief",
+      "zeitraum": "1887 - 1891",
+      "umfang": "5 Briefe",
+      "beteiligte": [
+        {
+          "name": "Wilhelmine",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_091.json",
+      "_pageNumber": "67"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "4. Familienbriefe an Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "461/3: Briefe von Ehefrau Susanna.                   1891\n    9 Briefe.",
+      "nummer": "461/3",
+      "titel": "Briefe von Ehefrau Susanna",
+      "beschreibung": "Briefe von der Ehefrau Susanna an Schlatter.",
+      "typ": "Brief",
+      "jahr": 1891,
+      "umfang": "9 Briefe",
+      "beteiligte": [
+        {
+          "name": "Susanna",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_091.json",
+      "_pageNumber": "67"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "4. Familienbriefe an Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "462/1: Briefe von Schwester Lydia.                   1860 - 1894\n    40 Briefe.",
+      "nummer": "462/1",
+      "titel": "Briefe von Schwester Lydia",
+      "beschreibung": "Briefe von Schwester Lydia an Schlatter.",
+      "typ": "Brief",
+      "zeitraum": "1860 - 1894",
+      "umfang": "40 Briefe",
+      "beteiligte": [
+        {
+          "name": "Lydia",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_091.json",
+      "_pageNumber": "67"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "4. Familienbriefe an Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "462/2: Briefe von Bruder Stephan.                   1872\n    2 Briefe.",
+      "nummer": "462/2",
+      "titel": "Briefe von Bruder Stephan",
+      "beschreibung": "Briefe von Bruder Stephan an Schlatter.",
+      "typ": "Brief",
+      "jahr": 1872,
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Stephan",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_091.json",
+      "_pageNumber": "67"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "4. Familienbriefe an Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "463: Briefe von Bruder Theodor.                    1868 - 1916\n    113 Briefe.",
+      "nummer": "463",
+      "titel": "Briefe von Bruder Theodor",
+      "beschreibung": "Briefe von Bruder Theodor an Schlatter.",
+      "typ": "Brief",
+      "zeitraum": "1868 - 1916",
+      "umfang": "113 Briefe",
+      "beteiligte": [
+        {
+          "name": "Theodor",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_091.json",
+      "_pageNumber": "67"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "4. Familienbriefe an Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "464/1: Briefe von Schwester Christina.               1857 - 1937\n    225 Briefe.",
+      "nummer": "464/1",
+      "titel": "Briefe von Schwester Christina",
+      "beschreibung": "Briefe von Schwester Christina an Schlatter.",
+      "typ": "Brief",
+      "zeitraum": "1857 - 1937",
+      "umfang": "225 Briefe",
+      "beteiligte": [
+        {
+          "name": "Christina",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_091.json",
+      "_pageNumber": "67"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "4. Familienbriefe an Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "464/2: Briefe von Nichte Beatrice.                   1927 - 1935\n    3 Briefe.",
+      "nummer": "464/2",
+      "titel": "Briefe von Nichte Beatrice",
+      "beschreibung": "Briefe von Nichte Beatrice an Schlatter.",
+      "typ": "Brief",
+      "zeitraum": "1927 - 1935",
+      "umfang": "3 Briefe",
+      "beteiligte": [
+        {
+          "name": "Beatrice",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_091.json",
+      "_pageNumber": "67"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "4. Familienbriefe an Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "465/1: Briefe von Schwester Dora.                   1873 - 1914\n    167 Briefe.",
+      "nummer": "465/1",
+      "titel": "Briefe von Schwester Dora",
+      "beschreibung": "Briefe von Schwester Dora an Schlatter.",
+      "typ": "Brief",
+      "zeitraum": "1873 - 1914",
+      "umfang": "167 Briefe",
+      "beteiligte": [
+        {
+          "name": "Dora",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_091.json",
+      "_pageNumber": "67"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "4. Familienbriefe an Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "465/2: Briefe von Schwager Salomon.                1884 - 1921\n    46 Briefe.",
+      "nummer": "465/2",
+      "titel": "Briefe von Schwager Salomon",
+      "beschreibung": "Briefe von Schwager Salomon an Schlatter.",
+      "typ": "Brief",
+      "zeitraum": "1884 - 1921",
+      "umfang": "46 Briefe",
+      "beteiligte": [
+        {
+          "name": "Salomon",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_091.json",
+      "_pageNumber": "67"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "4. Familienbriefe an Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "466: Briefe von Willi Schlatter.                   1884 - 1924\n    33 Briefe.",
+      "nummer": "466",
+      "titel": "Briefe von Willi Schlatter",
+      "beschreibung": "Briefe von Willi Schlatter an (oder von) Schlatter (Familienmitglied).",
+      "typ": "Brief",
+      "zeitraum": "1884 - 1924",
+      "umfang": "33 Briefe",
+      "beteiligte": [
+        {
+          "name": "Willi Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_091.json",
+      "_pageNumber": "67"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "4. Familienbriefe an Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "467/1: Briefe von Sohn Theodor.                     1923 - 1929\n    4 Briefe.\n    Siehe auch Nr. 430, 469/1",
+      "nummer": "467/1",
+      "titel": "Briefe von Sohn Theodor",
+      "beschreibung": "Briefe von Sohn Theodor an Schlatter. Verweis auf weitere Nummern.",
+      "typ": "Brief",
+      "zeitraum": "1923 - 1929",
+      "umfang": "4 Briefe",
+      "verweis": "Siehe auch Nr. 430, 469/1",
+      "beteiligte": [
+        {
+          "name": "Theodor",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_091.json",
+      "_pageNumber": "67"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "4. Familienbriefe an Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "467/2: Briefe von Tochter Hedwig.                   1934\n    1 Brief.",
+      "nummer": "467/2",
+      "titel": "Briefe von Tochter Hedwig",
+      "beschreibung": "Briefe von Tochter Hedwig an Schlatter.",
+      "typ": "Brief",
+      "jahr": 1934,
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Hedwig",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_091.json",
+      "_pageNumber": "67"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "C BRIEFE",
+      "unterabschnitt": "4. Familienbriefe an Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "467/3: Briefe von Schwiegersohn Friedrich Hin-\n    derer und dessen Ehefrau, Tochter Ruth.        1916 - 1936\n    42 Briefe.",
+      "nummer": "467/3",
+      "titel": "Briefe von Schwiegersohn Friedrich Hinderer und dessen Ehefrau, Tochter Ruth",
+      "beschreibung": "Briefe von Schwiegersohn Friedrich Hinderer und dessen Ehefrau sowie Tochter Ruth an Schlatter.",
+      "typ": "Brief",
+      "zeitraum": "1916 - 1936",
+      "umfang": "42 Briefe",
+      "beteiligte": [
+        {
+          "name": "Friedrich Hinderer",
+          "rolle": "Absender",
+          "entity": "Person",
+          "zusatz": "Schwiegersohn"
+        },
+        {
+          "name": "Ruth",
+          "rolle": "Absender",
+          "entity": "Person",
+          "zusatz": "Tochter"
+        }
+      ],
+      "_quelldatei": "page_091.json",
+      "_pageNumber": "67"
+    }
+  ],
+  "notes": ""
+}

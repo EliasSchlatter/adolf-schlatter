@@ -1,0 +1,345 @@
+{
+  "sourceFile": "page_133.json",
+  "pageNumber": "109",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 10,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 883: Theodor Kiefner, Theophil Wurm, Theodor Schlatter:\nAnsprachen zur Übergabefeier des Adolf-Schlatter-Hauses in\nTübingen am 1. Advent 1938.\nDabei: Rundschreiben der DCSV-Altfreunde mit Bericht und Mit-\nteilungen",
+      "nummer": "883",
+      "titel": "Ansprachen zur Übergabefeier des Adolf-Schlatter-Hauses in Tübingen",
+      "beschreibung": "Ansprachen von Theodor Kiefner, Theophil Wurm und Theodor Schlatter zur Übergabefeier des Adolf-Schlatter-Hauses in Tübingen; Beilage: Rundschreiben der DCSV-Altfreunde mit Bericht und Mitteilungen.",
+      "typ": "Rede",
+      "jahr": 1938,
+      "anmerkung": "Termin: 1. Advent 1938 (kein vollständiges Datum)",
+      "beteiligte": [
+        {
+          "name": "Theodor Kiefner",
+          "rolle": "Redner",
+          "entity": "Person"
+        },
+        {
+          "name": "Theophil Wurm",
+          "rolle": "Redner",
+          "entity": "Person"
+        },
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Redner",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_133.json",
+      "_pageNumber": "109"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "884/1: Theodor Schlatter, Brief an Dora Schlatter, 13.6.1966, mit\nÜberlegungen zu weiterer literarischer Darstellung des Werkes\nihres Vaters.",
+      "nummer": "884/1",
+      "titel": "Brief an Dora Schlatter",
+      "beschreibung": "Brief von Theodor Schlatter an Dora Schlatter mit Überlegungen zu weiterer literarischer Darstellung des Werkes ihres Vaters.",
+      "typ": "Brief",
+      "datum": "1966-06-13",
+      "beteiligte": [
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Dora Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_133.json",
+      "_pageNumber": "109"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "884/\n2-4: Erinnerungen an Schlatter u. a. von Wilhelm Busch; Brief an\nDora Schlatter. 22.4.1966",
+      "nummer": "884/2-4",
+      "titel": "Erinnerungen und Brief",
+      "beschreibung": "Sammlung: Erinnerungen an Schlatter (u. a. von Wilhelm Busch) und ein Brief an Dora Schlatter.",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "Erinnerungen an Schlatter u. a. von Wilhelm Busch",
+          "titel": "Erinnerungen an Schlatter",
+          "beschreibung": "Erinnerungen an Adolf Schlatter, darunter Beiträge von Wilhelm Busch.",
+          "typ": "Sonstiges"
+        },
+        {
+          "rawText": "Brief an Dora Schlatter. 22.4.1966",
+          "titel": "Brief an Dora Schlatter",
+          "beschreibung": "Brief (Datum 22.4.1966).",
+          "typ": "Brief",
+          "datum": "1966-04-22",
+          "beteiligte": [
+            {
+              "name": "Dora Schlatter",
+              "rolle": "Adressat",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_133.json",
+      "_pageNumber": "109"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "885: Adolf Schlatter, Christ und Politik.\nVortrag in Stuttgart bei der theol. Arbeitsgemeinschaft des\nChristlichen Volksdienstes. Gedruckt als Flugblatt vom Christ-\nlichen Volksdienst. Verlag Korntal. Februar 1932",
+      "nummer": "885",
+      "titel": "Christ und Politik",
+      "beschreibung": "Vortrag von Adolf Schlatter in Stuttgart bei der theologisch-\"Arbeitsgemeinschaft des Christlichen Volksdienstes\"; gedruckt als Flugblatt vom Christlichen Volksdienst, Verlag Korntal.",
+      "typ": "Vortrag",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Vortragender / Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Christlicher Volksdienst",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Organisation"
+        }
+      ],
+      "jahr": 1932,
+      "anmerkung": "Erschienen Februar 1932 (kein vollständiges Datum); Form: Flugblatt; Ort: Stuttgart; Verlag: Korntal",
+      "_quelldatei": "page_133.json",
+      "_pageNumber": "109"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "886/1: \"Gott allein die Ehre\". Gedenkschrift für 100 Jahre Evang.\nGesellschaft Bern. 1931. Schlatter erwähnt Seite 93, 192",
+      "nummer": "886/1",
+      "titel": "Gott allein die Ehre (Gedenkschrift)",
+      "beschreibung": "Gedenkschrift für 100 Jahre Evangelische Gesellschaft Bern (1931). Adolf Schlatter wird auf den Seiten 93 und 192 erwähnt.",
+      "typ": "Druckschrift",
+      "jahr": 1931,
+      "beteiligte": [
+        {
+          "name": "Evang. Gesellschaft Bern",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Institution"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "seiten": "93, 192",
+      "_quelldatei": "page_133.json",
+      "_pageNumber": "109"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "886/2: Paul Gruner, Die Stillen im Lande und die Evangelische Al-\nlia nz.\nTeil 1, 1949, Schlatter erwähnt Seite 50 f\nTeil 2, 1951, Schlatter erwähnt Seite 128",
+      "nummer": "886/2",
+      "titel": "Die Stillen im Lande und die Evangelische Allianz (Paul Gruner)",
+      "beschreibung": "Zweite Veröffentlichung: Paul Gruner, 'Die Stillen im Lande und die Evangelische Allianz'. Enthält Verweise auf Adolf Schlatter in Teil 1 (1949, S. 50 f.) und Teil 2 (1951, S. 128).",
+      "typ": "Buch",
+      "untereintraege": [
+        {
+          "rawText": "Teil 1, 1949, Schlatter erwähnt Seite 50 f",
+          "titel": "Teil 1",
+          "jahr": 1949,
+          "seiten": "50 f",
+          "beschreibung": "Teil 1 (1949); Schlatter erwähnt (S. 50 f.)"
+        },
+        {
+          "rawText": "Teil 2, 1951, Schlatter erwähnt Seite 128",
+          "titel": "Teil 2",
+          "jahr": 1951,
+          "seiten": "128",
+          "beschreibung": "Teil 2 (1951); Schlatter erwähnt (S. 128)"
+        }
+      ],
+      "beteiligte": [
+        {
+          "name": "Paul Gruner",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_133.json",
+      "_pageNumber": "109"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "887: Auszüge aus Protokollen des Comité der Evang. Gesellschaft\nBern betreffend:\n\nBesuch von Adolf Stoecker in Bern, 1881;\n\nBibelvorträge von Schlatter für Männer, 1885 - 1886 und\n1886 - 1887.",
+      "nummer": "887",
+      "titel": "Auszüge aus Protokollen des Comité der Evang. Gesellschaft Bern",
+      "beschreibung": "Auszüge aus den Protokollen betreffend mehrere Ereignisse / Einträge.",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "Besuch von Adolf Stoecker in Bern, 1881",
+          "titel": "Besuch von Adolf Stoecker in Bern",
+          "jahr": 1881,
+          "beschreibung": "Eintrag zu Besuch von Adolf Stoecker in Bern (1881).",
+          "beteiligte": [
+            {
+              "name": "Adolf Stoecker",
+              "rolle": "Erwähnt",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Bibelvorträge von Schlatter für Männer, 1885 - 1886 und 1886 - 1887",
+          "titel": "Bibelvorträge von Schlatter für Männer",
+          "beschreibung": "Bibelvorträge von Adolf Schlatter für Männer in den Schuljahren 1885-1886 und 1886-1887.",
+          "zeitraum": "1885-1887",
+          "beteiligte": [
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Vortragender",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_133.json",
+      "_pageNumber": "109"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "888: Auszüge aus Kollektenblatt der Evang. Gesellschaft Bern:\n\n888/1: Mitwirkung von Schlatter bei Bibelkursen. 1885 - 1886\n\n888/2: Teilnahme am Tod von Sohn Paul. 1914\n\n888/3: Kritik an der Besetzung des Lehrstuhls von Schlatter em.\ndurch Prof. Heitmüller. 1923\n\n888/4: Geistliche Betrachtung von Pfarrer Wilhelm Schlatter anläß-\nlich des Todes von Adolf Schlatter. 1938",
+      "nummer": "888",
+      "titel": "Auszüge aus Kollektenblatt der Evang. Gesellschaft Bern",
+      "beschreibung": "Sammlung von Einträgen aus dem Kollektenblatt der Evangelischen Gesellschaft Bern, mit mehreren Bezugspunkten zu Adolf Schlatter und seiner Familie.",
+      "typ": "Sammlung",
+      "untereintraege": [
+        {
+          "rawText": "888/1: Mitwirkung von Schlatter bei Bibelkursen. 1885 - 1886",
+          "titel": "Mitwirkung bei Bibelkursen",
+          "beschreibung": "Mitwirkung von Schlatter bei Bibelkursen.",
+          "zeitraum": "1885-1886"
+        },
+        {
+          "rawText": "888/2: Teilnahme am Tod von Sohn Paul. 1914",
+          "titel": "Teilnahme am Tod von Sohn Paul",
+          "beschreibung": "Eintrag zur Teilnahme am Tod von Schlatter's Sohn Paul.",
+          "jahr": 1914
+        },
+        {
+          "rawText": "888/3: Kritik an der Besetzung des Lehrstuhls von Schlatter em. durch Prof. Heitmüller. 1923",
+          "titel": "Kritik an der Besetzung des Lehrstuhls",
+          "beschreibung": "Kritik an der Besetzung des Lehrstuhls (Schlatter) durch Prof. Heitmüller.",
+          "jahr": 1923,
+          "beteiligte": [
+            {
+              "name": "Prof. Heitmüller",
+              "rolle": "Erwähnt",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "888/4: Geistliche Betrachtung von Pfarrer Wilhelm Schlatter anläßlich des Todes von Adolf Schlatter. 1938",
+          "titel": "Geistliche Betrachtung anlässlich des Todes von Adolf Schlatter",
+          "beschreibung": "Geistliche Betrachtung von Pfarrer Wilhelm Schlatter anlässlich des Todes von Adolf Schlatter.",
+          "jahr": 1938,
+          "beteiligte": [
+            {
+              "name": "Wilhelm Schlatter",
+              "rolle": "Autor",
+              "entity": "Person",
+              "zusatz": "Pfarrer"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_133.json",
+      "_pageNumber": "109"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "889: Wilhelm Schlatter, Nachruf zum Tod von Adolf Schlatter.\nAus: \"Brosamen, Evang. Volksblatt\". 5.6.1938",
+      "nummer": "889",
+      "titel": "Nachruf zum Tod von Adolf Schlatter",
+      "beschreibung": "Nachruf von Wilhelm Schlatter zum Tod von Adolf Schlatter, erschienen in 'Brosamen, Evang. Volksblatt'.",
+      "typ": "Nachruf",
+      "datum": "1938-06-05",
+      "beteiligte": [
+        {
+          "name": "Wilhelm Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "in": "Brosamen, Evang. Volksblatt",
+      "_quelldatei": "page_133.json",
+      "_pageNumber": "109"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "890: Lehrtätigkeit von Adolf Schlatter an der Lehrerschule Bern:\nAuszüge aus Jahresbriefen 1880 - 1889",
+      "nummer": "890",
+      "titel": "Lehrtätigkeit an der Lehrerschule Bern",
+      "beschreibung": "Auszüge aus Jahresbriefen zur Lehrtätigkeit von Adolf Schlatter an der Lehrerschule Bern.",
+      "typ": "Sammlung",
+      "zeitraum": "1880-1889",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Lehrender",
+          "entity": "Person"
+        },
+        {
+          "name": "Lehrerschule Bern",
+          "rolle": "Institution",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_133.json",
+      "_pageNumber": "109"
+    }
+  ],
+  "notes": "Seite enthält Inventarnummern 883–890; keine neuen Abschnitts- oder Kategorieüberschriften auf der Seite erkannt (Kontext bleibt Teil II / B Druckschriften und Manuskripte / 6. Regesten zu Briefen der Gruppe 2 / h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.)"
+}

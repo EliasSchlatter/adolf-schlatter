@@ -1,0 +1,77 @@
+{
+  "sourceFile": "page_058.json",
+  "pageNumber": "34",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+    "unterabschnitt": "14. Sonstiges zum biographischen Hintergrund",
+    "unterkategorie": "a) In Büchern; b) Nr. 146: In Druckschriften"
+  },
+  "entriesCount": 3,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "14. Sonstiges zum biographischen Hintergrund",
+      "unterkategorie": "a) In Büchern; b) Nr. 146: In Druckschriften",
+      "rawText": "Nr. 147: Saat und Ernte.\n    Lebenserfahrungen Stephan Schlatters.\n    Christlicher Volksbote aus Basel. 1. und 15.9.1880",
+      "nummer": "147",
+      "titel": "Saat und Ernte",
+      "beschreibung": "Lebenserfahrungen Stephan Schlatters. Erschienen im Christlichen Volksbote aus Basel am 1.9.1880 und 15.9.1880.",
+      "typ": "Artikel",
+      "jahr": 1880,
+      "zeitschrift": "Christlicher Volksbote aus Basel",
+      "beteiligte": [
+        {
+          "name": "Stephan Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "zusatzInfo": "Im OCR: '1. und 15.9.1880' (zwei Erscheinungsdaten).",
+      "_quelldatei": "page_058.json",
+      "_pageNumber": "34"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "14. Sonstiges zum biographischen Hintergrund",
+      "unterkategorie": "a) In Büchern; b) Nr. 146: In Druckschriften",
+      "rawText": "148/1: Das Lichterbild.\n    Mit handschriftlicher Notiz: \"an ihrem letzten Lebens-\n    tag erschienen\".\n    St. Galler-Blätter Nr. 17/1915",
+      "nummer": "148/1",
+      "titel": "Das Lichterbild",
+      "beschreibung": "Mit handschriftlicher Notiz: \"an ihrem letzten Lebenstag erschienen\". Erschienen in den St. Galler-Blättern, Nr. 17/1915.",
+      "typ": "Artikel",
+      "jahr": 1915,
+      "zeitschrift": "St. Galler-Blätter",
+      "band": null,
+      "heft": "Nr. 17",
+      "_quelldatei": "page_058.json",
+      "_pageNumber": "34"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "14. Sonstiges zum biographischen Hintergrund",
+      "unterkategorie": "a) In Büchern; b) Nr. 146: In Druckschriften",
+      "rawText": "148/2: B. Bingasser. Die Gratulation.\n    Aus stadt-sankt-gallischem Familienleben\n    St. Galler-Blätter Nr. 52/1916",
+      "nummer": "148/2",
+      "titel": "Die Gratulation",
+      "beschreibung": "Aus stadt-sankt-gallischem Familienleben. Erschienen in den St. Galler-Blättern, Nr. 52/1916.",
+      "typ": "Artikel",
+      "jahr": 1916,
+      "zeitschrift": "St. Galler-Blätter",
+      "heft": "Nr. 52",
+      "beteiligte": [
+        {
+          "name": "B. Bingasser",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_058.json",
+      "_pageNumber": "34"
+    }
+  ],
+  "notes": "Seite enthält Überschrift '14. Sonstiges zum biographischen Hintergrund' — Unterabschnitt aktualisiert."
+}

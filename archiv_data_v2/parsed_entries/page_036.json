@@ -1,0 +1,130 @@
+{
+  "sourceFile": "page_036.json",
+  "pageNumber": "12",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+    "unterabschnitt": "2. Wissenschaftlich-theologische Werke vorwiegend von Schlatter",
+    "unterkategorie": "a) Zu Lebzeiten von Schlatter erschienene Bände"
+  },
+  "entriesCount": 1,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "2. Wissenschaftlich-theologische Werke vorwiegend von Schlatter",
+      "unterkategorie": "a) Zu Lebzeiten von Schlatter erschienene Bände",
+      "rawText": "Nr. 38/1: Herausgegeben von A. Schlatter und H. Cremer\n\n\"Beiträge zur Förderung christlicher Theologie\"\nGesamtverzeichnis der Reihe siehe Nr. 796\n\nNr. 38/1: Herausgegeben von A. Schlatter und H. Cremer\n\nDer Dienst des Christen in der älteren Dogmatik\nHeft 1/1897\n\nDie Tage Trajans und Hadrians\nHeft 3/1897\n\nDas ... hebräische Stück des Sirach\nHeft 5 und 6/1897\n\nDie Kirche Jerusalems vom Jahre 70 - 130\nHeft 3/1898\n\nDie Parallelen in den Worten Jesu bei Johannes und Matthäus\nHeft 5/1898\n\nJochanan Ben Zakkai\nHeft 4/1899\n\nDie Furcht vor dem Denken\nHeft 1/1900\n\nVerkanntes Griechisch\nHeft 4/1900\n\nWas ist heute die religiöse Aufgabe der Universitäten?\nHeft 3/1901\n\nJesu Gottheit und das Kreuz\nHeft 5/1901\n\nDie Sprache und Heimat des 4. Evangelisten\nHeft 4/1902",
+      "nummer": "38/1",
+      "titel": "Beiträge zur Förderung christlicher Theologie",
+      "beschreibung": "Reihe, herausgegeben von A. Schlatter und H. Cremer. Gesamtverzeichnis der Reihe siehe Nr. 796.",
+      "typ": "Reihenband",
+      "beteiligte": [
+        {
+          "name": "A. Schlatter",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        },
+        {
+          "name": "H. Cremer",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Der Dienst des Christen in der älteren Dogmatik\nHeft 1/1897",
+          "titel": "Der Dienst des Christen in der älteren Dogmatik",
+          "beschreibung": "Heft 1/1897",
+          "typ": "Druckschrift",
+          "teilfolge": "Heft 1",
+          "jahr": 1897
+        },
+        {
+          "rawText": "Die Tage Trajans und Hadrians\nHeft 3/1897",
+          "titel": "Die Tage Trajans und Hadrians",
+          "beschreibung": "Heft 3/1897",
+          "typ": "Druckschrift",
+          "teilfolge": "Heft 3",
+          "jahr": 1897
+        },
+        {
+          "rawText": "Das ... hebräische Stück des Sirach\nHeft 5 und 6/1897",
+          "titel": "Das ... hebräische Stück des Sirach",
+          "beschreibung": "Heft 5 und 6/1897",
+          "typ": "Druckschrift",
+          "teilfolge": "Heft 5 und 6",
+          "jahr": 1897,
+          "anmerkung": "Original OCR enthält Auslassungspunkte ('...') vor 'hebräische' — unsicherer Titelteil."
+        },
+        {
+          "rawText": "Die Kirche Jerusalems vom Jahre 70 - 130\nHeft 3/1898",
+          "titel": "Die Kirche Jerusalems vom Jahre 70 - 130",
+          "beschreibung": "Heft 3/1898",
+          "typ": "Druckschrift",
+          "teilfolge": "Heft 3",
+          "jahr": 1898
+        },
+        {
+          "rawText": "Die Parallelen in den Worten Jesu bei Johannes und Matthäus\nHeft 5/1898",
+          "titel": "Die Parallelen in den Worten Jesu bei Johannes und Matthäus",
+          "beschreibung": "Heft 5/1898",
+          "typ": "Druckschrift",
+          "teilfolge": "Heft 5",
+          "jahr": 1898
+        },
+        {
+          "rawText": "Jochanan Ben Zakkai\nHeft 4/1899",
+          "titel": "Jochanan Ben Zakkai",
+          "beschreibung": "Heft 4/1899",
+          "typ": "Druckschrift",
+          "teilfolge": "Heft 4",
+          "jahr": 1899
+        },
+        {
+          "rawText": "Die Furcht vor dem Denken\nHeft 1/1900",
+          "titel": "Die Furcht vor dem Denken",
+          "beschreibung": "Heft 1/1900",
+          "typ": "Druckschrift",
+          "teilfolge": "Heft 1",
+          "jahr": 1900
+        },
+        {
+          "rawText": "Verkanntes Griechisch\nHeft 4/1900",
+          "titel": "Verkanntes Griechisch",
+          "beschreibung": "Heft 4/1900",
+          "typ": "Druckschrift",
+          "teilfolge": "Heft 4",
+          "jahr": 1900
+        },
+        {
+          "rawText": "Was ist heute die religiöse Aufgabe der Universitäten?\nHeft 3/1901",
+          "titel": "Was ist heute die religiöse Aufgabe der Universitäten?",
+          "beschreibung": "Heft 3/1901",
+          "typ": "Druckschrift",
+          "teilfolge": "Heft 3",
+          "jahr": 1901
+        },
+        {
+          "rawText": "Jesu Gottheit und das Kreuz\nHeft 5/1901",
+          "titel": "Jesu Gottheit und das Kreuz",
+          "beschreibung": "Heft 5/1901",
+          "typ": "Druckschrift",
+          "teilfolge": "Heft 5",
+          "jahr": 1901
+        },
+        {
+          "rawText": "Die Sprache und Heimat des 4. Evangelisten\nHeft 4/1902",
+          "titel": "Die Sprache und Heimat des 4. Evangelisten",
+          "beschreibung": "Heft 4/1902",
+          "typ": "Druckschrift",
+          "teilfolge": "Heft 4",
+          "jahr": 1902
+        }
+      ],
+      "_quelldatei": "page_036.json",
+      "_pageNumber": "12"
+    }
+  ],
+  "notes": "Seite zeigt Serienkopf 'Beiträge zur Förderung christlicher Theologie' und Liste von Heften. Fußnote 'Gesamtverzeichnis der Reihe siehe Nr. 796'. OCR enthält 'Das ... hebräische Stück des Sirach' mit Auslassungspunkten; Seitenzahl '12' unten auf der Seite."
+}

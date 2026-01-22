@@ -1,0 +1,43 @@
+{
+  "sourceFile": "page_165.json",
+  "pageNumber": "141",
+  "context": {
+    "teil": "Teil III",
+    "sektion": "B Korrespondenz",
+    "unterabschnitt": "Handakten des Archivars",
+    "unterkategorie": "C Verschiedenes"
+  },
+  "entriesCount": 2,
+  "entries": [
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "Nr. 1583: 1100 Karteikarten für Regesten",
+      "nummer": "1583",
+      "titel": "Karteikarten für Regesten",
+      "beschreibung": "1100 Karteikarten",
+      "typ": "Material",
+      "umfang": "1100 Karteikarten",
+      "_quelldatei": "page_165.json",
+      "_pageNumber": "141"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "1584: Sonstiges\n\nAuf die Vorbemerkung zur weiteren Auswertung von Teil II durch die Aktennotizen für die Weiterarbeit (Inventar-Nr. 1573) wird hingewiesen.",
+      "nummer": "1584",
+      "titel": "Sonstiges",
+      "beschreibung": "Hinweis auf Vorbemerkung zur weiteren Auswertung von Teil II durch die Aktennotizen für die Weiterarbeit (Inventar-Nr. 1573).",
+      "typ": "Sonstiges",
+      "verweis": "1573",
+      "anmerkung": "Verweis auf Inventar-Nr. 1573",
+      "_quelldatei": "page_165.json",
+      "_pageNumber": "141"
+    }
+  ],
+  "notes": "Seite enthält Einträge Nr. 1583–1584. Keine neuen Überschriften erkennbar."
+}

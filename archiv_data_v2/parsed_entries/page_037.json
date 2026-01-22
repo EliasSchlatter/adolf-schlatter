@@ -1,0 +1,159 @@
+{
+  "sourceFile": "page_037.json",
+  "pageNumber": "13",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+    "unterabschnitt": "2. Wissenschaftlich-theologische Werke vorwiegend von Schlatter",
+    "unterkategorie": "a) Zu Lebzeiten von Schlatter erschienene Bände"
+  },
+  "entriesCount": 1,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "2. Wissenschaftlich-theologische Werke vorwiegend von Schlatter",
+      "unterkategorie": "a) Zu Lebzeiten von Schlatter erschienene Bände",
+      "rawText": "Nr. 38/2: Herausgegeben von Schlatter und W. Lütgert\n\nJesu Demut\nHeft 1/1904\n\nChristus und Christentum, Person und Prinzip.\nJ. T. Becks theologische Arbeit\nHeft 4/1904\n\nAtheistische Methoden in der Theologie\nHeft 5/1905\n\nNoch ein Wort über den christlichen Dienst\nHeft 6/1905\n\nDie philosophische Arbeit seit Cartesius nach ihrem ethischen und religiösen Ertrag\nHeft 4 und 5/1906\n\nÜber das Recht und die Geltung des kirchlichen Bekenntnisses\nHeft 3/1907\n\nDer Zweifel an der Messianität Jesu\nHeft 4/1907\n\nDie Theologie des NT und die Dogmatik\nHeft 2/1909\n\nWie sprach Josephus von Gott?\nHeft 1/1910\n\nBriefe über das christliche Dogma\nHeft 3/1912\n\nDie Gemeinde in der apostolischen Zeit und im Missionsgebiet\n\nDas Wunder in der Synagoge\nHeft 5/1912\n\nDas AT in der johanneischen Apokalypse\nHeft 6/1912\n\nDie hebräischen Namen bei Josephus\nHeft 3 und 4/1913\n\nDie korinthische Theologie\nHeft 2/1914\n\nRecht und Schuld in der Geschichte\n- Rede an Kaisers Geburtstag -\nHeft 1/1915",
+      "nummer": "38/2",
+      "titel": "Herausgegeben von Schlatter und W. Lütgert",
+      "beschreibung": "Reihe herausgegeben von Schlatter und W. Lütgert; auf dieser Seite aufgelistete Hefte/Titel mit Heft- und Jahresangaben.",
+      "typ": "Reihenband",
+      "beteiligte": [
+        {
+          "name": "Schlatter",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        },
+        {
+          "name": "W. Lütgert",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Jesu Demut\nHeft 1/1904",
+          "titel": "Jesu Demut",
+          "heft": "1",
+          "jahr": 1904,
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Christus und Christentum, Person und Prinzip.\nJ. T. Becks theologische Arbeit\nHeft 4/1904",
+          "titel": "Christus und Christentum, Person und Prinzip. J. T. Becks theologische Arbeit",
+          "heft": "4",
+          "jahr": 1904,
+          "typ": "Artikel",
+          "beteiligte": [
+            {
+              "name": "J. T. Beck",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Atheistische Methoden in der Theologie\nHeft 5/1905",
+          "titel": "Atheistische Methoden in der Theologie",
+          "heft": "5",
+          "jahr": 1905,
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Noch ein Wort über den christlichen Dienst\nHeft 6/1905",
+          "titel": "Noch ein Wort über den christlichen Dienst",
+          "heft": "6",
+          "jahr": 1905,
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Die philosophische Arbeit seit Cartesius nach ihrem ethischen und religiösen Ertrag\nHeft 4 und 5/1906",
+          "titel": "Die philosophische Arbeit seit Cartesius nach ihrem ethischen und religiösen Ertrag",
+          "heft": "4 und 5",
+          "jahr": 1906,
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Über das Recht und die Geltung des kirchlichen Bekenntnisses\nHeft 3/1907",
+          "titel": "Über das Recht und die Geltung des kirchlichen Bekenntnisses",
+          "heft": "3",
+          "jahr": 1907,
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Der Zweifel an der Messianität Jesu\nHeft 4/1907",
+          "titel": "Der Zweifel an der Messianität Jesu",
+          "heft": "4",
+          "jahr": 1907,
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Die Theologie des NT und die Dogmatik\nHeft 2/1909",
+          "titel": "Die Theologie des NT und die Dogmatik",
+          "heft": "2",
+          "jahr": 1909,
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Wie sprach Josephus von Gott?\nHeft 1/1910",
+          "titel": "Wie sprach Josephus von Gott?",
+          "heft": "1",
+          "jahr": 1910,
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Briefe über das christliche Dogma\nHeft 3/1912",
+          "titel": "Briefe über das christliche Dogma",
+          "heft": "3",
+          "jahr": 1912,
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Die Gemeinde in der apostolischen Zeit und im Missionsgebiet",
+          "titel": "Die Gemeinde in der apostolischen Zeit und im Missionsgebiet",
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Das Wunder in der Synagoge\nHeft 5/1912",
+          "titel": "Das Wunder in der Synagoge",
+          "heft": "5",
+          "jahr": 1912,
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Das AT in der johanneischen Apokalypse\nHeft 6/1912",
+          "titel": "Das AT in der johanneischen Apokalypse",
+          "heft": "6",
+          "jahr": 1912,
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Die hebräischen Namen bei Josephus\nHeft 3 und 4/1913",
+          "titel": "Die hebräischen Namen bei Josephus",
+          "heft": "3 und 4",
+          "jahr": 1913,
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Die korinthische Theologie\nHeft 2/1914",
+          "titel": "Die korinthische Theologie",
+          "heft": "2",
+          "jahr": 1914,
+          "typ": "Artikel"
+        },
+        {
+          "rawText": "Recht und Schuld in der Geschichte\n- Rede an Kaisers Geburtstag -\nHeft 1/1915",
+          "titel": "Recht und Schuld in der Geschichte",
+          "anlass": "Rede an Kaisers Geburtstag",
+          "heft": "1",
+          "jahr": 1915,
+          "typ": "Artikel"
+        }
+      ],
+      "_quelldatei": "page_037.json",
+      "_pageNumber": "13"
+    }
+  ],
+  "notes": "Seite enthält Eintrag Nr. 38/2 mit mehreren Heft-Titeln und Jahresangaben. Ein Eintrag ('Die Gemeinde in der apostolischen Zeit und im Missionsgebiet') hat keine Heft-/Jahresangabe auf dieser Seite. Seitenzahl '13' am Fuß."
+}

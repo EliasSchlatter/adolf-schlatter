@@ -1,0 +1,253 @@
+{
+  "sourceFile": "page_135.json",
+  "pageNumber": "111",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "4 Systematische Theologie und Philosophie",
+    "unterkategorie": "C Verschiedenes"
+  },
+  "entriesCount": 11,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "Nr. 901/1: Der Evang. Verein für Kirchliche Zwecke in Berlin.\n\tTitelblatt der Festschrift zum 25. Jahresfest. 31.10.1873",
+      "nummer": "901/1",
+      "titel": "Der Evang. Verein für Kirchliche Zwecke in Berlin. Titelblatt der Festschrift zum 25. Jahresfest",
+      "beschreibung": "Titelblatt der Festschrift zum 25. Jahresfest des Evangelischen Vereins für Kirchliche Zwecke in Berlin.",
+      "typ": "Druckschrift",
+      "datum": "1873-10-31",
+      "_quelldatei": "page_135.json",
+      "_pageNumber": "111"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "901/2: Prof. D. Schlatter, Das Bild Jesu nach der Bergpredigt.\n\tAus: Jahresbericht 1894, Seite 1",
+      "nummer": "901/2",
+      "titel": "Das Bild Jesu nach der Bergpredigt",
+      "beschreibung": "Beitrag von Prof. D. Schlatter. Aus: Jahresbericht 1894, Seite 1.",
+      "typ": "Druckschrift",
+      "jahr": 1894,
+      "beteiligte": [
+        {
+          "name": "D. Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "seiten": "1",
+      "_quelldatei": "page_135.json",
+      "_pageNumber": "111"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "901/3: Prof. D. Schlatter, unsere Losung fürs Neue Jahr:\n\t1. Cor. 3,11.\n\tAus: Ordnung der Gebetswoche des Evang. Verein vom\n\t1. - 6.1.1897",
+      "nummer": "901/3",
+      "titel": "unsere Losung fürs Neue Jahr: 1. Cor. 3,11",
+      "beschreibung": "Aus: Ordnung der Gebetswoche des Evangelischen Vereins, 1.-6.1.1897. Beitrag von Prof. D. Schlatter.",
+      "typ": "Druckschrift",
+      "jahr": 1897,
+      "zeitraum": "01.01.1897-06.01.1897",
+      "beteiligte": [
+        {
+          "name": "D. Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_135.json",
+      "_pageNumber": "111"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "901/4: Dienet einander! Denkschrift zur 50jährigen Jubelfeier des\n\tEvang. Verein. 1898, Seite 119 Schlatter als Vorstandsmitglied erwähnt.",
+      "nummer": "901/4",
+      "titel": "Dienet einander! Denkschrift zur 50jährigen Jubelfeier des Evang. Verein",
+      "beschreibung": "Denkschrift zur 50jährigen Jubelfeier des Evangelischen Vereins. Schlatter wird als Vorstandsmitglied erwähnt.",
+      "typ": "Druckschrift",
+      "jahr": 1898,
+      "seiten": "119",
+      "_quelldatei": "page_135.json",
+      "_pageNumber": "111"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "901/5: 56. Jahresbericht des Evang. Verein für 1904, Seite 38\n\tSchlatter letztmals als Spender erwähnt.",
+      "nummer": "901/5",
+      "titel": "56. Jahresbericht des Evangelischen Vereins",
+      "beschreibung": "56. Jahresbericht des Evangelischen Vereins für 1904. Schlatter wird letztmals als Spender erwähnt.",
+      "typ": "Druckschrift",
+      "jahr": 1904,
+      "seiten": "38",
+      "_quelldatei": "page_135.json",
+      "_pageNumber": "111"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "901/6: Der Evang. Verein für Kirchliche Zwecke als Hauptträger der\n\tWichernschen Gedanken in Berlin.\n\tAus: Walter Wendland, die Entwicklung der christlichen Liebestätigkeit in Groß-Berlin.\n\tWichern-Verlag Berlin Spandau, Seite 52 ff",
+      "nummer": "901/6",
+      "titel": "Der Evang. Verein für Kirchliche Zwecke als Hauptträger der Wichernschen Gedanken in Berlin",
+      "beschreibung": "Aus: Walter Wendland, Die Entwicklung der christlichen Liebestätigkeit in Groß-Berlin. Wichern-Verlag Berlin Spandau, Seite 52 ff.",
+      "typ": "Druckschrift",
+      "beteiligte": [
+        {
+          "name": "Walter Wendland",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Wichern-Verlag Berlin Spandau",
+          "rolle": "Verlag",
+          "entity": "Organisation"
+        }
+      ],
+      "seiten": "52 ff",
+      "_quelldatei": "page_135.json",
+      "_pageNumber": "111"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "902: Satzungen des Berliner Stadtausschusses für Innere Mission,\n\t26.4.1899, § 1: \"Aufgabe ..., im Bereich der Berliner Stadtmission die Innere Mission in umfassender Weise ... zu fördern.\"",
+      "nummer": "902",
+      "titel": "Satzungen des Berliner Stadtausschusses für Innere Mission",
+      "beschreibung": "Satzungen mit Datum 26.4.1899. Enthält § 1: \"Aufgabe ..., im Bereich der Berliner Stadtmission die Innere Mission in umfassender Weise ... zu fördern.\"",
+      "typ": "Druckschrift",
+      "datum": "1899-04-26",
+      "beteiligte": [
+        {
+          "name": "Berliner Stadtausschuss für Innere Mission",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Organisation"
+        }
+      ],
+      "_quelldatei": "page_135.json",
+      "_pageNumber": "111"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "903/1: Adolf Schlatter, Zitat: \"Der Christ hat nicht nur die evan-\n\tgelistische, sondern auch die diakonische Aufgabe.\"\n\tAus: D. Reinhard Mumm, Der christlich-soziale Gedanke.\n\tVerlag Mittler u. Sohn Berlin. 1933, Seite 145",
+      "nummer": "903/1",
+      "titel": "Zitat von Adolf Schlatter: \"Der Christ hat nicht nur die evangelistische, sondern auch die diakonische Aufgabe.\"",
+      "beschreibung": "Zitat von Adolf Schlatter, zitiert in D. Reinhard Mumm, Der christlich-soziale Gedanke. Verlag Mittler u. Sohn, Berlin. Seite 145.",
+      "typ": "Druckschrift",
+      "jahr": 1933,
+      "seiten": "145",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        },
+        {
+          "name": "D. Reinhard Mumm",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Verlag Mittler u. Sohn, Berlin",
+          "rolle": "Verlag",
+          "entity": "Organisation"
+        }
+      ],
+      "_quelldatei": "page_135.json",
+      "_pageNumber": "111"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "903/2: Berichte über Gedenkfeiern anläßlich \"50 Jahre Christlich-\n\tSozial\". 3.1.1878 - 3.1.1928\n\tAus: Mitteilungen des christlich-sozialen Verein Berlin,\n\t3.1.1928",
+      "nummer": "903/2",
+      "titel": "Berichte über Gedenkfeiern anläßlich \"50 Jahre Christlich-Sozial\"",
+      "beschreibung": "Berichte über Gedenkfeiern vom 3.1.1878 bis 3.1.1928. Aus: Mitteilungen des christlich-sozialen Vereins Berlin, 3.1.1928.",
+      "typ": "Druckschrift",
+      "jahr": 1928,
+      "zeitraum": "03.01.1878-03.01.1928",
+      "beteiligte": [
+        {
+          "name": "Mitteilungen des christlich-sozialen Vereins Berlin",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Organisation"
+        }
+      ],
+      "_quelldatei": "page_135.json",
+      "_pageNumber": "111"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "904: Gesamtverband der Evangelischen Arbeitervereine Deutschlands. Unterlagen über Satzung (6.8.1890), Grundlinien u. a.\n\tDarunter: Delegiertenversammlung des Gesamtverbandes im\n\t\"Arbeiterheim\" Heusteigstraße 45, Stuttgart am\n\t26.5.1896",
+      "nummer": "904",
+      "titel": "Gesamtverband der Evangelischen Arbeitervereine Deutschlands: Unterlagen",
+      "beschreibung": "Unterlagen über Satzung (6.8.1890), Grundlinien u.a. Enthält u.a. Delegiertenversammlung des Gesamtverbandes im \"Arbeiterheim\" Heusteigstraße 45, Stuttgart am 26.5.1896.",
+      "typ": "Druckschrift",
+      "jahr": 1890,
+      "datum": "1896-05-26",
+      "beteiligte": [
+        {
+          "name": "Gesamtverband der Evangelischen Arbeitervereine Deutschlands",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Organisation"
+        }
+      ],
+      "_quelldatei": "page_135.json",
+      "_pageNumber": "111"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "905/1: Rezension von \"A. T.\" über D. A. Schlatter, Einleitung in\n\tdie Bibel, Calwer Verlag 1889.\n\tAus: Die Christliche Welt, Evang.-Luth. Gemeindeblatt, 1891,\n\tLeipziger Verlag Grunow, Seite 652 f und 1077",
+      "nummer": "905/1",
+      "titel": "Rezension von \"A. T.\" über D. A. Schlatter, Einleitung in die Bibel",
+      "beschreibung": "Rezension (A. T.) über D. A. Schlatter: Einleitung in die Bibel, Calwer Verlag 1889. Aus: Die Christliche Welt, Evang.-Luth. Gemeindeblatt, 1891. Leipziger Verlag Grunow. Seiten 652 f. und 1077.",
+      "typ": "Artikel",
+      "jahr": 1891,
+      "seiten": "652 f.; 1077",
+      "verlag": "Leipziger Verlag Grunow",
+      "beteiligte": [
+        {
+          "name": "A. T.",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "D. A. Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_135.json",
+      "_pageNumber": "111"
+    }
+  ],
+  "notes": ""
+}

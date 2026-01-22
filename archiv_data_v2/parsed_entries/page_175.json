@@ -1,0 +1,292 @@
+{
+  "sourceFile": "page_175.json",
+  "pageNumber": "151",
+  "context": {
+    "teil": "Anhang",
+    "sektion": "Abschnitt I: Ungedrucktes",
+    "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+    "unterkategorie": "C Verschiedenes"
+  },
+  "entriesCount": 16,
+  "entries": [
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "Nr. 679: Mitarbeit von Schlatter bei den Theologischen Wochen in\nBethel 1898 - 1932. Aufstellung von Gerhard Jaspers 1938.",
+      "nummer": "679",
+      "titel": "Mitarbeit von Schlatter bei den Theologischen Wochen in Bethel",
+      "beschreibung": "Aufstellung von Gerhard Jaspers 1938.",
+      "zeitraum": "1898-1932",
+      "_quelldatei": "page_175.json",
+      "_pageNumber": "151"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "696: Erster Plan einer Theologischen Schule Bethel. Unterlagen\n1893 - 1895.\nDarin: Schlatters Rat 1894.\nEröffnung der Theologischen Schule Oktober 1905. Unterlagen",
+      "nummer": "696",
+      "titel": "Erster Plan einer Theologischen Schule Bethel. Unterlagen",
+      "zeitraum": "1893-1895",
+      "untereintraege": [
+        {
+          "rawText": "Schlatters Rat 1894.",
+          "titel": "Schlatters Rat",
+          "jahr": 1894
+        },
+        {
+          "rawText": "Eröffnung der Theologischen Schule Oktober 1905. Unterlagen",
+          "titel": "Eröffnung der Theologischen Schule",
+          "jahr": 1905,
+          "anmerkung": "Monat angegeben: Oktober 1905 (kein vollständiges Datum)"
+        }
+      ],
+      "_quelldatei": "page_175.json",
+      "_pageNumber": "151"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "855: Die Gemeinde im Kampf. Vortrag bei der Theol. Woche in Bet-\nhel, ca. 1912.",
+      "nummer": "855",
+      "titel": "Die Gemeinde im Kampf. Vortrag bei der Theologischen Woche in Bethel",
+      "jahr": 1912,
+      "anmerkung": "ca. 1912",
+      "_quelldatei": "page_175.json",
+      "_pageNumber": "151"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "865: Confirmationsunterricht. Manuskript 1879.",
+      "nummer": "865",
+      "titel": "Confirmationsunterricht",
+      "typ": "Manuskript",
+      "jahr": 1879,
+      "_quelldatei": "page_175.json",
+      "_pageNumber": "151"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "Nr. 169/1: Christlicher Volksdienst in Württemberg. Ab 1924\nDarin: Briefe an Schlatter von Staege, Bausch, Kling, Reiff,\nOehler",
+      "nummer": "169/1",
+      "titel": "Christlicher Volksdienst in Württemberg",
+      "typ": "Korrespondenz",
+      "anmerkung": "Ab 1924",
+      "zeitraum": "ab 1924",
+      "beschreibung": "Darin: Briefe an Schlatter von Staege, Bausch, Kling, Reiff, Oehler",
+      "beteiligte": [
+        {
+          "name": "Staege",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Bausch",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Kling",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Reiff",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Oehler",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_175.json",
+      "_pageNumber": "151"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "169/2: Bekenntniskampf und -bildung. 1933 - 1937\nDarin: Briefe an Schlatter zur Frage der DC",
+      "nummer": "169/2",
+      "titel": "Bekenntniskampf und -bildung",
+      "zeitraum": "1933-1937",
+      "typ": "Korrespondenz",
+      "beschreibung": "Darin: Briefe an Schlatter zur Frage der DC",
+      "_quelldatei": "page_175.json",
+      "_pageNumber": "151"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "169/3: Schreiben von Reichsbischof Müller an Schlatter: Zurückwei-\nsung von Schlatters Aufforderung zum Rücktritt. 8.11.1934",
+      "nummer": "169/3",
+      "titel": "Schreiben von Reichsbischof Müller an Schlatter: Zurückweisung von Schlatters Aufforderung zum Rücktritt",
+      "typ": "Brief",
+      "datum": "1934-11-08",
+      "beteiligte": [
+        {
+          "name": "Reichsbischof Müller",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_175.json",
+      "_pageNumber": "151"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "169/4: Auseinandersetzungen des Reichsministers Rust und des württ.\nKultministers Mergenthaler mit der Tübinger Evang.-Theol.\nFakultät. 1934 - 1935",
+      "nummer": "169/4",
+      "titel": "Auseinandersetzungen des Reichsministers Rust und des württ. Kultministers Mergenthaler mit der Tübinger Evangelisch-Theologischen Fakultät",
+      "zeitraum": "1934-1935",
+      "_quelldatei": "page_175.json",
+      "_pageNumber": "151"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "169/5: Schreiben von Reichsjugendpfarrer Zahn an Schlatter\n10.1.1935, mit Denkschrift vom 25.7.1934 über Spannungen\nzwischen Evangelischer Jugend und Hitlerjugend.",
+      "nummer": "169/5",
+      "titel": "Schreiben von Reichsjugendpfarrer Zahn an Schlatter",
+      "typ": "Brief",
+      "datum": "1935-01-10",
+      "beschreibung": "Mit Denkschrift vom 25.7.1934 über Spannungen zwischen Evangelischer Jugend und Hitlerjugend.",
+      "untereintraege": [
+        {
+          "rawText": "Denkschrift vom 25.7.1934 über Spannungen zwischen Evangelischer Jugend und Hitlerjugend.",
+          "titel": "Denkschrift über Spannungen zwischen Evangelischer Jugend und Hitlerjugend",
+          "datum": "1934-07-25"
+        }
+      ],
+      "beteiligte": [
+        {
+          "name": "Reichsjugendpfarrer Zahn",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_175.json",
+      "_pageNumber": "151"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "169/7: Der neue Aufbau der Kirche auf der deutschen Erde.",
+      "nummer": "169/7",
+      "titel": "Der neue Aufbau der Kirche auf der deutschen Erde",
+      "_quelldatei": "page_175.json",
+      "_pageNumber": "151"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "169/12: Die Tüchtigkeit des Christen für die Politik. Vortrag\n1.2.1932",
+      "nummer": "169/12",
+      "titel": "Die Tüchtigkeit des Christen für die Politik. Vortrag",
+      "typ": "Vortrag",
+      "datum": "1932-02-01",
+      "_quelldatei": "page_175.json",
+      "_pageNumber": "151"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "169/13: Ausführungen zum Verhältnis von kirchlicher und völkischer\nGemeinschaft. Ca. 1934",
+      "nummer": "169/13",
+      "titel": "Ausführungen zum Verhältnis von kirchlicher und völkischer Gemeinschaft",
+      "jahr": 1934,
+      "anmerkung": "ca. 1934",
+      "_quelldatei": "page_175.json",
+      "_pageNumber": "151"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "169/14: Briefwechsel D. Dr. Hesse mit Dora Schlatter. 1956\nDabei: Dokumentarische Äußerung über Hesses Weg von Schlatter\nzu Barth. Darstellung des Kirchenkampfes",
+      "nummer": "169/14",
+      "titel": "Briefwechsel D. Dr. Hesse mit Dora Schlatter",
+      "typ": "Korrespondenz",
+      "jahr": 1956,
+      "beschreibung": "Dabei: Dokumentarische Äußerung über Hesses Weg von Schlatter zu Barth. Darstellung des Kirchenkampfes",
+      "_quelldatei": "page_175.json",
+      "_pageNumber": "151"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "193: Reden und Aufsätze der Berner Zeit. Darunter:",
+      "nummer": "193",
+      "titel": "Reden und Aufsätze der Berner Zeit",
+      "anmerkung": "Enthält Untereinträge (siehe 193/18)",
+      "_quelldatei": "page_175.json",
+      "_pageNumber": "151"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "193/18: Evangelium und Sozialismus.",
+      "nummer": "193/18",
+      "titel": "Evangelium und Sozialismus",
+      "verweis": "siehe 193",
+      "_quelldatei": "page_175.json",
+      "_pageNumber": "151"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "8 Christ und Politik. Kirche und Staat. Kirchenkampf",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "221: Der Heerdienst Jesu. Zur Auseinandersetzung der Christen\nmit dem Nationalsozialismus. Ca. 1935",
+      "nummer": "221",
+      "titel": "Der Heerdienst Jesu. Zur Auseinandersetzung der Christen mit dem Nationalsozialismus",
+      "jahr": 1935,
+      "anmerkung": "ca. 1935",
+      "_quelldatei": "page_175.json",
+      "_pageNumber": "151"
+    }
+  ],
+  "notes": "OCR enthält Trennungen (z.B. 'Bet- hel'). Seitenzahl 151 am Fuß. Keine weiteren Überschriften außer '8 Christ und Politik...'."
+}

@@ -1,0 +1,418 @@
+{
+  "sourceFile": "page_188.json",
+  "pageNumber": "164",
+  "context": {
+    "teil": "Anhang",
+    "sektion": "Abschnitt II: Register",
+    "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+    "unterkategorie": "b) Briefe von Schlatter"
+  },
+  "entriesCount": 16,
+  "entries": [
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Jaeger, Samuel\n    Briefe an Schlatter                           16 Briefe                     426",
+      "nummer": "426",
+      "titel": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "16 Briefe",
+      "beteiligte": [
+        {
+          "name": "Jaeger, Samuel",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_188.json",
+      "_pageNumber": "164"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Jordan, Julius Adolf\n    Briefe an Schlatter                            9 Briefe                     426",
+      "nummer": "426",
+      "titel": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "9 Briefe",
+      "beteiligte": [
+        {
+          "name": "Jordan, Julius Adolf",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_188.json",
+      "_pageNumber": "164"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Kähler, Martin\n    a) Briefe an Schlatter                        17 Briefe                     426",
+      "nummer": "426",
+      "titel": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "17 Briefe",
+      "beteiligte": [
+        {
+          "name": "Kähler, Martin",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Untereintrag a) unter Kähler, Martin",
+      "_quelldatei": "page_188.json",
+      "_pageNumber": "164"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Kähler, Martin\n    b) Briefe von Schlatter                        4 Briefe                420; 1233",
+      "nummer": "420; 1233",
+      "titel": "Briefe von Schlatter",
+      "typ": "Brief",
+      "umfang": "4 Briefe",
+      "beteiligte": [
+        {
+          "name": "Kähler, Martin",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Untereintrag b) unter Kähler, Martin",
+      "_quelldatei": "page_188.json",
+      "_pageNumber": "164"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Kaftan, Julius\n    Briefe an Schlatter                            3 Briefe                     426",
+      "nummer": "426",
+      "titel": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "3 Briefe",
+      "beteiligte": [
+        {
+          "name": "Kaftan, Julius",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_188.json",
+      "_pageNumber": "164"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Kamer, F. Karl\n    Briefe an Schlatter                            1 Brief                      426",
+      "nummer": "426",
+      "titel": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Kamer, F. Karl",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_188.json",
+      "_pageNumber": "164"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Kautzsch, Emil\n    Briefe an Schlatter                            8 Briefe                     426",
+      "nummer": "426",
+      "titel": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "8 Briefe",
+      "beteiligte": [
+        {
+          "name": "Kautzsch, Emil",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_188.json",
+      "_pageNumber": "164"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Kieser, Hermann\n    Briefe an Schlatter                           30 Briefe                     438",
+      "nummer": "438",
+      "titel": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "30 Briefe",
+      "beteiligte": [
+        {
+          "name": "Kieser, Hermann",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_188.json",
+      "_pageNumber": "164"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Kim, Otto\n    Briefe an Schlatter                            2 Briefe                     426",
+      "nummer": "426",
+      "titel": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Kim, Otto",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_188.json",
+      "_pageNumber": "164"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Kittel, Gerhard\n    Briefe an Schlatter                            8 Briefe                     426",
+      "nummer": "426",
+      "titel": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "8 Briefe",
+      "beteiligte": [
+        {
+          "name": "Kittel, Gerhard",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_188.json",
+      "_pageNumber": "164"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Kittel, Helmuth\n    a) Briefe an Schlatter                         2 Briefe                     426",
+      "nummer": "426",
+      "titel": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Kittel, Helmuth",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Untereintrag a) unter Kittel, Helmuth",
+      "_quelldatei": "page_188.json",
+      "_pageNumber": "164"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Kittel, Helmuth\n    b) Briefe von Schlatter                        1 Brief                      646",
+      "nummer": "646",
+      "titel": "Briefe von Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Kittel, Helmuth",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Untereintrag b) unter Kittel, Helmuth",
+      "_quelldatei": "page_188.json",
+      "_pageNumber": "164"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Knopf, Rudolf\n    Briefe an Schlatter                            1 Brief                      426",
+      "nummer": "426",
+      "titel": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Knopf, Rudolf",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_188.json",
+      "_pageNumber": "164"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Köberle, Adolf\n    Briefe an Schlatter                            1 Brief                      426",
+      "nummer": "426",
+      "titel": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Köberle, Adolf",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_188.json",
+      "_pageNumber": "164"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "König, Eduard\n    Briefe an Schlatter                            2 Briefe                     426",
+      "nummer": "426",
+      "titel": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "König, Eduard",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_188.json",
+      "_pageNumber": "164"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "König, Karl Gustav\n    Briefe an Schlatter                            1 Brief                      426",
+      "nummer": "426",
+      "titel": "Briefe an Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "König, Karl Gustav",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_188.json",
+      "_pageNumber": "164"
+    }
+  ],
+  "notes": "Seite zeigt Einträge Jae–Kön; keine neue Überschrift erkannt; Untereinträge a)/b) bei Kähler und Kittel wurden als separate Einträge extrahiert."
+}

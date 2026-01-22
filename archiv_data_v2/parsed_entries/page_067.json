@@ -1,0 +1,322 @@
+{
+  "sourceFile": "page_067.json",
+  "pageNumber": "43",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+    "unterabschnitt": "1. Zur Person",
+    "unterkategorie": "n) Tübinger Zeit II"
+  },
+  "entriesCount": 13,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "Nr. 169/2: Briefe an Schlatter u. a. zur Frage der Deutschen Christen: Veigel, Schubert, Klemann, Schuler, Gebhardt, Speck, Flatow. 21.6.1933 - 13.8.1936",
+      "nummer": "169/2",
+      "titel": "Briefe an Schlatter u. a. zur Frage der Deutschen Christen",
+      "beschreibung": "Sammlung von Briefen an Schlatter und andere zur Frage der Deutschen Christen; enthält Korrespondenz mit Veigel, Schubert, Klemann, Schuler, Gebhardt, Speck, Flatow.",
+      "typ": "Korrespondenz",
+      "zeitraum": "21.6.1933 - 13.8.1936",
+      "beteiligte": [
+        {
+          "name": "Veigel",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schubert",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Klemann",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schuler",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Gebhardt",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Speck",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Flatow",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Friedrich Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person",
+          "zusatz": "Schlatter (Empfänger der Briefe)"
+        }
+      ],
+      "_quelldatei": "page_067.json",
+      "_pageNumber": "43"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "169/3: Ludwig Müller, Reichsbischof, Schreiben an Schlatter: Zurückweisung seiner Aufforderung zum Rücktritt. 8.11.1934",
+      "nummer": "169/3",
+      "titel": "Schreiben Ludwig Müllers an Schlatter: Zurückweisung der Aufforderung zum Rücktritt",
+      "beschreibung": "Schreiben des Reichsbischofs Ludwig Müller an Schlatter, in dem er die Aufforderung zum Rücktritt zurückweist.",
+      "typ": "Brief",
+      "datum": "1934-11-08",
+      "beteiligte": [
+        {
+          "name": "Ludwig Müller",
+          "rolle": "Absender",
+          "entity": "Person",
+          "zusatz": "Reichsbischof"
+        },
+        {
+          "name": "Friedrich Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_067.json",
+      "_pageNumber": "43"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "169/4: Auseinandersetzungen des Reichsministers Rust und des Württ. Kultministers Mergenthaler mit der Tübinger Evang.-Theol. Fakultät. 1934 - 1935",
+      "nummer": "169/4",
+      "titel": "Auseinandersetzungen Rust und Mergenthaler mit der Tübinger Evangel.-Theol. Fakultät",
+      "beschreibung": "Materialien zu Auseinandersetzungen des Reichsministers Rust und des württembergischen Kultministers Mergenthaler mit der Tübinger evangelisch-theologischen Fakultät.",
+      "typ": "Dossier",
+      "zeitraum": "1934-1935",
+      "beteiligte": [
+        {
+          "name": "Bernhard Rust",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "Reichsminister"
+        },
+        {
+          "name": "Mergenthaler",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "Württembergischer Kultminister"
+        },
+        {
+          "name": "Tübinger Evangel.-Theol. Fakultät",
+          "rolle": "Erwähnt",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_067.json",
+      "_pageNumber": "43"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "169/5: Schreiben von Reichsjugendpfarrer Zahn an Schlatter. 10.1.1935\n\nMit Denkschrift über Spannungen zwischen Evang. Jugend und Hitlerjugend. 25.7.1934",
+      "nummer": "169/5",
+      "titel": "Schreiben von Reichsjugendpfarrer Zahn an Schlatter",
+      "beschreibung": "Brief von Reichsjugendpfarrer Zahn an Schlatter; Beilage: Denkschrift über Spannungen zwischen evangelischer Jugend und Hitlerjugend.",
+      "typ": "Brief",
+      "datum": "1935-01-10",
+      "untereintraege": [
+        {
+          "rawText": "Denkschrift über Spannungen zwischen Evang. Jugend und Hitlerjugend. 25.7.1934",
+          "titel": "Denkschrift über Spannungen zwischen evangelischer Jugend und Hitlerjugend",
+          "typ": "Dossier",
+          "datum": "1934-07-25"
+        }
+      ],
+      "beteiligte": [
+        {
+          "name": "Zahn",
+          "rolle": "Absender",
+          "entity": "Person",
+          "zusatz": "Reichsjugendpfarrer"
+        },
+        {
+          "name": "Friedrich Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_067.json",
+      "_pageNumber": "43"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "169/6: \"Wird der Jude über uns siegen?\" Manuskript der ersten, kürzeren Fassung.\n\nDazu gedruckte Fassung.\n\nDazu Erlaß der Preußischen Geheimen Staatspolizei betreffend Verbot und Beschlagnahme der gedruckten Fassung. 15.3.1936",
+      "nummer": "169/6",
+      "titel": "Wird der Jude über uns siegen? (Manuskript)",
+      "beschreibung": "Manuskript der ersten, kürzeren Fassung des Textes 'Wird der Jude über uns siegen?'. Enthält zusätzlich die gedruckte Fassung und den Erlass der Preußischen Geheimen Staatspolizei betreffend Verbot und Beschlagnahme der gedruckten Fassung.",
+      "typ": "Manuskript",
+      "untereintraege": [
+        {
+          "rawText": "Gedruckte Fassung",
+          "titel": "Gedruckte Fassung von 'Wird der Jude über uns siegen?'",
+          "typ": "Druckschrift"
+        },
+        {
+          "rawText": "Erlaß der Preußischen Geheimen Staatspolizei betreffend Verbot und Beschlagnahme der gedruckten Fassung. 15.3.1936",
+          "titel": "Erlaß der Preußischen Geheimen Staatspolizei betreffend Verbot und Beschlagnahme",
+          "typ": "Urkunde",
+          "datum": "1936-03-15"
+        }
+      ],
+      "_quelldatei": "page_067.json",
+      "_pageNumber": "43"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "169/7: Der neue Aufbau der Kirche auf der deutschen Erde. Manuskript",
+      "nummer": "169/7",
+      "titel": "Der neue Aufbau der Kirche auf der deutschen Erde",
+      "beschreibung": "Manuskript mit dem Titel 'Der neue Aufbau der Kirche auf der deutschen Erde'.",
+      "typ": "Manuskript",
+      "_quelldatei": "page_067.json",
+      "_pageNumber": "43"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "169/8: \"Gesetz und Freiheit\". Kurzfassung des Vortrags",
+      "nummer": "169/8",
+      "titel": "Gesetz und Freiheit (Kurzfassung des Vortrags)",
+      "beschreibung": "Kurzfassung eines Vortrags mit dem Titel 'Gesetz und Freiheit'.",
+      "typ": "Vortrag",
+      "_quelldatei": "page_067.json",
+      "_pageNumber": "43"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "169/9: Der Student und die Weltanschauung. 5 Thesen\n\nEmpor zur Bibel. 3 Thesen und Antithesen zur Bekennenden Kirche",
+      "nummer": "169/9",
+      "titel": "Der Student und die Weltanschauung. 5 Thesen",
+      "beschreibung": "Kurze Thesen: 'Der Student und die Weltanschauung' (5 Thesen). Beiliegend: 'Empor zur Bibel' (3 Thesen und Antithesen zur Bekennenden Kirche).",
+      "typ": "Notiz",
+      "untereintraege": [
+        {
+          "rawText": "Empor zur Bibel. 3 Thesen und Antithesen zur Bekennenden Kirche",
+          "titel": "Empor zur Bibel: 3 Thesen und Antithesen zur Bekennenden Kirche",
+          "typ": "Notiz"
+        }
+      ],
+      "_quelldatei": "page_067.json",
+      "_pageNumber": "43"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "169/10: Manuskript zu einer biblischen Besinnung. ca. 1935",
+      "nummer": "169/10",
+      "titel": "Manuskript zu einer biblischen Besinnung",
+      "beschreibung": "Manuskript zu einer biblischen Besinnung (etwa 1935).",
+      "typ": "Manuskript",
+      "jahr": 1935,
+      "anmerkung": "ca. 1935",
+      "_quelldatei": "page_067.json",
+      "_pageNumber": "43"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "169/11: \"Rasse und Bruderschaft\". Manuskript für ein Referat",
+      "nummer": "169/11",
+      "titel": "Rasse und Bruderschaft",
+      "beschreibung": "Manuskript 'Rasse und Bruderschaft', vorgesehen für ein Referat.",
+      "typ": "Manuskript",
+      "anmerkung": "Manuskript für ein Referat",
+      "_quelldatei": "page_067.json",
+      "_pageNumber": "43"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "169/12: Die Tüchtigkeit des Christen für die Politik. Vortrag. 1.2.1932",
+      "nummer": "169/12",
+      "titel": "Die Tüchtigkeit des Christen für die Politik",
+      "beschreibung": "Vortrag mit dem Titel 'Die Tüchtigkeit des Christen für die Politik'.",
+      "typ": "Vortrag",
+      "datum": "1932-02-01",
+      "_quelldatei": "page_067.json",
+      "_pageNumber": "43"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "169/13: Ausführungen zum Verhältnis von kirchlicher und völkischer Gemeinschaft. Manuskript. ca. 1934",
+      "nummer": "169/13",
+      "titel": "Ausführungen zum Verhältnis von kirchlicher und völkischer Gemeinschaft",
+      "beschreibung": "Manuskript mit Ausführungen zum Verhältnis von kirchlicher und völkischer Gemeinschaft (etwa 1934).",
+      "typ": "Manuskript",
+      "jahr": 1934,
+      "anmerkung": "ca. 1934",
+      "_quelldatei": "page_067.json",
+      "_pageNumber": "43"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "n) Tübinger Zeit II",
+      "rawText": "169/14: Briefwechsel D. Dr. Hesse mit Dora Schlatter. 1956\n\nDabei: Dokumentarische Äußerung über Hesses Weg von Schlatter zu Barth. Darstellung des Kirchenkampfes",
+      "nummer": "169/14",
+      "titel": "Briefwechsel D. Dr. Hesse mit Dora Schlatter",
+      "beschreibung": "Korrespondenz zwischen D. Dr. Hesse und Dora Schlatter.",
+      "typ": "Korrespondenz",
+      "jahr": 1956,
+      "beteiligte": [
+        {
+          "name": "D. Dr. Hesse",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Dora Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Enthält dokumentarische Äußerung über Hesses Weg von Schlatter zu Barth und eine Darstellung des Kirchenkampfes.",
+      "_quelldatei": "page_067.json",
+      "_pageNumber": "43"
+    }
+  ]
+}

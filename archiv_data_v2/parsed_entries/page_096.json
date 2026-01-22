@@ -1,0 +1,313 @@
+{
+  "sourceFile": "page_096.json",
+  "pageNumber": "72",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "A BÜCHER",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 12,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "A BÜCHER",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 501: Rudolf Brezger, Schlatter-Bibliographie.\n    In: Beiträge zur Förderung christlicher Theologie,\n    Heft 2/1938\n    (Bibliographie 1)",
+      "nummer": "501",
+      "titel": "Schlatter-Bibliographie",
+      "beschreibung": "In: Beiträge zur Förderung christlicher Theologie, Heft 2/1938. (Bibliographie 1)",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Rudolf Brezger",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "jahr": 1938,
+      "anmerkung": "Erscheint in Zeitschrift; gekennzeichnet als Bibliographie 1",
+      "_quelldatei": "page_096.json",
+      "_pageNumber": "72"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A BÜCHER",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "502: Das Schrifttum Adolf Schlatters.\n    Herausgegeben von der Schlatter-Stiftung [1980]\n    [Bearbeitet von Rudolf Brezger]\n    (Bibliographie 2)",
+      "nummer": "502",
+      "titel": "Das Schrifttum Adolf Schlatters",
+      "beschreibung": "Herausgegeben von der Schlatter-Stiftung. [Bearbeitet von Rudolf Brezger]. (Bibliographie 2)",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Schlatter-Stiftung",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Institution"
+        },
+        {
+          "name": "Rudolf Brezger",
+          "rolle": "Bearbeiter",
+          "entity": "Person"
+        }
+      ],
+      "jahr": 1980,
+      "anmerkung": "Jahresangabe in eckigen Klammern",
+      "_quelldatei": "page_096.json",
+      "_pageNumber": "72"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A BÜCHER",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "503: Paul Bausch, Lebenserinnerungen eines schwäbischen Abgeordneten.\n    Korntal 1969",
+      "nummer": "503",
+      "titel": "Lebenserinnerungen eines schwäbischen Abgeordneten",
+      "beschreibung": "Korntal 1969",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Paul Bausch",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "jahr": 1969,
+      "ort": "Korntal",
+      "_quelldatei": "page_096.json",
+      "_pageNumber": "72"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A BÜCHER",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "504: Adolf Schlatter, Kennen wir Jesus?\n    Calwer Verlag 1925",
+      "nummer": "504",
+      "titel": "Kennen wir Jesus?",
+      "beschreibung": "Calwer Verlag 1925",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Calwer Verlag",
+      "jahr": 1925,
+      "_quelldatei": "page_096.json",
+      "_pageNumber": "72"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A BÜCHER",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "505: Urban-Taschenbuch Bd. 285:\n    Theologen des Protestantismus im 19. und 20. Jahrhundert.\n    Darin: Peter Stuhlmacher über Adolf Schlatter\n    Verlag W. Kohlhammer, Stuttgart 1978",
+      "nummer": "505",
+      "titel": "Theologen des Protestantismus im 19. und 20. Jahrhundert",
+      "beschreibung": "Urban-Taschenbuch Bd. 285. Darin: Beitrag von Peter Stuhlmacher über Adolf Schlatter. Verlag W. Kohlhammer, Stuttgart 1978",
+      "typ": "Buch",
+      "reihe": "Urban-Taschenbuch",
+      "band": "285",
+      "verlag": "Verlag W. Kohlhammer",
+      "ort": "Stuttgart",
+      "jahr": 1978,
+      "untereintraege": [
+        {
+          "rawText": "Darin: Peter Stuhlmacher über Adolf Schlatter",
+          "titel": "Beitrag von Peter Stuhlmacher über Adolf Schlatter",
+          "beschreibung": "Beitrag innerhalb des Bandes"
+        }
+      ],
+      "beteiligte": [
+        {
+          "name": "Peter Stuhlmacher",
+          "rolle": "Autor",
+          "entity": "Person",
+          "zusatz": "Beitrag über Adolf Schlatter"
+        }
+      ],
+      "_quelldatei": "page_096.json",
+      "_pageNumber": "72"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A BÜCHER",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "506: Hans Brandenburg, Gott begegnete mir.\n    Brockhaus-Verlag, Wuppertal 1973",
+      "nummer": "506",
+      "titel": "Gott begegnete mir",
+      "beschreibung": "Brockhaus-Verlag, Wuppertal 1973",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Hans Brandenburg",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Brockhaus-Verlag",
+      "ort": "Wuppertal",
+      "jahr": 1973,
+      "_quelldatei": "page_096.json",
+      "_pageNumber": "72"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A BÜCHER",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "507: Udo Smidt, Die Freude des Glaubens.\n    GTB Siebenstern 253. Verlag Bertelsmann Gütersloh 1978",
+      "nummer": "507",
+      "titel": "Die Freude des Glaubens",
+      "beschreibung": "GTB Siebenstern 253. Verlag Bertelsmann, Gütersloh 1978",
+      "typ": "Buch",
+      "reihe": "GTB Siebenstern",
+      "band": "253",
+      "beteiligte": [
+        {
+          "name": "Udo Smidt",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Verlag Bertelsmann",
+      "ort": "Gütersloh",
+      "jahr": 1978,
+      "_quelldatei": "page_096.json",
+      "_pageNumber": "72"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A BÜCHER",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "508: Hanns Lilje, Begegnungen.\n    Lätare-Verlag, Nürnberg 1949",
+      "nummer": "508",
+      "titel": "Begegnungen",
+      "beschreibung": "Lätare-Verlag, Nürnberg 1949",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Hanns Lilje",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Lätare-Verlag",
+      "ort": "Nürnberg",
+      "jahr": 1949,
+      "_quelldatei": "page_096.json",
+      "_pageNumber": "72"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A BÜCHER",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "509: Adolf Schlatter, Die Gründe der christlichen Gewißheit.\n    Kriegshochschulkurs. Calwer Verlag 1917",
+      "nummer": "509",
+      "titel": "Die Gründe der christlichen Gewißheit",
+      "beschreibung": "Kriegshochschulkurs. Calwer Verlag 1917",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Calwer Verlag",
+      "jahr": 1917,
+      "anmerkung": "Bezeichnet als 'Kriegshochschulkurs'",
+      "_quelldatei": "page_096.json",
+      "_pageNumber": "72"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A BÜCHER",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "510: Irmgard Kindt, Der Gedanke der Einheit.\n    Adolf Schlatters Theologie und ihre historischen Voraussetzungen.\n    Calwer Verlag 1978",
+      "nummer": "510",
+      "titel": "Der Gedanke der Einheit. Adolf Schlatters Theologie und ihre historischen Voraussetzungen",
+      "beschreibung": "Calwer Verlag 1978",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Irmgard Kindt",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Calwer Verlag",
+      "jahr": 1978,
+      "_quelldatei": "page_096.json",
+      "_pageNumber": "72"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A BÜCHER",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "511: Hermann Dietzfelbinger, Hören wie Jünger hören.\n    Calwer Verlag 1975",
+      "nummer": "511",
+      "titel": "Hören wie Jünger hören",
+      "beschreibung": "Calwer Verlag 1975",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Hermann Dietzfelbinger",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Calwer Verlag",
+      "jahr": 1975,
+      "_quelldatei": "page_096.json",
+      "_pageNumber": "72"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A BÜCHER",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "512: Robert Stupperich, Briefe Karl Holls an Adolf Schlatter\n    (1897 - 1925).\n    Sonderdruck aus: Zeitschrift für Theologie und Kirche,\n    Heft 2/1967",
+      "nummer": "512",
+      "titel": "Briefe Karl Holls an Adolf Schlatter",
+      "beschreibung": "Sonderdruck aus: Zeitschrift für Theologie und Kirche, Heft 2/1967",
+      "typ": "Sonderdruck",
+      "beteiligte": [
+        {
+          "name": "Robert Stupperich",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Karl Holl",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "zeitraum": "1897-1925",
+      "in": "Zeitschrift für Theologie und Kirche",
+      "zeitschrift": "Zeitschrift für Theologie und Kirche",
+      "heft": "2",
+      "jahr": 1967,
+      "_quelldatei": "page_096.json",
+      "_pageNumber": "72"
+    }
+  ],
+  "notes": "Seite zeigt Überschrift 'Teil II: A Bücher' und Liste Nr. 501-512. OCR gut lesbar."
+}

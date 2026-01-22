@@ -1,0 +1,128 @@
+{
+  "sourceFile": "page_147.json",
+  "pageNumber": "123",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 4,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 1026: Frank Fornacon, Adolf Schlatter -- Fast einer der Unseren.\nIn: Wochenzeitschrift des Bundes Evangelisch-Freikirchlicher\nGemeinden. Nr. 21 vom 22.5.1988, Seite 6.",
+      "nummer": "1026",
+      "titel": "Fast einer der Unseren",
+      "beschreibung": "Artikel in Wochenzeitschrift des Bundes Evangelisch-Freikirchlicher Gemeinden. Nr. 21 vom 22.5.1988.",
+      "typ": "Artikel",
+      "zeitschrift": "Wochenzeitschrift des Bundes Evangelisch-Freikirchlicher Gemeinden",
+      "datum": "1988-05-22",
+      "seiten": "6",
+      "beteiligte": [
+        {
+          "name": "Frank Fornacon",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_147.json",
+      "_pageNumber": "123"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1027: Werner Neuer, Für eine erneuerte Theologie. Zum 50. Todestag\ndes \"Bibeltheologen\" Adolf Schlatter.\nIn: idea - Spektrum, 18.5.1988, Seite 17.",
+      "nummer": "1027",
+      "titel": "Für eine erneuerte Theologie. Zum 50. Todestag des \"Bibeltheologen\" Adolf Schlatter",
+      "beschreibung": "Artikel in idea - Spektrum.",
+      "typ": "Artikel",
+      "zeitschrift": "idea - Spektrum",
+      "datum": "1988-05-18",
+      "seiten": "17",
+      "beteiligte": [
+        {
+          "name": "Werner Neuer",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_147.json",
+      "_pageNumber": "123"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1028: Werner Neuer, Einer der größten Theologen des 20. Jahrhunderts.\nZum 50. Todestag Adolf Schlatters.\nIn: epd Stuttgart, 13.5.1988. Abgedruckt auch\nin: Reutlinger Generalanzeiger, 14.5.1988.",
+      "nummer": "1028",
+      "titel": "Einer der größten Theologen des 20. Jahrhunderts. Zum 50. Todestag Adolf Schlatters",
+      "beschreibung": "Artikel in epd Stuttgart; zusätzlich abgedruckt im Reutlinger Generalanzeiger.",
+      "typ": "Artikel",
+      "zeitschrift": "epd Stuttgart",
+      "datum": "1988-05-13",
+      "beteiligte": [
+        {
+          "name": "Werner Neuer",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Abgedruckt auch in: Reutlinger Generalanzeiger, 14.5.1988.",
+          "beschreibung": "Abdruck im Reutlinger Generalanzeiger",
+          "zeitschrift": "Reutlinger Generalanzeiger",
+          "datum": "1988-05-14"
+        }
+      ],
+      "_quelldatei": "page_147.json",
+      "_pageNumber": "123"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1029: Gedenkfeier anläßlich des 50. Todestages von Adolf Schlatter\nim Albrecht-Bengelhaus in Tübingen, 31. Mai 1988. Mit Ansprachen,\ndarunter Dr. theol. Werner Neuer: Das Erbe Adolf Schlatters für\nTheologie und Kirche heute.",
+      "nummer": "1029",
+      "titel": "Gedenkfeier anlässlich des 50. Todestages von Adolf Schlatter",
+      "beschreibung": "Gedenkfeier mit Ansprachen, darunter Vortrag von Dr. theol. Werner Neuer: 'Das Erbe Adolf Schlatters für Theologie und Kirche heute.'",
+      "typ": "Mitteilung",
+      "jahr": 1988,
+      "ort": "Albrecht-Bengelhaus, Tübingen",
+      "beteiligte": [
+        {
+          "name": "Werner Neuer",
+          "rolle": "Vortragender",
+          "entity": "Person",
+          "zusatz": "Dr. theol."
+        }
+      ],
+      "_quelldatei": "page_147.json",
+      "_pageNumber": "123"
+    }
+  ],
+  "notes": "Seitenzahl im Original: 123"
+}

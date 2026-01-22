@@ -1,0 +1,470 @@
+{
+  "sourceFile": "page_161.json",
+  "pageNumber": "137",
+  "context": {
+    "teil": "Teil III",
+    "sektion": "B Korrespondenz",
+    "unterabschnitt": "Handakten des Archivars",
+    "unterkategorie": "Schriftwechsel mit sonstigen Instituten"
+  },
+  "entriesCount": 19,
+  "entries": [
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "Nr. 1541: Bern, Freies Gymnasium                                1986",
+      "nummer": "1541",
+      "titel": "Bern, Freies Gymnasium",
+      "typ": "Korrespondenz",
+      "jahr": 1986,
+      "beteiligte": [
+        {
+          "name": "Bern, Freies Gymnasium",
+          "rolle": "Adressat",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_161.json",
+      "_pageNumber": "137"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1542: Einhausen, Karl Heim-Gesellschaft                        1979 : 1985",
+      "nummer": "1542",
+      "titel": "Einhausen, Karl Heim-Gesellschaft",
+      "typ": "Korrespondenz",
+      "zeitraum": "1979-1985",
+      "beteiligte": [
+        {
+          "name": "Einhausen, Karl Heim-Gesellschaft",
+          "rolle": "Adressat",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_161.json",
+      "_pageNumber": "137"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1543: St. Gallen, Evang.-reformierte Kirchgemeinde              1986 - 1987",
+      "nummer": "1543",
+      "titel": "St. Gallen, Evang.-reformierte Kirchgemeinde",
+      "typ": "Korrespondenz",
+      "zeitraum": "1986-1987",
+      "beteiligte": [
+        {
+          "name": "St. Gallen, Evang.-reformierte Kirchgemeinde",
+          "rolle": "Adressat",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_161.json",
+      "_pageNumber": "137"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1544: St. Gallen, Lutherische Kirchgemeinde                    1986",
+      "nummer": "1544",
+      "titel": "St. Gallen, Lutherische Kirchgemeinde",
+      "typ": "Korrespondenz",
+      "jahr": 1986,
+      "beteiligte": [
+        {
+          "name": "St. Gallen, Lutherische Kirchgemeinde",
+          "rolle": "Adressat",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_161.json",
+      "_pageNumber": "137"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1545: St. Gallen, Evang.-kirchlicher Verein                    1987 - 1988",
+      "nummer": "1545",
+      "titel": "St. Gallen, Evang.-kirchlicher Verein",
+      "typ": "Korrespondenz",
+      "zeitraum": "1987-1988",
+      "beteiligte": [
+        {
+          "name": "St. Gallen, Evang.-kirchlicher Verein",
+          "rolle": "Adressat",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_161.json",
+      "_pageNumber": "137"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1546: St. Gallen, Freie Evang. Gemeinde                        1987",
+      "nummer": "1546",
+      "titel": "St. Gallen, Freie Evang. Gemeinde",
+      "typ": "Korrespondenz",
+      "jahr": 1987,
+      "beteiligte": [
+        {
+          "name": "St. Gallen, Freie Evang. Gemeinde",
+          "rolle": "Adressat",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_161.json",
+      "_pageNumber": "137"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1547: Zürich, Freies Evang. Gymnasium                          1985",
+      "nummer": "1547",
+      "titel": "Zürich, Freies Evang. Gymnasium",
+      "typ": "Korrespondenz",
+      "jahr": 1985,
+      "beteiligte": [
+        {
+          "name": "Zürich, Freies Evang. Gymnasium",
+          "rolle": "Adressat",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_161.json",
+      "_pageNumber": "137"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1548: Zürich, Evang. Gesellschaft                              1985",
+      "nummer": "1548",
+      "titel": "Zürich, Evang. Gesellschaft",
+      "typ": "Korrespondenz",
+      "jahr": 1985,
+      "beteiligte": [
+        {
+          "name": "Zürich, Evang. Gesellschaft",
+          "rolle": "Adressat",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_161.json",
+      "_pageNumber": "137"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1549: R. Brockhaus-Verlag Marburg, theologische Beiträge      1979",
+      "nummer": "1549",
+      "titel": "R. Brockhaus-Verlag Marburg",
+      "typ": "Korrespondenz",
+      "jahr": 1979,
+      "beteiligte": [
+        {
+          "name": "R. Brockhaus-Verlag Marburg",
+          "rolle": "Verlag",
+          "entity": "Organisation"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "theologische Beiträge",
+          "titel": "theologische Beiträge",
+          "typ": "Druckschrift"
+        }
+      ],
+      "_quelldatei": "page_161.json",
+      "_pageNumber": "137"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1550: Chr. Kaiser-Verlag, München\n       Evangelische Theologie                                  1978",
+      "nummer": "1550",
+      "titel": "Chr. Kaiser-Verlag, München",
+      "typ": "Korrespondenz",
+      "jahr": 1978,
+      "beteiligte": [
+        {
+          "name": "Chr. Kaiser-Verlag, München",
+          "rolle": "Verlag",
+          "entity": "Organisation"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Evangelische Theologie",
+          "titel": "Evangelische Theologie",
+          "typ": "Druckschrift"
+        }
+      ],
+      "_quelldatei": "page_161.json",
+      "_pageNumber": "137"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1551: Für Arbeit und Besinnung, Stuttgart                     1980",
+      "nummer": "1551",
+      "titel": "Für Arbeit und Besinnung, Stuttgart",
+      "typ": "Korrespondenz",
+      "jahr": 1980,
+      "beteiligte": [
+        {
+          "name": "Für Arbeit und Besinnung, Stuttgart",
+          "rolle": "Verlag",
+          "entity": "Organisation"
+        }
+      ],
+      "_quelldatei": "page_161.json",
+      "_pageNumber": "137"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1552: Württ. Evang. Gemeindeblatt, Stuttgart                  1979",
+      "nummer": "1552",
+      "titel": "Württ. Evang. Gemeindeblatt, Stuttgart",
+      "typ": "Korrespondenz",
+      "jahr": 1979,
+      "beteiligte": [
+        {
+          "name": "Württ. Evang. Gemeindeblatt, Stuttgart",
+          "rolle": "Verlag",
+          "entity": "Organisation"
+        }
+      ],
+      "_quelldatei": "page_161.json",
+      "_pageNumber": "137"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1553: Evang. Verlagsanstalt DDR Berlin\n       Theol. Literaturzeitung; Zeichen der Zeit               1979",
+      "nummer": "1553",
+      "titel": "Evang. Verlagsanstalt DDR Berlin",
+      "typ": "Korrespondenz",
+      "jahr": 1979,
+      "beteiligte": [
+        {
+          "name": "Evang. Verlagsanstalt DDR Berlin",
+          "rolle": "Verlag",
+          "entity": "Organisation"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Theol. Literaturzeitung",
+          "titel": "Theol. Literaturzeitung",
+          "typ": "Druckschrift"
+        },
+        {
+          "rawText": "Zeichen der Zeit",
+          "titel": "Zeichen der Zeit",
+          "typ": "Druckschrift"
+        }
+      ],
+      "_quelldatei": "page_161.json",
+      "_pageNumber": "137"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1554: Oberursel, Lutherische Theologie und Kirche              1979",
+      "nummer": "1554",
+      "titel": "Oberursel, Lutherische Theologie und Kirche",
+      "typ": "Korrespondenz",
+      "jahr": 1979,
+      "untereintraege": [
+        {
+          "rawText": "Lutherische Theologie und Kirche",
+          "titel": "Lutherische Theologie und Kirche",
+          "typ": "Druckschrift"
+        }
+      ],
+      "beteiligte": [
+        {
+          "name": "Oberursel",
+          "rolle": "Adressat",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_161.json",
+      "_pageNumber": "137"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1555: Verlag Walter de Gruyter, Berlin                        1979\n       Zeitschrift für die neutestamentliche Wissen-\n       schaft; Zeitschrift für syst. Theologie und\n       Religionsphilosophie",
+      "nummer": "1555",
+      "titel": "Verlag Walter de Gruyter, Berlin",
+      "typ": "Korrespondenz",
+      "jahr": 1979,
+      "beteiligte": [
+        {
+          "name": "Verlag Walter de Gruyter, Berlin",
+          "rolle": "Verlag",
+          "entity": "Organisation"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Zeitschrift für die neutestamentliche Wissenschaft",
+          "titel": "Zeitschrift für die neutestamentliche Wissenschaft",
+          "typ": "Druckschrift"
+        },
+        {
+          "rawText": "Zeitschrift für syst. Theologie und Religionsphilosophie",
+          "titel": "Zeitschrift für syst. Theologie und Religionsphilosophie",
+          "typ": "Druckschrift"
+        }
+      ],
+      "_quelldatei": "page_161.json",
+      "_pageNumber": "137"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1555: Deutsches Pfarrerblatt, Darmstadt                       1979",
+      "nummer": "1555",
+      "titel": "Deutsches Pfarrerblatt, Darmstadt",
+      "typ": "Korrespondenz",
+      "jahr": 1979,
+      "beteiligte": [
+        {
+          "name": "Deutsches Pfarrerblatt, Darmstadt",
+          "rolle": "Verlag",
+          "entity": "Organisation"
+        }
+      ],
+      "_quelldatei": "page_161.json",
+      "_pageNumber": "137"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1556: Neukirchner Verlag                                     1979\n       Reformierte Kirchenzeitung",
+      "nummer": "1556",
+      "titel": "Neukirchner Verlag",
+      "typ": "Korrespondenz",
+      "jahr": 1979,
+      "beteiligte": [
+        {
+          "name": "Neukirchner Verlag",
+          "rolle": "Verlag",
+          "entity": "Organisation"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Reformierte Kirchenzeitung",
+          "titel": "Reformierte Kirchenzeitung",
+          "typ": "Druckschrift"
+        }
+      ],
+      "_quelldatei": "page_161.json",
+      "_pageNumber": "137"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1557: Verlag J.C.B Mohr, Tübingen                             1978\n       Zeitschrift für Theologie und Kirche;\n       Theologische Rundschau",
+      "nummer": "1557",
+      "titel": "Verlag J.C.B Mohr, Tübingen",
+      "typ": "Korrespondenz",
+      "jahr": 1978,
+      "beteiligte": [
+        {
+          "name": "Verlag J.C.B Mohr, Tübingen",
+          "rolle": "Verlag",
+          "entity": "Organisation"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Zeitschrift für Theologie und Kirche",
+          "titel": "Zeitschrift für Theologie und Kirche",
+          "typ": "Druckschrift"
+        },
+        {
+          "rawText": "Theologische Rundschau",
+          "titel": "Theologische Rundschau",
+          "typ": "Druckschrift"
+        }
+      ],
+      "_quelldatei": "page_161.json",
+      "_pageNumber": "137"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1558: Verlag Vandenhoeck und Ruprecht, Göttingen              1978\n       Kerygma und Dogma; Wissenschaft und Praxis",
+      "nummer": "1558",
+      "titel": "Verlag Vandenhoeck und Ruprecht, Göttingen",
+      "typ": "Korrespondenz",
+      "jahr": 1978,
+      "beteiligte": [
+        {
+          "name": "Verlag Vandenhoeck und Ruprecht, Göttingen",
+          "rolle": "Verlag",
+          "entity": "Organisation"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Kerygma und Dogma",
+          "titel": "Kerygma und Dogma",
+          "typ": "Druckschrift"
+        },
+        {
+          "rawText": "Wissenschaft und Praxis",
+          "titel": "Wissenschaft und Praxis",
+          "typ": "Druckschrift"
+        }
+      ],
+      "_quelldatei": "page_161.json",
+      "_pageNumber": "137"
+    }
+  ],
+  "notes": "Block 1549-1558: Mit Schlatter-Suchnotiz angeschriebene Zeitschriften bzw. Verlage"
+}

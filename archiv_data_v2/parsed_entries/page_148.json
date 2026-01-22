@@ -1,0 +1,521 @@
+{
+  "sourceFile": "page_148.json",
+  "pageNumber": "124",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "C Briefe",
+    "unterabschnitt": "1. Briefe von Schlatter",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 19,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 1201: Briefe an Paul Althaus.                       3.3.1912\n    6 Briefe.                                         - 19.8.1937",
+      "nummer": "1201",
+      "titel": "Briefe an Paul Althaus",
+      "typ": "Brief",
+      "zeitraum": "1912-03-03 - 1937-08-19",
+      "umfang": "6 Briefe",
+      "beteiligte": [
+        {
+          "name": "Paul Althaus",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_148.json",
+      "_pageNumber": "124"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1202: Briefe an Friedrich von Bodelschwingh (Vater).    4.11.1897\n    12 Briefe.                                        - 19.9.1908",
+      "nummer": "1202",
+      "titel": "Briefe an Friedrich von Bodelschwingh (Vater)",
+      "typ": "Brief",
+      "zeitraum": "1897-11-04 - 1908-09-19",
+      "umfang": "12 Briefe",
+      "beteiligte": [
+        {
+          "name": "Friedrich von Bodelschwingh (Vater)",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_148.json",
+      "_pageNumber": "124"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1203: Briefe an Friedrich von Bodelschwingh (Sohn).    14.10.1901\n    9 Briefe.                                         - 4.5.1934",
+      "nummer": "1203",
+      "titel": "Briefe an Friedrich von Bodelschwingh (Sohn)",
+      "typ": "Brief",
+      "zeitraum": "1901-10-14 - 1934-05-04",
+      "umfang": "9 Briefe",
+      "beteiligte": [
+        {
+          "name": "Friedrich von Bodelschwingh (Sohn)",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_148.json",
+      "_pageNumber": "124"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1204: Briefe an Heinrich Bornkamm.                     2 Briefe.     8.11.1932; 3.1.1934",
+      "nummer": "1204",
+      "titel": "Briefe an Heinrich Bornkamm",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "untereintraege": [
+        {
+          "rawText": "8.11.1932",
+          "datum": "1932-11-08"
+        },
+        {
+          "rawText": "3.1.1934",
+          "datum": "1934-01-03"
+        }
+      ],
+      "beteiligte": [
+        {
+          "name": "Heinrich Bornkamm",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_148.json",
+      "_pageNumber": "124"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1205: Briefe an Hermann Cremer.                        75 Briefe. (Davon 10 Briefe unveröffentlicht)\n                                                      18.8.1893 - 22.3.1903",
+      "nummer": "1205",
+      "titel": "Briefe an Hermann Cremer",
+      "typ": "Brief",
+      "umfang": "75 Briefe",
+      "zeitraum": "1893-08-18 - 1903-03-22",
+      "anmerkung": "Davon 10 Briefe unveröffentlicht",
+      "beteiligte": [
+        {
+          "name": "Hermann Cremer",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_148.json",
+      "_pageNumber": "124"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1206: Brief an Karl Heinrich Dürr.                     23.1.1934",
+      "nummer": "1206",
+      "titel": "Brief an Karl Heinrich Dürr",
+      "typ": "Brief",
+      "datum": "1934-01-23",
+      "beteiligte": [
+        {
+          "name": "Karl Heinrich Dürr",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_148.json",
+      "_pageNumber": "124"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1207: Brief an Karl Gutbrod.                           28.11.1937",
+      "nummer": "1207",
+      "titel": "Brief an Karl Gutbrod",
+      "typ": "Brief",
+      "datum": "1937-11-28",
+      "beteiligte": [
+        {
+          "name": "Karl Gutbrod",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_148.json",
+      "_pageNumber": "124"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1208: Schreiben an den Dekan der Theologischen\n      Fakultät Heidelberg.                             2.5.1890",
+      "nummer": "1208",
+      "titel": "Schreiben an den Dekan der Theologischen Fakultät Heidelberg",
+      "typ": "Brief",
+      "datum": "1890-05-02",
+      "beteiligte": [
+        {
+          "name": "Dekan der Theologischen Fakultät Heidelberg",
+          "rolle": "Adressat",
+          "entity": "Institution"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_148.json",
+      "_pageNumber": "124"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1209: Brief an Friedrich Jehle.                        26.1.1895",
+      "nummer": "1209",
+      "titel": "Brief an Friedrich Jehle",
+      "typ": "Brief",
+      "datum": "1895-01-26",
+      "beteiligte": [
+        {
+          "name": "Friedrich Jehle",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_148.json",
+      "_pageNumber": "124"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1210: Brief an Helmuth Kittel.                         1.12.1934",
+      "nummer": "1210",
+      "titel": "Brief an Helmuth Kittel",
+      "typ": "Brief",
+      "datum": "1934-12-01",
+      "beteiligte": [
+        {
+          "name": "Helmuth Kittel",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_148.json",
+      "_pageNumber": "124"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1211: Handschriftliche Notiz an Hermann Klemm.         1926",
+      "nummer": "1211",
+      "titel": "Handschriftliche Notiz an Hermann Klemm",
+      "typ": "Notiz",
+      "jahr": 1926,
+      "beteiligte": [
+        {
+          "name": "Hermann Klemm",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_148.json",
+      "_pageNumber": "124"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1212: Handschriftliche Widmung an Otto Liedke.         17.9.1929",
+      "nummer": "1212",
+      "titel": "Handschriftliche Widmung an Otto Liedke",
+      "typ": "Notiz",
+      "datum": "1929-09-17",
+      "beteiligte": [
+        {
+          "name": "Otto Liedke",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_148.json",
+      "_pageNumber": "124"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1213: Brief an Wolfgang Metzger.                      1.7.1934",
+      "nummer": "1213",
+      "titel": "Brief an Wolfgang Metzger",
+      "typ": "Brief",
+      "datum": "1934-07-01",
+      "beteiligte": [
+        {
+          "name": "Wolfgang Metzger",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_148.json",
+      "_pageNumber": "124"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1214: Brief an Erwin Mühlhaupt.                       20.10.1932",
+      "nummer": "1214",
+      "titel": "Brief an Erwin Mühlhaupt",
+      "typ": "Brief",
+      "datum": "1932-10-20",
+      "beteiligte": [
+        {
+          "name": "Erwin Mühlhaupt",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_148.json",
+      "_pageNumber": "124"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1215: Brief an Albert Plag.                            22.1.1931\n      Handschriftliche Widmung an Albert Plag.         18.12.1923",
+      "nummer": "1215",
+      "titel": "Brief an Albert Plag",
+      "typ": "Brief",
+      "datum": "1931-01-22",
+      "untereintraege": [
+        {
+          "rawText": "Handschriftliche Widmung an Albert Plag.         18.12.1923",
+          "titel": "Handschriftliche Widmung an Albert Plag",
+          "typ": "Notiz",
+          "datum": "1923-12-18"
+        }
+      ],
+      "beteiligte": [
+        {
+          "name": "Albert Plag",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_148.json",
+      "_pageNumber": "124"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1216: Briefe an Karl Heinrich Rengstorf.               22.1.1931\n      5 Briefe.                                       - 2.2.1938\n      Handschriftliche Widmung an Karl Heinrich\n      Rengstorf.                                      1.3.1924",
+      "nummer": "1216",
+      "titel": "Briefe an Karl Heinrich Rengstorf",
+      "typ": "Brief",
+      "umfang": "5 Briefe",
+      "zeitraum": "1931-01-22 - 1938-02-02",
+      "untereintraege": [
+        {
+          "rawText": "Handschriftliche Widmung an Karl Heinrich Rengstorf. 1.3.1924",
+          "titel": "Handschriftliche Widmung an Karl Heinrich Rengstorf",
+          "typ": "Notiz",
+          "datum": "1924-03-01"
+        }
+      ],
+      "beteiligte": [
+        {
+          "name": "Karl Heinrich Rengstorf",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_148.json",
+      "_pageNumber": "124"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1217: Brief an Otto Seiz.                              26.2.1924",
+      "nummer": "1217",
+      "titel": "Brief an Otto Seiz",
+      "typ": "Brief",
+      "datum": "1924-02-26",
+      "beteiligte": [
+        {
+          "name": "Otto Seiz",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_148.json",
+      "_pageNumber": "124"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1218: Brief an Gerhard Stratenwerth.                   18.9.1933",
+      "nummer": "1218",
+      "titel": "Brief an Gerhard Stratenwerth",
+      "typ": "Brief",
+      "datum": "1933-09-18",
+      "beteiligte": [
+        {
+          "name": "Gerhard Stratenwerth",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_148.json",
+      "_pageNumber": "124"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "C Briefe",
+      "unterabschnitt": "1. Briefe von Schlatter",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "1219: Brief an Hans Stroh.                             19.8.1937",
+      "nummer": "1219",
+      "titel": "Brief an Hans Stroh",
+      "typ": "Brief",
+      "datum": "1937-08-19",
+      "beteiligte": [
+        {
+          "name": "Hans Stroh",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_148.json",
+      "_pageNumber": "124"
+    }
+  ],
+  "notes": "Seite zeigt Überschrift 'Teil II: C Briefe' und Unterabschnitt '1. Briefe von Schlatter'."
+}

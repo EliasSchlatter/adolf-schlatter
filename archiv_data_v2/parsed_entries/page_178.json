@@ -1,0 +1,305 @@
+{
+  "sourceFile": "page_178.json",
+  "pageNumber": "154",
+  "context": {
+    "teil": "Anhang",
+    "sektion": "Abschnitt I: Ungedrucktes",
+    "unterabschnitt": "9. Biographisches",
+    "unterkategorie": "b) Urkunden und Unterlagen zur Person"
+  },
+  "entriesCount": 17,
+  "entries": [
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "b) Urkunden und Unterlagen zur Person",
+      "rawText": "Nr. 157: Urkunden betr. Schlatter und Frau.",
+      "nummer": "157",
+      "titel": "Urkunden betr. Schlatter und Frau",
+      "beschreibung": "Urkunden und Unterlagen betreffend Adolf Schlatter und seine Frau.",
+      "typ": "Dossier",
+      "_quelldatei": "page_178.json",
+      "_pageNumber": "154"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "b) Urkunden und Unterlagen zur Person",
+      "rawText": "161: Begräbnis; Nachrufe.",
+      "nummer": "161",
+      "titel": "Begräbnis; Nachrufe",
+      "beschreibung": "Unterlagen zum Begräbnis und Nachrufe.",
+      "typ": "Sonstiges",
+      "_quelldatei": "page_178.json",
+      "_pageNumber": "154"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "b) Urkunden und Unterlagen zur Person",
+      "rawText": "162: Urkunden und Unterlagen zum Kirchendienst in Kilchberg, Zürich-Neumünster und Keßwil.",
+      "nummer": "162",
+      "titel": "Urkunden und Unterlagen zum Kirchendienst",
+      "beschreibung": "Unterlagen zum Kirchendienst in Kilchberg, Zürich-Neumünster und Keßwil.",
+      "typ": "Dossier",
+      "ort": "Kilchberg; Zürich-Neumünster; Keßwil",
+      "_quelldatei": "page_178.json",
+      "_pageNumber": "154"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "b) Urkunden und Unterlagen zur Person",
+      "rawText": "163-\n165: Urkunden und Unterlagen zu Berner, Greifswalder und Ber-\nliner Zeit.",
+      "nummer": "163-165",
+      "titel": "Urkunden und Unterlagen zu Berner, Greifswalder und Berliner Zeit",
+      "beschreibung": "Urkunden und Unterlagen aus der Berner, Greifswalder und Berliner Zeit.",
+      "typ": "Dossier",
+      "_quelldatei": "page_178.json",
+      "_pageNumber": "154"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "b) Urkunden und Unterlagen zur Person",
+      "rawText": "167/1: Urkunden zur Berufung nach Tübingen. Orden und Ehrenzei-\nchen, darunter: Ehrenkreuz Württ. Krone (Personen-Adel).",
+      "nummer": "167/1",
+      "titel": "Urkunden zur Berufung nach Tübingen; Orden und Ehrenzeichen",
+      "beschreibung": "Urkunden zur Berufung nach Tübingen. Enthält Unterlagen zu Orden und Ehrenzeichen, darunter Ehrenkreuz Württ. Krone (Personen-Adel).",
+      "typ": "Dossier",
+      "anmerkung": "Enthält Angaben zu Orden und Ehrenzeichen; Erwähnung: Ehrenkreuz Württ. Krone (Personen-Adel).",
+      "_quelldatei": "page_178.json",
+      "_pageNumber": "154"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "b) Urkunden und Unterlagen zur Person",
+      "rawText": "679: P. Jaspers, Aufstellung über Schlatters Mitarbeit bei den\nTheol. Wochen in Bethel. 1898 - 1932",
+      "nummer": "679",
+      "titel": "Aufstellung über Schlatters Mitarbeit bei den Theologischen Wochen in Bethel",
+      "beschreibung": "Aufstellung über die Mitarbeit Schlatters bei den theologischen Wochen in Bethel.",
+      "typ": "Verzeichnis/Aufstellung",
+      "zeitraum": "1898-1932",
+      "beteiligte": [
+        {
+          "name": "P. Jaspers",
+          "rolle": "Zusammensteller",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_178.json",
+      "_pageNumber": "154"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "b) Urkunden und Unterlagen zur Person",
+      "rawText": "702: Gustav von Bodelschwingh, Schlatters Erinnerungen an Vater.",
+      "nummer": "702",
+      "titel": "Schlatters Erinnerungen an Vater",
+      "beschreibung": "Schriften/Erinnerungen an Schlatters Vater, verfasst von Gustav von Bodelschwingh.",
+      "typ": "Erinnerungen/Memoiren",
+      "beteiligte": [
+        {
+          "name": "Gustav von Bodelschwingh",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_178.json",
+      "_pageNumber": "154"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "b) Urkunden und Unterlagen zur Person",
+      "rawText": "732: Rudolf Brezger, Zusammenstellung von Schlatters Vorlesungen\n1881 - 1930.",
+      "nummer": "732",
+      "titel": "Zusammenstellung von Schlatters Vorlesungen",
+      "beschreibung": "Zusammenstellung der Vorlesungen Adolf Schlatters von 1881 bis 1930.",
+      "typ": "Verzeichnis/Aufstellung",
+      "zeitraum": "1881-1930",
+      "beteiligte": [
+        {
+          "name": "Rudolf Brezger",
+          "rolle": "Zusammensteller",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_178.json",
+      "_pageNumber": "154"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "b) Urkunden und Unterlagen zur Person",
+      "rawText": "812: Amtliches zur Berufung Schlatters nach Greifswald.",
+      "nummer": "812",
+      "titel": "Amtliches zur Berufung nach Greifswald",
+      "beschreibung": "Amtliche Unterlagen zur Berufung Schlatters nach Greifswald.",
+      "typ": "Dossier",
+      "_quelldatei": "page_178.json",
+      "_pageNumber": "154"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "b) Urkunden und Unterlagen zur Person",
+      "rawText": "822: Antrag Theol. Fakultät Tübingen 1932 auf Verleihung des\nAdlerschildes des Deutschen Reichs an Schlatter.\nVgl. Nr. 830",
+      "nummer": "822",
+      "titel": "Antrag Theologische Fakultät Tübingen auf Verleihung des Adlerschildes an Schlatter",
+      "beschreibung": "Antrag der Theologischen Fakultät Tübingen (1932) auf Verleihung des Adlerschildes des Deutschen Reichs an Adolf Schlatter.",
+      "typ": "Dossier",
+      "jahr": 1932,
+      "verweis": "Vgl. Nr. 830",
+      "_quelldatei": "page_178.json",
+      "_pageNumber": "154"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "b) Urkunden und Unterlagen zur Person",
+      "rawText": "827: Matrikel Adolf Schlatter, stud. theol. Tübingen, 6.5.1873.",
+      "nummer": "827",
+      "titel": "Matrikel Adolf Schlatter, stud. theol. Tübingen",
+      "beschreibung": "Eintrag in der Matrikel als Student der Theologie in Tübingen.",
+      "typ": "Verzeichnis/Aufstellung",
+      "datum": "1873-05-06",
+      "_quelldatei": "page_178.json",
+      "_pageNumber": "154"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "b) Urkunden und Unterlagen zur Person",
+      "rawText": "828: Amtliches zur Berufung nach Tübingen, National-Liste von\nSchlatter.",
+      "nummer": "828",
+      "titel": "Amtliches zur Berufung nach Tübingen; National-Liste von Schlatter",
+      "beschreibung": "Amtliche Unterlagen zur Berufung nach Tübingen; enthält eine von Schlatter erstellte National-Liste.",
+      "typ": "Dossier",
+      "_quelldatei": "page_178.json",
+      "_pageNumber": "154"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "b) Urkunden und Unterlagen zur Person",
+      "rawText": "832: Verleihung des Dr. phil. h. c. durch Philosophische Fakult-\nät Berlin.",
+      "nummer": "832",
+      "titel": "Verleihung des Dr. phil. h. c. durch Philosophische Fakultät Berlin",
+      "beschreibung": "Unterlagen zur Verleihung des Ehrendoktorats (Dr. phil. h. c.) durch die Philosophische Fakultät Berlin.",
+      "typ": "Dossier",
+      "_quelldatei": "page_178.json",
+      "_pageNumber": "154"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "b) Urkunden und Unterlagen zur Person",
+      "rawText": "834: Erklärung 1937 über Besitz von Orden, arische Abstammung\nund Nicht-Zugehörigkeit zu einer Freimaurer-Organisation.",
+      "nummer": "834",
+      "titel": "Erklärung über Besitz von Orden, arische Abstammung und Nicht-Zugehörigkeit zu einer Freimaurer-Organisation",
+      "beschreibung": "Erklärung (1937) betreffend Besitz von Orden, arische Abstammung und Nicht-Zugehörigkeit zu einer Freimaurer-Organisation.",
+      "typ": "Erklärung",
+      "jahr": 1937,
+      "_quelldatei": "page_178.json",
+      "_pageNumber": "154"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "b) Urkunden und Unterlagen zur Person",
+      "rawText": "838: Schlatter, Adolf. Dossier, Staatsarchiv Bern.",
+      "nummer": "838",
+      "titel": "Schlatter, Adolf. Dossier",
+      "beschreibung": "Dossier zu Adolf Schlatter, aufbewahrt im Staatsarchiv Bern.",
+      "typ": "Dossier",
+      "ort": "Staatsarchiv Bern",
+      "_quelldatei": "page_178.json",
+      "_pageNumber": "154"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "b) Urkunden und Unterlagen zur Person",
+      "rawText": "848-\n851: Sitzungsprotokolle Evang.-theol. Fakultät Bern betr. Licen-\ntiatensprüfung, venia docendi 5.1.1881, Dozentenhonorar\n23.5.1883, a. o. Professur 14.3.1888, Entlassung 7.7.1888.\nVgl. Nr. 838",
+      "nummer": "848-851",
+      "titel": "Sitzungsprotokolle Evang.-theol. Fakultät Bern",
+      "beschreibung": "Sitzungsprotokolle der Evangelisch-theologischen Fakultät Bern betreffend Licentiatsprüfung/venia docendi, Dozentenhonorar, außerordentliche Professur und Entlassung. Enthält mehrere Protokolle mit spezifischen Daten.",
+      "typ": "Protokoll",
+      "verweis": "Vgl. Nr. 838",
+      "untereintraege": [
+        {
+          "rawText": "Licentiatsprüfung, venia docendi 5.1.1881",
+          "titel": "Licentiatsprüfung / venia docendi",
+          "datum": "1881-01-05",
+          "beschreibung": "Protokoll zur Licentiatsprüfung und Gewährung der venia docendi am 5.1.1881."
+        },
+        {
+          "rawText": "Dozentenhonorar 23.5.1883",
+          "titel": "Dozentenhonorar",
+          "datum": "1883-05-23",
+          "beschreibung": "Protokoll betreffend Dozentenhonorar vom 23.5.1883."
+        },
+        {
+          "rawText": "a. o. Professur 14.3.1888",
+          "titel": "Außerordentliche Professur",
+          "datum": "1888-03-14",
+          "beschreibung": "Protokoll zur Ernennung/Angelegenheiten der außerordentlichen Professur vom 14.3.1888."
+        },
+        {
+          "rawText": "Entlassung 7.7.1888",
+          "titel": "Entlassung",
+          "datum": "1888-07-07",
+          "beschreibung": "Protokoll zur Entlassung am 7.7.1888."
+        }
+      ],
+      "_quelldatei": "page_178.json",
+      "_pageNumber": "154"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt I: Ungedrucktes",
+      "unterabschnitt": "9. Biographisches",
+      "unterkategorie": "b) Urkunden und Unterlagen zur Person",
+      "rawText": "858: Adolf Schlatter, Personalien (zum Begräbnis) von Stephan\nSchlatter 1880.",
+      "nummer": "858",
+      "titel": "Personalien (zum Begräbnis) von Stephan Schlatter",
+      "beschreibung": "Personalien von Stephan Schlatter im Zusammenhang mit dem Begräbnis (Aufzeichnung von Adolf Schlatter).",
+      "typ": "Sonstiges",
+      "jahr": 1880,
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        },
+        {
+          "name": "Stephan Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_178.json",
+      "_pageNumber": "154"
+    }
+  ],
+  "notes": "OCR-Seite enthält eine neue Unterkategorie 'b) Urkunden und Unterlagen zur Person'. Keine weiteren Überschriften erkannt."
+}

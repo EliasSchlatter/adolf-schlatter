@@ -1,0 +1,420 @@
+{
+  "sourceFile": "page_192.json",
+  "pageNumber": "168",
+  "context": {
+    "teil": "Anhang",
+    "sektion": "Abschnitt II: Register",
+    "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+    "unterkategorie": "b) Briefe von Schlatter"
+  },
+  "entriesCount": 16,
+  "entries": [
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Pfleiderer, Otto\n   Briefe an Schlatter                    2 Briefe                   427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe an Schlatter; 2 Briefe",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Pfleiderer, Otto",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Theodor",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_192.json",
+      "_pageNumber": "168"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Procksch, Otto\n   Briefe an Schlatter                    4 Briefe                   427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe an Schlatter; 4 Briefe",
+      "typ": "Brief",
+      "umfang": "4 Briefe",
+      "beteiligte": [
+        {
+          "name": "Procksch, Otto",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Theodor",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_192.json",
+      "_pageNumber": "168"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Pröhle, Karl\n   Briefe an Schlatter                    2 Briefe                   427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe an Schlatter; 2 Briefe",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Pröhle, Karl",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Theodor",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_192.json",
+      "_pageNumber": "168"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Quervain, F. de\n   Briefe an Schlatter                    1 Brief                    427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe an Schlatter; 1 Brief",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Quervain, F. de",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Theodor",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_192.json",
+      "_pageNumber": "168"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Reiff, E.\n   Briefe an Schlatter                    9 Briefe           434; 169/1",
+      "nummer": "434; 169/1",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe an Schlatter; 9 Briefe",
+      "typ": "Brief",
+      "umfang": "9 Briefe",
+      "beteiligte": [
+        {
+          "name": "Reiff, E.",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Theodor",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_192.json",
+      "_pageNumber": "168"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Rengstorf, Karl Heinrich\n   a) Briefe an Schlatter                 9 Briefe                   427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe an Schlatter; 9 Briefe (a)",
+      "typ": "Brief",
+      "umfang": "9 Briefe",
+      "beteiligte": [
+        {
+          "name": "Rengstorf, Karl Heinrich",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Theodor",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_192.json",
+      "_pageNumber": "168"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Rengstorf, Karl Heinrich\n   b) Briefe von Schlatter                6 Briefe                  1216",
+      "nummer": "1216",
+      "titel": "Briefe von Schlatter",
+      "beschreibung": "Briefe von Schlatter; 6 Briefe (b)",
+      "typ": "Brief",
+      "umfang": "6 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schlatter, Theodor",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Rengstorf, Karl Heinrich",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_192.json",
+      "_pageNumber": "168"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Richter, Julius\n   Briefe an Schlatter                    1 Brief                    427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe an Schlatter; 1 Brief",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Richter, Julius",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Theodor",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_192.json",
+      "_pageNumber": "168"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Riggenbach, Eduard\n   Briefe an Schlatter                    1 Brief                    427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe an Schlatter; 1 Brief",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Riggenbach, Eduard",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Theodor",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_192.json",
+      "_pageNumber": "168"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Rückert, Hanns\n   Briefe an Schlatter                    1 Brief                    427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe an Schlatter; 1 Brief",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Rückert, Hanns",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Theodor",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_192.json",
+      "_pageNumber": "168"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Schaeder, Erich\n   Briefe an Schlatter                   30 Briefe                   427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe an Schlatter; 30 Briefe",
+      "typ": "Brief",
+      "umfang": "30 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schaeder, Erich",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Theodor",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_192.json",
+      "_pageNumber": "168"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Schieder, Julius\n   Briefe an Schlatter                    2 Briefe             427; 739",
+      "nummer": "427; 739",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe an Schlatter; 2 Briefe",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schieder, Julius",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Theodor",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_192.json",
+      "_pageNumber": "168"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Schlatter, Theodor\n   a) Briefe an Schlatter                664 Briefe                  430",
+      "nummer": "430",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe an Schlatter; 664 Briefe (a)",
+      "typ": "Brief",
+      "umfang": "664 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schlatter, Theodor",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_192.json",
+      "_pageNumber": "168"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Schlatter, Theodor\n   b) Briefe von Schlatter               404 Briefe                 1229",
+      "nummer": "1229",
+      "titel": "Briefe von Schlatter",
+      "beschreibung": "Briefe von Schlatter; 404 Briefe (b)",
+      "typ": "Brief",
+      "umfang": "404 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schlatter, Theodor",
+          "rolle": "Absender",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_192.json",
+      "_pageNumber": "168"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Schlunk, Martin\n   Briefe an Schlatter                    2 Briefe                   427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe an Schlatter; 2 Briefe",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schlunk, Martin",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Theodor",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_192.json",
+      "_pageNumber": "168"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Schmid, Lydia\n   Briefe an Schlatter                   15 Briefe                   427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Briefe an Schlatter; 15 Briefe",
+      "typ": "Brief",
+      "umfang": "15 Briefe",
+      "beteiligte": [
+        {
+          "name": "Schmid, Lydia",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Theodor",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_192.json",
+      "_pageNumber": "168"
+    }
+  ],
+  "notes": "Seite klar lesbar; keine neuen Überschriften auf dieser Seite."
+}

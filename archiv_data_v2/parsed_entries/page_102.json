@@ -1,0 +1,319 @@
+{
+  "sourceFile": "page_102.json",
+  "pageNumber": "78",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "A Bücher",
+    "unterabschnitt": "4 Systematische Theologie und Philosophie",
+    "unterkategorie": "C Verschiedenes"
+  },
+  "entriesCount": 13,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "Nr. 583: Wilhelm Lütgert, Adolf Schlatter als Theologe.\nBeiträge zur Förderung christlicher Theologie, Heft 1/1932",
+      "nummer": "583",
+      "titel": "Adolf Schlatter als Theologe",
+      "beschreibung": "Beitrag in der Reihe 'Beiträge zur Förderung christlicher Theologie', Heft 1/1932.",
+      "typ": "Aufsatz",
+      "reihe": "Beiträge zur Förderung christlicher Theologie",
+      "heft": "1/1932",
+      "jahr": 1932,
+      "beteiligte": [
+        {
+          "name": "Wilhelm Lütgert",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_102.json",
+      "_pageNumber": "78"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "584: Jakob Gubler, Eine kleine Kraft.\nZum 75jährigen Bestehen der Evang. Gesellschaft St. Gallen\nund Appenzell 1864 - 1939.\nA. Schlatter erwähnt Seite 6",
+      "nummer": "584",
+      "titel": "Eine kleine Kraft",
+      "beschreibung": "Zum 75jährigen Bestehen der Evangelischen Gesellschaft St. Gallen und Appenzell 1864-1939. A. Schlatter erwähnt (Seite 6).",
+      "typ": "Buch",
+      "jahr": 1939,
+      "ort": "St. Gallen",
+      "beteiligte": [
+        {
+          "name": "Jakob Gubler",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Evangelische Gesellschaft St. Gallen und Appenzell; A. Schlatter erwähnt auf Seite 6.",
+      "_quelldatei": "page_102.json",
+      "_pageNumber": "78"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "585: Wilhelm Schlatter, Gottes Hand im Menschenwerk.\nEvang. Gesellschaft 1864 - 1914. St. Gallen 1914.\nStephan Schlatter erwähnt Seite 47",
+      "nummer": "585",
+      "titel": "Gottes Hand im Menschenwerk",
+      "beschreibung": "Erschienen bei der Evangelischen Gesellschaft 1864-1914. Stephan Schlatter erwähnt (Seite 47).",
+      "typ": "Buch",
+      "jahr": 1914,
+      "ort": "St. Gallen",
+      "verlag": "Evang. Gesellschaft",
+      "beteiligte": [
+        {
+          "name": "Wilhelm Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Stephan Schlatter erwähnt auf Seite 47.",
+      "_quelldatei": "page_102.json",
+      "_pageNumber": "78"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "586: Wilhelm Schlatter, Was Gott den Vätern war.\n5 St. Galler Biographien. St. Gallen, Evang. Ges. 1918",
+      "nummer": "586",
+      "titel": "Was Gott den Vätern war",
+      "beschreibung": "5 St. Galler Biographien. St. Gallen, Evangelische Gesellschaft.",
+      "typ": "Buch",
+      "jahr": 1918,
+      "ort": "St. Gallen",
+      "verlag": "Evang. Ges.",
+      "beteiligte": [
+        {
+          "name": "Wilhelm Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_102.json",
+      "_pageNumber": "78"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "587: Dora Schlatter, Im Glauben fest.\n3 Lebensbilder. St. Gallen, Evang. Ges., sine dato",
+      "nummer": "587",
+      "titel": "Im Glauben fest",
+      "beschreibung": "3 Lebensbilder. Verlag: Evangelische Gesellschaft, St. Gallen. \"sine dato\" (ohne Jahresangabe).",
+      "typ": "Buch",
+      "ort": "St. Gallen",
+      "verlag": "Evang. Ges.",
+      "anmerkung": "sine dato (kein Jahr angegeben)",
+      "beteiligte": [
+        {
+          "name": "Dora Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_102.json",
+      "_pageNumber": "78"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "588: Dora Schlatter, Ein Diener seines Meisters.\nSt. Gallen, Evang. Ges. 1922",
+      "nummer": "588",
+      "titel": "Ein Diener seines Meisters",
+      "typ": "Buch",
+      "jahr": 1922,
+      "ort": "St. Gallen",
+      "verlag": "Evang. Ges.",
+      "beteiligte": [
+        {
+          "name": "Dora Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_102.json",
+      "_pageNumber": "78"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "589: Samuel Studer, Stephan Schlatter (1805 - 1880).\nBundesverlag Witten-Ruhr 1951",
+      "nummer": "589",
+      "titel": "Stephan Schlatter (1805 - 1880)",
+      "beschreibung": "Biographische Arbeit über Stephan Schlatter.",
+      "typ": "Buch",
+      "jahr": 1951,
+      "verlag": "Bundesverlag Witten-Ruhr",
+      "beteiligte": [
+        {
+          "name": "Samuel Studer",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_102.json",
+      "_pageNumber": "78"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "590: Albert Bailer, Das systematische Prinzip in der Theologie\nAdolf Schlatters.\nCalwer Verlag 1968",
+      "nummer": "590",
+      "titel": "Das systematische Prinzip in der Theologie Adolf Schlatters",
+      "beschreibung": "Untersuchung zum systematischen Prinzip in der Theologie Adolf Schlatters.",
+      "typ": "Buch",
+      "jahr": 1968,
+      "verlag": "Calwer Verlag",
+      "beteiligte": [
+        {
+          "name": "Albert Bailer",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_102.json",
+      "_pageNumber": "78"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "591: Adolf Schlatter, Erläuterungen zum Neuen Testament.\nBroschierte Ausgabe in Kassette der 1961 - 1965 neu durchgesehenen und sprachlich überarbeiteten Ausgabe.\nCalwer Verlag 1987",
+      "nummer": "591",
+      "titel": "Erläuterungen zum Neuen Testament",
+      "beschreibung": "Broschierte Ausgabe in Kassette der 1961-1965 neu durchgesehenen und sprachlich überarbeiteten Ausgabe.",
+      "typ": "Buch",
+      "jahr": 1987,
+      "verlag": "Calwer Verlag",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_102.json",
+      "_pageNumber": "78"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "592: Werner Neuer, Adolf Schlatter.\nIn: Pfarramtskalender 1988, hrsg. vom Verband der Evang.\nPfarrervereine in Deutschland, Seite 7 - 22, dazu\nSchlatter-Zitate im Kalendarium.",
+      "nummer": "592",
+      "titel": "Adolf Schlatter",
+      "beschreibung": "Beitrag in: Pfarramtskalender 1988. Herausgegeben vom Verband der Evangelischen Pfarrervereine in Deutschland. Enthält Schlatter-Zitate im Kalendarium.",
+      "typ": "Aufsatz",
+      "jahr": 1988,
+      "seiten": "7-22",
+      "verlag": "Verband der Evangelischen Pfarrervereine in Deutschland (Hrsg.)",
+      "beteiligte": [
+        {
+          "name": "Werner Neuer",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Verband der Evangelischen Pfarrervereine in Deutschland",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Organisation"
+        }
+      ],
+      "_quelldatei": "page_102.json",
+      "_pageNumber": "78"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "593: Ulrich Luck, Kerygma und Tradition in der Hermeneutik\nAdolf Schlatters.\nWestdeutscher Verlag Köln 1955",
+      "nummer": "593",
+      "titel": "Kerygma und Tradition in der Hermeneutik Adolf Schlatters",
+      "typ": "Buch",
+      "jahr": 1955,
+      "verlag": "Westdeutscher Verlag, Köln",
+      "beteiligte": [
+        {
+          "name": "Ulrich Luck",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_102.json",
+      "_pageNumber": "78"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "594: Gottfried Egg, Adolf Schlatters kritische Position, gezeigt\nan seiner Matthäusinterpretation.\nCalwer Verlag 1968",
+      "nummer": "594",
+      "titel": "Adolf Schlatters kritische Position, gezeigt an seiner Matthäusinterpretation",
+      "beschreibung": "Untersuchung von Adolf Schlatters kritischer Position anhand seiner Matthäusinterpretation.",
+      "typ": "Buch",
+      "jahr": 1968,
+      "verlag": "Calwer Verlag",
+      "beteiligte": [
+        {
+          "name": "Gottfried Egg",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_102.json",
+      "_pageNumber": "78"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "A Bücher",
+      "unterabschnitt": "4 Systematische Theologie und Philosophie",
+      "unterkategorie": "C Verschiedenes",
+      "rawText": "595: Werner Neuer, Adolf Schlatter.\nR. Brockhaus Bibliographien Wuppertal 1988.\nHrsg. von Carsten Peter Thiede. Taschenbuch, 192 Seiten,\n80 sw-Abbildungen",
+      "nummer": "595",
+      "titel": "Adolf Schlatter",
+      "beschreibung": "Publikation in der Reihe 'R. Brockhaus Bibliographien'. Taschenbuchausgabe.",
+      "typ": "Buch",
+      "jahr": 1988,
+      "verlag": "R. Brockhaus Bibliographien, Wuppertal",
+      "format": "Taschenbuch",
+      "umfang": "192 Seiten; 80 sw-Abbildungen",
+      "beteiligte": [
+        {
+          "name": "Werner Neuer",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Carsten Peter Thiede",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Hrsg. von Carsten Peter Thiede.",
+      "_quelldatei": "page_102.json",
+      "_pageNumber": "78"
+    }
+  ],
+  "notes": "Seite enthält Einträge Nr. 583-595; Header 'Teil II: A Bücher' entspricht aktuellem Kontext. Keine neue Überschrift erkannt."
+}

@@ -1,0 +1,419 @@
+{
+  "sourceFile": "page_162.json",
+  "pageNumber": "138",
+  "context": {
+    "teil": "Teil III",
+    "sektion": "B Korrespondenz",
+    "unterabschnitt": "Handakten des Archivars",
+    "unterkategorie": "Schriftwechsel mit sonstigen Instituten"
+  },
+  "entriesCount": 4,
+  "entries": [
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1559: Calwer Verlag Stuttgart                                1980 . 1988",
+      "nummer": "1559",
+      "titel": "Calwer Verlag, Stuttgart",
+      "beschreibung": "Schriftwechsel mit dem Calwer Verlag; Zeitraum angegeben als 1980 - 1988",
+      "typ": "Korrespondenz",
+      "zeitraum": "1980-1988",
+      "ort": "Stuttgart",
+      "beteiligte": [
+        {
+          "name": "Calwer Verlag",
+          "rolle": "Verlag",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_162.json",
+      "_pageNumber": "138"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1560: Verlagshaus Gerd Mohn, Gütersloh                        1979",
+      "nummer": "1560",
+      "titel": "Verlagshaus Gerd Mohn, Gütersloh",
+      "beschreibung": "Schriftwechsel mit dem Verlagshaus Gerd Mohn",
+      "typ": "Korrespondenz",
+      "jahr": 1979,
+      "ort": "Gütersloh",
+      "beteiligte": [
+        {
+          "name": "Verlagshaus Gerd Mohn",
+          "rolle": "Verlag",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_162.json",
+      "_pageNumber": "138"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1561: Westdeutscher Verlag, Köln und Opladen                  1988",
+      "nummer": "1561",
+      "titel": "Westdeutscher Verlag, Köln und Opladen",
+      "beschreibung": "Schriftwechsel mit dem Westdeutschen Verlag",
+      "typ": "Korrespondenz",
+      "jahr": 1988,
+      "ort": "Köln und Opladen",
+      "beteiligte": [
+        {
+          "name": "Westdeutscher Verlag",
+          "rolle": "Verlag",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_162.json",
+      "_pageNumber": "138"
+    },
+    {
+      "teil": "Teil III",
+      "sektion": "B Korrespondenz",
+      "unterabschnitt": "Handakten des Archivars",
+      "unterkategorie": "Schriftwechsel mit sonstigen Instituten",
+      "rawText": "1562: 125 Einzelpersonen                                     1978 - 1988\n       alphabetisch geordnet\n\nAus den Einzelpersonen heben sich hervor:\n\nGerhard Althaus, Pfarrer, München\nAlbert Bailer, Professor, Ludwigsburg\nPaul Bausch, MdB, Korntal\nLiselotte Bender, Witwe von Julius Bender, Landesbischof, Karlsruhe\nHans Bornhäuser, Prälat, Freiburg\nHelfriede Braunert, Tochter von Friedrich Graeber, Verleger, Velbert\nHermann Dietzfelbinger, Landesbischof, München\nAlbrecht Goes, Professor, Stuttgart\nJ.F.C. Goeters, Professor, Bonn\nAnneliese Grundmann, Witwe von Walter Grundmann, Rektor, Eisenach\nKarl Gutbrod, Kirchenrat, Metzingen\nMartin Haug, Landesbischof, Freudenstadt\nHelmuth Kittel, Professor, Göttingen\nAdolf Köberle, Professor, München\nFriedrich Leiwe, Pfarrer, Recke/Westfalen\nPaul Lempp, Dekan, Geislingen\nRudolf Lütgert, Bundesbahndirektor, München\nWolfgang Metzger, Prälat, Stuttgart\nKarl Heinrich Rengstorf, Professor, Münster\nFriedrich Mildenberger, Professor, Erlangen\nErwin Milhaupt, Professor, Karlsruhe\nReinhard Mumm, Kirchenrat, München\nElse Rückert, Witwe von Hanns Rückert, Professor, Tübingen",
+      "nummer": "1562",
+      "titel": "125 Einzelpersonen",
+      "beschreibung": "Sammlung von Korrespondenzen mit 125 Einzelpersonen, alphabetisch geordnet. Liste wichtiger Personen wie im OCR aufgeführt.",
+      "typ": "Korrespondenz",
+      "zeitraum": "1978-1988",
+      "umfang": "125 Einzelpersonen",
+      "untereintraege": [
+        {
+          "rawText": "Gerhard Althaus, Pfarrer, München",
+          "titel": "Gerhard Althaus",
+          "beschreibung": "Pfarrer, München",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Gerhard Althaus",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Pfarrer, München"
+            }
+          ]
+        },
+        {
+          "rawText": "Albert Bailer, Professor, Ludwigsburg",
+          "titel": "Albert Bailer",
+          "beschreibung": "Professor, Ludwigsburg",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Albert Bailer",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Professor, Ludwigsburg"
+            }
+          ]
+        },
+        {
+          "rawText": "Paul Bausch, MdB, Korntal",
+          "titel": "Paul Bausch",
+          "beschreibung": "MdB, Korntal",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Paul Bausch",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "MdB, Korntal"
+            }
+          ]
+        },
+        {
+          "rawText": "Liselotte Bender, Witwe von Julius Bender, Landesbischof, Karlsruhe",
+          "titel": "Liselotte Bender",
+          "beschreibung": "Witwe von Julius Bender (Landesbischof), Karlsruhe",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Liselotte Bender",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Witwe von Julius Bender, Karlsruhe"
+            }
+          ]
+        },
+        {
+          "rawText": "Hans Bornhäuser, Prälat, Freiburg",
+          "titel": "Hans Bornhäuser",
+          "beschreibung": "Prälat, Freiburg",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Hans Bornhäuser",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Prälat, Freiburg"
+            }
+          ]
+        },
+        {
+          "rawText": "Helfriede Braunert, Tochter von Friedrich Graeber, Verleger, Velbert",
+          "titel": "Helfriede Braunert",
+          "beschreibung": "Tochter von Friedrich Graeber (Verleger), Velbert",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Helfriede Braunert",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Tochter von Friedrich Graeber, Verleger, Velbert"
+            }
+          ]
+        },
+        {
+          "rawText": "Hermann Dietzfelbinger, Landesbischof, München",
+          "titel": "Hermann Dietzfelbinger",
+          "beschreibung": "Landesbischof, München",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Hermann Dietzfelbinger",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Landesbischof, München"
+            }
+          ]
+        },
+        {
+          "rawText": "Albrecht Goes, Professor, Stuttgart",
+          "titel": "Albrecht Goes",
+          "beschreibung": "Professor, Stuttgart",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Albrecht Goes",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Professor, Stuttgart"
+            }
+          ]
+        },
+        {
+          "rawText": "J.F.C. Goeters, Professor, Bonn",
+          "titel": "J.F.C. Goeters",
+          "beschreibung": "Professor, Bonn",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "J.F.C. Goeters",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Professor, Bonn"
+            }
+          ]
+        },
+        {
+          "rawText": "Anneliese Grundmann, Witwe von Walter Grundmann, Rektor, Eisenach",
+          "titel": "Anneliese Grundmann",
+          "beschreibung": "Witwe von Walter Grundmann (Rektor), Eisenach",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Anneliese Grundmann",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Witwe von Walter Grundmann, Rektor, Eisenach"
+            }
+          ]
+        },
+        {
+          "rawText": "Karl Gutbrod, Kirchenrat, Metzingen",
+          "titel": "Karl Gutbrod",
+          "beschreibung": "Kirchenrat, Metzingen",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Karl Gutbrod",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Kirchenrat, Metzingen"
+            }
+          ]
+        },
+        {
+          "rawText": "Martin Haug, Landesbischof, Freudenstadt",
+          "titel": "Martin Haug",
+          "beschreibung": "Landesbischof, Freudenstadt",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Martin Haug",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Landesbischof, Freudenstadt"
+            }
+          ]
+        },
+        {
+          "rawText": "Helmuth Kittel, Professor, Göttingen",
+          "titel": "Helmuth Kittel",
+          "beschreibung": "Professor, Göttingen",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Helmuth Kittel",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Professor, Göttingen"
+            }
+          ]
+        },
+        {
+          "rawText": "Adolf Köberle, Professor, München",
+          "titel": "Adolf Köberle",
+          "beschreibung": "Professor, München",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Adolf Köberle",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Professor, München"
+            }
+          ]
+        },
+        {
+          "rawText": "Friedrich Leiwe, Pfarrer, Recke/Westfalen",
+          "titel": "Friedrich Leiwe",
+          "beschreibung": "Pfarrer, Recke/Westfalen",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Friedrich Leiwe",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Pfarrer, Recke/Westfalen"
+            }
+          ]
+        },
+        {
+          "rawText": "Paul Lempp, Dekan, Geislingen",
+          "titel": "Paul Lempp",
+          "beschreibung": "Dekan, Geislingen",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Paul Lempp",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Dekan, Geislingen"
+            }
+          ]
+        },
+        {
+          "rawText": "Rudolf Lütgert, Bundesbahndirektor, München",
+          "titel": "Rudolf Lütgert",
+          "beschreibung": "Bundesbahndirektor, München",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Rudolf Lütgert",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Bundesbahndirektor, München"
+            }
+          ]
+        },
+        {
+          "rawText": "Wolfgang Metzger, Prälat, Stuttgart",
+          "titel": "Wolfgang Metzger",
+          "beschreibung": "Prälat, Stuttgart",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Wolfgang Metzger",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Prälat, Stuttgart"
+            }
+          ]
+        },
+        {
+          "rawText": "Karl Heinrich Rengstorf, Professor, Münster",
+          "titel": "Karl Heinrich Rengstorf",
+          "beschreibung": "Professor, Münster",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Karl Heinrich Rengstorf",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Professor, Münster"
+            }
+          ]
+        },
+        {
+          "rawText": "Friedrich Mildenberger, Professor, Erlangen",
+          "titel": "Friedrich Mildenberger",
+          "beschreibung": "Professor, Erlangen",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Friedrich Mildenberger",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Professor, Erlangen"
+            }
+          ]
+        },
+        {
+          "rawText": "Erwin Milhaupt, Professor, Karlsruhe",
+          "titel": "Erwin Milhaupt",
+          "beschreibung": "Professor, Karlsruhe",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Erwin Milhaupt",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Professor, Karlsruhe"
+            }
+          ]
+        },
+        {
+          "rawText": "Reinhard Mumm, Kirchenrat, München",
+          "titel": "Reinhard Mumm",
+          "beschreibung": "Kirchenrat, München",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Reinhard Mumm",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Kirchenrat, München"
+            }
+          ]
+        },
+        {
+          "rawText": "Else Rückert, Witwe von Hanns Rückert, Professor, Tübingen",
+          "titel": "Else Rückert",
+          "beschreibung": "Witwe von Hanns Rückert (Professor), Tübingen",
+          "typ": "Korrespondenz",
+          "beteiligte": [
+            {
+              "name": "Else Rückert",
+              "rolle": "Korrespondent",
+              "entity": "Person",
+              "zusatz": "Witwe von Hanns Rückert, Professor, Tübingen"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_162.json",
+      "_pageNumber": "138"
+    }
+  ],
+  "notes": "Seite enthält vier Inventar-Einträge (1559-1562). Keine neue Seitenüberschrift erkennbar; Kontext bleibt Teil III / B Korrespondenz / Handakten des Archivars / Schriftwechsel mit sonstigen Instituten."
+}

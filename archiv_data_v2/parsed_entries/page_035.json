@@ -1,0 +1,241 @@
+{
+  "sourceFile": "page_035.json",
+  "pageNumber": "11",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+    "unterabschnitt": "1. Wissenschaftlich-theologische Werke von Schlatter",
+    "unterkategorie": "c) Rezensionen von Schlatter; d) Posthum erschienene Bücher bzw. Neuauflagen"
+  },
+  "entriesCount": 8,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "1. Wissenschaftlich-theologische Werke von Schlatter",
+      "unterkategorie": "c) Rezensionen von Schlatter; d) Posthum erschienene Bücher bzw. Neuauflagen",
+      "rawText": "Nr. 30: C. Holsten, Die synoptischen Evangelien nach der Form\n    ihres Inhalts.\n    Theologische Studien und Kritiken 1888\n    Separatdruck\n\n    Mangold, Der Römerbrief und seine geschichtlichen Voraus-\n    setzungen.\n    Theologische Studien und Kritiken 1886\n    Separatdruck\n\n    Rudolf Sohm, Kirchenrecht 1892\n    Separat-Abdruck aus dem Archiv für Öffentliches Recht 1894",
+      "nummer": "30",
+      "titel": "Rezensionen (verschiedene Werke)",
+      "beschreibung": "Sammlung von Rezensionen verfasst von Schlatter zu mehreren Werken",
+      "typ": "Artikel",
+      "untereintraege": [
+        {
+          "rawText": "C. Holsten, Die synoptischen Evangelien nach der Form ihres Inhalts. Theologische Studien und Kritiken 1888 Separatdruck",
+          "titel": "Die synoptischen Evangelien nach der Form ihres Inhalts",
+          "beteiligte": [
+            {
+              "name": "C. Holsten",
+              "rolle": "Autor",
+              "entity": "Person"
+            },
+            {
+              "name": "Theodor Schlatter",
+              "rolle": "Autor",
+              "entity": "Person",
+              "zusatz": "Rezension"
+            }
+          ],
+          "zeitschrift": "Theologische Studien und Kritiken",
+          "jahr": 1888,
+          "anmerkung": "Separatdruck"
+        },
+        {
+          "rawText": "Mangold, Der Römerbrief und seine geschichtlichen Voraussetzungen. Theologische Studien und Kritiken 1886 Separatdruck",
+          "titel": "Der Römerbrief und seine geschichtlichen Voraussetzungen",
+          "beteiligte": [
+            {
+              "name": "Mangold",
+              "rolle": "Autor",
+              "entity": "Person"
+            },
+            {
+              "name": "Theodor Schlatter",
+              "rolle": "Autor",
+              "entity": "Person",
+              "zusatz": "Rezension"
+            }
+          ],
+          "zeitschrift": "Theologische Studien und Kritiken",
+          "jahr": 1886,
+          "anmerkung": "Separatdruck"
+        },
+        {
+          "rawText": "Rudolf Sohm, Kirchenrecht 1892 Separat-Abdruck aus dem Archiv für Öffentliches Recht 1894",
+          "titel": "Kirchenrecht",
+          "beteiligte": [
+            {
+              "name": "Rudolf Sohm",
+              "rolle": "Autor",
+              "entity": "Person"
+            },
+            {
+              "name": "Theodor Schlatter",
+              "rolle": "Autor",
+              "entity": "Person",
+              "zusatz": "Rezension"
+            }
+          ],
+          "jahr": 1892,
+          "anmerkung": "Separat-Abdruck aus dem Archiv für Öffentliches Recht 1894"
+        }
+      ],
+      "_quelldatei": "page_035.json",
+      "_pageNumber": "11"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "1. Wissenschaftlich-theologische Werke von Schlatter",
+      "unterkategorie": "c) Rezensionen von Schlatter; d) Posthum erschienene Bücher bzw. Neuauflagen",
+      "rawText": "Nr. 31: Die philosophische Arbeit seit Descartes.\n    Herausgegeben von Theodor Schlatter,\n    Geleitwort von H. Thielicke\n    Calwer Verlag 4 1959",
+      "nummer": "31",
+      "titel": "Die philosophische Arbeit seit Descartes",
+      "beschreibung": "Herausgegeben von Theodor Schlatter; Geleitwort von H. Thielicke",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        },
+        {
+          "name": "H. Thielicke",
+          "rolle": "Autor",
+          "entity": "Person",
+          "zusatz": "Geleitwort"
+        }
+      ],
+      "verlag": "Calwer Verlag",
+      "auflage": "4",
+      "jahr": 1959,
+      "_quelldatei": "page_035.json",
+      "_pageNumber": "11"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "1. Wissenschaftlich-theologische Werke von Schlatter",
+      "unterkategorie": "c) Rezensionen von Schlatter; d) Posthum erschienene Bücher bzw. Neuauflagen",
+      "rawText": "32: Jesus und Paulus\n    Verlag Kohlhammer, Stuttgart 1 1940",
+      "nummer": "32",
+      "titel": "Jesus und Paulus",
+      "typ": "Buch",
+      "verlag": "Verlag Kohlhammer",
+      "ort": "Stuttgart",
+      "auflage": "1",
+      "jahr": 1940,
+      "_quelldatei": "page_035.json",
+      "_pageNumber": "11"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "1. Wissenschaftlich-theologische Werke von Schlatter",
+      "unterkategorie": "c) Rezensionen von Schlatter; d) Posthum erschienene Bücher bzw. Neuauflagen",
+      "rawText": "33: Jesus und Paulus. Mit Geleitwort von P. Althaus\n    Calwer Verlag 3 1961",
+      "nummer": "33",
+      "titel": "Jesus und Paulus",
+      "beschreibung": "Mit Geleitwort von P. Althaus",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "P. Althaus",
+          "rolle": "Autor",
+          "entity": "Person",
+          "zusatz": "Geleitwort"
+        }
+      ],
+      "verlag": "Calwer Verlag",
+      "auflage": "3",
+      "jahr": 1961,
+      "_quelldatei": "page_035.json",
+      "_pageNumber": "11"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "1. Wissenschaftlich-theologische Werke von Schlatter",
+      "unterkategorie": "c) Rezensionen von Schlatter; d) Posthum erschienene Bücher bzw. Neuauflagen",
+      "rawText": "34: Gottes Gerechtigkeit (Römerbrief)\n    Calwer Verlag 4 1965",
+      "nummer": "34",
+      "titel": "Gottes Gerechtigkeit (Römerbrief)",
+      "typ": "Buch",
+      "verlag": "Calwer Verlag",
+      "auflage": "4",
+      "jahr": 1965,
+      "_quelldatei": "page_035.json",
+      "_pageNumber": "11"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "1. Wissenschaftlich-theologische Werke von Schlatter",
+      "unterkategorie": "c) Rezensionen von Schlatter; d) Posthum erschienene Bücher bzw. Neuauflagen",
+      "rawText": "35: Johannes der Täufer. Herausgegeben von D. W. Michaelis\n    Verlag Reinhardt, Basel 1956",
+      "nummer": "35",
+      "titel": "Johannes der Täufer",
+      "beschreibung": "Herausgegeben von D. W. Michaelis",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "D. W. Michaelis",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Verlag Reinhardt",
+      "ort": "Basel",
+      "jahr": 1956,
+      "_quelldatei": "page_035.json",
+      "_pageNumber": "11"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "1. Wissenschaftlich-theologische Werke von Schlatter",
+      "unterkategorie": "c) Rezensionen von Schlatter; d) Posthum erschienene Bücher bzw. Neuauflagen",
+      "rawText": "36: Kleinere Schriften zu Flavius Josephus.\n    Herausgegeben von K. H. Rengstorf\n    Wiss. Buchgesellschaft, Darmstadt 1970",
+      "nummer": "36",
+      "titel": "Kleinere Schriften zu Flavius Josephus",
+      "beschreibung": "Herausgegeben von K. H. Rengstorf",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "K. H. Rengstorf",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Wiss. Buchgesellschaft",
+      "ort": "Darmstadt",
+      "jahr": 1970,
+      "_quelldatei": "page_035.json",
+      "_pageNumber": "11"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "1. Wissenschaftlich-theologische Werke von Schlatter",
+      "unterkategorie": "c) Rezensionen von Schlatter; d) Posthum erschienene Bücher bzw. Neuauflagen",
+      "rawText": "37: Zur Theologie des Neuen Testaments und zur Dogmatik.\n    Kleine Schriften. Herausgegeben von Ulrich Luck\n    Kaiser-Verlag, München 1969",
+      "nummer": "37",
+      "titel": "Zur Theologie des Neuen Testaments und zur Dogmatik. Kleine Schriften",
+      "beschreibung": "Herausgegeben von Ulrich Luck",
+      "typ": "Buch",
+      "beteiligte": [
+        {
+          "name": "Ulrich Luck",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Kaiser-Verlag",
+      "ort": "München",
+      "jahr": 1969,
+      "_quelldatei": "page_035.json",
+      "_pageNumber": "11"
+    }
+  ],
+  "notes": "Seite laut OCR: 11. Zwei neue Unterkategorien auf dieser Seite: c) Rezensionen von Schlatter; d) Posthum erschienene Bücher bzw. Neuauflagen."
+}

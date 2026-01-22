@@ -1,0 +1,378 @@
+{
+  "sourceFile": "page_191.json",
+  "pageNumber": "167",
+  "context": {
+    "teil": "Anhang",
+    "sektion": "Abschnitt II: Register",
+    "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+    "unterkategorie": "b) Briefe von Schlatter"
+  },
+  "entriesCount": 14,
+  "entries": [
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Müller, Nicolaus\n    Briefe an Schlatter                         1 Brief           427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Korrespondenz: Briefe von Nicolaus Müller an Friedrich Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Müller, Nicolaus",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Friedrich",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_191.json",
+      "_pageNumber": "167"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Müller, Otfried\n    Briefe an Schlatter                         2 Briefe          427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Korrespondenz: Briefe von Otfried Müller an Friedrich Schlatter",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Müller, Otfried",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Friedrich",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_191.json",
+      "_pageNumber": "167"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Nägele, Eugen\n    Briefe an Schlatter                         1 Brief           427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Korrespondenz: Briefe von Eugen Nägele an Friedrich Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Nägele, Eugen",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Friedrich",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_191.json",
+      "_pageNumber": "167"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Nathusius, Martin von\n    Briefe an Schlatter                         14 Briefe         427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Korrespondenz: Briefe von Martin von Nathusius an Friedrich Schlatter",
+      "typ": "Brief",
+      "umfang": "14 Briefe",
+      "beteiligte": [
+        {
+          "name": "Nathusius, Martin von",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Friedrich",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_191.json",
+      "_pageNumber": "167"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Nestle, Eberhard\n    Briefe an Schlatter                         1 Brief           427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Korrespondenz: Briefe von Eberhard Nestle an Friedrich Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Nestle, Eberhard",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Friedrich",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_191.json",
+      "_pageNumber": "167"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Nestle, Erwin\n    Briefe an Schlatter                         1 Brief           427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Korrespondenz: Briefe von Erwin Nestle an Friedrich Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Nestle, Erwin",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Friedrich",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_191.json",
+      "_pageNumber": "167"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Niedermeyer, G.\n    Briefe an Schlatter                         8 Briefe          438",
+      "nummer": "438",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Korrespondenz: Briefe von G. Niedermeyer an Friedrich Schlatter",
+      "typ": "Brief",
+      "umfang": "8 Briefe",
+      "beteiligte": [
+        {
+          "name": "Niedermeyer, G.",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Friedrich",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_191.json",
+      "_pageNumber": "167"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Noesgen, Karl Friedrich\n    Briefe an Schlatter                         4 Briefe          427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Korrespondenz: Briefe von Karl Friedrich Noesgen an Friedrich Schlatter",
+      "typ": "Brief",
+      "umfang": "4 Briefe",
+      "beteiligte": [
+        {
+          "name": "Noesgen, Karl Friedrich",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Friedrich",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_191.json",
+      "_pageNumber": "167"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Nowack, Wilhelm\n    Briefe an Schlatter                         2 Briefe          427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Korrespondenz: Briefe von Wilhelm Nowack an Friedrich Schlatter",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Nowack, Wilhelm",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Friedrich",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_191.json",
+      "_pageNumber": "167"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Oehler, Heinrich\n    Briefe an Schlatter                         2 Briefe          169/2",
+      "nummer": "169/2",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Korrespondenz: Briefe von Heinrich Oehler an Friedrich Schlatter",
+      "typ": "Brief",
+      "umfang": "2 Briefe",
+      "beteiligte": [
+        {
+          "name": "Oehler, Heinrich",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Friedrich",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_191.json",
+      "_pageNumber": "167"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Oettli, Samuel\n    Briefe an Schlatter                         17 Briefe         427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Korrespondenz: Briefe von Samuel Oettli an Friedrich Schlatter",
+      "typ": "Brief",
+      "umfang": "17 Briefe",
+      "beteiligte": [
+        {
+          "name": "Oettli, Samuel",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Friedrich",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_191.json",
+      "_pageNumber": "167"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Orelli, Conrad von\n    Briefe an Schlatter                         17 Briefe         427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Korrespondenz: Briefe von Conrad von Orelli an Friedrich Schlatter",
+      "typ": "Brief",
+      "umfang": "17 Briefe",
+      "beteiligte": [
+        {
+          "name": "Orelli, Conrad von",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Friedrich",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_191.json",
+      "_pageNumber": "167"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Petersen, Frederik\n    Briefe an Schlatter                         1 Brief           427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Korrespondenz: Briefe von Frederik Petersen an Friedrich Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Petersen, Frederik",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Friedrich",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_191.json",
+      "_pageNumber": "167"
+    },
+    {
+      "teil": "Anhang",
+      "sektion": "Abschnitt II: Register",
+      "unterabschnitt": "A Professoren aus Deutschland und der deutschsprachigen Schweiz",
+      "unterkategorie": "b) Briefe von Schlatter",
+      "rawText": "Petran, Ernst\n    Briefe an Schlatter                         1 Brief           427",
+      "nummer": "427",
+      "titel": "Briefe an Schlatter",
+      "beschreibung": "Korrespondenz: Briefe von Ernst Petran an Friedrich Schlatter",
+      "typ": "Brief",
+      "umfang": "1 Brief",
+      "beteiligte": [
+        {
+          "name": "Petran, Ernst",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlatter, Friedrich",
+          "rolle": "Adressat",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_191.json",
+      "_pageNumber": "167"
+    }
+  ],
+  "notes": "Seite enthält Registereinträge (Mül - Pet). Kopf: 'Anhang Abschnitt II: Register'. Keine neue Überschrift auf dieser Seite."
+}

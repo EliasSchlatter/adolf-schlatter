@@ -1,0 +1,213 @@
+{
+  "sourceFile": "page_068.json",
+  "pageNumber": "44",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+    "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+    "unterkategorie": "a) Folioformat"
+  },
+  "entriesCount": 12,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "a) Folioformat",
+      "rawText": "Nr. 169/15: Gedenkfeier für Prof. D. A. Schlatter auf dem Haus der Tübinger DCSV. 1938\nVgl.: Ein Lehrer der Kirche. Worte des Gedenkens an\n    D. Adolf Schlatter 1852 - 1938.\n    Calwer Verlag 1938. Inventar-Nr. 137",
+      "nummer": "169/15",
+      "titel": "Gedenkfeier für Prof. D. A. Schlatter auf dem Haus der Tübinger DCSV",
+      "beschreibung": "Material zur Gedenkfeier für Prof. D. A. Schlatter. Verweis auf: Ein Lehrer der Kirche. Worte des Gedenkens an D. Adolf Schlatter 1852-1938. Calwer Verlag 1938. Inventar-Nr. 137.",
+      "typ": "Sonstiges",
+      "jahr": 1938,
+      "verweis": "Inventar-Nr. 137",
+      "_quelldatei": "page_068.json",
+      "_pageNumber": "44"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "a) Folioformat",
+      "rawText": "Nr. 170: Handschriftliche Widmung von H. Cremer auf dem Titelblatt des Wörterbuchs der neutestamentlichen Gräcität. Gotha 1902\n\nAbschrift einer Notiz von Schlatter über das Grundgesetz der göttlichen Gerechtigkeit.\n\nD. Ernst Cremer, Zum Verständnis der Offenbarung Johannes.\nAus: \"Die Reformation\". Berlin 29.7.1919\n\nRundschreiben an die Professoren der Berliner Theol. Fakultät betreffend Prof. Ernst Cremer und anderes.\n\nGlückwünsche von Wingolf-Philistern zu Geburtstagen von Schlatter. 6 Briefe. 1927 - 1937",
+      "nummer": "170",
+      "titel": "Handschriftliche Widmung von H. Cremer auf dem Titelblatt des Wörterbuchs der neutestamentlichen Gräcität",
+      "beschreibung": "Verschiedene Einzelstücke: handschriftliche Widmung, Abschrift einer Notiz, Artikelverweis, Rundschreiben und Korrespondenz (Glückwünsche).",
+      "typ": "Sonstiges",
+      "jahr": 1902,
+      "untereintraege": [
+        {
+          "rawText": "Abschrift einer Notiz von Schlatter über das Grundgesetz der göttlichen Gerechtigkeit.",
+          "titel": "Abschrift einer Notiz über das Grundgesetz der göttlichen Gerechtigkeit",
+          "beschreibung": "Handschriftliche Abschrift einer Notiz von Schlatter."
+        },
+        {
+          "rawText": "D. Ernst Cremer, Zum Verständnis der Offenbarung Johannes. Aus: \"Die Reformation\". Berlin 29.7.1919",
+          "titel": "Zum Verständnis der Offenbarung Johannes",
+          "beteiligte": [
+            {
+              "name": "Ernst Cremer",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ],
+          "in": "Die Reformation",
+          "ort": "Berlin",
+          "datum": "1919-07-29",
+          "beschreibung": "Artikel/Aufsatz von Ernst Cremer erschienen in der Zeitung/Zeitschrift 'Die Reformation' am 29.7.1919."
+        },
+        {
+          "rawText": "Rundschreiben an die Professoren der Berliner Theol. Fakultät betreffend Prof. Ernst Cremer und anderes.",
+          "titel": "Rundschreiben an die Professoren der Berliner Theologischen Fakultät",
+          "beschreibung": "Rundschreiben betreffend Prof. Ernst Cremer und weitere Angelegenheiten."
+        },
+        {
+          "rawText": "Glückwünsche von Wingolf-Philistern zu Geburtstagen von Schlatter. 6 Briefe. 1927 - 1937",
+          "titel": "Glückwünsche von Wingolf-Philistern an Schlatter",
+          "beschreibung": "Glückwunschschreiben zu Geburtstagen von Schlatter.",
+          "umfang": "6 Briefe",
+          "zeitraum": "1927-1937"
+        }
+      ],
+      "_quelldatei": "page_068.json",
+      "_pageNumber": "44"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "a) Folioformat",
+      "rawText": "Nr. 171: Johannes der Täufer. Dissertation.",
+      "nummer": "171",
+      "titel": "Johannes der Täufer",
+      "beschreibung": "Dissertation zum Thema Johannes der Täufer.",
+      "typ": "Dissertation",
+      "_quelldatei": "page_068.json",
+      "_pageNumber": "44"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "a) Folioformat",
+      "rawText": "172: Johannes Baptista. Editio prima",
+      "nummer": "172",
+      "titel": "Johannes Baptista",
+      "beschreibung": "Editio prima",
+      "typ": "Manuskript",
+      "_quelldatei": "page_068.json",
+      "_pageNumber": "44"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "a) Folioformat",
+      "rawText": "173: Studien zum \"Glauben\". 2 Bde.",
+      "nummer": "173",
+      "titel": "Studien zum \"Glauben\"",
+      "beschreibung": "Studien zum Thema 'Glauben'.",
+      "typ": "Manuskript",
+      "umfang": "2 Bde.",
+      "_quelldatei": "page_068.json",
+      "_pageNumber": "44"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "a) Folioformat",
+      "rawText": "174: Der Glaube im Neuen Testament. 1883",
+      "nummer": "174",
+      "titel": "Der Glaube im Neuen Testament",
+      "beschreibung": "Manuskript/Studie mit dem Titel 'Der Glaube im Neuen Testament'.",
+      "typ": "Manuskript",
+      "jahr": 1883,
+      "_quelldatei": "page_068.json",
+      "_pageNumber": "44"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "a) Folioformat",
+      "rawText": "175/1: Neutestamentliche Theologie",
+      "nummer": "175/1",
+      "titel": "Neutestamentliche Theologie",
+      "beschreibung": "Manuskript: Neutestamentliche Theologie.",
+      "typ": "Manuskript",
+      "_quelldatei": "page_068.json",
+      "_pageNumber": "44"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "a) Folioformat",
+      "rawText": "175/2: Neutestamentliche Theologie. Studien",
+      "nummer": "175/2",
+      "titel": "Neutestamentliche Theologie. Studien",
+      "beschreibung": "Studien zur neutestamentlichen Theologie.",
+      "typ": "Manuskript",
+      "_quelldatei": "page_068.json",
+      "_pageNumber": "44"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "a) Folioformat",
+      "rawText": "176: De lege divina. Abhandlung",
+      "nummer": "176",
+      "titel": "De lege divina",
+      "beschreibung": "Abhandlung mit dem Titel 'De lege divina'.",
+      "typ": "Manuskript",
+      "anmerkung": "Abhandlung",
+      "_quelldatei": "page_068.json",
+      "_pageNumber": "44"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "a) Folioformat",
+      "rawText": "177: 8 Klausurarbeiten zur Licentiatenprüfung Bern.\n           7. - 10.12.1880",
+      "nummer": "177",
+      "titel": "Klausurarbeiten zur Licentiatenprüfung Bern",
+      "beschreibung": "8 Klausurarbeiten zur Licentiatenprüfung in Bern.",
+      "typ": "Sammlung",
+      "umfang": "8 Klausurarbeiten",
+      "zeitraum": "07.12.1880-10.12.1880",
+      "_quelldatei": "page_068.json",
+      "_pageNumber": "44"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "a) Folioformat",
+      "rawText": "177/1: Übersetzung und Erklärung des Jakobsegens. Genesis 49,1-28",
+      "nummer": "177/1",
+      "titel": "Übersetzung und Erklärung des Jakobsegens",
+      "beschreibung": "Übersetzung und Erklärung des Jakobsegens",
+      "bibelstelle": "Genesis 49,1-28",
+      "typ": "Manuskript",
+      "_quelldatei": "page_068.json",
+      "_pageNumber": "44"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "2. Manuskripte von wissenschaftlichen Arbeiten und Vorlesungen",
+      "unterkategorie": "a) Folioformat",
+      "rawText": "177/2: Zeitverhältnisse, Inhalt und Struktur des Buches Joel.",
+      "nummer": "177/2",
+      "titel": "Zeitverhältnisse, Inhalt und Struktur des Buches Joel",
+      "beschreibung": "Manuskript/Studie zu Zeitverhältnissen, Inhalt und Struktur des Buches Joel.",
+      "typ": "Manuskript",
+      "_quelldatei": "page_068.json",
+      "_pageNumber": "44"
+    }
+  ],
+  "notes": "OCR lesbar. Fußzeile Seitezahl '44' ignoriert."
+}

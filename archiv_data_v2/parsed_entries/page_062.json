@@ -1,0 +1,193 @@
+{
+  "sourceFile": "page_062.json",
+  "pageNumber": "38",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+    "unterabschnitt": "1. Zur Person",
+    "unterkategorie": "a) Autobiographische Manuskripte; b) Urkunden zur Person; c) Kasualreden"
+  },
+  "entriesCount": 9,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "a) Autobiographische Manuskripte; b) Urkunden zur Person; c) Kasualreden",
+      "rawText": "Nr. 151: Lebenslauf bei der Meldung zum Kirchendienst. Abschrift für den Vater. 1875",
+      "nummer": "151",
+      "titel": "Lebenslauf bei der Meldung zum Kirchendienst",
+      "beschreibung": "Abschrift für den Vater.",
+      "jahr": 1875,
+      "typ": "Manuskript",
+      "_quelldatei": "page_062.json",
+      "_pageNumber": "38"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "a) Autobiographische Manuskripte; b) Urkunden zur Person; c) Kasualreden",
+      "rawText": "152: Meine Begegnungen mit der CSV",
+      "nummer": "152",
+      "titel": "Meine Begegnungen mit der CSV",
+      "typ": "Manuskript",
+      "_quelldatei": "page_062.json",
+      "_pageNumber": "38"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "a) Autobiographische Manuskripte; b) Urkunden zur Person; c) Kasualreden",
+      "rawText": "153: Dankrede im Tübinger Frauenkreis. 1922",
+      "nummer": "153",
+      "titel": "Dankrede im Tübinger Frauenkreis",
+      "jahr": 1922,
+      "typ": "Rede",
+      "_quelldatei": "page_062.json",
+      "_pageNumber": "38"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "a) Autobiographische Manuskripte; b) Urkunden zur Person; c) Kasualreden",
+      "rawText": "154: Die mir gegebenen Ziele. Manuskript für \"Adolf Schlatter\". In: Die Religionswissenschaft in Selbstdarstellungen. Meiner-Verlag Leipzig 1925 (vgl. Inventar-Nr. 44)",
+      "nummer": "154",
+      "titel": "Die mir gegebenen Ziele",
+      "beschreibung": "Manuskript für 'Adolf Schlatter'. In: Die Religionswissenschaft in Selbstdarstellungen.",
+      "in": "Die Religionswissenschaft in Selbstdarstellungen",
+      "verlag": "Meiner-Verlag Leipzig",
+      "jahr": 1925,
+      "verweis": "Inventar-Nr. 44",
+      "typ": "Manuskript",
+      "_quelldatei": "page_062.json",
+      "_pageNumber": "38"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "a) Autobiographische Manuskripte; b) Urkunden zur Person; c) Kasualreden",
+      "rawText": "155: Ein Rückblick. Manuskript. (vgl. Inventar-Nr. 41)",
+      "nummer": "155",
+      "titel": "Ein Rückblick",
+      "beschreibung": "Manuskript.",
+      "verweis": "Inventar-Nr. 41",
+      "typ": "Manuskript",
+      "_quelldatei": "page_062.json",
+      "_pageNumber": "38"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "a) Autobiographische Manuskripte; b) Urkunden zur Person; c) Kasualreden",
+      "rawText": "156/1: Ein dankbares Wort zum Geburtstag von Vater Bodelschwingh. (großenteils autobiographisch)",
+      "nummer": "156/1",
+      "titel": "Ein dankbares Wort zum Geburtstag von Vater Bodelschwingh",
+      "beschreibung": "(großenteils autobiographisch)",
+      "typ": "Manuskript",
+      "_quelldatei": "page_062.json",
+      "_pageNumber": "38"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "a) Autobiographische Manuskripte; b) Urkunden zur Person; c) Kasualreden",
+      "rawText": "156/2: Dora Schlatter, Aufzeichnung von Äußerungen Schlatters über Berufung nach Berlin, Palästinareise u. a. 1891 - 1893",
+      "nummer": "156/2",
+      "titel": "Aufzeichnung von Äußerungen Schlatters über Berufung nach Berlin, Palästinareise u. a.",
+      "beschreibung": "Aufzeichnungen von Dora Schlatter (Äußerungen Schlatters).",
+      "beteiligte": [
+        {
+          "name": "Dora Schlatter",
+          "rolle": "Zusammensteller",
+          "entity": "Person"
+        }
+      ],
+      "zeitraum": "1891-1893",
+      "typ": "Manuskript",
+      "_quelldatei": "page_062.json",
+      "_pageNumber": "38"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "a) Autobiographische Manuskripte; b) Urkunden zur Person; c) Kasualreden",
+      "rawText": "Nr. 157: Urkunden betreffend Schlatter und Frau. Geburtshaus \"Hintern Tumm\" St. Gallen",
+      "nummer": "157",
+      "titel": "Urkunden betreffend Schlatter und Frau",
+      "beschreibung": "Geburtshaus 'Hintern Tumm', St. Gallen.",
+      "typ": "Urkunde",
+      "_quelldatei": "page_062.json",
+      "_pageNumber": "38"
+    },
+    {
+      "teil": "Teil I",
+      "sektion": "B DOKUMENTE UND MANUSKRIPTE",
+      "unterabschnitt": "1. Zur Person",
+      "unterkategorie": "a) Autobiographische Manuskripte; b) Urkunden zur Person; c) Kasualreden",
+      "rawText": "c) Nr. 158: Kasualreden von Adolf Schlatter in seiner Familie\n\nNachruf für seine älteste Schwester Lydia. 22.6.1899\n\nNachruf für seine Frau. 11.7.1907\n\nGrabrede von Dekan Elsäßer, Tübingen, für Frau Prof.\nSchlatter. 11.7.1907\n\nTrauerrede für seine Schwester Wilhelmine über Psalm 16,11\n1881\n\nTrauerrede für seinen Bruder Theodor über Galater 6,2\n12.9.1895\n\nTrauerrede für seinen Sohn Theodor über 1. Korinther 13,8\n1916\n\nTrauerrede für seine Nichte Beatrice über Lukas 16,10\n4.9.1930",
+      "nummer": "158",
+      "titel": "Kasualreden von Adolf Schlatter in seiner Familie",
+      "beschreibung": "Kasualrede(n) gehalten von Adolf Schlatter bzw. Angehörigen im familiären Kontext; mehrere Einträge als Untereinträge aufgeführt.",
+      "typ": "Rede",
+      "untereintraege": [
+        {
+          "rawText": "Nachruf für seine älteste Schwester Lydia. 22.6.1899",
+          "titel": "Nachruf für seine älteste Schwester Lydia",
+          "datum": "1899-06-22"
+        },
+        {
+          "rawText": "Nachruf für seine Frau. 11.7.1907",
+          "titel": "Nachruf für seine Frau",
+          "datum": "1907-07-11"
+        },
+        {
+          "rawText": "Grabrede von Dekan Elsäßer, Tübingen, für Frau Prof. Schlatter. 11.7.1907",
+          "titel": "Grabrede für Frau Prof. Schlatter (von Dekan Elsäßer, Tübingen)",
+          "datum": "1907-07-11",
+          "ort": "Tübingen",
+          "beteiligte": [
+            {
+              "name": "Dekan Elsäßer",
+              "rolle": "Redner",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Trauerrede für seine Schwester Wilhelmine über Psalm 16,11 1881",
+          "titel": "Trauerrede für seine Schwester Wilhelmine",
+          "jahr": 1881,
+          "bibelstelle": "Psalm 16,11"
+        },
+        {
+          "rawText": "Trauerrede für seinen Bruder Theodor über Galater 6,2 12.9.1895",
+          "titel": "Trauerrede für seinen Bruder Theodor",
+          "datum": "1895-09-12",
+          "bibelstelle": "Galater 6,2"
+        },
+        {
+          "rawText": "Trauerrede für seinen Sohn Theodor über 1. Korinther 13,8 1916",
+          "titel": "Trauerrede für seinen Sohn Theodor",
+          "jahr": 1916,
+          "bibelstelle": "1. Korinther 13,8"
+        },
+        {
+          "rawText": "Trauerrede für seine Nichte Beatrice über Lukas 16,10 4.9.1930",
+          "titel": "Trauerrede für seine Nichte Beatrice",
+          "datum": "1930-09-04",
+          "bibelstelle": "Lukas 16,10"
+        }
+      ],
+      "_quelldatei": "page_062.json",
+      "_pageNumber": "38"
+    }
+  ],
+  "notes": "Seite zeigt Überschriftwechsel zu Sektion B; Unterabschnitt 1 und die Unterkategorien a), b), c). OCR-Layout mit Fußzeile Seitenzahl 38."
+}

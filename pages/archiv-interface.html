@@ -310,6 +310,9 @@
                                     Titel
                                 </th>
                                 <th class="hidden md:table-cell px-6 py-3 text-left text-xs font-medium text-text-secondary uppercase tracking-wider">Typ</th>
+                                <th class="hidden sm:table-cell px-6 py-3 text-center text-xs font-medium text-text-secondary uppercase tracking-wider" title="Untereinträge">
+                                    <i class="fas fa-layer-group"></i>
+                                </th>
                                 <th class="hidden sm:table-cell px-6 py-3 text-left text-xs font-medium text-text-secondary uppercase tracking-wider">
                                     Jahr
                                 </th>
@@ -338,9 +341,6 @@
                                     <option value="100">100</option>
                                 </select>
                             </div>
-                            <a href="archiv-interface.html?show=all" class="text-secondary text-sm hover:underline">
-                                Alle Einträge auf einer Seite anzeigen
-                            </a>
                         </div>
                         <div id="pagination-controls" class="flex items-center space-x-2">
                             <!-- Wird dynamisch gefüllt -->
@@ -782,6 +782,31 @@
         </div>
     </section>
 
+    <!-- Original-Inventar Download -->
+    <section class="bg-gradient-to-br from-primary/5 to-secondary/5 py-12">
+        <div class="max-w-4xl mx-auto px-6 text-center">
+            <div class="bg-white rounded-2xl shadow-lg p-8 border border-gray-100">
+                <div class="flex items-center justify-center mb-4">
+                    <div class="w-16 h-16 bg-secondary/10 rounded-full flex items-center justify-center">
+                        <i class="fas fa-file-pdf text-3xl text-secondary"></i>
+                    </div>
+                </div>
+                <h2 class="text-2xl font-merriweather font-bold text-primary mb-2">Original-Inventar</h2>
+                <p class="text-text-secondary mb-6 max-w-xl mx-auto">
+                    Laden Sie das vollständige Original-Inventar des Adolf-Schlatter-Archivs herunter. 
+                    Erstellt von Ernst Bock, Landeskirchliches Archiv Stuttgart (Bestand D 40, 1998).
+                </p>
+                <a href="../documents/Adolf-Schlatter-Archiv-Inventar.pdf" 
+                   download="Adolf-Schlatter-Archiv-Inventar.pdf"
+                   class="inline-flex items-center space-x-3 bg-secondary hover:bg-secondary/90 text-white px-6 py-3 rounded-lg font-medium transition-colors shadow-md hover:shadow-lg">
+                    <i class="fas fa-download"></i>
+                    <span>PDF herunterladen</span>
+                    <span class="text-sm opacity-75">(272 Seiten)</span>
+                </a>
+            </div>
+        </div>
+    </section>
+
     <!-- Footer -->
     <div id="footer-container">
         <!-- Footer wird hier eingefügt -->
@@ -1056,17 +1081,29 @@
                     }
                 }
 
-                // Teil-Filter
-                if (filterTeil && entry.teil !== filterTeil) return false;
+                // Teil-Filter (flexibel: exakt oder enthält)
+                if (filterTeil) {
+                    const entryTeil = entry.teil || '';
+                    const matchesTeil = entryTeil === filterTeil || 
+                                       entryTeil.includes(`Teil ${filterTeil}`) ||
+                                       entryTeil.toLowerCase().includes(filterTeil.toLowerCase());
+                    if (!matchesTeil) return false;
+                }
 
                 // Typ-Filter
                 if (filterTyp && entry.typ !== filterTyp) return false;
 
-                // Sektion-Filter
-                if (filterSektion && entry.sektion !== filterSektion) return false;
+                // Sektion-Filter (flexibel: exakt oder beginnt mit)
+                if (filterSektion) {
+                    const entrySektion = entry.sektion || '';
+                    const matchesSektion = entrySektion === filterSektion ||
+                                          entrySektion.startsWith(filterSektion + ' ') ||
+                                          entrySektion.startsWith(filterSektion + '/');
+                    if (!matchesSektion) return false;
+                }
 
                 // Unterabschnitt-Filter
-                if (filterUnterabschnitt && !(entry.unterabschnitt || '').includes(filterUnterabschnitt)) return false;
+                if (filterUnterabschnitt && !(entry.unterabschnitt || '').toLowerCase().includes(filterUnterabschnitt.toLowerCase())) return false;
 
                 // Jahr-Filter (datum, zeitraum, jahr, Untereinträge)
                 if (filterJahr === 'custom') {
@@ -1201,14 +1238,26 @@
                     }
                 }
 
-                // Teil-Filter
-                if (filterTeil && entry.teil !== filterTeil) return false;
+                // Teil-Filter (flexibel: exakt oder enthält)
+                if (filterTeil) {
+                    const entryTeil = entry.teil || '';
+                    const matchesTeil = entryTeil === filterTeil || 
+                                       entryTeil.includes(`Teil ${filterTeil}`) ||
+                                       entryTeil.toLowerCase().includes(filterTeil.toLowerCase());
+                    if (!matchesTeil) return false;
+                }
 
                 // Typ-Filter
                 if (filterTyp && entry.typ !== filterTyp) return false;
 
-                // Sektion-Filter
-                if (filterSektion && entry.sektion !== filterSektion) return false;
+                // Sektion-Filter (flexibel: exakt oder beginnt mit)
+                if (filterSektion) {
+                    const entrySektion = entry.sektion || '';
+                    const matchesSektion = entrySektion === filterSektion ||
+                                          entrySektion.startsWith(filterSektion + ' ') ||
+                                          entrySektion.startsWith(filterSektion + '/');
+                    if (!matchesSektion) return false;
+                }
 
                 // Jahr-Filter (datum, zeitraum, jahr, Untereinträge)
                 if (filterJahr === 'custom') {
@@ -1249,6 +1298,27 @@
             renderResults();
         }
 
+        // Prüft ob eine Inventarnummer gültig ist (Zahlen, evtl. mit /Unternummer)
+        function isValidInventoryNumber(nummer) {
+            if (!nummer || typeof nummer !== 'string') return false;
+            return /^\d+(?:\/\d+)?$/.test(nummer.trim());
+        }
+
+        // Extrahiert numerischen Sortier-Wert aus Inventarnummer
+        function getNumericSortValue(nummer) {
+            if (!nummer || !isValidInventoryNumber(nummer)) return Infinity;
+            const match = nummer.match(/^(\d+)/);
+            if (match) {
+                const mainNum = parseInt(match[1], 10);
+                const subMatch = nummer.match(/\/(\d+)$/);
+                if (subMatch) {
+                    return mainNum + parseInt(subMatch[1], 10) / 1000;
+                }
+                return mainNum;
+            }
+            return Infinity;
+        }
+
         function sortEntries(sortValue) {
             const [field, order] = sortValue.split('-');
             
@@ -1256,8 +1326,17 @@
                 let valA, valB;
 
                 if (field === 'nummer') {
-                    valA = parseInt((a.nummer || '').match(/\d+/)?.[0] || '0');
-                    valB = parseInt((b.nummer || '').match(/\d+/)?.[0] || '0');
+                    // Gültige Nummern zuerst, ungültige ans Ende
+                    const aValid = isValidInventoryNumber(a.nummer);
+                    const bValid = isValidInventoryNumber(b.nummer);
+                    
+                    // Bei aufsteigend: gültige zuerst
+                    // Bei absteigend: gültige zuerst (ungültige bleiben immer hinten)
+                    if (aValid && !bValid) return -1;
+                    if (!aValid && bValid) return 1;
+                    
+                    valA = getNumericSortValue(a.nummer);
+                    valB = getNumericSortValue(b.nummer);
                 } else if (field === 'jahr') {
                     valA = a.jahr || 0;
                     valB = b.jahr || 0;
@@ -1334,12 +1413,18 @@
                     }
                 }
 
+                const subCount = entry.untereintraege ? entry.untereintraege.length : 0;
+                const subCountDisplay = subCount > 0 
+                    ? `<span class="inline-flex items-center justify-center w-6 h-6 rounded-full text-xs font-medium bg-secondary/20 text-secondary">${subCount}</span>` 
+                    : '<span class="text-gray-300">-</span>';
+
                 tr.innerHTML = `
                     <td class="px-2 sm:px-4 lg:px-6 py-4 whitespace-nowrap text-sm font-medium text-primary">${entry.nummer || '-'}</td>
                     <td class="px-6 py-4 text-sm text-text-primary max-w-md">${(entry.titel || '-').substring(0, 100)}${(entry.titel || '').length > 100 ? '...' : ''}</td>
                     <td class="hidden md:table-cell px-6 py-4 whitespace-nowrap">
                         <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium ${typColor}">${entry.typ || '-'}</span>
                     </td>
+                    <td class="hidden sm:table-cell px-6 py-4 whitespace-nowrap text-center">${subCountDisplay}</td>
                     <td class="hidden sm:table-cell px-6 py-4 whitespace-nowrap text-sm text-text-secondary">${displayYear}</td>
                     <td class="hidden lg:table-cell px-6 py-4 text-sm text-text-secondary max-w-xs">${beteiligte.substring(0, 80)}${beteiligte.length > 80 ? '...' : ''}</td>
                     <td class="hidden xl:table-cell px-6 py-4 whitespace-nowrap text-right text-sm font-medium">

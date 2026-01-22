@@ -1,0 +1,329 @@
+{
+  "sourceFile": "page_124.json",
+  "pageNumber": "100",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 8,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 815: Schreiben Barkhausen, Evang. Oberkirchenrat Berlin 30.3.1895\nan Pastor D. von Bodelschwingh. Scharfe Zurückweisung des\nPlans einer freien theologischen Fakultät.\n\nSchreiben vom 30.3.1895 an die zuständigen staatlichen Stel-\nlen mit Abschrift des Briefs an Friedrich von Bodelschwingh.",
+      "nummer": "815",
+      "titel": "Schreiben Barkhausen an Pastor D. von Bodelschwingh",
+      "beschreibung": "Scharfe Zurückweisung des Plans einer freien theologischen Fakultät. Schreiben an die zuständigen staatlichen Stellen mit Abschrift des Briefs an Friedrich von Bodelschwingh.",
+      "typ": "Brief",
+      "datum": "1895-03-30",
+      "beteiligte": [
+        {
+          "name": "Barkhausen",
+          "rolle": "Absender",
+          "entity": "Person",
+          "zusatz": "Evang. Oberkirchenrat Berlin"
+        },
+        {
+          "name": "Pastor D. von Bodelschwingh",
+          "rolle": "Adressat",
+          "entity": "Person"
+        },
+        {
+          "name": "Evang. Oberkirchenrat Berlin",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_124.json",
+      "_pageNumber": "100"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "816: Verschiedene Unterlagen über Adolf Stöcker:\nDemission als Hofprediger November 1890. Weitere Arbeit in\nder Berliner Stadtmission 1893 - 1896.",
+      "nummer": "816",
+      "titel": "Verschiedene Unterlagen über Adolf Stöcker",
+      "beschreibung": "Unterlagen zur Demission als Hofprediger (November 1890) und zur weiteren Tätigkeit in der Berliner Stadtmission (1893–1896).",
+      "typ": "Material",
+      "zeitraum": "1890-1896",
+      "beteiligte": [
+        {
+          "name": "Adolf Stöcker",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_124.json",
+      "_pageNumber": "100"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "817: Adolf Schlatter, Das Verhältnis der deutschen evangelischen\nTheologie zur Bibel. 1914\nHandschriftliches Manuskript (dazu maschinengeschriebenes\nManuskript und eine englische Übersetzung) eines Aufsatzes\nfür die Zeitschrift The Constructive Quarterly, a Journal of\nthe Faith and Work and Thought of Christendom New York,\nedited by Silas Mc Bee.",
+      "nummer": "817",
+      "titel": "Das Verhältnis der deutschen evangelischen Theologie zur Bibel",
+      "beschreibung": "Handschriftliches Manuskript (dazu maschinengeschriebenes Manuskript und eine englische Übersetzung) eines Aufsatzes für die Zeitschrift The Constructive Quarterly (New York), edited by Silas Mc Bee.",
+      "typ": "Manuskript",
+      "jahr": 1914,
+      "zeitschrift": "The Constructive Quarterly",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Silas Mc Bee",
+          "rolle": "Herausgeber",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_124.json",
+      "_pageNumber": "100"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "818: Schriftwechsel Schlatters 1912 - 1913 mit Berliner Professor\n(Siegmund-Schultze ?) über Mitarbeit an der Zeitschrift The\nConstructive Quarterly.",
+      "nummer": "818",
+      "titel": "Schriftwechsel Schlatter – Berliner Professor (vermutlich Siegmund-Schultze)",
+      "beschreibung": "Korrespondenz (1912–1913) zwischen Adolf Schlatter und einem Berliner Professor über Mitarbeit an der Zeitschrift The Constructive Quarterly. Name des Professors unsicher (in Klammern: Siegmund-Schultze ?).",
+      "typ": "Korrespondenz",
+      "zeitraum": "1912-1913",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Korrespondent",
+          "entity": "Person"
+        },
+        {
+          "name": "Berliner Professor (Siegmund-Schultze ?)",
+          "rolle": "Korrespondent",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Name des Berliner Professors im OCR unklar (eingetragen als Vermutung: Siegmund-Schultze ?).",
+      "_quelldatei": "page_124.json",
+      "_pageNumber": "100"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "819: Ludwig Müller, Reichsbischof, Erlaß 3.1.1934 an die Obersten\nBehörden der deutschen evangelischen Landeskirchen:\nBerufung von Pfarrer Zahn, Aachen, zum Jugendpfarrer der\nDeutschen Evangelischen Kirche.\nDazu: Presseberichte über die Eingliederung der Evangelischen\nJugend in die Hitlerjugend.\n\nVgl. Brief von Reichsjugendpfarrer Zahn an den mit ihm ver-\nwandten Adolf Schlatter, Inventar-Nr. 169/5.",
+      "nummer": "819",
+      "titel": "Erlaß Ludwig Müller: Berufung von Pfarrer Zahn zum Jugendpfarrer",
+      "beschreibung": "Erlaß des Reichsbischofs Ludwig Müller (an die obersten Behörden der deutschen evangelischen Landeskirchen) zur Berufung von Pfarrer Zahn (Aachen) zum Jugendpfarrer der Deutschen Evangelischen Kirche. Beiliegend Presseberichte über die Eingliederung der Evangelischen Jugend in die Hitlerjugend.",
+      "typ": "Erlass",
+      "datum": "1934-01-03",
+      "beteiligte": [
+        {
+          "name": "Ludwig Müller",
+          "rolle": "Absender",
+          "entity": "Person",
+          "zusatz": "Reichsbischof"
+        },
+        {
+          "name": "Pfarrer Zahn",
+          "rolle": "Adressat",
+          "entity": "Person",
+          "zusatz": "Aachen; Reichsjugendpfarrer"
+        },
+        {
+          "name": "Oberste Behörden der deutschen evangelischen Landeskirchen",
+          "rolle": "Adressat",
+          "entity": "Institution"
+        }
+      ],
+      "anmerkung": "Beiliegend Presseberichte über die Eingliederung der Evangelischen Jugend in die Hitlerjugend. Verweis: Brief von Reichsjugendpfarrer Zahn an Adolf Schlatter, Inventar-Nr. 169/5.",
+      "verweis": "169/5",
+      "_quelldatei": "page_124.json",
+      "_pageNumber": "100"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "820: Telegramme von ca. 120 deutschen Theologieprofessoren Novem-\nber 1934 an Ludwig Müller, als Reichsbischof zurückzutreten.\nAus Tübingen: Bauernfeind, Faber, Fezer, Heim, Kittel, Müller,\nPaulus, Rengstorf, Rückert, Schlatter, Schlunk, Traub, Volz,\nWehrung, Weiser.",
+      "nummer": "820",
+      "titel": "Telegramme von ca. 120 deutschen Theologieprofessoren an Ludwig Müller (Rücktrittsforderung)",
+      "beschreibung": "Telegramme (ca. 120) deutscher Theologieprofessoren, November 1934, mit der Aufforderung an Ludwig Müller, als Reichsbischof zurückzutreten. Enthält eine Auflistung von Professoren aus Tübingen.",
+      "typ": "Material",
+      "zeitraum": "November 1934",
+      "beteiligte": [
+        {
+          "name": "Bauernfeind",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Faber",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Fezer",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Heim",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Kittel",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Müller",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Paulus",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Rengstorf",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Rückert",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Schlunk",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Traub",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Volz",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Wehrung",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Weiser",
+          "rolle": "Absender",
+          "entity": "Person"
+        },
+        {
+          "name": "Ludwig Müller",
+          "rolle": "Adressat",
+          "entity": "Person",
+          "zusatz": "Reichsbischof"
+        }
+      ],
+      "anmerkung": "Gesamtzahl ca. 120 Telegramme; hier sind die aus Tübingen namentlich aufgeführten Professoren genannt.",
+      "_quelldatei": "page_124.json",
+      "_pageNumber": "100"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "821: Stephen Dintamann, USA, Transskription der Bemerkungen von\nSchlatter auf seinem Exemplar des Entwurfs \"Betheler Bekennt-\nnis\", Herbst 1933.\n\nHans Stroh, Korrigierte Fassung dieser Transskription, mit\nBriefwechsel Dintamann/Stroh, Mai/Juni 1981",
+      "nummer": "821",
+      "titel": "Transskription der Bemerkungen Schlatter auf dem Entwurf 'Betheler Bekenntnis' / Korrigierte Fassung",
+      "beschreibung": "Transskription (Stephen Dintamann, USA) der Anmerkungen von Adolf Schlatter auf seinem Exemplar des Entwurfs 'Betheler Bekenntnis' (Herbst 1933). Dazu eine korrigierte Fassung von Hans Stroh sowie der Briefwechsel Dintamann/Stroh (Mai–Juni 1981).",
+      "typ": "Material",
+      "jahr": 1933,
+      "zeitraum": "Mai–Juni 1981",
+      "beteiligte": [
+        {
+          "name": "Stephen Dintamann",
+          "rolle": "Autor",
+          "entity": "Person",
+          "zusatz": "USA; Transskription"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "Quelle der Bemerkungen"
+        },
+        {
+          "name": "Hans Stroh",
+          "rolle": "Bearbeiter",
+          "entity": "Person",
+          "zusatz": "Korrigierte Fassung; Briefwechsel mit Dintamann (Mai/Juni 1981)"
+        }
+      ],
+      "_quelldatei": "page_124.json",
+      "_pageNumber": "100"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "822: Auszüge aus dem Protokoll der Evang. Theol. Fakultät Tübingen\n27.7.1897 - 1.11.1933.\nDarunter: Antrag Karl Müller/Adolf Schlatter auf Einrichtung\neines neutestamentlich-kirchengeschichtlichen Semi-\nnars, 11.6.1903.\nFrage der Weiterführung der Vorlesungen der Fakultät\nim Tübinger Stift, 30.12.1908.",
+      "nummer": "822",
+      "titel": "Auszüge aus dem Protokoll der Evangelisch-Theologischen Fakultät Tübingen",
+      "beschreibung": "Auszüge aus dem Fakultätsprotokoll Tübingen (27.7.1897–1.11.1933). Enthält u. a. einen Antrag von Karl Müller und Adolf Schlatter zur Einrichtung eines neutestamentlich-kirchengeschichtlichen Seminars (11.6.1903) sowie die Frage der Weiterführung der Vorlesungen im Tübinger Stift (30.12.1908).",
+      "typ": "Protokoll",
+      "zeitraum": "1897-07-27 – 1933-11-01",
+      "untereintraege": [
+        {
+          "rawText": "Antrag Karl Müller/Adolf Schlatter auf Einrichtung eines neutestamentlich-kirchengeschichtlichen Seminars, 11.6.1903.",
+          "titel": "Antrag auf Einrichtung eines neutestamentlich-kirchengeschichtlichen Seminars",
+          "beschreibung": "Antrag von Karl Müller und Adolf Schlatter auf Einrichtung eines Seminars.",
+          "datum": "1903-06-11",
+          "beteiligte": [
+            {
+              "name": "Karl Müller",
+              "rolle": "Absender",
+              "entity": "Person"
+            },
+            {
+              "name": "Adolf Schlatter",
+              "rolle": "Absender",
+              "entity": "Person"
+            }
+          ]
+        },
+        {
+          "rawText": "Frage der Weiterführung der Vorlesungen der Fakultät im Tübinger Stift, 30.12.1908.",
+          "titel": "Frage der Weiterführung der Vorlesungen im Tübinger Stift",
+          "beschreibung": "Diskussion der Fortführung der Fakultätsvorlesungen im Tübinger Stift.",
+          "datum": "1908-12-30"
+        }
+      ],
+      "_quelldatei": "page_124.json",
+      "_pageNumber": "100"
+    }
+  ],
+  "notes": "OCR erfasste Headline 'Teil II: B Druckschriften und Manuskripte Nr. 815 - 822'; keine neue Überschrift auf der Seite erkannt."
+}

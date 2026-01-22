@@ -1,0 +1,169 @@
+{
+  "sourceFile": "page_053.json",
+  "pageNumber": "29",
+  "context": {
+    "teil": "Teil I",
+    "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+    "unterabschnitt": "10. Artikel von und über Schlatter in deutschen Kirchenblättern",
+    "unterkategorie": "a) Nr. 132: Evang. Kirchenblatt für Württemberg"
+  },
+  "entriesCount": 1,
+  "entries": [
+    {
+      "teil": "Teil I",
+      "sektion": "A BÜCHER UND DRUCKSCHRIFTEN",
+      "unterabschnitt": "10. Artikel von und über Schlatter in deutschen Kirchenblättern",
+      "unterkategorie": "a) Nr. 132: Evang. Kirchenblatt für Württemberg",
+      "rawText": "Nr. 132: Evang. Kirchenblatt für Württemberg\n\nChristi Versöhnen und Christi Vergeben.\nVortrag bei der Jahresversammlung der Evang. kirchl. Vereinigung in Stuttgart 11.5.1898. Seite 161 - 165",
+      "nummer": "132",
+      "titel": "Evang. Kirchenblatt für Württemberg",
+      "typ": "Druckschrift",
+      "untereintraege": [
+        {
+          "rawText": "Christi Versöhnen und Christi Vergeben.\nVortrag bei der Jahresversammlung der Evang. kirchl. Vereinigung in Stuttgart 11.5.1898. Seite 161 - 165",
+          "titel": "Christi Versöhnen und Christi Vergeben",
+          "beschreibung": "Vortrag bei der Jahresversammlung der Evang. kirchl. Vereinigung in Stuttgart",
+          "typ": "Artikel",
+          "datum": "1898-05-11",
+          "seiten": "161-165",
+          "zeitschrift": "Evang. Kirchenblatt für Württemberg"
+        },
+        {
+          "rawText": "Die Bedeutung des Denkens für den Glaubensstand.\nRede in der Plochinger Konferenz (27. September 1899)\n14.10.1899. Seite 323 - 327",
+          "titel": "Die Bedeutung des Denkens für den Glaubensstand",
+          "beschreibung": "Rede in der Plochinger Konferenz (27. September 1899)",
+          "typ": "Artikel",
+          "datum": "1899-10-14",
+          "seiten": "323-327",
+          "zeitschrift": "Evang. Kirchenblatt für Württemberg"
+        },
+        {
+          "rawText": "Die Gemeinschaftskonferenz in Eisenach.\n7.6.1902. Seite 178f",
+          "titel": "Die Gemeinschaftskonferenz in Eisenach",
+          "typ": "Artikel",
+          "datum": "1902-06-07",
+          "seiten": "178f",
+          "zeitschrift": "Evang. Kirchenblatt für Württemberg"
+        },
+        {
+          "rawText": "Becks theologische Arbeit.\nRede in der Aula der Universität Tübingen am 22. Februar\n1904\n5.3.1904. Seite 73 - 76",
+          "titel": "Becks theologische Arbeit",
+          "beschreibung": "Rede in der Aula der Universität Tübingen am 22. Februar 1904",
+          "typ": "Artikel",
+          "datum": "1904-03-05",
+          "seiten": "73-76",
+          "zeitschrift": "Evang. Kirchenblatt für Württemberg"
+        },
+        {
+          "rawText": "Becks theologische Arbeit. Schluß\n12.3.1904. Seite 81 - 83",
+          "titel": "Becks theologische Arbeit. Schluß",
+          "typ": "Artikel",
+          "datum": "1904-03-12",
+          "seiten": "81-83",
+          "zeitschrift": "Evang. Kirchenblatt für Württemberg"
+        },
+        {
+          "rawText": "Paulus und das Griechentum.\nEine Rede an Studenten. Studentenkonferenz Aarau\n26.5.1906. Seite 161 - 164",
+          "titel": "Paulus und das Griechentum",
+          "beschreibung": "Eine Rede an Studenten. Studentenkonferenz Aarau",
+          "typ": "Artikel",
+          "datum": "1906-05-26",
+          "seiten": "161-164",
+          "zeitschrift": "Evang. Kirchenblatt für Württemberg"
+        },
+        {
+          "rawText": "Paulus und das Griechentum. Schluß\n2.6.1906. Seite 169 - 171",
+          "titel": "Paulus und das Griechentum. Schluß",
+          "typ": "Artikel",
+          "datum": "1906-06-02",
+          "seiten": "169-171",
+          "zeitschrift": "Evang. Kirchenblatt für Württemberg"
+        },
+        {
+          "rawText": "D. Kühls Urteil über meine Darstellung des Worts Jesu.\n22.1.1910. Seite 25 - 27",
+          "titel": "D. Kühls Urteil über meine Darstellung des Worts Jesu",
+          "typ": "Artikel",
+          "datum": "1910-01-22",
+          "seiten": "25-27",
+          "zeitschrift": "Evang. Kirchenblatt für Württemberg"
+        },
+        {
+          "rawText": "Matthäus 11,2-6. Eine Morgenandacht für die Studentenkonferenz in Freudenstadt. Dazu Bericht\n4.6.1910. Seite 177 - 179",
+          "titel": "Matthäus 11,2-6. Eine Morgenandacht für die Studentenkonferenz in Freudenstadt. Dazu Bericht",
+          "bibelstelle": "Matthäus 11,2-6",
+          "typ": "Artikel",
+          "datum": "1910-06-04",
+          "seiten": "177-179",
+          "zeitschrift": "Evang. Kirchenblatt für Württemberg"
+        },
+        {
+          "rawText": "Das Gebet im Krieg.\n2.12.1916. Seite 385 - 387",
+          "titel": "Das Gebet im Krieg",
+          "typ": "Artikel",
+          "datum": "1916-12-02",
+          "seiten": "385-387",
+          "zeitschrift": "Evang. Kirchenblatt für Württemberg"
+        },
+        {
+          "rawText": "Das Gebet im Krieg. Schluß\n9.12.1916. Seite 394 - 396",
+          "titel": "Das Gebet im Krieg. Schluß",
+          "typ": "Artikel",
+          "datum": "1916-12-09",
+          "seiten": "394-396",
+          "zeitschrift": "Evang. Kirchenblatt für Württemberg"
+        },
+        {
+          "rawText": "Ein Wort zum Preise meines Amts. Von D. A. Schlatter\nSeite 97 - 98",
+          "titel": "Ein Wort zum Preise meines Amts",
+          "beschreibung": "Von D. A. Schlatter",
+          "typ": "Artikel",
+          "seiten": "97-98",
+          "zeitschrift": "Evang. Kirchenblatt für Württemberg",
+          "beteiligte": [
+            {
+              "name": "D. A. Schlatter",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ],
+          "datum": "1922-08-19"
+        },
+        {
+          "rawText": "D. Adolf Schlatter und sein Dienst. Von Th. Schrenk\nSeite 98 - 100",
+          "titel": "D. Adolf Schlatter und sein Dienst",
+          "beschreibung": "Von Th. Schrenk",
+          "typ": "Artikel",
+          "seiten": "98-100",
+          "zeitschrift": "Evang. Kirchenblatt für Württemberg",
+          "beteiligte": [
+            {
+              "name": "Th. Schrenk",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ],
+          "datum": "1922-08-19"
+        },
+        {
+          "rawText": "Was uns Schlatter persönlich war und ist. Von G. Lang\nSeite 100 - 102\n19.8.1922",
+          "titel": "Was uns Schlatter persönlich war und ist",
+          "beschreibung": "Von G. Lang",
+          "typ": "Artikel",
+          "seiten": "100-102",
+          "zeitschrift": "Evang. Kirchenblatt für Württemberg",
+          "beteiligte": [
+            {
+              "name": "G. Lang",
+              "rolle": "Autor",
+              "entity": "Person"
+            }
+          ],
+          "datum": "1922-08-19"
+        }
+      ],
+      "_quelldatei": "page_053.json",
+      "_pageNumber": "29"
+    }
+  ],
+  "notes": "Seite enthält die Liste der Artikel (Nr. 132). Drei letzte Einträge datiert 19.8.1922; OCR-Zeilenumbruch in 'Becks theologische Arbeit' (22. Februar 1904) berücksichtigt."
+}

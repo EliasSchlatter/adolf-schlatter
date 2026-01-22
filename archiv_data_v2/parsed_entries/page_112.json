@@ -1,0 +1,301 @@
+{
+  "sourceFile": "page_112.json",
+  "pageNumber": "88",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 12,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 704: Hans Stroh, Geleitwort zum Neudruck von \"Die philosophische\nArbeit seit Cartesius nach ihrem ethischen und religiösen Ertrag\".\nManuskript Ostern 1980.\nDruckfassung: Brunnquell-Verlag Gießen/Basel 1981,\nSeite V - XIII.",
+      "nummer": "704",
+      "titel": "Geleitwort zum Neudruck von \"Die philosophische Arbeit seit Cartesius nach ihrem ethischen und religiösen Ertrag\"",
+      "beschreibung": "Manuskript Ostern 1980. Druckfassung: Brunnquell-Verlag Gießen/Basel 1981, Seite V - XIII.",
+      "typ": "Manuskript",
+      "jahr": 1980,
+      "anmerkung": "Druckfassung erschienen 1981 (Brunnquell-Verlag Gießen/Basel), Seiten V–XIII",
+      "beteiligte": [
+        {
+          "name": "Hans Stroh",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_112.json",
+      "_pageNumber": "88"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "705: \"Gegen Professor D. Schlatter, Tübingen\".\nAus: Wahldienst der Evang. Landeskirche in Württemberg 1937,\nSeite 8 - 9, zum Angriff gegen Schlatter in \"Flammenzeichen\", Heft 5, Februar 1936 und Heft 7, wegen seiner\nSchrift \"Wird der Jude über uns siegen?\"",
+      "nummer": "705",
+      "titel": "Gegen Professor D. Schlatter, Tübingen",
+      "beschreibung": "Aus: Wahldienst der Evang. Landeskirche in Württemberg 1937; Seite 8-9. Bezieht sich auf Angriff gegen Schlatter in 'Flammenzeichen' (Heft 5, Febr. 1936 und Heft 7) wegen seiner Schrift 'Wird der Jude über uns siegen?'",
+      "typ": "Aufsatz",
+      "jahr": 1937,
+      "seiten": "8-9",
+      "anmerkung": "Autor nicht angegeben in OCR",
+      "beteiligte": [
+        {
+          "name": "D. Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person",
+          "zusatz": "Adressat/Betroffener (Tübingen)"
+        }
+      ],
+      "_quelldatei": "page_112.json",
+      "_pageNumber": "88"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "706: Adolf Schlatter zum Gedächtnis. Zitate aus Schlatter, Erleb-\ntes, und Gedenkworte beim Zusammensein auf dem Haus Öster-\nberg 2, Tübingen, am 23.5.1938.\nAus: Kirchlicher Anzeiger für Württemberg 1938; Seite 86.91.\n92.94",
+      "nummer": "706",
+      "titel": "Adolf Schlatter zum Gedächtnis. Zitate aus Schlatter, Erlebtes, und Gedenkworte beim Zusammensein auf dem Haus Österberg 2, Tübingen",
+      "beschreibung": "Zusammenkunft am 23.5.1938; Aus: Kirchlicher Anzeiger für Württemberg 1938.",
+      "typ": "Artikel",
+      "datum": "1938-05-23",
+      "jahr": 1938,
+      "seiten": "86, 91, 92, 94",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_112.json",
+      "_pageNumber": "88"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "707: Karl Krampen, \"Lebendige Theologie. Zur Theologie Adolf\nSchlatters\".\nAus: Deutsches Pfarrerblatt, 6. und 13.8.1929",
+      "nummer": "707",
+      "titel": "Lebendige Theologie. Zur Theologie Adolf Schlatters",
+      "beschreibung": "Aus: Deutsches Pfarrerblatt; erschien am 6.8.1929 und 13.8.1929 (zwei Ausgaben).",
+      "typ": "Aufsatz",
+      "jahr": 1929,
+      "beteiligte": [
+        {
+          "name": "Karl Krampen",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_112.json",
+      "_pageNumber": "88"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "708: Hauptarchiv Bethel, Mitteilung 26.8.1980 zur Frage der ur-\nsprünglich vorgesehenen Teilnahme von Karl Barth an der Theo-\nlogischen Woche Bethel 1924. Programm der Theologischen Woche\n1924. Niederschrift der Aussprachen mit Schlatter, Lütgert\nu. a.",
+      "nummer": "708",
+      "titel": "Mitteilung Hauptarchiv Bethel zur (ursprünglich vorgesehenen) Teilnahme von Karl Barth an der Theologischen Woche Bethel 1924",
+      "beschreibung": "Mitteilung vom 26.8.1980; enthält Programm der Theologischen Woche 1924 und Niederschrift der Aussprachen mit Schlatter, Lütgert u. a.",
+      "typ": "Mitteilung",
+      "datum": "1980-08-26",
+      "jahr": 1980,
+      "beteiligte": [
+        {
+          "name": "Karl Barth",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        },
+        {
+          "name": "Lütgert",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        },
+        {
+          "name": "Hauptarchiv Bethel",
+          "rolle": "Herausgebende Stelle",
+          "entity": "Institution"
+        }
+      ],
+      "_quelldatei": "page_112.json",
+      "_pageNumber": "88"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "709: Günter Schwinn, \"Schulzwang und emanzipatorisches Konzept?\nErlesenes bei Adolf Schlatter.\"\nManuskript vom 26.8.1980 für Pfälzisches Pfarrerblatt Septem-\nber 1980",
+      "nummer": "709",
+      "titel": "Schulzwang und emanzipatorisches Konzept? Erlesenes bei Adolf Schlatter",
+      "beschreibung": "Manuskript vom 26.8.1980; vorgesehen für Pfälzisches Pfarrerblatt, September 1980.",
+      "typ": "Manuskript",
+      "datum": "1980-08-26",
+      "jahr": 1980,
+      "beteiligte": [
+        {
+          "name": "Günter Schwinn",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Erwähnt",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_112.json",
+      "_pageNumber": "88"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "710: Adolf Schlatter, Die Euseb bekannten Orte, die heute noch be-\nkannt sind.\nSammlungen. 1 Bd.",
+      "nummer": "710",
+      "titel": "Die Euseb bekannten Orte, die heute noch bekannt sind",
+      "beschreibung": "Sammlungen. 1 Bd.",
+      "typ": "Sammlung",
+      "umfang": "1 Bd.",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_112.json",
+      "_pageNumber": "88"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "711: Adolf Schlatter, Das die biblischen Namen deutende Buch.\nFragment. Sammlungen. 1 Bd.",
+      "nummer": "711",
+      "titel": "Das die biblischen Namen deutende Buch",
+      "beschreibung": "Fragment. Sammlungen. 1 Bd.",
+      "typ": "Sammlung",
+      "umfang": "1 Bd.",
+      "anmerkung": "Fragment",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_112.json",
+      "_pageNumber": "88"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "712: Adolf Schlatter, Das Palästina der griechischen Zeit.\nSammlungen. 1 Bd.",
+      "nummer": "712",
+      "titel": "Das Palästina der griechischen Zeit",
+      "beschreibung": "Sammlungen. 1 Bd.",
+      "typ": "Sammlung",
+      "umfang": "1 Bd.",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_112.json",
+      "_pageNumber": "88"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "713: Adolf Schlatter, Ergänzungen zur \"Topographie\".\nSammlungen. 1 Bd.",
+      "nummer": "713",
+      "titel": "Ergänzungen zur \"Topographie\"",
+      "beschreibung": "Sammlungen. 1 Bd.",
+      "typ": "Sammlung",
+      "umfang": "1 Bd.",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_112.json",
+      "_pageNumber": "88"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "714: Adolf Schlatter, Karte von Madaba.\nSammlungen. 1 Bd.",
+      "nummer": "714",
+      "titel": "Karte von Madaba",
+      "beschreibung": "Sammlungen. 1 Bd.",
+      "typ": "Sammlung",
+      "umfang": "1 Bd.",
+      "anmerkung": "Kartographisches Material",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_112.json",
+      "_pageNumber": "88"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "715: Adolf Schlatter, Zur Geschichte der römischen Provinzen.\nSammlungen. 1 Bd.",
+      "nummer": "715",
+      "titel": "Zur Geschichte der römischen Provinzen",
+      "beschreibung": "Sammlungen. 1 Bd.",
+      "typ": "Sammlung",
+      "umfang": "1 Bd.",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_112.json",
+      "_pageNumber": "88"
+    }
+  ],
+  "notes": "Seite im Original: 88. Kopfzeile/Seitenkopf: 'Teil II: B Druckschriften und Manuskripte Nr. 704 - 715'. Keine neue Überschrift auf dieser Seite erkannt; aktueller Kontext (Teil II, Sektion B, Unterabschnitt 6, Unterkategorie h/i) bleibt gültig."
+}

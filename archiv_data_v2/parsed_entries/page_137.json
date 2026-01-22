@@ -1,0 +1,330 @@
+{
+  "sourceFile": "page_137.json",
+  "pageNumber": "113",
+  "context": {
+    "teil": "Teil II",
+    "sektion": "B Druckschriften und Manuskripte",
+    "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+    "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe."
+  },
+  "entriesCount": 14,
+  "entries": [
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "Nr. 915: Adolf Schlatter, seine Werke im Calwer Verlag, Stand\n    1.9.1984, mit Vorwort von Hans Stroh.",
+      "nummer": "915",
+      "titel": "Adolf Schlatter, seine Werke im Calwer Verlag",
+      "beschreibung": "Verzeichnis der Werke im Calwer Verlag. Stand 1.9.1984. Mit Vorwort von Hans Stroh.",
+      "typ": "Druckschrift",
+      "datum": "1984-09-01",
+      "beteiligte": [
+        {
+          "name": "Hans Stroh",
+          "rolle": "Vortragender",
+          "zusatz": "Verfasser des Vorworts",
+          "entity": "Person"
+        }
+      ],
+      "verlag": "Calwer Verlag",
+      "_quelldatei": "page_137.json",
+      "_pageNumber": "113"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "916: Adolf Harnack, die Kirche und die soziale Frage.\n    Vortrag im Verein junger Kaufleute von Berlin.\n    Manuskript, sine dato",
+      "nummer": "916",
+      "titel": "Die Kirche und die soziale Frage",
+      "beschreibung": "Vortrag im Verein junger Kaufleute von Berlin. Manuskript, ohne Datum.",
+      "typ": "Vortrag",
+      "beteiligte": [
+        {
+          "name": "Adolf Harnack",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "sine dato (ohne Datum)",
+      "_quelldatei": "page_137.json",
+      "_pageNumber": "113"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "917: Adolf Harnack, Rede vor Theologiestudenten über das Apostoli-\n    kum. Nachträglich gedruckt (nach 10.11.1894)",
+      "nummer": "917",
+      "titel": "Rede vor Theologiestudenten über das Apostolikum",
+      "beschreibung": "Rede vor Theologiestudenten; nachträglich gedruckt (nach 10.11.1894).",
+      "typ": "Rede",
+      "datum": "1894-11-10",
+      "beteiligte": [
+        {
+          "name": "Adolf Harnack",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "anmerkung": "Nachträglicher Druck (Datum: nach 10.11.1894)",
+      "_quelldatei": "page_137.json",
+      "_pageNumber": "113"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "918/\n1/2: Adolf Harnack, Rede anlässlich Übernahme des Vorsitzes des\n    Evang.-Sozialen Kongresses 1902 (bis 1912).\n    Manuskript. Nachträglich gedruckt in Mitteilungen des Evang.-\n    Sozialen Kongresses Nr. 1, Januar 1903",
+      "nummer": "918/1/2",
+      "titel": "Rede anlässlich Übernahme des Vorsitzes des Evang.-Sozialen Kongresses",
+      "beschreibung": "Rede bei Übernahme des Vorsitzes des Evang.-Sozialen Kongresses 1902 (bis 1912). Manuskript. Nachträglich gedruckt in Mitteilungen des Evang.-Sozialen Kongresses Nr. 1, Januar 1903.",
+      "typ": "Rede",
+      "zeitraum": "1902-1912",
+      "beteiligte": [
+        {
+          "name": "Adolf Harnack",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "verweis": "Gedruckt in: Mitteilungen des Evang.-Sozialen Kongresses Nr. 1, Januar 1903",
+      "_quelldatei": "page_137.json",
+      "_pageNumber": "113"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "919: Friedrich Leiwe, Welche Bedeutung hat die Theologie Adolf\n    Schlatters für die kirchliche Verkündigung?\n    Arbeit 1943 für II. theol. Examen. Manuskript",
+      "nummer": "919",
+      "titel": "Welche Bedeutung hat die Theologie Adolf Schlatters für die kirchliche Verkündigung?",
+      "beschreibung": "Arbeit für das II. theol. Examen. Manuskript.",
+      "typ": "Manuskript",
+      "jahr": 1943,
+      "beteiligte": [
+        {
+          "name": "Friedrich Leiwe",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_137.json",
+      "_pageNumber": "113"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "920: Friedrich Leiwe, Theologische Haupterkenntnisse der Exegese\n    Adolf Schlatters.\n    Entwurf für eine Dissertation bei Gerhard Kittel. 1944 - 1945",
+      "nummer": "920",
+      "titel": "Theologische Haupterkenntnisse der Exegese Adolf Schlatters",
+      "beschreibung": "Entwurf für eine Dissertation bei Gerhard Kittel.",
+      "typ": "Manuskript",
+      "zeitraum": "1944-1945",
+      "beteiligte": [
+        {
+          "name": "Friedrich Leiwe",
+          "rolle": "Autor",
+          "entity": "Person"
+        },
+        {
+          "name": "Gerhard Kittel",
+          "rolle": "Herausgeber",
+          "entity": "Person",
+          "zusatz": "Dissertationsbetreuer"
+        }
+      ],
+      "_quelldatei": "page_137.json",
+      "_pageNumber": "113"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "921: Friedrich Leiwe, Die theologiegeschichtliche Stellung Adolf\n    Schlatters. Manuskript.\n    Dabei: Brief von Adolf Köberle, 14.12.1952",
+      "nummer": "921",
+      "titel": "Die theologiegeschichtliche Stellung Adolf Schlatters",
+      "beschreibung": "Manuskript zur theologiegeschichtlichen Stellung Adolf Schlatters.",
+      "typ": "Manuskript",
+      "beteiligte": [
+        {
+          "name": "Friedrich Leiwe",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "untereintraege": [
+        {
+          "rawText": "Brief von Adolf Köberle, 14.12.1952",
+          "titel": "Brief von Adolf Köberle",
+          "beschreibung": "Brief beigelegt.",
+          "typ": "Brief",
+          "datum": "1952-12-14",
+          "beteiligte": [
+            {
+              "name": "Adolf Köberle",
+              "rolle": "Absender",
+              "entity": "Person"
+            }
+          ]
+        }
+      ],
+      "_quelldatei": "page_137.json",
+      "_pageNumber": "113"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "922: Friedrich Leiwe, Adolf Schlatter als Prediger.\n    Manuskript. 1952",
+      "nummer": "922",
+      "titel": "Adolf Schlatter als Prediger",
+      "beschreibung": "Manuskript.",
+      "typ": "Manuskript",
+      "jahr": 1952,
+      "beteiligte": [
+        {
+          "name": "Friedrich Leiwe",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_137.json",
+      "_pageNumber": "113"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "923: Adolf Schlatter, Ansprache bei der Weihnachtsfeier,\n    20.12.1935, auf dem DCSV-Haus Tübingen.\n    Manuskript",
+      "nummer": "923",
+      "titel": "Ansprache bei der Weihnachtsfeier",
+      "beschreibung": "Ansprache gehalten auf dem DCSV-Haus Tübingen. Manuskript.",
+      "typ": "Ansprache",
+      "datum": "1935-12-20",
+      "ort": "DCSV-Haus Tübingen",
+      "beteiligte": [
+        {
+          "name": "Adolf Schlatter",
+          "rolle": "Redner/Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_137.json",
+      "_pageNumber": "113"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "924: Theodor Schlatter, Predigt über 1. Kor. 1,4-9 zur Einweihung\n    des Adolf-Schlatter-Heims in Recke i. W., 21.10.1962",
+      "nummer": "924",
+      "titel": "Predigt über 1. Kor. 1,4-9",
+      "beschreibung": "Predigt zur Einweihung des Adolf-Schlatter-Heims in Recke i. W.",
+      "typ": "Predigt",
+      "bibelstelle": "1. Kor. 1,4-9",
+      "datum": "1962-10-21",
+      "ort": "Recke i. W.",
+      "beteiligte": [
+        {
+          "name": "Theodor Schlatter",
+          "rolle": "Prediger/Autor",
+          "entity": "Person"
+        }
+      ],
+      "_quelldatei": "page_137.json",
+      "_pageNumber": "113"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "925: Adolf Schlatter zum Gedenken.\n    Erinnerungs-Heft, Verlagshandlung Bethel 1938",
+      "nummer": "925",
+      "titel": "Adolf Schlatter zum Gedenken",
+      "beschreibung": "Erinnerungs-Heft.",
+      "typ": "Druckschrift",
+      "jahr": 1938,
+      "verlag": "Verlagshandlung Bethel",
+      "_quelldatei": "page_137.json",
+      "_pageNumber": "113"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "926: Paul Althaus, \"Adolf Schlatter zur 100. Wiederkehr seines Ge-\n    burtstages, 16. August 1852.\"\n    In: Nachrichten der Evang.-Luth. Kirche in Bayern, 10.9.1952",
+      "nummer": "926",
+      "titel": "Adolf Schlatter zur 100. Wiederkehr seines Geburtstages, 16. August 1852",
+      "beschreibung": "Aufsatz/Notiz von Paul Althaus zum 100. Geburtstag Schlatter's. Erschienen in den Nachrichten der Evang.-Luth. Kirche in Bayern.",
+      "typ": "Artikel",
+      "jahr": 1852,
+      "datum": "1952-09-10",
+      "beteiligte": [
+        {
+          "name": "Paul Althaus",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "zeitschrift": "Nachrichten der Evang.-Luth. Kirche in Bayern",
+      "_quelldatei": "page_137.json",
+      "_pageNumber": "113"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "927: E. Stauffer zu Bultmanns Exegese.\n    In: Lehrbriefe der Evang.-theol. Fakultät Bonn an ihre bei\n    der Wehrmacht stehenden Kommilitonen, Nr. 2/3, Jahrgang\n    1944. Mit Hinweis auf Schlatter.",
+      "nummer": "927",
+      "titel": "E. Stauffer zu Bultmanns Exegese",
+      "beschreibung": "Beitrag von E. Stauffer zu Bultmanns Exegese. Erschienen in den Lehrbriefen der Evang.-theol. Fakultät Bonn, Nr. 2/3, Jahrgang 1944. Mit Hinweis auf Schlatter.",
+      "typ": "Artikel",
+      "jahr": 1944,
+      "beteiligte": [
+        {
+          "name": "E. Stauffer",
+          "rolle": "Autor",
+          "entity": "Person"
+        }
+      ],
+      "zeitschrift": "Lehrbriefe der Evang.-theol. Fakultät Bonn",
+      "heft": "Nr. 2/3",
+      "_quelldatei": "page_137.json",
+      "_pageNumber": "113"
+    },
+    {
+      "teil": "Teil II",
+      "sektion": "B Druckschriften und Manuskripte",
+      "unterabschnitt": "6. Regesten zu Briefen der Gruppe 2",
+      "unterkategorie": "h) Briefe aus dem Umkreis der DCSV; i) Feldbriefe. Briefe aus Bethel, aus dem Ausland, aus dem östlichen Bereich Deutschlands. Verschiedene Briefe.",
+      "rawText": "928: Licht und Leben, Evang. Monatsblatt Nr. 4/1962.\n    Hinweise auf Schlatter.",
+      "nummer": "928",
+      "titel": "Licht und Leben, Evang. Monatsblatt Nr. 4/1962",
+      "beschreibung": "Monatsblatt mit Hinweisen auf Schlatter.",
+      "typ": "Druckschrift",
+      "zeitschrift": "Licht und Leben",
+      "heft": "Nr. 4",
+      "jahr": 1962,
+      "anmerkung": "Evang. Monatsblatt; Hinweise auf Schlatter",
+      "_quelldatei": "page_137.json",
+      "_pageNumber": "113"
+    }
+  ],
+  "notes": "Seite klar lesbar; keine neue Überschrift auf der Seite (Teil II: B Druckschriften und Manuskripte besteht bereits im Kontext)."
+}
