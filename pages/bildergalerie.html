@@ -612,8 +612,6 @@
         lbImage.alt = caption.slice(0, 120);
         lbCaption.textContent = caption;
         const metaParts = [
-            `<i class="fas fa-tag"></i> ${phaseLabel(item.phase)}`,
-            `<i class="fas fa-hashtag"></i> ${item.key}`,
             `<i class="fas fa-images"></i> ${currentIndex + 1} / ${currentList.length}`
         ];
         lbMeta.innerHTML = metaParts.join('');

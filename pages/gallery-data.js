@@ -20,7 +20,7 @@ const GALLERY_PHASES = [
   },
   {
     id: "tuebingen-anfang",
-    label: "Tübingen – Familienleben",
+    label: "Tübingen",
     range: "1898–1915"
   },
   {
