@@ -67,17 +67,18 @@
             z-index: 2;
         }
 
-        /* === View: Masonry (CSS columns, captions visible below image) === */
+        /* === View: Masonry (JS-verteilte Spalten, Lesereihenfolge links→rechts) === */
         .gallery-grid.view-masonry {
-            column-count: 1;
-            column-gap: 1.25rem;
+            display: flex;
+            align-items: flex-start;
+            gap: 1.25rem;
         }
-        @media (min-width: 640px)  { .gallery-grid.view-masonry { column-count: 2; } }
-        @media (min-width: 1024px) { .gallery-grid.view-masonry { column-count: 3; } }
-        @media (min-width: 1536px) { .gallery-grid.view-masonry { column-count: 4; } }
-        .gallery-grid.view-masonry .gallery-card {
-            break-inside: avoid;
-            margin-bottom: 1.25rem;
+        .masonry-col {
+            flex: 1 1 0;
+            min-width: 0;
+            display: flex;
+            flex-direction: column;
+            gap: 1.25rem;
         }
         .gallery-grid.view-masonry .gallery-card img {
             height: auto;
@@ -241,17 +242,17 @@
         }
         .lightbox-caption {
             color: #e5e7eb;
-            font-size: 0.95rem;
-            line-height: 1.55;
-            margin-top: 1rem;
+            font-size: 1.2rem;
+            line-height: 1.6;
+            margin-top: 1.25rem;
             text-align: center;
-            max-width: 900px;
+            max-width: 1000px;
             padding: 0 1rem;
         }
         .lightbox-meta {
             color: #94a3b8;
-            font-size: 0.8rem;
-            margin-top: 0.75rem;
+            font-size: 0.95rem;
+            margin-top: 0.85rem;
             display: flex;
             gap: 1rem;
             justify-content: center;
@@ -503,6 +504,29 @@
     }
 
     // ---------- Render grid ----------
+    // Anzahl der Masonry-Spalten – identisch zu den früheren CSS-Breakpoints.
+    function columnCount() {
+        const w = window.innerWidth;
+        if (w >= 1536) return 4;
+        if (w >= 1024) return 3;
+        if (w >= 640) return 2;
+        return 1;
+    }
+
+    function createCard(item, idx) {
+        const caption = captionFor(item);
+        const card = document.createElement('div');
+        card.className = 'gallery-card entering';
+        card.style.animationDelay = `${Math.min(idx * 15, 600)}ms`;
+        card.innerHTML = `
+            <span class="phase-badge">${phaseLabel(item.phase)}</span>
+            <img loading="lazy" src="${IMG_BASE}${encodeURIComponent(item.file)}" alt="${escapeHtml(caption.slice(0, 80))}" />
+            <div class="caption">${escapeHtml(caption)}</div>
+        `;
+        card.addEventListener('click', () => openLightbox(idx));
+        return card;
+    }
+
     function render() {
         const items = filteredItems();
         currentList = items;
@@ -516,19 +540,23 @@
         empty.style.display = 'none';
         countEl.textContent = `${items.length} Bild${items.length === 1 ? '' : 'er'}`;
 
-        items.forEach((item, idx) => {
-            const caption = captionFor(item);
-            const card = document.createElement('div');
-            card.className = 'gallery-card entering';
-            card.style.animationDelay = `${Math.min(idx * 15, 600)}ms`;
-            card.innerHTML = `
-                <span class="phase-badge">${phaseLabel(item.phase)}</span>
-                <img loading="lazy" src="${IMG_BASE}${encodeURIComponent(item.file)}" alt="${escapeHtml(caption.slice(0, 80))}" />
-                <div class="caption">${escapeHtml(caption)}</div>
-            `;
-            card.addEventListener('click', () => openLightbox(idx));
-            grid.appendChild(card);
-        });
+        if (currentView === 'masonry') {
+            // Karten reihenweise (links→rechts) auf Spalten verteilen,
+            // damit die Lesereihenfolge der Nummerierung entspricht.
+            const cols = columnCount();
+            const colEls = [];
+            for (let c = 0; c < cols; c++) {
+                const col = document.createElement('div');
+                col.className = 'masonry-col';
+                grid.appendChild(col);
+                colEls.push(col);
+            }
+            items.forEach((item, idx) => {
+                colEls[idx % cols].appendChild(createCard(item, idx));
+            });
+        } else {
+            items.forEach((item, idx) => grid.appendChild(createCard(item, idx)));
+        }
     }
 
     // In der Detailansicht (Masonry) wird die Reihenfolge durch das Spalten-Layout
@@ -618,6 +646,21 @@
     // ---------- Init ----------
     buildFilters();
     render();
+
+    // Masonry-Spaltenanzahl an Fensterbreite anpassen (nur bei tatsächlicher Änderung neu rendern).
+    let lastColumnCount = columnCount();
+    let resizeTimer;
+    window.addEventListener('resize', () => {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(() => {
+            if (currentView !== 'masonry') return;
+            const next = columnCount();
+            if (next !== lastColumnCount) {
+                lastColumnCount = next;
+                render();
+            }
+        }, 150);
+    });
 
     // ---------- Appbar & Footer ----------
     document.addEventListener('DOMContentLoaded', () => {
