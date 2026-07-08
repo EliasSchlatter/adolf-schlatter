@@ -84,9 +84,9 @@
             height: auto;
         }
         .gallery-grid.view-masonry .gallery-card .caption {
-            padding: 0.75rem 1rem 1rem;
-            font-size: 0.85rem;
-            line-height: 1.4;
+            padding: 0.85rem 1rem 1.1rem;
+            font-size: 0.98rem;
+            line-height: 1.5;
             color: var(--color-text-secondary);
         }
 
@@ -446,6 +446,8 @@
     const lbNext     = document.getElementById('lightbox-next');
 
     const IMG_BASE = '../images/schlatterBilder/';
+    // Absolute Basis-URL für strukturierte Daten (Suchmaschinen brauchen absolute contentUrls).
+    const SITE_IMG_BASE = 'https://adolf-schlatter-stiftung.de/images/schlatterBilder/';
 
     let activePhase = 'all';
     let searchQuery = '';
@@ -535,7 +537,7 @@
             : `data-src="${url}" fetchpriority="low"`;
         card.innerHTML = `
             <span class="phase-badge">${phaseLabel(item.phase)}</span>
-            <img decoding="async" ${imgAttr} alt="${escapeHtml(caption.slice(0, 80))}" />
+            <img decoding="async" ${imgAttr} alt="${escapeHtml(caption)}" title="${escapeHtml(caption)}" />
             <div class="caption">${escapeHtml(caption)}</div>
         `;
         card.addEventListener('click', () => openLightbox(idx));
@@ -663,9 +665,44 @@
         });
     });
 
+    // ---------- SEO: strukturierte Daten (ImageGallery / ImageObject) ----------
+    // Erzeugt für jedes Bild ein ImageObject, damit Suchmaschinen (Google Bilder,
+    // Rich Results) Titel, Beschreibung und Bild-URL indexieren können.
+    function imageName(item) {
+        const firstSentence = (item.description || '').split(/[.–—:]/)[0].trim();
+        return firstSentence ? firstSentence.slice(0, 110) : `Historische Aufnahme ${item.key}`;
+    }
+
+    function injectImageStructuredData() {
+        const images = GALLERY_ITEMS.map(item => ({
+            '@type': 'ImageObject',
+            contentUrl: SITE_IMG_BASE + encodeURIComponent(item.file),
+            name: imageName(item),
+            caption: item.description,
+            description: item.description,
+            representativeOfPage: false,
+            isPartOf: 'Adolf-Schlatter-Bildergalerie'
+        }));
+
+        const data = {
+            '@context': 'https://schema.org',
+            '@type': 'ImageGallery',
+            name: 'Bildergalerie – Adolf Schlatter und seine Familie',
+            description: 'Historische Aufnahmen aus dem Leben Adolf Schlatters und seiner Familie – Kindheit, Studium, Familienleben und Lehrjahre.',
+            url: 'https://adolf-schlatter-stiftung.de/pages/bildergalerie.html',
+            image: images
+        };
+
+        const script = document.createElement('script');
+        script.type = 'application/ld+json';
+        script.textContent = JSON.stringify(data);
+        document.head.appendChild(script);
+    }
+
     // ---------- Init ----------
     buildFilters();
     render();
+    injectImageStructuredData();
 
     // Masonry-Spaltenanzahl an Fensterbreite anpassen (nur bei tatsächlicher Änderung neu rendern).
     let lastColumnCount = columnCount();
