@@ -2,38 +2,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adolf Schlatter Stiftung – Leben, Werk &amp; Preis</title>
-    <meta name="description" content="Offizielle Website der Adolf Schlatter Stiftung: Leben, Werk und Wirkung des Theologen Adolf Schlatter, digitales Archiv und Informationen zum Adolf Schlatter Preis.">
+    <title data-en="Adolf Schlatter Stiftung – Life, Work &amp; Prize">Adolf Schlatter Stiftung – Leben, Werk &amp; Preis</title>
+    <meta name="description" content="Offizielle Website der Adolf Schlatter Stiftung: Leben, Werk und Wirkung des Theologen Adolf Schlatter, digitales Archiv und Informationen zum Adolf Schlatter Preis." data-en-content="Official website of the Adolf Schlatter Stiftung: the life, work and influence of the theologian Adolf Schlatter, a digital archive and information about the Adolf Schlatter Prize.">
     <meta name="robots" content="index,follow">
     <link rel="canonical" href="https://adolf-schlatter-stiftung.de/">
 
     <!-- Open Graph / Social Sharing -->
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Adolf Schlatter Stiftung">
-    <meta property="og:title" content="Adolf Schlatter Stiftung – Leben, Werk &amp; Preis">
-    <meta property="og:description" content="Entdecken Sie Leben, Werk und Wirkung des Theologen Adolf Schlatter, das digitale Archiv und den Adolf Schlatter Preis.">
+    <meta property="og:title" content="Adolf Schlatter Stiftung – Leben, Werk &amp; Preis" data-en-content="Adolf Schlatter Stiftung – Life, Work &amp; Prize">
+    <meta property="og:description" content="Entdecken Sie Leben, Werk und Wirkung des Theologen Adolf Schlatter, das digitale Archiv und den Adolf Schlatter Preis." data-en-content="Discover the life, work and influence of the theologian Adolf Schlatter, the digital archive and the Adolf Schlatter Prize.">
     <meta property="og:url" content="https://adolf-schlatter-stiftung.de/">
     <meta property="og:image" content="https://adolf-schlatter-stiftung.de/images/SchlatterHeader.png">
 
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Adolf Schlatter Stiftung – Leben, Werk &amp; Preis">
-    <meta name="twitter:description" content="Offizielle Website der Adolf Schlatter Stiftung mit Biografie, Archiv und Informationen zum Adolf Schlatter Preis.">
+    <meta name="twitter:title" content="Adolf Schlatter Stiftung – Leben, Werk &amp; Preis" data-en-content="Adolf Schlatter Stiftung – Life, Work &amp; Prize">
+    <meta name="twitter:description" content="Offizielle Website der Adolf Schlatter Stiftung mit Biografie, Archiv und Informationen zum Adolf Schlatter Preis." data-en-content="Official website of the Adolf Schlatter Stiftung with biography, archive and information about the Adolf Schlatter Prize.">
     <meta name="twitter:image" content="https://adolf-schlatter-stiftung.de/images/SchlatterHeader.png">
 
     <!-- Browser & PWA meta -->
     <meta name="theme-color" content="#1E3A8A">
 
-    <!-- Structured Data / Organization -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Organization",
-      "name": "Adolf Schlatter Stiftung",
-      "url": "https://adolf-schlatter-stiftung.de/",
-      "logo": "https://adolf-schlatter-stiftung.de/images/SchlatterHeader.png"
-    }
-    </script>
+    <!-- Structured Data wird zentral über components/seo.js injiziert -->
 
     <script src="https://cdn.tailwindcss.com"></script>
     <script> window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
@@ -115,7 +106,12 @@
       transform: translateY(180px);
     }
   }
-  </style></head>
+  </style>    <!-- i18n-seo-static -->
+    <link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/">
+    <link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/?lang=en">
+    <link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/">
+    <!-- /i18n-seo-static -->
+</head>
 <body class="bg-white font-custom">
     
 <!-- Modern Appbar -->
@@ -126,7 +122,7 @@
     <main>
         <section id="hero" class="relative h-[700px] min-h-[40vw] flex items-center justify-center overflow-hidden">
             <div class="absolute inset-0">
-                <img class="w-full h-full object-cover object-top" src="./images/SchlatterHeader.png" alt="historical black and white portrait of Adolf Schlatter, academic theologian from 1900s, scholarly appearance, slight overlay effect">
+                <img class="w-full h-full object-cover object-top" src="./images/SchlatterHeader.png" alt="historical black and white portrait of Adolf Schlatter, academic theologian from 1900s, scholarly appearance, slight overlay effect" data-en-alt="historical black and white portrait of Adolf Schlatter, academic theologian from 1900s, scholarly appearance, slight overlay effect">
                 <div class="absolute inset-0" style="background: var(--gradient-header-transparent);"></div>
             </div>
             <div class="relative z-10 text-center max-w-4xl mx-auto px-6 hero-content">
@@ -136,14 +132,14 @@
                 <p class="font-headline text-2xl lg:text-3xl text-text-secondary mb-4">
                     (1852–1938)
                 </p>
-                <p class="text-xl lg:text-2xl text-text-secondary mb-12 max-w-3xl mx-auto leading-relaxed">
+                <p class="text-xl lg:text-2xl text-text-secondary mb-12 max-w-3xl mx-auto leading-relaxed" data-en="Thinker, teacher, witness of faith. A life devoted to the Bible and to scholarship.">
                     Denker, Lehrer, Glaubenszeuge. Ein Leben für die Bibel und die Wissenschaft.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4 justify-center">
-                    <a href="#about" class="bg-secondary hover:bg-orange-600 text-white font-semibold px-8 py-4 rounded-lg transition shadow-lg inline-block">
+                    <a href="#about" class="bg-secondary hover:bg-orange-600 text-white font-semibold px-8 py-4 rounded-lg transition shadow-lg inline-block" data-en="Learn more">
                         Mehr erfahren
                     </a>
-                    <a href="./pages/archiv-interface.html" class="border-2 border-text-primary text-text-primary hover:bg-text-primary hover:text-primary font-semibold px-8 py-4 rounded-lg transition inline-block">
+                    <a href="./pages/archiv-interface.html" class="border-2 border-text-primary text-text-primary hover:bg-text-primary hover:text-primary font-semibold px-8 py-4 rounded-lg transition inline-block" data-en="Explore publications">
                         Publikationen entdecken
                     </a>
                 </div>
@@ -154,20 +150,20 @@
             <div class="container mx-auto px-6">
                 <div class="flex flex-col lg:flex-row items-center gap-12">
                     <div class="lg:w-1/2 lg:text-right">
-                        <h2 class="font-headline text-4xl font-bold text-primary mb-6">
+                        <h2 class="font-headline text-4xl font-bold text-primary mb-6" data-en="Who was Adolf Schlatter?">
                             Wer war Adolf Schlatter?
                         </h2>
-                        <p class="text-lg text-gray-700 mb-8 leading-relaxed max-w-xl ml-auto">
+                        <p class="text-lg text-gray-700 mb-8 leading-relaxed max-w-xl ml-auto" data-en-html="Adolf Schlatter was one of the most influential Protestant theologians of his time. His work unites a profound understanding of the Bible with scholarly precision and spiritual passion. <br>To this day he continues to inspire theology, the church and the practice of faith.">
                             Adolf Schlatter war einer der einflussreichsten evangelischen Theologen seiner Zeit. Sein Werk verbindet tiefes Bibelverständnis mit wissenschaftlicher Präzision und geistlicher Leidenschaft. <br>Bis heute inspiriert er Theologie, Kirche und Glaubenspraxis.
                         </p>
                         <div class="flex justify-end">
-                            <a href="./pages/aboutSchlatter.html" class="bg-primary hover:bg-blue-900 text-text-primary font-semibold px-8 py-3 rounded-lg transition shadow inline-block">
+                            <a href="./pages/aboutSchlatter.html" class="bg-primary hover:bg-blue-900 text-text-primary font-semibold px-8 py-3 rounded-lg transition shadow inline-block" data-en="Explore biography">
                                 Biografie entdecken
                             </a>
                         </div>
                     </div>
                     <div class="lg:w-1/2">
-                        <img class="w-full rounded-lg shadow-lg" src="./images/SchlatterVor1907.jpg" alt="Historische Aufnahme von Adolf Schlatter (vor 1907)">
+                        <img class="w-full rounded-lg shadow-lg" src="./images/SchlatterVor1907.jpg" alt="Historische Aufnahme von Adolf Schlatter (vor 1907)" data-en-alt="Historical photograph of Adolf Schlatter (before 1907)">
                     </div>
                 </div>
             </div>
@@ -176,7 +172,7 @@
         <section id="explore" class="py-20 bg-white">
             <div class="container mx-auto px-6">
                 <div class="text-center mb-16">
-                    <h2 class="font-headline text-4xl font-bold text-primary mb-4">
+                    <h2 class="font-headline text-4xl font-bold text-primary mb-4" data-en="Discover Adolf Schlatter">
                         Entdecken Sie Adolf Schlatter
                     </h2>
                 </div>
@@ -185,13 +181,13 @@
                         <div class="w-16 h-16 bg-secondary rounded-full flex items-center justify-center mx-auto mb-6">
                             <i class="fa-solid fa-book-open text-2xl text-white"></i>
                         </div>
-                        <h3 class="font-headline text-xl font-bold text-primary mb-4">
+                        <h3 class="font-headline text-xl font-bold text-primary mb-4" data-en="Life, Work, Influence">
                             Leben, Werk, Wirkung
                         </h3>
-                        <p class="text-gray-700 mb-6">
+                        <p class="text-gray-700 mb-6" data-en="Find out more about Schlatter as a thinker, teacher and witness of faith.">
                             Erfahren Sie mehr über Schlatter als Denker, Lehrer und Glaubenszeugen.
                         </p>
-                        <a href="./pages/aboutSchlatter.html" class="text-secondary hover:text-orange-600 font-semibold transition inline-block">
+                        <a href="./pages/aboutSchlatter.html" class="text-secondary hover:text-orange-600 font-semibold transition inline-block" data-en="Learn more →">
                             Mehr erfahren →
                         </a>
                     </div>
@@ -199,13 +195,13 @@
                         <div class="w-16 h-16 bg-secondary rounded-full flex items-center justify-center mx-auto mb-6">
                             <i class="fa-solid fa-scroll text-2xl text-white"></i>
                         </div>
-                        <h3 class="font-headline text-xl font-bold text-primary mb-4">
+                        <h3 class="font-headline text-xl font-bold text-primary mb-4" data-en="Works &amp; Publications">
                             Werke &amp; Veröffentlichungen
                         </h3>
-                        <p class="text-gray-700 mb-6">
+                        <p class="text-gray-700 mb-6" data-en="An overview of Schlatter's writings and their significance.">
                             Ein Überblick über Schlatters Schriften und deren Bedeutung.
                         </p>
-                        <a href="./pages/archiv-interface.html" class="text-secondary hover:text-orange-600 font-semibold transition inline-block">
+                        <a href="./pages/archiv-interface.html" class="text-secondary hover:text-orange-600 font-semibold transition inline-block" data-en="View publications →">
                             Publikationen ansehen →
                         </a>
                     </div>
@@ -213,13 +209,13 @@
                         <div class="w-16 h-16 bg-secondary rounded-full flex items-center justify-center mx-auto mb-6">
                             <i class="fa-solid fa-award text-2xl text-white"></i>
                         </div>
-                        <h3 class="font-headline text-xl font-bold text-primary mb-4">
+                        <h3 class="font-headline text-xl font-bold text-primary mb-4" data-en="The Adolf Schlatter Prize">
                             Der Adolf Schlatter-Preis
                         </h3>
-                        <p class="text-gray-700 mb-6">
+                        <p class="text-gray-700 mb-6" data-en="Supporting young scholars through the prize.">
                             Förderung junger Wissenschaftlerinnen und Wissenschaftler durch den Preis.
                         </p>
-                        <a href="./pages/adolfSchlatterPrice.html" class="text-secondary hover:text-orange-600 font-semibold transition inline-block">
+                        <a href="./pages/adolfSchlatterPrice.html" class="text-secondary hover:text-orange-600 font-semibold transition inline-block" data-en="To the prize →">
                             Zum Preis →
                         </a>
                     </div>
@@ -238,8 +234,8 @@
                 <!-- Header with candle icon -->
                 <div class="text-center mb-12">
                     
-                    <p class="text-amber-200/70 text-sm uppercase tracking-[0.3em] font-medium mb-3">In Memoriam</p>
-                    <h2 class="font-headline text-3xl md:text-4xl font-bold text-white mb-2">
+                    <p class="text-amber-200/70 text-sm uppercase tracking-[0.3em] font-medium mb-3" data-en="In Memoriam">In Memoriam</p>
+                    <h2 class="font-headline text-3xl md:text-4xl font-bold text-white mb-2" data-en="The Adolf Schlatter Stiftung bids farewell to">
                         Die Adolf-Schlatter-Stiftung nimmt Abschied von
                     </h2>
                 </div>
@@ -270,7 +266,7 @@
 
                         <!-- Main text -->
                         <div class="text-slate-300 leading-relaxed space-y-6">
-                            <p class="text-lg text-center text-slate-200 italic">
+                            <p class="text-lg text-center text-slate-200 italic" data-en="With deep gratitude and great respect we remember an outstanding theologian, teacher and researcher who, like few others, studied and conveyed the life, work and significance of Adolf Schlatter.">
                                 Mit tiefem Dank und großer Anerkennung gedenken wir eines herausragenden Theologen, Lehrers und Forschers, der wie kaum ein anderer das Leben, Werk und die Bedeutung Adolf Schlatters erforscht und vermittelt hat.
                             </p>
 
@@ -281,7 +277,7 @@
                                         <i class="fa-solid fa-graduation-cap text-amber-200/80"></i>
                                     </div>
                                     <div>
-                                        <h4 class="font-semibold text-white mb-1">Dozent für Systematische Theologie</h4>
+                                        <h4 class="font-semibold text-white mb-1" data-en="Lecturer in Systematic Theology">Dozent für Systematische Theologie</h4>
                                         <p class="text-sm text-slate-400">Theologisches Seminar St. Chrischona</p>
                                     </div>
                                 </div>
@@ -290,27 +286,27 @@
                                         <i class="fa-solid fa-book text-amber-200/80"></i>
                                     </div>
                                     <div>
-                                        <h4 class="font-semibold text-white mb-1">Biograph Adolf Schlatters</h4>
-                                        <p class="text-sm text-slate-400">Über 200 wissenschaftliche Arbeiten</p>
+                                        <h4 class="font-semibold text-white mb-1" data-en="Biographer of Adolf Schlatter">Biograph Adolf Schlatters</h4>
+                                        <p class="text-sm text-slate-400" data-en="Over 200 scholarly works">Über 200 wissenschaftliche Arbeiten</p>
                                     </div>
                                 </div>
                             </div>
 
-                            <p>
+                            <p data-en="As a long-standing lecturer in systematic theology at the Theologisches Seminar St. Chrischona, Werner Neuer shaped generations of students and colleagues. His scholarly work is inseparably bound up with the study of one of the most important Protestant theologians of the 20th century.">
                                 Als langjähriger Dozent für systematische Theologie am Theologischen Seminar St. Chrischona prägte Werner Neuer Generationen von Studierenden und Kollegen. Sein wissenschaftliches Wirken ist untrennbar verbunden mit der Erforschung eines der bedeutendsten evangelischen Theologen des 20. Jahrhunderts.
                             </p>
 
-                            <p>
+                            <p data-en-html='He was the biographer of Adolf Schlatter and is regarded as one of the most distinguished experts on his life and work. In extensive studies, publications and above all in his major, internationally acclaimed biography <em class="text-amber-200/90 font-medium">„Adolf Schlatter – Ein Leben für Theologie und Kirche"</em>, he contributed decisively to bringing out Schlatter&apos;s profound theology, his spiritual character and his enduring significance for both church and scholarship, and to making them accessible to a wide public.'>
                                 Er war der Biograph Adolf Schlatters und gilt als einer der profiliertesten Kenner seines Lebens und Werks. In umfangreichen Studien, Publikationen und insbesondere in seiner großen, international rezipierten Biographie <em class="text-amber-200/90 font-medium">„Adolf Schlatter – Ein Leben für Theologie und Kirche"</em> hat er maßgeblich dazu beigetragen, Schlatters tiefgründige Theologie, sein geistliches Profil und seine bleibende Bedeutung für Kirche wie Wissenschaft herauszuarbeiten und einer breiten Öffentlichkeit zugänglich zu machen.
                             </p>
 
-                            <p>
+                            <p data-en="In roughly a quarter of his more than 200 scholarly works he devoted himself to this important theologian, thereby providing valuable impulses for Schlatter scholarship far beyond confessional boundaries.">
                                 In etwa einem Viertel seiner über 200 wissenschaftlichen Arbeiten widmete er sich diesem bedeutenden Theologen und setzte damit wertvolle Impulse für die Schlatter-Forschung weit über konfessionelle Grenzen hinweg.
                             </p>
 
                             <!-- Highlighted quote -->
                             <div class="my-10 py-6 px-8 border-l-4 border-amber-300/50 bg-gradient-to-r from-white/5 to-transparent rounded-r-lg">
-                                <p class="text-lg text-slate-200 italic">
+                                <p class="text-lg text-slate-200 italic" data-en="In Werner Neuer we lose not only a valued colleague and companion, but a profound and faithful researcher whose passion for theological truth and church tradition has had an impact across generations.">
                                     Wir verlieren in Werner Neuer nicht nur einen geschätzten Kollegen und Wegbegleiter, sondern einen profunden und treuen Forscher, dessen Leidenschaft für theologische Wahrheit und kirchliche Tradition generationsübergreifend gewirkt hat.
                                 </p>
                             </div>
@@ -321,7 +317,7 @@
                             <div class="flex items-center justify-center gap-3 mb-4 text-amber-300/40">
                                 <i class="fa-solid fa-dove"></i>
                             </div>
-                            <p class="text-slate-400 italic mb-3">In stiller Anteilnahme und Dankbarkeit</p>
+                            <p class="text-slate-400 italic mb-3" data-en="In quiet sympathy and gratitude">In stiller Anteilnahme und Dankbarkeit</p>
                             <p class="font-headline text-xl font-semibold text-white">Adolf-Schlatter-Stiftung</p>
                         </div>
                     </div>
@@ -363,6 +359,8 @@
      </script>
 
 <!-- Appbar Utils -->
+<script src="components/i18n.js"></script>
+<script src="components/seo.js"></script>
 <script src="components/appbar-utils.js"></script>
 <!-- Quote Utils -->
 <script src="components/quote-utils.js"></script>

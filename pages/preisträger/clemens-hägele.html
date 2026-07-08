@@ -37,10 +37,18 @@
   }
 };</script>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap">
+    <!-- i18n-seo-static -->
+    <link rel="canonical" href="https://adolf-schlatter-stiftung.de/pages/preisträger/clemens-hägele.html">
+    <link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/preisträger/clemens-hägele.html">
+    <link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/preisträger/clemens-hägele.html?lang=en">
+    <link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/preisträger/clemens-hägele.html">
+    <!-- /i18n-seo-static -->
 </head>
 <body class="bg-white font-custom">
 
 <!-- Appbar Utils -->
+<script src="../../components/i18n.js"></script>
+<script src="../../components/seo.js"></script>
 <script src="../../components/appbar-utils.js"></script>
 <!-- Footer Utils -->
 <script src="../../components/footer-utils.js"></script>
@@ -51,7 +59,15 @@ const preistraegerData = {
     name: "Dr. Clemens Hägele",
     location: "Öschingen (Mössingen), Baden-Württemberg",
     description: "Evangelischer Pfarrer; ehem. Rektor des Albrecht-Bengel-Hauses (2016–2023); Autor von „Die Schrift als Gnadenmittel“ (2007).",
+    description_en: "Protestant pastor; former principal of the Albrecht-Bengel-Haus (2016–2023); author of „Die Schrift als Gnadenmittel“ (2007).",
     image: "../../images/preisträgerImages/clemens-haegele.avif",
+    tags_en: [
+        "Systematic Theology",
+        "Doctrine of Scripture",
+        "Adolf Schlatter",
+        "Pastoral ministry",
+        "Biblical hermeneutics"
+    ],
     tags: [
         "Systematische Theologie",
         "Schriftlehre",
@@ -60,27 +76,41 @@ const preistraegerData = {
         "Bibelhermeneutik"
     ],
     biography: "Clemens Hägele (*1972) ist evangelischer Theologe und Pfarrer. Als Rektor des Albrecht-Bengel-Hauses (2016–2023) verband er systematisch-theologische Arbeit – insbesondere zur Schriftlehre Adolf Schlatters – mit Lehre und Leitungsverantwortung. Seine Monographie Die Schrift als Gnadenmittel erschien 2007 im Calwer Verlag.",
+    biography_en: "Clemens Hägele (*1972) is a Protestant theologian and pastor. As principal of the Albrecht-Bengel-Haus (2016–2023) he combined systematic-theological work – especially on Adolf Schlatter\u2019s doctrine of Scripture – with teaching and leadership responsibility. His monograph Die Schrift als Gnadenmittel appeared in 2007 with the Calwer Verlag.",
     career: [
         {
             title: "Pfarrer",
+            title_en: "Pastor",
             description: "Evangelische Kirchengemeinde Öschingen (ELK-Wü) • seit 2023/2024",
+            description_en: "Evangelische Kirchengemeinde Öschingen (ELK-Wü) • since 2023/2024",
             icon: "fas fa-church"
         },
         {
             title: "Rektor",
+            title_en: "Principal",
             description: "Albrecht-Bengel-Haus, Tübingen • 2016–2023",
             icon: "fas fa-university"
         },
         {
             title: "Pfarrer",
+            title_en: "Pastor",
             description: "Sindelfingen-Darmsheim • ca. 2006–2011",
+            description_en: "Sindelfingen-Darmsheim • c. 2006–2011",
             icon: "fas fa-church"
         },
         {
             title: "Wiss. Mitarbeit (NT) & Promotion",
+            title_en: "Research assistant (NT) & doctorate",
             description: "Universität Dortmund (NT) / Promotion Systematische Theologie (Schriftlehre Schlatter)",
+            description_en: "Universität Dortmund (NT) / doctorate in Systematic Theology (Schlatter\u2019s doctrine of Scripture)",
             icon: "fas fa-book"
         }
+    ],
+    specializations_en: [
+        "Doctrine of Holy Scripture",
+        "Christology",
+        "Hermeneutics",
+        "Systematic Theology"
     ],
     specializations: [
         "Lehre von der Heiligen Schrift",
@@ -99,21 +129,27 @@ const preistraegerData = {
     awards: [
         {
             title: "Adolf-Schlatter-Preis",
-            description: "Auszeichnung für die Studie zur Schriftlehre (Jahrgang 2005 bestätigt in Buchangaben)"
+            description: "Auszeichnung für die Studie zur Schriftlehre (Jahrgang 2005 bestätigt in Buchangaben)",
+            description_en: "Award for the study on the doctrine of Scripture (year 2005, confirmed in the publication details)"
         }
     ],
     academic: [
         {
             title: "Studium",
+            title_en: "Studies",
             description: "Evangelische Theologie in Tübingen und Erlangen",
+            description_en: "Protestant Theology in Tübingen and Erlangen",
             icon: "fas fa-graduation-cap",
             list: ["Tübingen", "Erlangen"]
         },
         {
             title: "Promotion (Dr. theol.)",
+            title_en: "Doctorate (Dr. theol.)",
             description: "Thema: „Die Schrift als Gnadenmittel. Adolf Schlatters Lehre von der Schrift in ihren Grundzügen“",
+            description_en: "Topic: „Die Schrift als Gnadenmittel. Adolf Schlatters Lehre von der Schrift in ihren Grundzügen“",
             icon: "fas fa-scroll",
-            details: "Veröffentlicht 2007 im Calwer Verlag"
+            details: "Veröffentlicht 2007 im Calwer Verlag",
+            details_en: "Published 2007 by the Calwer Verlag"
         }
     ],
     publications: [
@@ -130,22 +166,28 @@ const preistraegerData = {
         {
             title: "Jesus Christus spricht: Wer zu mir kommt, den werde ich nicht abweisen. Das Lesebuch zur Jahreslosung 2022",
             description: "Hg.: Christoph Morgner; mit Beitrag von Clemens Hägele. Brunnen Verlag, 2021. ISBN 978-3-7655-7605-8",
+            description_en: "Ed.: Christoph Morgner; with a contribution by Clemens Hägele. Brunnen Verlag, 2021. ISBN 978-3-7655-7605-8",
             coverImage: "https://books.google.com/books/content?id=GGY7EAAAQBAJ&printsec=frontcover&img=1&zoom=1",
             links: [
                 "https://books.google.com/books/about/Jesus_Christus_spricht_Wer_zu_mir_kommt.html?id=GGY7EAAAQBAJ"
             ],
-            details: "Beitrag in Sammelband (Mitautor unter >40 Personen)"
+            details: "Beitrag in Sammelband (Mitautor unter >40 Personen)",
+            details_en: "Contribution to an edited volume (one of more than 40 co-authors)"
         }
     ],
     researchAreas: [
         {
             title: "Schriftlehre/Hermeneutik",
+            title_en: "Doctrine of Scripture / Hermeneutics",
             description: "Autorität, Inspiration und Auslegung der Bibel im Anschluss an Adolf Schlatter",
+            description_en: "Authority, inspiration and interpretation of the Bible following Adolf Schlatter",
             icon: "fas fa-book-open"
         },
         {
             title: "Systematische Theologie",
+            title_en: "Systematic Theology",
             description: "Schnittstellen von Dogmatik und Bibeltheologie",
+            description_en: "Intersections of dogmatics and biblical theology",
             icon: "fas fa-theater-masks"
         }
     ]
@@ -157,41 +199,10 @@ const preistraegerData = {
 // Generate page content after utils.js is loaded
 document.addEventListener('DOMContentLoaded', function() {
     const builder = new PreistraegerPageBuilder(preistraegerData);
-    document.body.innerHTML = builder.generatePage();
-    
-    // Add accordion functionality after page is generated
-    window.toggleAccordion = function(accordionId) {
-        const content = document.getElementById(accordionId);
-        const icon = document.getElementById('icon' + accordionId.slice(-1));
-        
-        if (content.classList.contains('hidden')) {
-            content.classList.remove('hidden');
-            icon.style.transform = 'rotate(180deg)';
-        } else {
-            content.classList.add('hidden');
-            icon.style.transform = 'rotate(0deg)';
-        }
-    };
-    
-            // Appbar und Footer NACH dem Content-Generieren laden - mit Verzögerung für bessere Style-Initialisierung
-            setTimeout(() => {
-                if (window.appbarManager) {
-                    window.appbarManager.insertAppbar('appbar-container');
-                } else {
-                    // Fallback falls appbarManager noch nicht geladen ist
-                    setTimeout(() => {
-                        if (window.appbarManager) {
-                            window.appbarManager.insertAppbar('appbar-container');
-                        }
-                    }, 100);
-                }
-                
-                if (window.footerManager) {
-                    window.footerManager.insertFooter('footer-container', {
-                        description: "Preisträger des Adolf-Schlatter-Preises 2005: Dr. Clemens Hägele. Evangelischer Theologe und Pfarrer, ehemaliger Rektor des Albrecht-Bengel-Hauses."
-                    });
-                }
-            }, 50);
+    builder.render({
+        description: "Preisträger des Adolf-Schlatter-Preises 2005: Dr. Clemens Hägele. Evangelischer Theologe und Pfarrer, ehemaliger Rektor des Albrecht-Bengel-Hauses.",
+        description_en: "Laureate of the Adolf-Schlatter-Preis 2005: Dr. Clemens Hägele. Protestant theologian and pastor, former principal of the Albrecht-Bengel-Haus."
+    });
 });
 </script>
 

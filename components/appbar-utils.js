@@ -119,17 +119,17 @@ class AppbarManager {
             <div class="max-w-7xl mx-auto px-6 py-4">
                 <div class="flex flex-col md:flex-row items-center justify-between gap-4">
                     <div class="flex-1">
-                        <h3 class="font-semibold text-primary mb-2">🍪 Cookies</h3>
-                        <p class="text-sm text-gray-700">
-                            Diese Website verwendet Cookies, um Ihnen die bestmögliche Erfahrung zu bieten. 
+                        <h3 class="font-semibold text-primary mb-2" data-en="🍪 Cookies">🍪 Cookies</h3>
+                        <p class="text-sm text-gray-700" data-en-html='This website uses cookies to give you the best possible experience. <a href="pages/datenschutz.html" class="text-secondary hover:text-orange-600 transition-colors underline">More information</a>'>
+                            Diese Website verwendet Cookies, um Ihnen die bestmögliche Erfahrung zu bieten.
                             <a href="pages/datenschutz.html" class="text-secondary hover:text-orange-600 transition-colors underline">Weitere Informationen</a>
                         </p>
                     </div>
                     <div class="flex gap-3">
-                        <button id="cookie-decline" class="px-4 py-2 text-sm text-gray-600 hover:text-gray-800 transition-colors border border-gray-300 rounded-lg">
+                        <button id="cookie-decline" class="px-4 py-2 text-sm text-gray-600 hover:text-gray-800 transition-colors border border-gray-300 rounded-lg" data-en="Decline">
                             Ablehnen
                         </button>
-                        <button id="cookie-accept" class="px-4 py-2 text-sm bg-secondary text-white hover:bg-orange-600 transition-colors rounded-lg">
+                        <button id="cookie-accept" class="px-4 py-2 text-sm bg-secondary text-white hover:bg-orange-600 transition-colors rounded-lg" data-en="Accept">
                             Akzeptieren
                         </button>
                     </div>
@@ -253,7 +253,7 @@ class AppbarManager {
         return `
         <header id="appbar" class="bg-white backdrop-blur-md border-b border-gray-200 shadow-sm fixed top-0 left-0 right-0 z-50">
             <div class="max-w-7xl mx-auto px-6 lg:px-8">
-                <div class="flex items-center justify-between h-16">
+                <div class="flex items-center justify-between h-16 lg:pr-24 2xl:pr-0">
                     <!-- Logo -->
                     <div class="flex items-center space-x-3">
                         <a href="${prefix}index.html" class="flex items-center space-x-3 group">
@@ -262,7 +262,7 @@ class AppbarManager {
                             </div>
                             <div class="hidden sm:block">
                                 <div class="font-headline text-lg font-bold text-primary">Adolf Schlatter</div>
-                                <div class="text-xs text-text-secondary">Stiftung</div>
+                                <div class="text-xs text-text-secondary" data-en="Foundation">Stiftung</div>
                             </div>
                         </a>
                     </div>
@@ -272,7 +272,7 @@ class AppbarManager {
                         <!-- Über Schlatter -->
                         <div class="relative group">
                             <button class="flex items-center space-x-2 px-4 py-2 text-text-secondary hover:text-primary transition-colors font-medium">
-                                <span>Über Schlatter</span>
+                                <span data-en="About Schlatter">Über Schlatter</span>
                                 <i class="fas fa-chevron-down text-xs transition-transform group-hover:rotate-180"></i>
                             </button>
                             <div class="absolute top-full left-0 mt-2 w-80 bg-white rounded-xl shadow-lg border border-gray-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-2 group-hover:translate-y-0">
@@ -283,8 +283,8 @@ class AppbarManager {
                                                 <i class="fas fa-user text-primary"></i>
                                             </div>
                                             <div>
-                                                <h3 class="font-semibold text-primary mb-1">Überblick</h3>
-                                                <p class="text-sm text-text-secondary">Leben und Werk Adolf Schlatters</p>
+                                                <h3 class="font-semibold text-primary mb-1" data-en="Overview">Überblick</h3>
+                                                <p class="text-sm text-text-secondary" data-en="Adolf Schlatter's life and work">Leben und Werk Adolf Schlatters</p>
                                             </div>
                                         </a>
                                         <a href="${prefix}pages/aboutSchlatter.html#anhoeren" class="flex items-start space-x-4 p-3 rounded-lg hover:bg-accent transition-colors group">
@@ -292,8 +292,8 @@ class AppbarManager {
                                                 <i class="fas fa-volume-up text-secondary"></i>
                                             </div>
                                             <div>
-                                                <h3 class="font-semibold text-primary mb-1">Anhören</h3>
-                                                <p class="text-sm text-text-secondary">Audio-Aufnahmen und Vorträge</p>
+                                                <h3 class="font-semibold text-primary mb-1" data-en="Listen">Anhören</h3>
+                                                <p class="text-sm text-text-secondary" data-en="Audio recordings and lectures">Audio-Aufnahmen und Vorträge</p>
                                             </div>
                                         </a>
                                     </div>
@@ -304,7 +304,7 @@ class AppbarManager {
                         <!-- Archiv -->
                         <div class="relative group">
                             <button class="flex items-center space-x-2 px-4 py-2 text-text-secondary hover:text-primary transition-colors font-medium">
-                                <span>Archiv</span>
+                                <span data-en="Archive">Archiv</span>
                                 <i class="fas fa-chevron-down text-xs transition-transform group-hover:rotate-180"></i>
                             </button>
                             <div class="absolute top-full left-0 mt-2 w-80 bg-white rounded-xl shadow-lg border border-gray-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-2 group-hover:translate-y-0">
@@ -315,8 +315,8 @@ class AppbarManager {
                                                 <i class="fas fa-archive text-primary"></i>
                                             </div>
                                             <div>
-                                                <h3 class="font-semibold text-primary mb-1">Nachlass</h3>
-                                                <p class="text-sm text-text-secondary">Digitales Inventar & Recherche</p>
+                                                <h3 class="font-semibold text-primary mb-1" data-en="Estate">Nachlass</h3>
+                                                <p class="text-sm text-text-secondary" data-en="Digital inventory & research">Digitales Inventar & Recherche</p>
                                             </div>
                                         </a>
                                         <a href="${prefix}pages/schlatter_timeline.html" class="flex items-start space-x-4 p-3 rounded-lg hover:bg-accent transition-colors group">
@@ -324,8 +324,8 @@ class AppbarManager {
                                                 <i class="fas fa-timeline text-primary"></i>
                                             </div>
                                             <div>
-                                                <h3 class="font-semibold text-primary mb-1">Biographie</h3>
-                                                <p class="text-sm text-text-secondary">Chronologie des Lebens</p>
+                                                <h3 class="font-semibold text-primary mb-1" data-en="Biography">Biographie</h3>
+                                                <p class="text-sm text-text-secondary" data-en="Chronology of his life">Chronologie des Lebens</p>
                                             </div>
                                         </a>
                                     </div>
@@ -336,7 +336,7 @@ class AppbarManager {
                         <!-- Preis -->
                         <div class="relative group">
                             <button class="flex items-center space-x-2 px-4 py-2 text-text-secondary hover:text-primary transition-colors font-medium">
-                                <span>Preis</span>
+                                <span data-en="Prize">Preis</span>
                                 <i class="fas fa-chevron-down text-xs transition-transform group-hover:rotate-180"></i>
                             </button>
                             <div class="absolute top-full left-0 mt-2 w-80 bg-white rounded-xl shadow-lg border border-gray-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-2 group-hover:translate-y-0">
@@ -347,8 +347,8 @@ class AppbarManager {
                                                 <i class="fas fa-award text-secondary"></i>
                                             </div>
                                             <div>
-                                                <h3 class="font-semibold text-primary mb-1">Über den Preis</h3>
-                                                <p class="text-sm text-text-secondary">Ausschreibung und Vergabe</p>
+                                                <h3 class="font-semibold text-primary mb-1" data-en="About the Prize">Über den Preis</h3>
+                                                <p class="text-sm text-text-secondary" data-en="Call for entries & awarding">Ausschreibung und Vergabe</p>
                                             </div>
                                         </a>
                                         <a href="${prefix}pages/adolfSchlatterPrice.html#preisverleihung-2017" class="flex items-start space-x-4 p-3 rounded-lg hover:bg-accent transition-colors group">
@@ -356,8 +356,8 @@ class AppbarManager {
                                                 <i class="fas fa-video text-secondary"></i>
                                             </div>
                                             <div>
-                                                <h3 class="font-semibold text-primary mb-1">Preisverleihung 2017</h3>
-                                                <p class="text-sm text-text-secondary">Video-Aufzeichnung der Veranstaltung</p>
+                                                <h3 class="font-semibold text-primary mb-1" data-en="Award ceremony 2017">Preisverleihung 2017</h3>
+                                                <p class="text-sm text-text-secondary" data-en="Video recording of the event">Video-Aufzeichnung der Veranstaltung</p>
                                             </div>
                                         </a>
                                     </div>
@@ -368,7 +368,7 @@ class AppbarManager {
                         <!-- Preisträger -->
                         <div class="relative group">
                             <button class="flex items-center space-x-2 px-4 py-2 text-text-secondary hover:text-primary transition-colors font-medium">
-                                <span>Preisträger</span>
+                                <span data-en="Laureates">Preisträger</span>
                                 <i class="fas fa-chevron-down text-xs transition-transform group-hover:rotate-180"></i>
                             </button>
                             <div class="absolute top-full left-0 mt-2 w-96 bg-white rounded-xl shadow-lg border border-gray-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-2 group-hover:translate-y-0">
@@ -454,7 +454,7 @@ class AppbarManager {
                         <!-- Weitere Ressourcen -->
                         <div class="relative group">
                             <button class="flex items-center space-x-2 px-4 py-2 text-text-secondary hover:text-primary transition-colors font-medium">
-                                <span>Weitere Ressourcen</span>
+                                <span data-en="More resources">Weitere Ressourcen</span>
                                 <i class="fas fa-chevron-down text-xs transition-transform group-hover:rotate-180"></i>
                             </button>
                             <div class="absolute top-full right-0 mt-2 w-80 bg-white rounded-xl shadow-lg border border-gray-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-2 group-hover:translate-y-0">
@@ -465,7 +465,7 @@ class AppbarManager {
                                                 <i class="fas fa-sitemap text-primary"></i>
                                             </div>
                                             <div>
-                                                <h3 class="font-semibold text-primary mb-1">Stammbaum</h3>
+                                                <h3 class="font-semibold text-primary mb-1" data-en="Family tree">Stammbaum</h3>
                                             </div>
                                         </a>
                                         <a href="${prefix}pages/bildergalerie.html" class="flex items-center space-x-4 p-3 rounded-lg hover:bg-accent transition-colors group">
@@ -473,7 +473,7 @@ class AppbarManager {
                                                 <i class="fas fa-images text-secondary"></i>
                                             </div>
                                             <div>
-                                                <h3 class="font-semibold text-primary mb-1">Bildergalerie</h3>
+                                                <h3 class="font-semibold text-primary mb-1" data-en="Image gallery">Bildergalerie</h3>
                                             </div>
                                         </a>
                                     </div>
@@ -486,40 +486,63 @@ class AppbarManager {
                     <button id="mobile-menu-btn" class="lg:hidden p-2 text-text-secondary hover:text-primary transition-colors">
                         <i class="fas fa-bars text-xl"></i>
                     </button>
+
+                    <!-- Sprach-Umschalter (Desktop): absolut am rechten Fensterrand -->
+                    <div class="hidden lg:flex items-center absolute top-0 right-0 h-16 pr-6">
+                        <div class="relative group">
+                            <button class="flex items-center space-x-2 px-3 py-2 text-text-secondary hover:text-primary transition-colors font-medium border border-gray-200 rounded-lg" aria-haspopup="true" aria-label="Sprache wählen / Select language">
+                                <span data-lang-flag class="text-base leading-none">🇩🇪</span>
+                                <span data-lang-current>DE</span>
+                                <i class="fas fa-chevron-down text-xs transition-transform group-hover:rotate-180"></i>
+                            </button>
+                            <div class="absolute top-full right-0 mt-2 w-44 bg-white rounded-xl shadow-lg border border-gray-100 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-2 group-hover:translate-y-0">
+                                <div class="p-2">
+                                    <a href="?lang=de" hreflang="de" data-lang-set="de" class="w-full flex items-center justify-between px-3 py-2 rounded-lg hover:bg-accent transition-colors text-left">
+                                        <span class="flex items-center space-x-2"><span class="text-base leading-none">🇩🇪</span><span class="text-sm font-medium text-primary">Deutsch</span></span>
+                                        <i class="fas fa-check text-secondary text-xs hidden" data-lang-check></i>
+                                    </a>
+                                    <a href="?lang=en" hreflang="en" data-lang-set="en" class="w-full flex items-center justify-between px-3 py-2 rounded-lg hover:bg-accent transition-colors text-left">
+                                        <span class="flex items-center space-x-2"><span class="text-base leading-none">🇬🇧</span><span class="text-sm font-medium text-primary">English</span></span>
+                                        <i class="fas fa-check text-secondary text-xs hidden" data-lang-check></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
                 <!-- Mobile Menu -->
                 <div id="mobile-menu" class="lg:hidden hidden border-t border-gray-200 bg-white" style="background-color: #ffffff !important;">
                     <div class="px-6 py-4 space-y-4" style="background-color: #ffffff !important;">
                         <div>
-                            <h3 class="font-semibold text-primary mb-2">Über Schlatter</h3>
+                            <h3 class="font-semibold text-primary mb-2" data-en="About Schlatter">Über Schlatter</h3>
                             <div class="space-y-2 ml-4">
-                                <a href="${prefix}pages/aboutSchlatter.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Überblick</a>
-                                <a href="${prefix}pages/aboutSchlatter.html#anhoeren" class="block text-text-secondary hover:text-primary transition-colors break-words">Anhören</a>
+                                <a href="${prefix}pages/aboutSchlatter.html" class="block text-text-secondary hover:text-primary transition-colors break-words" data-en="Overview">Überblick</a>
+                                <a href="${prefix}pages/aboutSchlatter.html#anhoeren" class="block text-text-secondary hover:text-primary transition-colors break-words" data-en="Listen">Anhören</a>
                             </div>
                         </div>
                         <div>
-                            <a href="${prefix}pages/archiv-interface.html" class="block font-semibold text-primary hover:text-secondary transition-colors break-words">Archiv</a>
+                            <a href="${prefix}pages/archiv-interface.html" class="block font-semibold text-primary hover:text-secondary transition-colors break-words" data-en="Archive">Archiv</a>
                         </div>
                         <div>
-                            <h3 class="font-semibold text-primary mb-2">Preis</h3>
+                            <h3 class="font-semibold text-primary mb-2" data-en="Prize">Preis</h3>
                             <div class="space-y-2 ml-4">
-                                <a href="${prefix}pages/adolfSchlatterPrice.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Über den Preis</a>
-                                <a href="${prefix}pages/adolfSchlatterPrice.html#preisverleihung-2017" class="block text-text-secondary hover:text-primary transition-colors break-words">Preisverleihung 2017</a>
+                                <a href="${prefix}pages/adolfSchlatterPrice.html" class="block text-text-secondary hover:text-primary transition-colors break-words" data-en="About the Prize">Über den Preis</a>
+                                <a href="${prefix}pages/adolfSchlatterPrice.html#preisverleihung-2017" class="block text-text-secondary hover:text-primary transition-colors break-words" data-en="Award ceremony 2017">Preisverleihung 2017</a>
                             </div>
                         </div>
                         <div>
-                            <h3 class="font-semibold text-primary mb-2">Ressourcen</h3>
+                            <h3 class="font-semibold text-primary mb-2" data-en="Resources">Ressourcen</h3>
                             <div class="space-y-2 ml-4">
-                                <a href="${prefix}pages/archiv-interface.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Nachlass</a>
-                                <a href="${prefix}pages/archiv-interface.html#nachlass" class="block text-text-secondary hover:text-primary transition-colors break-words">Nachlassübersicht</a>
-                                <a href="${prefix}pages/schlatter_timeline.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Biographie-Timeline</a>
-                                <a href="${prefix}pages/stammbaum.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Stammbaum</a>
-                                <a href="${prefix}pages/bildergalerie.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Bildergalerie</a>
+                                <a href="${prefix}pages/archiv-interface.html" class="block text-text-secondary hover:text-primary transition-colors break-words" data-en="Estate">Nachlass</a>
+                                <a href="${prefix}pages/archiv-interface.html#nachlass" class="block text-text-secondary hover:text-primary transition-colors break-words" data-en="Estate overview">Nachlassübersicht</a>
+                                <a href="${prefix}pages/schlatter_timeline.html" class="block text-text-secondary hover:text-primary transition-colors break-words" data-en="Biography timeline">Biographie-Timeline</a>
+                                <a href="${prefix}pages/stammbaum.html" class="block text-text-secondary hover:text-primary transition-colors break-words" data-en="Family tree">Stammbaum</a>
+                                <a href="${prefix}pages/bildergalerie.html" class="block text-text-secondary hover:text-primary transition-colors break-words" data-en="Image gallery">Bildergalerie</a>
                             </div>
                         </div>
                         <div>
-                            <h3 class="font-semibold text-primary mb-2">Preisträger</h3>
+                            <h3 class="font-semibold text-primary mb-2" data-en="Laureates">Preisträger</h3>
                             <div class="space-y-2 ml-4">
                                 <a href="${prefix}pages/preistr\u00e4ger/michael-bräutigam.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Dr. Michael Bräutigam (2015)</a>
                                 <a href="${prefix}pages/preistr\u00e4ger/oliver-gussmann.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Dr. Oliver Gußmann (2009)</a>
@@ -528,6 +551,19 @@ class AppbarManager {
                                 <a href="${prefix}pages/preistr\u00e4ger/werner-neuer.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Dr. Werner Neuer (2005)</a>
                                 <a href="${prefix}pages/preistr\u00e4ger/roland-deines.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Dr. Roland Deines (2005)</a>
                                 <a href="${prefix}pages/preistr\u00e4ger/j-gerrit-hohage.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Dr. J.-Gerrit Hohage (2005)</a>
+                            </div>
+                        </div>
+                        <div>
+                            <h3 class="font-semibold text-primary mb-2">Sprache / Language</h3>
+                            <div class="space-y-2 ml-4">
+                                <a href="?lang=de" hreflang="de" data-lang-set="de" class="w-full flex items-center justify-between text-text-secondary hover:text-primary transition-colors">
+                                    <span class="flex items-center space-x-2"><span class="text-base leading-none">🇩🇪</span><span>Deutsch</span></span>
+                                    <i class="fas fa-check text-secondary text-xs hidden" data-lang-check></i>
+                                </a>
+                                <a href="?lang=en" hreflang="en" data-lang-set="en" class="w-full flex items-center justify-between text-text-secondary hover:text-primary transition-colors">
+                                    <span class="flex items-center space-x-2"><span class="text-base leading-none">🇬🇧</span><span>English</span></span>
+                                    <i class="fas fa-check text-secondary text-xs hidden" data-lang-check></i>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -548,6 +584,12 @@ class AppbarManager {
             
             container.innerHTML = html;
             this.initializeMobileMenu();
+
+            // Aktuelle Sprache auf die frisch eingefügte Appbar anwenden
+            if (window.I18N) window.I18N.applyTo(container);
+
+            // SEO/Breadcrumb-Schicht informieren (Appbar-Container ist jetzt da)
+            window.dispatchEvent(new CustomEvent('appbar:inserted'));
             
             // Markiere als geladen um Blitzen zu verhindern
             setTimeout(() => {

@@ -121,10 +121,10 @@ class FooterManager {
                     </div>
                     <div>
                         <h3 class="font-headline font-bold text-xl">Adolf Schlatter Preis</h3>
-                        <p class="text-white/70 text-sm">Förderung christlicher Theologie</p>
+                        <p class="text-white/70 text-sm" data-en="Advancement of Christian theology">Förderung christlicher Theologie</p>
                     </div>
                 </div>
-                <p id="footer-description" class="text-white/80 mb-6 max-w-md">
+                <p id="footer-description" class="text-white/80 mb-6 max-w-md" data-en="Since 2002 the Adolf Schlatter Foundation has awarded prizes to advance theological research and honours outstanding academic work.">
                     Die Adolf Schlatter Stiftung vergibt seit 2002 Preise zur Förderung theologischer Forschung und würdigt herausragende wissenschaftliche Arbeiten.
                 </p>
             </div>
@@ -132,26 +132,26 @@ class FooterManager {
             <div>
                 <h4 class="font-headline font-bold text-lg mb-6">Adolf Schlatter</h4>
                 <ul class="space-y-3">
-                    <li><a href="pages/aboutSchlatter.html" class="text-white/80 hover:text-white transition-colors">Leben & Werk</a></li>
-                    <li><a href="pages/aboutSchlatter.html#werk" class="text-white/80 hover:text-white transition-colors">Publikationen</a></li>
-                    <li><a href="pages/archiv-interface.html" class="text-white/80 hover:text-white transition-colors">Archiv</a></li>
+                    <li><a href="pages/aboutSchlatter.html" class="text-white/80 hover:text-white transition-colors" data-en="Life & Work">Leben & Werk</a></li>
+                    <li><a href="pages/aboutSchlatter.html#werk" class="text-white/80 hover:text-white transition-colors" data-en="Publications">Publikationen</a></li>
+                    <li><a href="pages/archiv-interface.html" class="text-white/80 hover:text-white transition-colors" data-en="Archive">Archiv</a></li>
                     <li><a href="pages/schlatter_timeline.html" class="text-white/80 hover:text-white transition-colors">Timeline</a></li>
                 </ul>
             </div>
 
             <div>
-                <h4 class="font-headline font-bold text-lg mb-6">Stiftung</h4>
+                <h4 class="font-headline font-bold text-lg mb-6" data-en="Foundation">Stiftung</h4>
                 <ul class="space-y-3">
-                    <li><a href="pages/adolfSchlatterPrice.html" class="text-white/80 hover:text-white transition-colors">Preis</a></li>
-                    <li><a href="pages/impressum.html" class="text-white/80 hover:text-white transition-colors">Impressum</a></li>
-                    <li><a href="pages/datenschutz.html" class="text-white/80 hover:text-white transition-colors">Datenschutz</a></li>
+                    <li><a href="pages/adolfSchlatterPrice.html" class="text-white/80 hover:text-white transition-colors" data-en="Prize">Preis</a></li>
+                    <li><a href="pages/impressum.html" class="text-white/80 hover:text-white transition-colors" data-en="Imprint">Impressum</a></li>
+                    <li><a href="pages/datenschutz.html" class="text-white/80 hover:text-white transition-colors" data-en="Privacy Policy">Datenschutz</a></li>
                 </ul>
             </div>
         </div>
 
         <div class="border-t border-white/10 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
             <div class="flex space-x-6 mt-4 md:mt-0">
-                <span class="text-white/60 hover:text-white text-sm transition-colors cursor-pointer">Cookie-Richtlinie</span>
+                <span class="text-white/60 hover:text-white text-sm transition-colors cursor-pointer" data-en="Cookie Policy">Cookie-Richtlinie</span>
             </div>
         </div>
     </div>
@@ -167,8 +167,8 @@ class FooterManager {
                 <div class="max-w-7xl mx-auto px-6 lg:px-8">
                     <div class="text-center">
                         <h3 class="font-headline font-bold text-xl mb-4">Adolf Schlatter Stiftung</h3>
-                        <p class="text-white/80 mb-6">Förderung christlicher Theologie seit 2002</p>
-                        <p class="text-white/60 text-sm">© 2024 Adolf Schlatter Stiftung. Alle Rechte vorbehalten.</p>
+                        <p class="text-white/80 mb-6" data-en="Advancement of Christian theology since 2002">Förderung christlicher Theologie seit 2002</p>
+                        <p class="text-white/60 text-sm" data-en="© 2024 Adolf Schlatter Stiftung. All rights reserved.">© 2024 Adolf Schlatter Stiftung. Alle Rechte vorbehalten.</p>
                     </div>
                 </div>
             </footer>

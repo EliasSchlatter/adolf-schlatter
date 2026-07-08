@@ -3,28 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adolf Schlatter – Biografische Timeline</title>
-    <meta name="description" content="Interaktive Zeitleiste zum Leben von Adolf Schlatter (1852–1938): wichtige Stationen, Ereignisse und Kontexte seiner Biografie.">
+    <title data-en="Adolf Schlatter – Biographical Timeline">Adolf Schlatter – Biografische Timeline</title>
+    <meta name="description" content="Interaktive Zeitleiste zum Leben von Adolf Schlatter (1852–1938): wichtige Stationen, Ereignisse und Kontexte seiner Biografie." data-en-content="Interactive timeline of the life of Adolf Schlatter (1852–1938): key stages, events and contexts of his biography.">
     <meta name="robots" content="index,follow">
     <link rel="canonical" href="https://adolf-schlatter-stiftung.de/pages/schlatter_timeline.html">
 
     <!-- Open Graph / Social Sharing -->
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Adolf Schlatter Stiftung">
-    <meta property="og:title" content="Adolf Schlatter – Biografische Timeline">
-    <meta property="og:description" content="Erkunden Sie die wichtigsten Stationen im Leben des Theologen Adolf Schlatter in einer interaktiven Zeitleiste.">
+    <meta property="og:title" content="Adolf Schlatter – Biografische Timeline" data-en-content="Adolf Schlatter – Biographical Timeline">
+    <meta property="og:description" content="Erkunden Sie die wichtigsten Stationen im Leben des Theologen Adolf Schlatter in einer interaktiven Zeitleiste." data-en-content="Explore the key stages in the life of the theologian Adolf Schlatter in an interactive timeline.">
     <meta property="og:url" content="https://adolf-schlatter-stiftung.de/pages/schlatter_timeline.html">
     <meta property="og:image" content="https://adolf-schlatter-stiftung.de/images/SchlatterHeader.png">
 
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Adolf Schlatter – Biografische Timeline">
-    <meta name="twitter:description" content="Chronologische Übersicht über Leben und Wirken Adolf Schlatters.">
+    <meta name="twitter:title" content="Adolf Schlatter – Biografische Timeline" data-en-content="Adolf Schlatter – Biographical Timeline">
+    <meta name="twitter:description" content="Chronologische Übersicht über Leben und Wirken Adolf Schlatters." data-en-content="Chronological overview of the life and work of Adolf Schlatter.">
     <meta name="twitter:image" content="https://adolf-schlatter-stiftung.de/images/SchlatterHeader.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="../timeline-data.js"></script>
+    <!-- Englische Übersetzungen (Side-Car) + Sprachschicht für die Timeline -->
+    <script src="../components/timeline-labels-en.js"></script>
+    <script src="../components/timeline-data-en.js"></script>
+    <script src="../components/timeline-i18n.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;700;900&display=swap" rel="stylesheet">
@@ -181,6 +185,11 @@
             }
         }
     </script>
+    <!-- i18n-seo-static -->
+    <link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/schlatter_timeline.html">
+    <link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/schlatter_timeline.html?lang=en">
+    <link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/schlatter_timeline.html">
+    <!-- /i18n-seo-static -->
 </head>
 <body class="font-body bg-bg-light">
 
@@ -197,19 +206,19 @@
                 </div>
             </div>
             <h1 class="text-4xl md:text-5xl font-merriweather font-bold text-white mb-4">Adolf Schlatter</h1>
-            <h2 class="text-xl md:text-2xl font-playfair text-gray-300 mb-6">Biographie Timeline</h2>
+            <h2 class="text-xl md:text-2xl font-playfair text-gray-300 mb-6" data-en="Biographical Timeline">Biographie Timeline</h2>
             <p class="text-lg text-gray-200 leading-relaxed max-w-3xl mx-auto">
-                Dieser interaktive Zeitstrahl rekonstruiert das Leben und Wirken Adolf Schlatters auf Grundlage des digitalisierten Schlatter-Archivs. Die Daten umfassen <span id="total-events" class="font-semibold text-white">352</span> Ereignisse.
+                <span data-en="This interactive timeline reconstructs the life and work of Adolf Schlatter on the basis of the digitised Schlatter Archive. The data comprise">Dieser interaktive Zeitstrahl rekonstruiert das Leben und Wirken Adolf Schlatters auf Grundlage des digitalisierten Schlatter-Archivs. Die Daten umfassen</span> <span id="total-events" class="font-semibold text-white">352</span> <span data-en="events.">Ereignisse.</span>
             </p>
             <div class="mt-8 flex flex-wrap justify-center gap-4">
                 <div class="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-full border border-white/20">
-                    <span class="text-sm font-medium text-white"><span id="total-events-badge">352</span> Ereignisse</span>
+                    <span class="text-sm font-medium text-white"><span id="total-events-badge">352</span> <span data-en="events">Ereignisse</span></span>
                 </div>
                 <div class="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-full border border-white/20">
                     <span class="text-sm font-medium text-white">1852-1938</span>
                 </div>
                 <div class="bg-white/10 backdrop-blur-sm px-4 py-2 rounded-full border border-white/20">
-                    <span class="text-sm font-medium text-white">Interaktiv</span>
+                    <span class="text-sm font-medium text-white" data-en="Interactive">Interaktiv</span>
                 </div>
             </div>
         </div>
@@ -220,21 +229,21 @@
 <section id="timeline" class="py-20 bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
-            <h2 class="font-headline text-4xl font-bold text-text-primary mb-4">Lebenslauf im Überblick</h2>
-            <p class="text-xl text-text-secondary max-w-3xl mx-auto">
+            <h2 class="font-headline text-4xl font-bold text-text-primary mb-4" data-en="Life at a Glance">Lebenslauf im Überblick</h2>
+            <p class="text-xl text-text-secondary max-w-3xl mx-auto" data-en="A chronological account of the most important events in Adolf Schlatter's life, based on digitised archival sources">
                 Eine chronologische Darstellung der wichtigsten Ereignisse in Adolf Schlatters Leben, basierend auf digitalisierten Archivquellen
             </p>
         </div>
 
         <!-- Enhanced Search and Filter Controls -->
         <div class="bg-accent rounded-2xl p-8 mb-12">
-            <h3 class="font-headline text-lg font-semibold text-text-primary mb-4">Suche</h3>
+            <h3 class="font-headline text-lg font-semibold text-text-primary mb-4" data-en="Search">Suche</h3>
             <div class="space-y-6">
                 <!-- Suchbegriff - volle Breite -->
                 <div>
-                    <label class="block text-text-secondary font-medium mb-2">Suchbegriff</label>
+                    <label class="block text-text-secondary font-medium mb-2" data-en="Search term">Suchbegriff</label>
                     <div class="relative">
-                        <input type="text" id="search-input" placeholder="Suchbegriff eingeben..." class="w-full pl-10 pr-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent">
+                        <input type="text" id="search-input" placeholder="Suchbegriff eingeben..." data-en-placeholder="Enter search term..." class="w-full pl-10 pr-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent">
                         <i class="fas fa-search absolute left-3 top-4 text-text-secondary"></i>
                     </div>
                 </div>
@@ -244,7 +253,7 @@
                     <!-- Zeitraum-Filter -->
                     <div>
                         <label class="block text-text-secondary font-medium mb-3">
-                            Zeitraum: <span id="year-range-display" class="font-normal text-text-primary">Alle</span>
+                            <span data-en="Period:">Zeitraum:</span> <span id="year-range-display" class="font-normal text-text-primary">Alle</span>
                         </label>
                         <div class="relative">
                             <div class="range-slider-container">
@@ -262,15 +271,15 @@
                     
                     <!-- Kategorie-Filter -->
                     <div>
-                        <label class="block text-text-secondary font-medium mb-3">Kategorien</label>
+                        <label class="block text-text-secondary font-medium mb-3" data-en="Categories">Kategorien</label>
                         <div class="relative">
                             <select id="category-dropdown" class="w-full appearance-none pl-4 pr-10 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent">
-                                <option value="">Alle Kategorien</option>
-                                <option value="allgemein">Allgemein</option>
-                                <option value="familie">Familie</option>
-                                <option value="pastoral">Pastoral</option>
-                                <option value="reisen">Reisen</option>
-                                <option value="theologie">Theologie</option>
+                                <option value="" data-en="All categories">Alle Kategorien</option>
+                                <option value="allgemein" data-en="General">Allgemein</option>
+                                <option value="familie" data-en="Family">Familie</option>
+                                <option value="pastoral" data-en="Pastoral">Pastoral</option>
+                                <option value="reisen" data-en="Travels">Reisen</option>
+                                <option value="theologie" data-en="Theology">Theologie</option>
                             </select>
                             <span class="pointer-events-none absolute inset-y-0 right-3 flex items-center text-text-secondary text-xs"><i class="fas fa-chevron-down"></i></span>
                         </div>
@@ -278,10 +287,10 @@
 
                     <!-- Abschnittstitel-Filter -->
                     <div>
-                        <label class="block text-text-secondary font-medium mb-3">Abschnittstitel</label>
+                        <label class="block text-text-secondary font-medium mb-3" data-en="Section title">Abschnittstitel</label>
                         <div class="relative">
                             <select id="section-dropdown" class="w-full appearance-none pl-4 pr-10 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent">
-                                <option value="">Alle Abschnitte</option>
+                                <option value="" data-en="All sections">Alle Abschnitte</option>
                             </select>
                             <span class="pointer-events-none absolute inset-y-0 right-3 flex items-center text-text-secondary text-xs"><i class="fas fa-chevron-down"></i></span>
                         </div>
@@ -297,11 +306,11 @@
                 <div class="flex gap-3">
                     <button id="search-button" class="flex-1 bg-primary hover:bg-opacity-90 text-white py-3 rounded-lg font-medium transition-colors">
                         <i class="fas fa-search mr-2"></i>
-                        Filter anwenden
+                        <span data-en="Apply filter">Filter anwenden</span>
                     </button>
                     <button id="reset-filters" class="px-4 py-3 border border-gray-300 text-gray-700 rounded-lg hover:bg-gray-50 transition-colors">
                         <i class="fas fa-undo mr-2"></i>
-                        Zurücksetzen
+                        <span data-en="Reset">Zurücksetzen</span>
                     </button>
                 </div>
             </div>
@@ -328,7 +337,7 @@
         <!-- Results info + SEO helper link -->
         <div class="flex flex-col items-center space-y-1 text-text-secondary text-sm">
             <span id="results-info">Zeige 1-15 von 273 Ereignissen</span>
-            <a href="schlatter_timeline.html?show=all" class="text-secondary hover:underline">
+            <a href="schlatter_timeline.html?show=all" class="text-secondary hover:underline" data-en="Show all events on one page">
                 Alle Ereignisse auf einer Seite anzeigen
             </a>
         </div>
@@ -340,23 +349,23 @@
 <section class="py-16 bg-gray-50">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="bg-white rounded-2xl p-8 shadow-sm">
-            <h3 class="font-headline text-2xl font-bold mb-6 text-text-primary">Archiv-Übersicht</h3>
+            <h3 class="font-headline text-2xl font-bold mb-6 text-text-primary" data-en="Archive Overview">Archiv-Übersicht</h3>
             <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
                 <div class="text-center">
                     <div class="text-4xl font-bold text-primary mb-2" id="events-count">352</div>
-                    <div class="text-sm text-text-secondary">Ereignisse erfasst</div>
+                    <div class="text-sm text-text-secondary" data-en="Events recorded">Ereignisse erfasst</div>
                 </div>
                 <div class="text-center hidden">
                     <div class="text-4xl font-bold text-primary mb-2" id="pages-count">284</div>
-                    <div class="text-sm text-text-secondary">Seiten digitalisiert</div>
+                    <div class="text-sm text-text-secondary" data-en="Pages digitised">Seiten digitalisiert</div>
                 </div>
                 <div class="text-center">
                     <div class="text-4xl font-bold text-primary mb-2" id="years-span">130</div>
-                    <div class="text-sm text-text-secondary">Jahre abgedeckt</div>
+                    <div class="text-sm text-text-secondary" data-en="Years covered">Jahre abgedeckt</div>
                 </div>
                 <div class="text-center">
                     <div class="text-4xl font-bold text-primary mb-2">86</div>
-                    <div class="text-sm text-text-secondary">Lebensjahre</div>
+                    <div class="text-sm text-text-secondary" data-en="Years of life">Lebensjahre</div>
                 </div>
             </div>
         </div>
@@ -367,6 +376,11 @@
 <div id="footer-container"></div>
 
 <script>
+// i18n-Helfer (defensiv gegen fehlendes I18N/TimelineI18N)
+const t = (de, en) => (window.I18N ? window.I18N.t(de, en) : de);
+const LBL = (value) => (window.TimelineI18N ? window.TimelineI18N.LBL(value) : value);
+const TXT = (entry, field) => (window.TimelineI18N ? window.TimelineI18N.TXT(entry, field) : (entry ? (entry[field] || '') : ''));
+
 // Global variables
 let allEvents = [];
 let filteredEvents = [];
@@ -386,10 +400,15 @@ function loadData() {
         // Daten sind bereits über timeline-data.js geladen
         if (typeof window.timelineData === 'undefined') {
             console.error('❌ timeline-data.js nicht geladen');
-            document.getElementById('timeline-events').innerHTML = '<p class="text-center text-text-secondary">Fehler beim Laden der Daten.</p>';
+            document.getElementById('timeline-events').innerHTML = `<p class="text-center text-text-secondary">${t('Fehler beim Laden der Daten.', 'Error loading the data.')}</p>`;
             return;
         }
-        
+
+        // Englische Übersetzungen (Side-Car) einmischen – falls vorhanden.
+        if (window.TimelineI18N && window.TimelineI18N.mergeTimelineTranslations) {
+            window.TimelineI18N.mergeTimelineTranslations();
+        }
+
         const data = window.timelineData;
         
         // Flatten all events from timeline
@@ -429,7 +448,7 @@ function loadData() {
                     sectionLookup[chapter.slug] = chapter.title;
                     const option = document.createElement('option');
                     option.value = chapter.slug;
-                    option.textContent = chapter.title;
+                    option.textContent = LBL(chapter.title);
                     sectionDropdown.appendChild(option);
                 });
             }
@@ -466,7 +485,7 @@ function loadData() {
 
                 document.getElementById('year-min-label').textContent = minYear;
                 document.getElementById('year-max-label').textContent = maxYear;
-                document.getElementById('year-range-display').textContent = 'Alle';
+                document.getElementById('year-range-display').textContent = t('Alle', 'All');
             }
         }
 
@@ -512,7 +531,7 @@ function renderEvents() {
     const eventsToShow = filteredEvents.slice(startIndex, endIndex);
     
     if (eventsToShow.length === 0) {
-        container.innerHTML = '<p class="text-center text-text-secondary">Keine Ereignisse gefunden.</p>';
+        container.innerHTML = `<p class="text-center text-text-secondary">${t('Keine Ereignisse gefunden.', 'No events found.')}</p>`;
         updatePagination();
         updateResultsInfo();
         return;
@@ -616,8 +635,9 @@ function updateResultsInfo() {
     const endIndex = Math.min(startIndex + eventsPerPage, filteredEvents.length);
     const totalEvents = filteredEvents.length;
     
-    document.getElementById('results-info').textContent = 
-        `Zeige ${startIndex + 1}-${endIndex} von ${totalEvents} Ereignissen`;
+    document.getElementById('results-info').textContent = t(
+        `Zeige ${startIndex + 1}-${endIndex} von ${totalEvents} Ereignissen`,
+        `Showing ${startIndex + 1}-${endIndex} of ${totalEvents} events`);
 }
 
 // Create event element
@@ -627,7 +647,9 @@ function createEventElement(event, index) {
     
     // Use icon from data or fallback to auto-detection
     const icon = event.icon || getEventIcon(event.text);
-    const formattedText = event.text
+    const displayTitle = TXT(event, 'title') || TXT(event, 'text');
+    const displayText = TXT(event, 'text');
+    const formattedText = displayText
         .replace(/\r\n/g, '\n')
         .replace(/\n{2,}/g, '___BR2___')
         .replace(/\n/g, ' ')
@@ -639,7 +661,7 @@ function createEventElement(event, index) {
         </div>
         <div class="ml-20 w-full bg-white border-2 border-accent rounded-2xl p-8 shadow-sm hover:shadow-md transition-shadow">
                 <div class="mb-4">
-                    <h3 class="font-headline text-2xl font-bold text-text-primary mb-2">${event.title || event.text}</h3>
+                    <h3 class="font-headline text-2xl font-bold text-text-primary mb-2">${displayTitle}</h3>
                     <div class="flex items-center gap-4 text-text-secondary flex-wrap">
                         <span class="font-semibold text-secondary text-lg">${event.year}</span>
                         ${event.date ? `<span class="font-semibold text-secondary">${event.date}</span>` : ''}
@@ -650,8 +672,8 @@ function createEventElement(event, index) {
                 ${formattedText}
             </p>
             <div class="flex items-center gap-4 text-sm flex-wrap">
-                ${(event.tags || []).map(tag => `<span class="bg-blue-50 text-blue-700 px-3 py-1 rounded-full">${tag}</span>`).join('')}
-                ${(event.inventoryNumbers || []).map(number => `<a href="../pages/archiv-interface.html?filter=inventar&search=${number}" class="bg-green-50 text-green-700 px-3 py-1 rounded-full hover:bg-green-100 transition-colors cursor-pointer">Inventar: ${number}</a>`).join('')}
+                ${(event.tags || []).map(tag => `<span class="bg-blue-50 text-blue-700 px-3 py-1 rounded-full">${LBL(tag)}</span>`).join('')}
+                ${(event.inventoryNumbers || []).map(number => `<a href="../pages/archiv-interface.html?filter=inventar&search=${number}" class="bg-green-50 text-green-700 px-3 py-1 rounded-full hover:bg-green-100 transition-colors cursor-pointer">${t('Inventar', 'Inventory')}: ${number}</a>`).join('')}
             </div>
         </div>
     `;
@@ -710,7 +732,7 @@ function updateYearFilter() {
     rangeElement.style.width = (maxPercent - minPercent) + '%';
     
     if (minYear === sliderMin && maxYear === sliderMax) {
-        document.getElementById('year-range-display').textContent = 'Alle';
+        document.getElementById('year-range-display').textContent = t('Alle', 'All');
     } else {
         document.getElementById('year-range-display').textContent = `${minYear}–${maxYear}`;
     }
@@ -736,7 +758,7 @@ function updateFilterChips() {
         const chip = document.createElement('div');
         chip.className = 'inline-flex items-center space-x-2 px-3 py-1.5 rounded-full text-sm font-medium bg-blue-50 text-blue-700';
         chip.innerHTML = `
-            <span>Jahr: ${activeFilters.yearMin}–${activeFilters.yearMax}</span>
+            <span>${t('Jahr', 'Year')}: ${activeFilters.yearMin}–${activeFilters.yearMax}</span>
             <button onclick="resetYearFilter()" class="rounded-full p-0.5 transition-colors hover:bg-blue-100">
                 <i class="fas fa-times text-xs"></i>
             </button>
@@ -750,7 +772,7 @@ function updateFilterChips() {
         const chip = document.createElement('div');
         chip.className = 'inline-flex items-center space-x-2 px-3 py-1.5 rounded-full text-sm font-medium bg-green-50 text-green-700';
         chip.innerHTML = `
-            <span>Kategorie: ${document.getElementById('category-dropdown').selectedOptions[0].text}</span>
+            <span>${t('Kategorie', 'Category')}: ${document.getElementById('category-dropdown').selectedOptions[0].text}</span>
             <button onclick="resetCategoryFilter()" class="rounded-full p-0.5 transition-colors hover:bg-green-100">
                 <i class="fas fa-times text-xs"></i>
             </button>
@@ -763,9 +785,9 @@ function updateFilterChips() {
         hasFilters = true;
         const chip = document.createElement('div');
         chip.className = 'inline-flex items-center space-x-2 px-3 py-1.5 rounded-full text-sm font-medium bg-purple-50 text-purple-700';
-        const sectionLabel = sectionLookup[activeFilters.section] || activeFilters.section;
+        const sectionLabel = LBL(sectionLookup[activeFilters.section] || activeFilters.section);
         chip.innerHTML = `
-            <span>Abschnitt: ${sectionLabel}</span>
+            <span>${t('Abschnitt', 'Section')}: ${sectionLabel}</span>
             <button onclick="resetSectionFilter()" class="rounded-full p-0.5 transition-colors hover:bg-purple-100">
                 <i class="fas fa-times text-xs"></i>
             </button>
@@ -794,7 +816,7 @@ function resetYearFilter() {
     activeFilters.yearMax = sliderMax;
     document.getElementById('year-min-label').textContent = sliderMin;
     document.getElementById('year-max-label').textContent = sliderMax;
-    document.getElementById('year-range-display').textContent = 'Alle';
+    document.getElementById('year-range-display').textContent = t('Alle', 'All');
     
     // Reset gefüllter Bereich
     const rangeElement = document.getElementById('slider-range');
@@ -887,13 +909,7 @@ document.addEventListener('DOMContentLoaded', function() {
             console.warn('AppbarManager nicht verfügbar.');
         }
 
-        if (window.footerManager) {
-            window.footerManager.insertFooter('footer-container', {
-                description: "Interaktive Timeline der Biographie Adolf Schlatters basierend auf digitalisierten Archivquellen."
-            });
-        } else {
-            console.warn('FooterManager nicht verfügbar.');
-        }
+        insertLocalizedFooter();
 
     // Load timeline data
     loadData();
@@ -946,7 +962,7 @@ document.addEventListener('DOMContentLoaded', function() {
         activeFilters.yearMax = sliderMax;
         document.getElementById('year-min-label').textContent = sliderMin;
         document.getElementById('year-max-label').textContent = sliderMax;
-        document.getElementById('year-range-display').textContent = 'Alle';
+        document.getElementById('year-range-display').textContent = t('Alle', 'All');
         
         // Reset slider range
         const rangeElement = document.getElementById('slider-range');
@@ -962,10 +978,66 @@ document.addEventListener('DOMContentLoaded', function() {
         updateFilterChips();
         filterEvents();
     });
+
+    // Bei Sprachwechsel dynamische Inhalte neu aufbauen (Fallback = Deutsch).
+    window.addEventListener('i18n:change', applyLanguageToDynamicContent);
 });
+
+// (Re-)Insert des Footers mit sprachabhängiger Beschreibung.
+function insertLocalizedFooter() {
+    if (window.footerManager) {
+        window.footerManager.insertFooter('footer-container', {
+            description: t(
+                "Interaktive Timeline der Biographie Adolf Schlatters basierend auf digitalisierten Archivquellen.",
+                "Interactive timeline of the biography of Adolf Schlatter based on digitised archival sources."
+            )
+        });
+    } else {
+        console.warn('FooterManager nicht verfügbar.');
+    }
+}
+
+// Aktualisiert alle datengetriebenen Texte auf die aktuelle Sprache.
+function applyLanguageToDynamicContent() {
+    // Abschnitts-Dropdown-Labels übersetzen (Werte/Filter bleiben deutsch/slug).
+    const sectionDropdown = document.getElementById('section-dropdown');
+    if (sectionDropdown) {
+        Array.from(sectionDropdown.options).forEach(opt => {
+            if (opt.value && sectionLookup[opt.value]) {
+                opt.textContent = LBL(sectionLookup[opt.value]);
+            }
+        });
+    }
+
+    // "Alle"/"All" im Zeitraum-Display, falls voller Bereich aktiv.
+    const minSlider = document.getElementById('filter-jahr-min');
+    const maxSlider = document.getElementById('filter-jahr-max');
+    if (minSlider && maxSlider) {
+        const sliderMin = parseInt(minSlider.min, 10);
+        const sliderMax = parseInt(maxSlider.max, 10);
+        const display = document.getElementById('year-range-display');
+        if (display && activeFilters.yearMin === sliderMin && activeFilters.yearMax === sliderMax) {
+            display.textContent = t('Alle', 'All');
+        }
+    }
+
+    // Statistik-Zahlen erneut setzen (I18N.applyTo könnte sie überschrieben haben).
+    if (window.timelineData) {
+        updateStatistics(window.timelineData);
+    }
+
+    // Footer mit übersetzter Beschreibung neu einsetzen.
+    insertLocalizedFooter();
+
+    // Chips und Ereignisliste neu rendern (nutzt aktuelle Sprache).
+    updateFilterChips();
+    renderEvents();
+}
 </script>
 
 <!-- Appbar Utils -->
+<script src="../components/i18n.js"></script>
+<script src="../components/seo.js"></script>
 <script src="../components/appbar-utils.js"></script>
 <!-- Footer Utils -->
 <script src="../components/footer-utils.js"></script>

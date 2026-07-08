@@ -1,46 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://adolf-schlatter-stiftung.de/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/"/>
+  </url>
+  <url>
+    <loc>https://adolf-schlatter-stiftung.de/?lang=en</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/"/>
   </url>
   <url>
     <loc>https://adolf-schlatter-stiftung.de/pages/aboutSchlatter.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/aboutSchlatter.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/aboutSchlatter.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/aboutSchlatter.html"/>
+  </url>
+  <url>
+    <loc>https://adolf-schlatter-stiftung.de/pages/aboutSchlatter.html?lang=en</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/aboutSchlatter.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/aboutSchlatter.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/aboutSchlatter.html"/>
   </url>
   <url>
     <loc>https://adolf-schlatter-stiftung.de/pages/adolfSchlatterPrice.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/adolfSchlatterPrice.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/adolfSchlatterPrice.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/adolfSchlatterPrice.html"/>
+  </url>
+  <url>
+    <loc>https://adolf-schlatter-stiftung.de/pages/adolfSchlatterPrice.html?lang=en</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/adolfSchlatterPrice.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/adolfSchlatterPrice.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/adolfSchlatterPrice.html"/>
   </url>
   <url>
     <loc>https://adolf-schlatter-stiftung.de/pages/archiv-interface.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/archiv-interface.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/archiv-interface.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/archiv-interface.html"/>
+  </url>
+  <url>
+    <loc>https://adolf-schlatter-stiftung.de/pages/archiv-interface.html?lang=en</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/archiv-interface.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/archiv-interface.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/archiv-interface.html"/>
   </url>
   <url>
     <loc>https://adolf-schlatter-stiftung.de/pages/schlatter_timeline.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/schlatter_timeline.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/schlatter_timeline.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/schlatter_timeline.html"/>
+  </url>
+  <url>
+    <loc>https://adolf-schlatter-stiftung.de/pages/schlatter_timeline.html?lang=en</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/schlatter_timeline.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/schlatter_timeline.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/schlatter_timeline.html"/>
   </url>
   <url>
     <loc>https://adolf-schlatter-stiftung.de/pages/stammbaum.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/stammbaum.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/stammbaum.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/stammbaum.html"/>
+  </url>
+  <url>
+    <loc>https://adolf-schlatter-stiftung.de/pages/stammbaum.html?lang=en</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/stammbaum.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/stammbaum.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/stammbaum.html"/>
+  </url>
+  <url>
+    <loc>https://adolf-schlatter-stiftung.de/pages/bildergalerie.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/bildergalerie.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/bildergalerie.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/bildergalerie.html"/>
+  </url>
+  <url>
+    <loc>https://adolf-schlatter-stiftung.de/pages/bildergalerie.html?lang=en</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/bildergalerie.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/bildergalerie.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/bildergalerie.html"/>
   </url>
   <url>
     <loc>https://adolf-schlatter-stiftung.de/pages/datenschutz.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/datenschutz.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/datenschutz.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/datenschutz.html"/>
+  </url>
+  <url>
+    <loc>https://adolf-schlatter-stiftung.de/pages/datenschutz.html?lang=en</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/datenschutz.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/datenschutz.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/datenschutz.html"/>
   </url>
   <url>
     <loc>https://adolf-schlatter-stiftung.de/pages/impressum.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/impressum.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/impressum.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/impressum.html"/>
+  </url>
+  <url>
+    <loc>https://adolf-schlatter-stiftung.de/pages/impressum.html?lang=en</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/impressum.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/impressum.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/impressum.html"/>
   </url>
   <url>
     <loc>https://adolf-schlatter-stiftung.de/pages/preisträger/clemens-hägele.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/preisträger/clemens-hägele.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/preisträger/clemens-hägele.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/preisträger/clemens-hägele.html"/>
+  </url>
+  <url>
+    <loc>https://adolf-schlatter-stiftung.de/pages/preisträger/clemens-hägele.html?lang=en</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/preisträger/clemens-hägele.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/preisträger/clemens-hägele.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/preisträger/clemens-hägele.html"/>
   </url>
   <url>
     <loc>https://adolf-schlatter-stiftung.de/pages/preisträger/j-gerrit-hohage.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/preisträger/j-gerrit-hohage.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/preisträger/j-gerrit-hohage.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/preisträger/j-gerrit-hohage.html"/>
+  </url>
+  <url>
+    <loc>https://adolf-schlatter-stiftung.de/pages/preisträger/j-gerrit-hohage.html?lang=en</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/preisträger/j-gerrit-hohage.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/preisträger/j-gerrit-hohage.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/preisträger/j-gerrit-hohage.html"/>
   </url>
   <url>
     <loc>https://adolf-schlatter-stiftung.de/pages/preisträger/michael-bräutigam.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/preisträger/michael-bräutigam.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/preisträger/michael-bräutigam.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/preisträger/michael-bräutigam.html"/>
+  </url>
+  <url>
+    <loc>https://adolf-schlatter-stiftung.de/pages/preisträger/michael-bräutigam.html?lang=en</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/preisträger/michael-bräutigam.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/preisträger/michael-bräutigam.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/preisträger/michael-bräutigam.html"/>
   </url>
   <url>
     <loc>https://adolf-schlatter-stiftung.de/pages/preisträger/oliver-gussmann.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/preisträger/oliver-gussmann.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/preisträger/oliver-gussmann.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/preisträger/oliver-gussmann.html"/>
+  </url>
+  <url>
+    <loc>https://adolf-schlatter-stiftung.de/pages/preisträger/oliver-gussmann.html?lang=en</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/preisträger/oliver-gussmann.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/preisträger/oliver-gussmann.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/preisträger/oliver-gussmann.html"/>
   </url>
   <url>
     <loc>https://adolf-schlatter-stiftung.de/pages/preisträger/roland-deines.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/preisträger/roland-deines.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/preisträger/roland-deines.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/preisträger/roland-deines.html"/>
+  </url>
+  <url>
+    <loc>https://adolf-schlatter-stiftung.de/pages/preisträger/roland-deines.html?lang=en</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/preisträger/roland-deines.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/preisträger/roland-deines.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/preisträger/roland-deines.html"/>
   </url>
   <url>
     <loc>https://adolf-schlatter-stiftung.de/pages/preisträger/werner-neuer.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/preisträger/werner-neuer.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/preisträger/werner-neuer.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/preisträger/werner-neuer.html"/>
+  </url>
+  <url>
+    <loc>https://adolf-schlatter-stiftung.de/pages/preisträger/werner-neuer.html?lang=en</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/preisträger/werner-neuer.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/preisträger/werner-neuer.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/preisträger/werner-neuer.html"/>
+  </url>
+  <url>
+    <loc>https://adolf-schlatter-stiftung.de/pages/preisträger/ulrich-beuttler.html</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/preisträger/ulrich-beuttler.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/preisträger/ulrich-beuttler.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/preisträger/ulrich-beuttler.html"/>
+  </url>
+  <url>
+    <loc>https://adolf-schlatter-stiftung.de/pages/preisträger/ulrich-beuttler.html?lang=en</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/preisträger/ulrich-beuttler.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/preisträger/ulrich-beuttler.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/preisträger/ulrich-beuttler.html"/>
   </url>
 </urlset>
-

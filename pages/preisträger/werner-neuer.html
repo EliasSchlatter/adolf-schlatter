@@ -37,10 +37,18 @@
   }
 };</script>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap">
+    <!-- i18n-seo-static -->
+    <link rel="canonical" href="https://adolf-schlatter-stiftung.de/pages/preisträger/werner-neuer.html">
+    <link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/preisträger/werner-neuer.html">
+    <link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/preisträger/werner-neuer.html?lang=en">
+    <link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/preisträger/werner-neuer.html">
+    <!-- /i18n-seo-static -->
 </head>
 <body class="bg-white font-custom">
 
 <!-- Appbar Utils -->
+<script src="../../components/i18n.js"></script>
+<script src="../../components/seo.js"></script>
 <script src="../../components/appbar-utils.js"></script>
 <!-- Footer Utils -->
 <script src="../../components/footer-utils.js"></script>
@@ -51,7 +59,16 @@ const preistraegerData = {
     name: "Dr. Werner Neuer",
     location: "Schallbach (bei Lörrach), Deutschland",
     description: "Evangelischer Pfarrer; 2000–2016 Dozent für Systematische Theologie am Theologischen Seminar St. Chrischona; Profilthema: Adolf Schlatter.",
+    description_en: "Protestant pastor; 2000–2016 lecturer in Systematic Theology at the Theologisches Seminar St. Chrischona; special focus: Adolf Schlatter.",
     image: "../../images/preisträgerImages/dr-werner-neuer.jpg",
+    tags_en: [
+        "Systematic Theology",
+        "Dogmatics",
+        "Ethics",
+        "Ecumenical Theology",
+        "Theology of Religions",
+        "Adolf Schlatter studies"
+    ],
     tags: [
         "Systematische Theologie",
         "Dogmatik",
@@ -61,22 +78,33 @@ const preistraegerData = {
         "Adolf-Schlatter-Forschung"
     ],
     biography: "Werner Neuer (*6. Mai 1951) ist evangelischer Pfarrer und gilt als Spezialist zu Adolf Schlatter. Nach Studium der Geschichte/Politik/Geographie und Evangelischen Theologie sowie Promotion in Systematischer Theologie (1985) war er von 2000–2016 Dozent für Systematische Theologie am Theologischen Seminar St. Chrischona. Seine große Schlatter-Biographie erschien 1996.",
+    biography_en: "Werner Neuer (*6. Mai 1951) is a Protestant pastor and is regarded as a specialist on Adolf Schlatter. After studying History/Politics/Geography and Protestant Theology and completing a doctorate in Systematic Theology (1985), he was a lecturer in Systematic Theology at the Theologisches Seminar St. Chrischona from 2000 to 2016. His major Schlatter biography appeared in 1996.",
     career: [
         {
             title: "Dozent (Dogmatik, Ethik, Ökumene, Religionskunde, Theologie der Religionen)",
+            title_en: "Lecturer (Dogmatics, Ethics, Ecumenism, Religious Studies, Theology of Religions)",
             description: "Theologisches Seminar St. Chrischona (TSC) • 2000–2016",
             icon: "fas fa-university"
         },
         {
             title: "Wissenschaftlicher Assistent",
+            title_en: "Research assistant",
             description: "Universität Tübingen, Institut für Missionswissenschaft & Ökumenische Theologie • 1990–1997",
             icon: "fas fa-flask"
         },
         {
             title: "Theologischer Referent",
+            title_en: "Theological adviser",
             description: "Evangelische Landeskirche in Württemberg • ab 1997 (nach der Assistentur)",
+            description_en: "Evangelische Landeskirche in Württemberg • from 1997 (after the assistantship)",
             icon: "fas fa-church"
         }
+    ],
+    specializations_en: [
+        "Dogmatics & Ethics",
+        "Ecumenical Theology",
+        "Theology of Religions",
+        "Adolf Schlatter (life and work)"
     ],
     specializations: [
         "Dogmatik & Ethik",
@@ -88,23 +116,29 @@ const preistraegerData = {
     awards: [
         {
             title: "Adolf-Schlatter-Preis",
-            description: "Auszeichnung 2005"
+            description: "Auszeichnung 2005",
+            description_en: "Award 2005"
         }
     ],
     academic: [
         {
             title: "Studium (Geschichte/Politik/Geographie)",
+            title_en: "Studies (History/Politics/Geography)",
             description: "Universität Heidelberg • 1970–1972",
             icon: "fas fa-book"
         },
         {
             title: "Studium Evangelische Theologie",
+            title_en: "Studies in Protestant Theology",
             description: "Universitäten Heidelberg und Tübingen • 1973–1977",
+            description_en: "Universities of Heidelberg and Tübingen • 1973–1977",
             icon: "fas fa-cross"
         },
         {
             title: "Promotion (Dr. theol., Systematische Theologie)",
+            title_en: "Doctorate (Dr. theol., Systematic Theology)",
             description: "Universität Marburg (bei C. H. Ratschow) • 1985",
+            description_en: "Universität Marburg (under C. H. Ratschow) • 1985",
             icon: "fas fa-graduation-cap"
         }
     ],
@@ -112,6 +146,7 @@ const preistraegerData = {
         {
             title: "Adolf Schlatter – Ein Leben für Theologie und Kirche",
             description: "Calwer Verlag, Stuttgart 1996. ISBN 978-3-7668-3390-7, 937 S.",
+            description_en: "Calwer Verlag, Stuttgart 1996. ISBN 978-3-7668-3390-7, 937 pp.",
             coverImage: "https://www.calwer.com/media/39/thumbnails/Cover_3390_Schlatter.png.698457.png",
             links: [
                 "https://www.amazon.de/Adolf-Schlatter-Leben-Theologie-Kirche/dp/3766833901?utm_source=chatgpt.com"
@@ -120,6 +155,7 @@ const preistraegerData = {
         {
             title: "Mann und Frau in christlicher Sicht",
             description: "Brunnen Verlag, Gießen/Basel. 5., neu bearb. Aufl. 1993",
+            description_en: "Brunnen Verlag, Gießen/Basel. 5th, revised ed. 1993",
             coverImage: "https://m.media-amazon.com/images/I/51B56wdV5JL.jpg",
             links: [
                 "https://www.amazon.de/Mann-christlicher-Sight-Werner-Neuer/dp/3765595039"
@@ -137,6 +173,7 @@ const preistraegerData = {
         {
             title: "Der Zusammenhang von Dogmatik und Ethik bei Adolf Schlatter. Eine Untersuchung zur Grundlegung christlicher Ethik",
             description: "Dissertation. Brunnen Verlag, 1986. ISBN 978-3-7655-9320-8, 413 S.",
+            description_en: "Dissertation. Brunnen Verlag, 1986. ISBN 978-3-7655-9320-8, 413 pp.",
             links: [
                 "https://www.deutsche-digitale-bibliothek.de/item/QGY323NCWERNAPTABYTE2NKH6KYZ3UWA?utm_source=chatgpt.com"
             ]
@@ -152,6 +189,7 @@ const preistraegerData = {
         {
             title: "Realistische Theologie. Eine Hinführung zu Adolf Schlatter",
             description: "Brunnen Verlag, 2006. Hg. mit H. Hempelmann, J. v. Lüpke. ISBN 978-3-7655-1384-8",
+            description_en: "Brunnen Verlag, 2006. Ed. with H. Hempelmann, J. v. Lüpke. ISBN 978-3-7655-1384-8",
             coverImage: "https://pictures.abebooks.com/isbn/9783765513848-de.jpg",
             links: [
                 "https://www.abebooks.de/9783765513848/Realistische-Theologie-Hinf%C3%BChrung-Adolf-Schlatter-3765513849/plp?utm_source=chatgpt.com"
@@ -161,17 +199,23 @@ const preistraegerData = {
     researchAreas: [
         {
             title: "Adolf-Schlatter-Forschung",
+            title_en: "Adolf Schlatter studies",
             description: "Biographie, Hermeneutik und Rezeption Schlatters",
+            description_en: "Biography, hermeneutics and the reception of Schlatter",
             icon: "fas fa-scroll"
         },
         {
             title: "Theologie & Ethik",
+            title_en: "Theology & Ethics",
             description: "Verhältnis von Dogmatik und Ethik; Ehe- und Sexualethik",
+            description_en: "The relationship of dogmatics and ethics; marital and sexual ethics",
             icon: "fas fa-scale-balanced"
         },
         {
             title: "Religionstheologie",
+            title_en: "Theology of Religions",
             description: "Christlicher Wahrheitsanspruch im Gespräch mit pluralistischer Theologie",
+            description_en: "The Christian claim to truth in dialogue with pluralist theology",
             icon: "fas fa-globe"
         }
     ]
@@ -183,41 +227,10 @@ const preistraegerData = {
 // Generate page content after utils.js is loaded
 document.addEventListener('DOMContentLoaded', function() {
     const builder = new PreistraegerPageBuilder(preistraegerData);
-    document.body.innerHTML = builder.generatePage();
-    
-    // Add accordion functionality after page is generated
-    window.toggleAccordion = function(accordionId) {
-        const content = document.getElementById(accordionId);
-        const icon = document.getElementById('icon' + accordionId.slice(-1));
-        
-        if (content.classList.contains('hidden')) {
-            content.classList.remove('hidden');
-            icon.style.transform = 'rotate(180deg)';
-        } else {
-            content.classList.add('hidden');
-            icon.style.transform = 'rotate(0deg)';
-        }
-    };
-    
-            // Appbar und Footer NACH dem Content-Generieren laden - mit Verzögerung für bessere Style-Initialisierung
-            setTimeout(() => {
-                if (window.appbarManager) {
-                    window.appbarManager.insertAppbar('appbar-container');
-                } else {
-                    // Fallback falls appbarManager noch nicht geladen ist
-                    setTimeout(() => {
-                        if (window.appbarManager) {
-                            window.appbarManager.insertAppbar('appbar-container');
-                        }
-                    }, 100);
-                }
-                
-                if (window.footerManager) {
-                    window.footerManager.insertFooter('footer-container', {
-                        description: "Preisträger des Adolf-Schlatter-Preises 2005: Dr. Werner Neuer, Schallbach. Evangelischer Pfarrer und Spezialist zu Adolf Schlatter."
-                    });
-                }
-            }, 50);
+    builder.render({
+        description: "Preisträger des Adolf-Schlatter-Preises 2005: Dr. Werner Neuer, Schallbach. Evangelischer Pfarrer und Spezialist zu Adolf Schlatter.",
+        description_en: "Laureate of the Adolf-Schlatter-Preis 2005: Dr. Werner Neuer, Schallbach. Protestant pastor and a leading specialist on Adolf Schlatter."
+    });
 });
 </script>
 

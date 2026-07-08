@@ -3,16 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bildergalerie – Adolf Schlatter Stiftung</title>
-    <meta name="description" content="Bildergalerie zur Familie Adolf Schlatters mit über 100 historischen Aufnahmen aus Kindheit, Studium, Familienleben und Lehrjahren in Tübingen.">
+    <title data-en="Picture Gallery – Adolf Schlatter Stiftung">Bildergalerie – Adolf Schlatter Stiftung</title>
+    <meta name="description" content="Bildergalerie zur Familie Adolf Schlatters mit über 100 historischen Aufnahmen aus Kindheit, Studium, Familienleben und Lehrjahren in Tübingen." data-en-content="Picture gallery of Adolf Schlatter's family with over 100 historical photographs from his childhood, studies, family life and teaching years in Tübingen.">
     <meta name="robots" content="index,follow">
     <link rel="canonical" href="https://adolf-schlatter-stiftung.de/pages/bildergalerie.html">
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Adolf Schlatter Stiftung">
-    <meta property="og:title" content="Bildergalerie – Adolf Schlatter Stiftung">
-    <meta property="og:description" content="Über 100 historische Aufnahmen zum Leben Adolf Schlatters und seiner Familie.">
+    <meta property="og:title" content="Bildergalerie – Adolf Schlatter Stiftung" data-en-content="Picture Gallery – Adolf Schlatter Stiftung">
+    <meta property="og:description" content="Über 100 historische Aufnahmen zum Leben Adolf Schlatters und seiner Familie." data-en-content="Over 100 historical photographs of the life of Adolf Schlatter and his family.">
     <meta property="og:url" content="https://adolf-schlatter-stiftung.de/pages/bildergalerie.html">
     <meta property="og:image" content="https://adolf-schlatter-stiftung.de/images/SchlatterHeader.png">
 
@@ -352,9 +352,16 @@
             }
         }
     </script>
+    <!-- i18n-seo-static -->
+    <link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/bildergalerie.html">
+    <link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/bildergalerie.html?lang=en">
+    <link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/bildergalerie.html">
+    <!-- /i18n-seo-static -->
 </head>
 <body class="bg-white font-body">
 
+<script src="../components/i18n.js"></script>
+<script src="../components/seo.js"></script>
 <script src="../components/appbar-utils.js"></script>
 <script src="../components/footer-utils.js"></script>
 
@@ -366,13 +373,13 @@
         <div class="inline-block bg-secondary/20 backdrop-blur-sm px-6 py-3 rounded-full mb-6">
             <div class="flex items-center space-x-3">
                 <i class="fas fa-images text-secondary text-xl"></i>
-                <span class="text-white font-semibold text-sm uppercase tracking-wide">Bildergalerie</span>
+                <span class="text-white font-semibold text-sm uppercase tracking-wide" data-en="Picture Gallery">Bildergalerie</span>
             </div>
         </div>
-        <h1 class="font-headline text-5xl md:text-6xl font-bold text-white mb-4">
+        <h1 class="font-headline text-5xl md:text-6xl font-bold text-white mb-4" data-en="Adolf Schlatter in Pictures">
             Adolf Schlatter in Bildern
         </h1>
-        <p class="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
+        <p class="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed" data-en="Over 100 historical photographs from family life, studies, teaching years and late work – arranged chronologically by phase of life.">
             Über 100 historische Aufnahmen aus Familie, Studium, Lehrjahren und Spätwerk – chronologisch nach Lebensphasen.
         </p>
     </div>
@@ -387,7 +394,7 @@
         <div class="flex flex-wrap items-center justify-between gap-4">
             <div class="relative flex-1 max-w-md">
                 <i class="fas fa-search absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 text-sm"></i>
-                <input type="text" id="gallery-search" class="search-input" placeholder="Suche in Bildunterschriften…" />
+                <input type="text" id="gallery-search" class="search-input" placeholder="Suche in Bildunterschriften…" data-en-placeholder="Search in captions…" />
             </div>
         </div>
     </div>
@@ -400,23 +407,23 @@
         <div id="gallery-grid" class="gallery-grid view-masonry"></div>
         <div id="gallery-empty" style="display:none;">
             <i class="fas fa-image text-5xl text-gray-300 mb-4"></i>
-            <p>Keine Bilder gefunden.</p>
+            <p data-en="No pictures found.">Keine Bilder gefunden.</p>
         </div>
     </div>
 </section>
 
 <!-- Lightbox -->
-<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Bildansicht">
-    <button class="lightbox-close" id="lightbox-close" aria-label="Schließen">
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Bildansicht" data-en-aria-label="Image view">
+    <button class="lightbox-close" id="lightbox-close" aria-label="Schließen" data-en-aria-label="Close">
         <i class="fas fa-times"></i>
     </button>
     <div class="lightbox-inner">
         <div class="lightbox-image-wrap">
-            <button class="lightbox-btn prev" id="lightbox-prev" aria-label="Vorheriges Bild">
+            <button class="lightbox-btn prev" id="lightbox-prev" aria-label="Vorheriges Bild" data-en-aria-label="Previous image">
                 <i class="fas fa-chevron-left"></i>
             </button>
             <img class="lightbox-image" id="lightbox-image" alt="" />
-            <button class="lightbox-btn next" id="lightbox-next" aria-label="Nächstes Bild">
+            <button class="lightbox-btn next" id="lightbox-next" aria-label="Nächstes Bild" data-en-aria-label="Next image">
                 <i class="fas fa-chevron-right"></i>
             </button>
         </div>
@@ -432,6 +439,10 @@
 <script src="gallery-data.js"></script>
 <script>
 (function() {
+    // Defensiver Übersetzungs-Helfer (fällt auf Deutsch zurück, falls I18N fehlt).
+    const t = (de, en) => (window.I18N ? window.I18N.t(de, en) : de);
+    const isEN = () => !!(window.I18N && window.I18N.lang === 'en');
+
     const grid       = document.getElementById('gallery-grid');
     const empty      = document.getElementById('gallery-empty');
     const filtersEl  = document.getElementById('phase-filters');
@@ -455,28 +466,33 @@
     let currentList = [];
     let currentIndex = 0;
 
+    // Sprachabhängige Beschriftung / Zeitspanne einer Lebensphase.
+    const phaseLabelText = (p) => (isEN() && p.label_en) ? p.label_en : p.label;
+    const phaseRangeText = (p) => (isEN() && p.range_en) ? p.range_en : p.range;
+
     const phaseLabel = (id) => {
         const p = GALLERY_PHASES.find(p => p.id === id);
-        return p ? p.label : id;
+        return p ? phaseLabelText(p) : id;
     };
 
     // ---------- Filter pills ----------
     function buildFilters() {
+        filtersEl.innerHTML = '';
         const totalAll = GALLERY_ITEMS.length;
-        const allPill = createPill('all', `Alle`, totalAll);
+        const allPill = createPill('all', t('Alle', 'All'), totalAll);
         filtersEl.appendChild(allPill);
 
         GALLERY_PHASES.forEach(p => {
             const count = GALLERY_ITEMS.filter(i => i.phase === p.id).length;
             if (count === 0) return;
-            const pill = createPill(p.id, p.label, count, p.range);
+            const pill = createPill(p.id, phaseLabelText(p), count, phaseRangeText(p));
             filtersEl.appendChild(pill);
         });
     }
 
     function createPill(id, label, count, range) {
         const btn = document.createElement('button');
-        btn.className = 'filter-pill' + (id === 'all' ? ' active' : '');
+        btn.className = 'filter-pill' + (id === activePhase ? ' active' : '');
         btn.dataset.phase = id;
         btn.innerHTML = `${label}${range ? ` <span class="text-xs opacity-60">(${range})</span>` : ''}<span class="count">${count}</span>`;
         btn.addEventListener('click', () => {
@@ -492,7 +508,11 @@
         const q = searchQuery.trim().toLowerCase();
         return GALLERY_ITEMS.filter(item => {
             if (activePhase !== 'all' && item.phase !== activePhase) return false;
-            if (q && !item.description.toLowerCase().includes(q)) return false;
+            if (q) {
+                const haystack = (item.description + ' ' + (item.description_en || '') + ' ' +
+                    (item.detail || '') + ' ' + (item.detail_en || '')).toLowerCase();
+                if (!haystack.includes(q)) return false;
+            }
             return true;
         });
     }
@@ -552,11 +572,13 @@
 
         if (items.length === 0) {
             empty.style.display = 'block';
-            countEl.textContent = '0 Bilder';
+            countEl.textContent = t('0 Bilder', '0 images');
             return;
         }
         empty.style.display = 'none';
-        countEl.textContent = `${items.length} Bild${items.length === 1 ? '' : 'er'}`;
+        countEl.textContent = isEN()
+            ? `${items.length} image${items.length === 1 ? '' : 's'}`
+            : `${items.length} Bild${items.length === 1 ? '' : 'er'}`;
 
         ensureObserver();
         const cols = columnCount();
@@ -584,7 +606,11 @@
     // In der Detailansicht (Masonry) wird die Reihenfolge durch das Spalten-Layout
     // verändert; deshalb dort eigenständige Texte nutzen, falls vorhanden.
     function captionFor(item) {
-        return (currentView === 'masonry' && item.detail) ? item.detail : item.description;
+        const useDetail = currentView === 'masonry' && (item.detail || item.detail_en);
+        if (useDetail) {
+            return (isEN() && item.detail_en) ? item.detail_en : (item.detail || item.description);
+        }
+        return (isEN() && item.description_en) ? item.description_en : item.description;
     }
 
     function escapeHtml(str) {
@@ -666,9 +692,15 @@
     // ---------- SEO: strukturierte Daten (ImageGallery / ImageObject) ----------
     // Erzeugt für jedes Bild ein ImageObject, damit Suchmaschinen (Google Bilder,
     // Rich Results) Titel, Beschreibung und Bild-URL indexieren können.
+    function itemDescription(item) {
+        return (isEN() && item.description_en) ? item.description_en : item.description;
+    }
+
     function imageName(item) {
-        const firstSentence = (item.description || '').split(/[.–—:]/)[0].trim();
-        return firstSentence ? firstSentence.slice(0, 110) : `Historische Aufnahme ${item.key}`;
+        const src = itemDescription(item) || '';
+        const firstSentence = src.split(/[.–—:]/)[0].trim();
+        return firstSentence ? firstSentence.slice(0, 110)
+            : t(`Historische Aufnahme ${item.key}`, `Historical photograph ${item.key}`);
     }
 
     function injectImageStructuredData() {
@@ -676,8 +708,8 @@
             '@type': 'ImageObject',
             contentUrl: SITE_IMG_BASE + encodeURIComponent(item.file),
             name: imageName(item),
-            caption: item.description,
-            description: item.description,
+            caption: itemDescription(item),
+            description: itemDescription(item),
             representativeOfPage: false,
             isPartOf: 'Adolf-Schlatter-Bildergalerie'
         }));
@@ -685,8 +717,11 @@
         const data = {
             '@context': 'https://schema.org',
             '@type': 'ImageGallery',
-            name: 'Bildergalerie – Adolf Schlatter und seine Familie',
-            description: 'Historische Aufnahmen aus dem Leben Adolf Schlatters und seiner Familie – Kindheit, Studium, Familienleben und Lehrjahre.',
+            name: t('Bildergalerie – Adolf Schlatter und seine Familie', 'Picture Gallery – Adolf Schlatter and his Family'),
+            description: t(
+                'Historische Aufnahmen aus dem Leben Adolf Schlatters und seiner Familie – Kindheit, Studium, Familienleben und Lehrjahre.',
+                'Historical photographs from the life of Adolf Schlatter and his family – childhood, studies, family life and teaching years.'
+            ),
             url: 'https://adolf-schlatter-stiftung.de/pages/bildergalerie.html',
             image: images
         };
@@ -697,10 +732,20 @@
         document.head.appendChild(script);
     }
 
+    // Baut Filter + Raster neu auf (idempotent) und aktualisiert eine offene Lightbox.
+    function renderAll() {
+        buildFilters();
+        render();
+        if (lightbox.classList.contains('open')) showCurrent();
+    }
+
     // ---------- Init ----------
     buildFilters();
     render();
     injectImageStructuredData();
+
+    // Bei Sprachwechsel Filter-Beschriftungen und Bildunterschriften neu rendern.
+    window.addEventListener('i18n:change', renderAll);
 
     // Masonry-Spaltenanzahl an Fensterbreite anpassen (nur bei tatsächlicher Änderung neu rendern).
     let lastColumnCount = columnCount();
@@ -718,12 +763,26 @@
     });
 
     // ---------- Appbar & Footer ----------
+    const FOOTER_DESC_EN = 'Historical picture gallery of Adolf Schlatter and his family.';
+    async function setupFooter() {
+        if (!window.footerManager) return;
+        await window.footerManager.insertFooter('footer-container', {
+            description: t('Historische Bildergalerie zu Adolf Schlatter und seiner Familie.', FOOTER_DESC_EN)
+        });
+        // Beschreibung sprachfähig machen: eigene EN-Übersetzung am Element hinterlegen,
+        // alten DE-Backup entfernen, damit die i18n-Engine sie beim Umschalten korrekt tauscht.
+        const desc = document.getElementById('footer-description');
+        if (desc) {
+            desc.setAttribute('data-en', FOOTER_DESC_EN);
+            desc.removeAttribute('data-de');
+            if (window.I18N) window.I18N.applyTo(desc.parentNode || desc);
+        }
+    }
+
     document.addEventListener('DOMContentLoaded', () => {
         setTimeout(() => {
             if (window.appbarManager) window.appbarManager.insertAppbar('appbar-container');
-            if (window.footerManager) window.footerManager.insertFooter('footer-container', {
-                description: 'Historische Bildergalerie zu Adolf Schlatter und seiner Familie.'
-            });
+            setupFooter();
         }, 50);
     });
 })();

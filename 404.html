@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-en="Page not found – Adolf Schlatter Stiftung">Seite nicht gefunden – Adolf Schlatter Stiftung</title>
+    <meta name="robots" content="noindex,follow">
+    <meta name="description" content="Die angeforderte Seite wurde nicht gefunden." data-en-content="The requested page could not be found.">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script> window.FontAwesomeConfig = { autoReplaceSvg: 'nest'};</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <link rel="stylesheet" href="styles/colors.css">
+    <link rel="stylesheet" href="components/appbar.css">
+
+    <script>tailwind.config = {
+  "theme": {
+    "extend": {
+      "colors": {
+        "primary": "var(--color-primary)",
+        "secondary": "var(--color-secondary)",
+        "accent": "var(--color-accent)",
+        "bg-dark": "var(--color-bg-dark)",
+        "text-primary": "var(--color-text-white)",
+        "text-secondary": "var(--color-text-light)",
+        "appbar-text-primary": "var(--color-text-primary)",
+        "appbar-text-secondary": "var(--color-text-secondary)",
+        "background-light": "var(--color-bg-light)"
+      },
+      "fontFamily": {
+        "headline": ["Merriweather", "serif"],
+        "body": ["Inter", "sans-serif"],
+        "quote": ["Playfair Display", "serif"]
+      }
+    }
+  }
+};</script>
+    <style>
+      ::-webkit-scrollbar { display: none; }
+      body { font-family: 'Inter', sans-serif !important; }
+      .fa, .fas, .far, .fal, .fab { font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands" !important; }
+    </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap">
+
+    <script src="components/i18n.js"></script>
+    <script src="components/seo.js"></script>
+</head>
+<body class="bg-white font-custom">
+
+<div id="appbar-container"></div>
+
+<main class="min-h-[70vh] flex items-center justify-center px-6" style="padding-top: 4rem;">
+    <div class="text-center max-w-xl">
+        <div class="text-7xl font-headline font-bold text-primary mb-4">404</div>
+        <h1 class="text-2xl font-headline font-bold text-primary mb-3" data-en="Page not found">Seite nicht gefunden</h1>
+        <p class="text-gray-500 mb-8" data-en="Sorry, the page you are looking for does not exist or has been moved.">
+            Die gesuchte Seite existiert leider nicht oder wurde verschoben.
+        </p>
+        <div class="flex flex-wrap gap-3 justify-center">
+            <a href="index.html" class="px-5 py-2.5 bg-primary text-white rounded-lg hover:bg-bg-dark transition-colors font-medium" data-en="Back to homepage">Zur Startseite</a>
+            <a href="pages/archiv-interface.html" class="px-5 py-2.5 border border-gray-300 text-primary rounded-lg hover:bg-accent transition-colors font-medium" data-en="To the archive">Zum Archiv</a>
+        </div>
+    </div>
+</main>
+
+<div id="footer-container"></div>
+
+<script src="components/appbar-utils.js"></script>
+<script src="components/footer-utils.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        if (window.appbarManager) window.appbarManager.insertAppbar('appbar-container');
+        if (window.footerManager) window.footerManager.insertFooter('footer-container', {
+            description: "Die Adolf Schlatter Stiftung vergibt seit 2002 Preise zur Förderung theologischer Forschung."
+        });
+    });
+</script>
+</body>
+</html>

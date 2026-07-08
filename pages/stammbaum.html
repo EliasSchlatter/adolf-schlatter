@@ -3,23 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Familie Schlatter – Genealogischer Stammbaum</title>
-    <meta name="description" content="Interaktiver genealogischer Stammbaum der Familie Schlatter ab 1699 mit Adolf Schlatter (1852–1938) und mehreren Generationen von Familienmitgliedern.">
+    <title data-en="Schlatter Family – Genealogical Family Tree">Familie Schlatter – Genealogischer Stammbaum</title>
+    <meta name="description" content="Interaktiver genealogischer Stammbaum der Familie Schlatter ab 1699 mit Adolf Schlatter (1852–1938) und mehreren Generationen von Familienmitgliedern." data-en-content="Interactive genealogical family tree of the Schlatter family from 1699 onwards, featuring Adolf Schlatter (1852–1938) and several generations of family members.">
     <meta name="robots" content="index,follow">
     <link rel="canonical" href="https://adolf-schlatter-stiftung.de/pages/stammbaum.html">
 
     <!-- Open Graph / Social Sharing -->
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Adolf Schlatter Stiftung">
-    <meta property="og:title" content="Familie Schlatter – Genealogischer Stammbaum">
-    <meta property="og:description" content="Entdecken Sie die Familie Schlatter in einem interaktiven Stammbaum über mehrere Generationen.">
+    <meta property="og:title" content="Familie Schlatter – Genealogischer Stammbaum" data-en-content="Schlatter Family – Genealogical Family Tree">
+    <meta property="og:description" content="Entdecken Sie die Familie Schlatter in einem interaktiven Stammbaum über mehrere Generationen." data-en-content="Explore the Schlatter family in an interactive family tree spanning several generations.">
     <meta property="og:url" content="https://adolf-schlatter-stiftung.de/pages/stammbaum.html">
     <meta property="og:image" content="https://adolf-schlatter-stiftung.de/images/SchlatterHeader.png">
 
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Familie Schlatter – Genealogischer Stammbaum">
-    <meta name="twitter:description" content="Visualisierung der Familie Schlatter von Hektor Schlatter (1699) bis zu Adolf Schlatter und seinen Nachkommen.">
+    <meta name="twitter:title" content="Familie Schlatter – Genealogischer Stammbaum" data-en-content="Schlatter Family – Genealogical Family Tree">
+    <meta name="twitter:description" content="Visualisierung der Familie Schlatter von Hektor Schlatter (1699) bis zu Adolf Schlatter und seinen Nachkommen." data-en-content="Visualisation of the Schlatter family from Hektor Schlatter (1699) to Adolf Schlatter and his descendants.">
     <meta name="twitter:image" content="https://adolf-schlatter-stiftung.de/images/SchlatterHeader.png">
     
     <script src="https://cdn.tailwindcss.com"></script>
@@ -190,10 +190,17 @@
             }
         }
     </script>
+    <!-- i18n-seo-static -->
+    <link rel="alternate" hreflang="de" href="https://adolf-schlatter-stiftung.de/pages/stammbaum.html">
+    <link rel="alternate" hreflang="en" href="https://adolf-schlatter-stiftung.de/pages/stammbaum.html?lang=en">
+    <link rel="alternate" hreflang="x-default" href="https://adolf-schlatter-stiftung.de/pages/stammbaum.html">
+    <!-- /i18n-seo-static -->
 </head>
 <body class="bg-white font-body">
 
 <!-- Appbar Utils -->
+<script src="../components/i18n.js"></script>
+<script src="../components/seo.js"></script>
 <script src="../components/appbar-utils.js"></script>
 <!-- Footer Utils -->
 <script src="../components/footer-utils.js"></script>
@@ -207,13 +214,13 @@
         <div class="inline-block bg-secondary/20 backdrop-blur-sm px-6 py-3 rounded-full mb-6">
             <div class="flex items-center space-x-3">
                 <i class="fas fa-sitemap text-secondary text-xl"></i>
-                <span class="text-white font-semibold text-sm uppercase tracking-wide">Familie Schlatter</span>
+                <span class="text-white font-semibold text-sm uppercase tracking-wide" data-en="Schlatter Family">Familie Schlatter</span>
             </div>
         </div>
-        <h1 class="font-headline text-5xl md:text-6xl font-bold text-white mb-4">
+        <h1 class="font-headline text-5xl md:text-6xl font-bold text-white mb-4" data-en="Family Tree">
             Stammbaum
         </h1>
-        <p class="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
+        <p class="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed" data-en="Genealogical family tree from 1699 onwards, featuring Adolf Schlatter (1852–1938)">
             Genealogischer Stammbaum ab 1699 mit Adolf Schlatter (1852–1938)
         </p>
     </div>
@@ -225,17 +232,17 @@
         <div class="flex items-center space-x-6 text-sm">
             <div class="flex items-center space-x-2">
                 <div class="w-4 h-0.5 bg-primary"></div>
-                <span class="text-gray-600">Eheverbindung</span>
+                <span class="text-gray-600" data-en="Marriage">Eheverbindung</span>
             </div>
             <div class="flex items-center space-x-2">
                 <div class="w-4 h-0.5 bg-gray-400"></div>
-                <span class="text-gray-600">Eltern-Kind</span>
+                <span class="text-gray-600" data-en="Parent–child">Eltern-Kind</span>
             </div>
             <div class="flex items-center space-x-2">
-                <span class="text-gray-600">✦ Geburt</span>
+                <span class="text-gray-600" data-en="✦ Birth">✦ Geburt</span>
             </div>
             <div class="flex items-center space-x-2">
-                <span class="text-gray-600">† Tod</span>
+                <span class="text-gray-600" data-en="† Death">† Tod</span>
             </div>
         </div>
     </div>
@@ -255,32 +262,32 @@
         graph: {
             nodes: [
                 // Generation 1
-                { id: "P1", name: "Hektor Schlatter", birth: "1699", death: "1742", generation_depth: 1, occupation: "Zunftmeister, Unterbürgermeister St. Gallen", info: "", gender: "male" },
+                { id: "P1", name: "Hektor Schlatter", birth: "1699", death: "1742", generation_depth: 1, occupation: "Zunftmeister, Unterbürgermeister St. Gallen", occupation_en: "Guild master, Deputy Mayor of St. Gallen", info: "", gender: "male" },
                 { id: "P2", name: "Anna Barbara Vonwiller", birth: "1700", death: "1751", generation_depth: 1, occupation: "", info: "", gender: "female" },
 
                 // Generation 2
-                { id: "P3", name: "Johannes Schlatter", birth: "1729", death: "1813", generation_depth: 2, occupation: "Kaufmann, Hinterm Turm, St. Gallen", info: "", gender: "male" },
-                { id: "P4", name: "Anna Barbara Zollikofer", birth: "1734", death: "1810", generation_depth: 2, occupation: "", info: "Tochter des Kaufmanns und Spitalschreibers David Anton Zollikofer", gender: "female" },
+                { id: "P3", name: "Johannes Schlatter", birth: "1729", death: "1813", generation_depth: 2, occupation: "Kaufmann, Hinterm Turm, St. Gallen", occupation_en: "Merchant, Hinterm Turm, St. Gallen", info: "", gender: "male" },
+                { id: "P4", name: "Anna Barbara Zollikofer", birth: "1734", death: "1810", generation_depth: 2, occupation: "", info: "Tochter des Kaufmanns und Spitalschreibers David Anton Zollikofer", info_en: "Daughter of the merchant and hospital clerk David Anton Zollikofer", gender: "female" },
 
                 // Generation 3 - Hektor mit zwei Frauen
-                { id: "P6", name: "Elisabeth Corrodi", birth: "1767", death: "1793", generation_depth: 3, occupation: "", info: "1. Ehefrau (⚭ 1790)", gender: "female" },
-                { id: "P5", name: "Hektor Schlatter", birth: "1766", death: "1842", generation_depth: 3, occupation: "Kaufmann, Hinterm Turm, St. Gallen", info: "", gender: "male" },
-                { id: "P7", name: "Anna Bernet", birth: "1773", death: "1826", generation_depth: 3, occupation: "", info: "2. Ehefrau (⚭ 1794); Tochter des Ratsherrn Kaspar Bernet", gender: "female" },
+                { id: "P6", name: "Elisabeth Corrodi", birth: "1767", death: "1793", generation_depth: 3, occupation: "", info: "1. Ehefrau (⚭ 1790)", info_en: "1st wife (⚭ 1790)", gender: "female" },
+                { id: "P5", name: "Hektor Schlatter", birth: "1766", death: "1842", generation_depth: 3, occupation: "Kaufmann, Hinterm Turm, St. Gallen", occupation_en: "Merchant, Hinterm Turm, St. Gallen", info: "", gender: "male" },
+                { id: "P7", name: "Anna Bernet", birth: "1773", death: "1826", generation_depth: 3, occupation: "", info: "2. Ehefrau (⚭ 1794); Tochter des Ratsherrn Kaspar Bernet", info_en: "2nd wife (⚭ 1794); daughter of the councillor Kaspar Bernet", gender: "female" },
 
                 // Generation 4 - Sohn aus 1. Ehe (Elisabeth Corrodi)
                 { id: "P8", name: "Johann Melchior Schlatter", birth: "1793", death: "1858", generation_depth: 4, occupation: "", info: "", gender: "male" },
 
                 // Generation 4 - Kinder aus 2. Ehe (Anna Bernet) - chronologisch sortiert
-                { id: "P9", name: "Anonym", birth: null, death: null, generation_depth: 4, occupation: "", info: "jung verstorben", gender: "female" },
+                { id: "P9", name: "Anonym", birth: null, death: null, generation_depth: 4, occupation: "", info: "jung verstorben", info_en: "died young", gender: "female" },
                 { id: "P10", name: "Anna Barbara (\"Babette\") Schlatter", birth: "1795", death: "1840", generation_depth: 4, occupation: "", info: "", gender: "female" },
                 { id: "P11", name: "Kaspar Schlatter", birth: "1796", death: "1862", generation_depth: 4, occupation: "", info: "", gender: "male" },
                 { id: "P12", name: "Kleofea Schlatter", birth: "1797", death: "1860", generation_depth: 4, occupation: "", info: "", gender: "female" },
                 { id: "P13", name: "Margarete Schlatter", birth: "1799", death: "1846", generation_depth: 4, occupation: "", info: "", gender: "female" },
                 { id: "P14", name: "Anna Schlatter", birth: "1800", death: "1853", generation_depth: 4, occupation: "", info: "", gender: "female" },
-                { id: "P15", name: "Helene Schlatter", birth: null, death: null, generation_depth: 4, occupation: "", info: "jung verstorben", gender: "female" },
+                { id: "P15", name: "Helene Schlatter", birth: null, death: null, generation_depth: 4, occupation: "", info: "jung verstorben", info_en: "died young", gender: "female" },
                 { id: "P16", name: "Henriette Schlatter", birth: "1802", death: "1885", generation_depth: 4, occupation: "", info: "", gender: "female" },
-                { id: "P17", name: "Christine Schlatter", birth: null, death: null, generation_depth: 4, occupation: "", info: "jung verstorben", gender: "female" },
-                { id: "P18", name: "Hektor Stephan Schlatter", birth: "13.11.1805", death: "05.07.1880", generation_depth: 4, occupation: "Apotheker, dann Kaufmann, Hinterm Turm, St. Gallen", info: "", gender: "male" },
+                { id: "P17", name: "Christine Schlatter", birth: null, death: null, generation_depth: 4, occupation: "", info: "jung verstorben", info_en: "died young", gender: "female" },
+                { id: "P18", name: "Hektor Stephan Schlatter", birth: "13.11.1805", death: "05.07.1880", generation_depth: 4, occupation: "Apotheker, dann Kaufmann, Hinterm Turm, St. Gallen", occupation_en: "Pharmacist, then merchant, Hinterm Turm, St. Gallen", info: "", gender: "male" },
                 { id: "P19", name: "Johann Jakob Schlatter", birth: "1808", death: "1879", generation_depth: 4, occupation: "", info: "", gender: "male" },
                 { id: "P20", name: "Gottlieb Schlatter", birth: "1809", death: "1887", generation_depth: 4, occupation: "", info: "", gender: "male" },
                 { id: "P21", name: "Marie Christine Schlatter", birth: "1811", death: "1895", generation_depth: 4, occupation: "", info: "", gender: "female" },
@@ -289,36 +296,36 @@
                 { id: "P22", name: "Sara Wilhelmine Steinmann", birth: "04.05.1819", death: "14.06.1894", generation_depth: 4, occupation: "", info: "⚭ 1839", gender: "female" },
 
                 // Generation 5 - Kinder von Hektor Stephan + Sara
-                { id: "P23", name: "Lydia Schlatter", birth: "1840", death: "1899", generation_depth: 5, occupation: "Lehrerin in St. Gallen", info: "", gender: "female" },
-                { id: "P24", name: "Stephan Schlatter", birth: "15.02.1842", death: "01.10.1916", generation_depth: 5, occupation: "", info: "taubstumm", gender: "male" },
-                { id: "P25", name: "Monika Schlatter", birth: "1846", death: "1865", generation_depth: 5, occupation: "Lehrerin", info: "", gender: "female" },
-                { id: "P26", name: "Theodor Schlatter", birth: "27.08.1847", death: "12.09.1918", generation_depth: 5, occupation: "Kaufmann, Hinterm Turm, St. Gallen", info: "Gemeinderat", gender: "male" },
-                { id: "P27", name: "Laura Angelika Schlatter", birth: "1865", death: "1900", generation_depth: 5, occupation: "", info: "Ur-Enkelin von Hektor Schlatter (1766) und Elisabeth Corrodi", gender: "female" },
-                { id: "P28", name: "Wilhelmine Schlatter", birth: "1849", death: "12.03.1924", generation_depth: 5, occupation: "Lehrerin in St. Gallen", info: "", gender: "female" },
-                { id: "P29", name: "Christine Schlatter", birth: "16.10.1850", death: "1941", generation_depth: 5, occupation: "Lehrerin", info: "", gender: "female" },
-                { id: "P30", name: "Adolf Schlatter", birth: "16.08.1852", death: "19.05.1938", generation_depth: 5, occupation: "Theologieprofessor", info: "", gender: "male" },
+                { id: "P23", name: "Lydia Schlatter", birth: "1840", death: "1899", generation_depth: 5, occupation: "Lehrerin in St. Gallen", occupation_en: "Teacher in St. Gallen", info: "", gender: "female" },
+                { id: "P24", name: "Stephan Schlatter", birth: "15.02.1842", death: "01.10.1916", generation_depth: 5, occupation: "", info: "taubstumm", info_en: "deaf-mute", gender: "male" },
+                { id: "P25", name: "Monika Schlatter", birth: "1846", death: "1865", generation_depth: 5, occupation: "Lehrerin", occupation_en: "Teacher", info: "", gender: "female" },
+                { id: "P26", name: "Theodor Schlatter", birth: "27.08.1847", death: "12.09.1918", generation_depth: 5, occupation: "Kaufmann, Hinterm Turm, St. Gallen", occupation_en: "Merchant, Hinterm Turm, St. Gallen", info: "Gemeinderat", info_en: "Local councillor", gender: "male" },
+                { id: "P27", name: "Laura Angelika Schlatter", birth: "1865", death: "1900", generation_depth: 5, occupation: "", info: "Ur-Enkelin von Hektor Schlatter (1766) und Elisabeth Corrodi", info_en: "Great-granddaughter of Hektor Schlatter (1766) and Elisabeth Corrodi", gender: "female" },
+                { id: "P28", name: "Wilhelmine Schlatter", birth: "1849", death: "12.03.1924", generation_depth: 5, occupation: "Lehrerin in St. Gallen", occupation_en: "Teacher in St. Gallen", info: "", gender: "female" },
+                { id: "P29", name: "Christine Schlatter", birth: "16.10.1850", death: "1941", generation_depth: 5, occupation: "Lehrerin", occupation_en: "Teacher", info: "", gender: "female" },
+                { id: "P30", name: "Adolf Schlatter", birth: "16.08.1852", death: "19.05.1938", generation_depth: 5, occupation: "Theologieprofessor", occupation_en: "Theology professor", info: "", gender: "male" },
                 { id: "P31", name: "Susanna Schoop", birth: "23.08.1856", death: "09.07.1907", generation_depth: 5, occupation: "", info: "⚭ 15.01.1878", gender: "female" },
-                { id: "P32", name: "Dora Schlatter", birth: "10.09.1855", death: "25.04.1915", generation_depth: 5, occupation: "Schriftstellerin", info: "", gender: "female" },
-                { id: "P33", name: "Salomon Schlatter", birth: "04.06.1858", death: "01.03.1922", generation_depth: 5, occupation: "Architekt und Künstler", info: "", gender: "male" },
+                { id: "P32", name: "Dora Schlatter", birth: "10.09.1855", death: "25.04.1915", generation_depth: 5, occupation: "Schriftstellerin", occupation_en: "Writer", info: "", gender: "female" },
+                { id: "P33", name: "Salomon Schlatter", birth: "04.06.1858", death: "01.03.1922", generation_depth: 5, occupation: "Architekt und Künstler", occupation_en: "Architect and artist", info: "", gender: "male" },
 
                 // Generation 6 - Tochter von Theodor + Laura
                 { id: "P34", name: "Beatrice (\"Bice\") Schlatter", birth: "14.02.1897", death: "1963", generation_depth: 6, occupation: "", info: "", gender: "female" },
 
                 // Generation 6 - Kinder von Adolf + Susanna
-                { id: "P35", name: "Theodor Adolf Schlatter", birth: "02.06.1885", death: "13.01.1971", generation_depth: 6, occupation: "zuletzt Prälat", info: "", gender: "male" },
+                { id: "P35", name: "Theodor Adolf Schlatter", birth: "02.06.1885", death: "13.01.1971", generation_depth: 6, occupation: "zuletzt Prälat", occupation_en: "latterly prelate", info: "", gender: "male" },
                 { id: "P36", name: "Marie Gundert", birth: "09.10.1888", death: "11.08.1962", generation_depth: 6, occupation: "", info: "⚭ 03.08.1916", gender: "female" },
                 { id: "P37", name: "Hedwig Schlatter", birth: "06.02.1887", death: "29.01.1946", generation_depth: 6, occupation: "", info: "", gender: "female" },
-                { id: "P38", name: "Paul Stefan Schlatter", birth: "22.11.1888", death: "10.10.1914", generation_depth: 6, occupation: "", info: "im 1. WK gefallen", gender: "male" },
+                { id: "P38", name: "Paul Stefan Schlatter", birth: "22.11.1888", death: "10.10.1914", generation_depth: 6, occupation: "", info: "im 1. WK gefallen", info_en: "killed in WWI", gender: "male" },
                 { id: "P39", name: "Dora Schlatter", birth: "22.08.1890", death: "10.10.1969", generation_depth: 6, occupation: "", info: "", gender: "female" },
                 { id: "P40", name: "Maria Ruth Schlatter", birth: "21.05.1893", death: "1962", generation_depth: 6, occupation: "", info: "", gender: "female" },
-                { id: "P41", name: "Friedrich Hinderer", birth: "1883", death: "1968", generation_depth: 6, occupation: "Pfarrer", info: "⚭ 29.05.1916", gender: "male" },
+                { id: "P41", name: "Friedrich Hinderer", birth: "1883", death: "1968", generation_depth: 6, occupation: "Pfarrer", occupation_en: "Pastor", info: "⚭ 29.05.1916", gender: "male" },
 
                 // Generation 7 - Kinder von Theodor Adolf + Marie
-                { id: "P42", name: "Hanna Schlatter", birth: "25.06.1918", death: "27.11.1944", generation_depth: 7, occupation: "Ärztin", info: "gefallen durch Fliegerangriff in Freiburg", gender: "female" },
+                { id: "P42", name: "Hanna Schlatter", birth: "25.06.1918", death: "27.11.1944", generation_depth: 7, occupation: "Ärztin", occupation_en: "Physician", info: "gefallen durch Fliegerangriff in Freiburg", info_en: "killed in an air raid in Freiburg", gender: "female" },
                 { id: "P43", name: "Dora Schlatter", birth: "18.11.1920", death: "03.08.1997", generation_depth: 7, occupation: "", info: "", gender: "female" },
-                { id: "P44", name: "Leonhard Goppelt", birth: "1911", death: "1973", generation_depth: 7, occupation: "Theologieprofessor", info: "⚭ 03.09.1950", gender: "male" },
-                { id: "P45", name: "Gerhard Paul Schlatter", birth: "15.09.1922", death: "09.08.1943", generation_depth: 7, occupation: "", info: "im 2. WK gefallen", gender: "male" },
-                { id: "P46", name: "Theodor Schlatter", birth: "08.12.1926", death: "17.02.2008", generation_depth: 7, occupation: "Dekan", info: "", gender: "male" },
+                { id: "P44", name: "Leonhard Goppelt", birth: "1911", death: "1973", generation_depth: 7, occupation: "Theologieprofessor", occupation_en: "Theology professor", info: "⚭ 03.09.1950", gender: "male" },
+                { id: "P45", name: "Gerhard Paul Schlatter", birth: "15.09.1922", death: "09.08.1943", generation_depth: 7, occupation: "", info: "im 2. WK gefallen", info_en: "killed in WWII", gender: "male" },
+                { id: "P46", name: "Theodor Schlatter", birth: "08.12.1926", death: "17.02.2008", generation_depth: 7, occupation: "Dekan", occupation_en: "Dean", info: "", gender: "male" },
                 { id: "P47", name: "Ruth Hecht", birth: "1929", death: "2022", generation_depth: 7, occupation: "", info: "⚭ 20.11.1954", gender: "female" },
 
                 // Generation 7 - Kinder von Maria Ruth + Friedrich Hinderer
@@ -449,7 +456,14 @@
 
     // ID von Adolf Schlatter (für besondere Hervorhebung)
     const ADOLF_ID = "P30";
-    
+
+    // Sprachhelfer (defensiv gegen fehlendes I18N)
+    const t = (de, en) => (window.I18N ? window.I18N.t(de, en) : de);
+    const isEN = () => !!(window.I18N && window.I18N.lang === 'en');
+    // Sprachabhängige Auswahl der Datenfelder (Fallback auf Deutsch)
+    const occ = (d) => ((isEN() && d.occupation_en) ? d.occupation_en : (d.occupation || ''));
+    const inf = (d) => ((isEN() && d.info_en) ? d.info_en : (d.info || ''));
+
     const svg = d3.select("#tree");
     const svgElement = document.getElementById("tree");
     const height = 1400; // Vergrößerte Höhe für größere Container
@@ -458,7 +472,10 @@
     function renderTree() {
         const nodes = familyData.graph.nodes;
         const edges = familyData.graph.edges;
-        
+
+        // Idempotent: vorhandene Zeichnung entfernen, damit Re-Render (Sprachwechsel) sauber ist
+        svg.selectAll("*").remove();
+
         // Berechne benötigte Breite basierend auf der größten Generation
         const generationsTemp = d3.group(nodes, d => d.generation_depth);
         let maxPersonsInGen = 0;
@@ -811,8 +828,8 @@
         });
     
     // Zeichne Beruf (mit automatischem Zeilenumbruch, kein Trimming)
-    nodes.filter(d => d.occupation && d.occupation.length > 0).forEach(d => {
-        const occupation = d.occupation;
+    nodes.filter(d => occ(d).length > 0).forEach(d => {
+        const occupation = occ(d);
         const maxCharsPerLine = 30;
         const nameOffset = nameTwoLines.has(d.id) ? 8 : 0; // +8px wenn Name zweizeilig
         
@@ -904,28 +921,29 @@
     });
     
     // Zeichne Zusatz-Info (mit automatischem Zeilenumbruch)
-    nodes.filter(d => d.info && d.info.length > 0).forEach(d => {
-        const location = d.info;
+    nodes.filter(d => inf(d).length > 0).forEach(d => {
+        const location = inf(d);
+        const occupationText = occ(d);
         const maxCharsPerLine = 35;
         const nameOffset = nameTwoLines.has(d.id) ? 8 : 0;
-        
+
         // Berechne Y-Position basierend darauf, ob es eine Occupation gibt
-        const hasOccupation = d.occupation && d.occupation.length > 0;
+        const hasOccupation = occupationText.length > 0;
         let baseY;
-        
+
         if (!hasOccupation) {
             // Keine Occupation: direkt nach Lebensdaten
             baseY = d.y + 8 + nameOffset;
         } else {
             // Mit Occupation: mindestens 20px nach Lebensdaten, damit genug Platz ist
-            if (d.occupation.length <= 30) {
+            if (occupationText.length <= 30) {
                 // Kurze occupation (1 Zeile)
                 baseY = d.y + 20 + nameOffset;
             } else {
                 // Längere occupation (2+ Zeilen)
-                const commaIndex = d.occupation.indexOf(',');
+                const commaIndex = occupationText.indexOf(',');
                 if (commaIndex > 0 && commaIndex <= 30) {
-                    const rest = d.occupation.substring(commaIndex + 1).trim();
+                    const rest = occupationText.substring(commaIndex + 1).trim();
                     if (rest.length > 30) {
                         baseY = d.y + 32 + nameOffset; // 3 Zeilen occupation
                     } else {
@@ -1004,14 +1022,24 @@
     // Initial render
     renderTree();
 
-    // Scrolle horizontal in die Mitte, damit der breite Baum zentriert sichtbar ist
-    setTimeout(() => {
+    // Horizontal zentrieren, damit der breite Baum mittig sichtbar ist
+    function centerTree() {
         const container = document.getElementById('tree-container');
+        if (!container) return;
         const svgWidth = svgElement.getBoundingClientRect().width;
         const containerWidth = container.clientWidth;
         const scrollPosition = (svgWidth - containerWidth) / 2;
         if (scrollPosition > 0) container.scrollLeft = scrollPosition;
-    }, 50);
+    }
+
+    // Scrolle horizontal in die Mitte, damit der breite Baum zentriert sichtbar ist
+    setTimeout(centerTree, 50);
+
+    // Bei Sprachwechsel den Baum mit den aktuellen (sprachabhängigen) Daten neu aufbauen
+    window.addEventListener('i18n:change', () => {
+        renderTree();
+        setTimeout(centerTree, 50);
+    });
     
     // Appbar und Footer laden
     document.addEventListener('DOMContentLoaded', function() {
@@ -1022,7 +1050,10 @@
             
             if (window.footerManager) {
                 window.footerManager.insertFooter('footer-container', {
-                    description: "Genealogischer Stammbaum der Familie Schlatter ab 1699 mit Fokus auf Adolf Schlatter (1852–1938) und seinen Nachkommen bis zu den Urenkeln"
+                    description: t(
+                        "Genealogischer Stammbaum der Familie Schlatter ab 1699 mit Fokus auf Adolf Schlatter (1852–1938) und seinen Nachkommen bis zu den Urenkeln",
+                        "Genealogical family tree of the Schlatter family from 1699 onwards, focusing on Adolf Schlatter (1852–1938) and his descendants down to the great-grandchildren"
+                    )
                 });
             }
         }, 50);
@@ -1035,11 +1066,11 @@
         <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
             <div class="bg-gradient-to-br from-secondary/10 to-orange-100 rounded-xl shadow-sm p-6 text-center border border-secondary/20">
                 <div class="text-4xl font-bold text-secondary mb-2">8</div>
-                <div class="text-sm font-medium text-text-secondary">Generationen</div>
+                <div class="text-sm font-medium text-text-secondary" data-en="Generations">Generationen</div>
             </div>
             <div class="bg-gradient-to-br from-blue-50 to-blue-100 rounded-xl shadow-sm p-6 text-center border border-blue-200">
                 <div class="text-4xl font-bold text-blue-600 mb-2">1699</div>
-                <div class="text-sm font-medium text-text-secondary">Beginn</div>
+                <div class="text-sm font-medium text-text-secondary" data-en="Beginning">Beginn</div>
             </div>
             <div class="bg-gradient-to-br from-secondary/10 to-orange-100 rounded-xl shadow-sm p-6 text-center border border-secondary/20">
                 <div class="text-4xl font-bold text-secondary mb-2">1852</div>
@@ -1047,7 +1078,7 @@
             </div>
             <div class="bg-gradient-to-br from-purple-50 to-purple-100 rounded-xl shadow-sm p-6 text-center border border-purple-200">
                 <div class="text-4xl font-bold text-purple-600 mb-2">54</div>
-                <div class="text-sm font-medium text-text-secondary">Personen erfasst</div>
+                <div class="text-sm font-medium text-text-secondary" data-en="People recorded">Personen erfasst</div>
             </div>
         </div>
     </div>
