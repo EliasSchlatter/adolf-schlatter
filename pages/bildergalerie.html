@@ -389,14 +389,6 @@
                 <i class="fas fa-search absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 text-sm"></i>
                 <input type="text" id="gallery-search" class="search-input" placeholder="Suche in Bildunterschriften…" />
             </div>
-            <div class="view-tabs" role="tablist" aria-label="Ansicht wählen">
-                <button class="view-tab active" data-view="masonry" role="tab" aria-selected="true">
-                    <i class="fas fa-th-large"></i><span>Detailansicht</span>
-                </button>
-                <button class="view-tab" data-view="grid" role="tab" aria-selected="false">
-                    <i class="fas fa-th"></i><span>Galerie-Raster</span>
-                </button>
-            </div>
         </div>
     </div>
 </section>
@@ -513,17 +505,41 @@
         return 1;
     }
 
-    function createCard(item, idx) {
+    // Bilder außerhalb des Sichtbereichs erst laden, wenn sie sich dem Viewport nähern.
+    let imgObserver = null;
+    function ensureObserver() {
+        if (imgObserver) {
+            imgObserver.disconnect();
+            return;
+        }
+        imgObserver = new IntersectionObserver((entries, obs) => {
+            entries.forEach(entry => {
+                if (!entry.isIntersecting) return;
+                const img = entry.target;
+                img.src = img.dataset.src;
+                img.removeAttribute('data-src');
+                obs.unobserve(img);
+            });
+        }, { rootMargin: '400px 0px' });
+    }
+
+    function createCard(item, idx, eager) {
         const caption = captionFor(item);
+        const url = `${IMG_BASE}${encodeURIComponent(item.file)}`;
         const card = document.createElement('div');
         card.className = 'gallery-card entering';
         card.style.animationDelay = `${Math.min(idx * 15, 600)}ms`;
+        // Sichtbare Bilder sofort und mit hoher Priorität, restliche via Observer nachladen.
+        const imgAttr = eager
+            ? `src="${url}" fetchpriority="high"`
+            : `data-src="${url}" fetchpriority="low"`;
         card.innerHTML = `
             <span class="phase-badge">${phaseLabel(item.phase)}</span>
-            <img loading="lazy" src="${IMG_BASE}${encodeURIComponent(item.file)}" alt="${escapeHtml(caption.slice(0, 80))}" />
+            <img decoding="async" ${imgAttr} alt="${escapeHtml(caption.slice(0, 80))}" />
             <div class="caption">${escapeHtml(caption)}</div>
         `;
         card.addEventListener('click', () => openLightbox(idx));
+        if (!eager) imgObserver.observe(card.querySelector('img'));
         return card;
     }
 
@@ -540,10 +556,14 @@
         empty.style.display = 'none';
         countEl.textContent = `${items.length} Bild${items.length === 1 ? '' : 'er'}`;
 
+        ensureObserver();
+        const cols = columnCount();
+        // Ungefähr die ersten sichtbaren Reihen sofort laden (zwei Reihen bzw. 8 im Raster).
+        const eagerCount = currentView === 'grid' ? 8 : cols * 2;
+
         if (currentView === 'masonry') {
             // Karten reihenweise (links→rechts) auf Spalten verteilen,
             // damit die Lesereihenfolge der Nummerierung entspricht.
-            const cols = columnCount();
             const colEls = [];
             for (let c = 0; c < cols; c++) {
                 const col = document.createElement('div');
@@ -552,10 +572,10 @@
                 colEls.push(col);
             }
             items.forEach((item, idx) => {
-                colEls[idx % cols].appendChild(createCard(item, idx));
+                colEls[idx % cols].appendChild(createCard(item, idx, idx < eagerCount));
             });
         } else {
-            items.forEach((item, idx) => grid.appendChild(createCard(item, idx)));
+            items.forEach((item, idx) => grid.appendChild(createCard(item, idx, idx < eagerCount)));
         }
     }
 
