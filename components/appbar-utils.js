@@ -468,13 +468,12 @@ class AppbarManager {
                                                 <h3 class="font-semibold text-primary mb-1">Stammbaum</h3>
                                             </div>
                                         </a>
-                                        <a href="#" class="flex items-start space-x-4 p-3 rounded-lg hover:bg-accent transition-colors group opacity-50 cursor-not-allowed">
-                                            <div class="w-12 h-12 bg-gradient-to-br from-secondary/10 to-primary/10 rounded-lg flex items-center justify-center">
+                                        <a href="${prefix}pages/bildergalerie.html" class="flex items-center space-x-4 p-3 rounded-lg hover:bg-accent transition-colors group">
+                                            <div class="w-12 h-12 bg-gradient-to-br from-secondary/10 to-primary/10 rounded-lg flex items-center justify-center group-hover:from-secondary/20 group-hover:to-primary/20 transition-colors">
                                                 <i class="fas fa-images text-secondary"></i>
                                             </div>
                                             <div>
-                                                <h3 class="font-semibold text-gray-500 mb-1">Bildergalerie</h3>
-                                                <p class="text-sm text-gray-400">Bald verfügbar</p>
+                                                <h3 class="font-semibold text-primary mb-1">Bildergalerie</h3>
                                             </div>
                                         </a>
                                     </div>
@@ -516,6 +515,7 @@ class AppbarManager {
                                 <a href="${prefix}pages/archiv-interface.html#nachlass" class="block text-text-secondary hover:text-primary transition-colors break-words">Nachlassübersicht</a>
                                 <a href="${prefix}pages/schlatter_timeline.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Biographie-Timeline</a>
                                 <a href="${prefix}pages/stammbaum.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Stammbaum</a>
+                                <a href="${prefix}pages/bildergalerie.html" class="block text-text-secondary hover:text-primary transition-colors break-words">Bildergalerie</a>
                             </div>
                         </div>
                         <div>

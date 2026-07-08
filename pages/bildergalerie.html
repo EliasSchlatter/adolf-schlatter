@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bildergalerie – Adolf Schlatter Stiftung</title>
+    <meta name="description" content="Bildergalerie zur Familie Adolf Schlatters mit über 100 historischen Aufnahmen aus Kindheit, Studium, Familienleben und Lehrjahren in Tübingen.">
+    <meta name="robots" content="index,follow">
+    <link rel="canonical" href="https://adolf-schlatter-stiftung.de/pages/bildergalerie.html">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Adolf Schlatter Stiftung">
+    <meta property="og:title" content="Bildergalerie – Adolf Schlatter Stiftung">
+    <meta property="og:description" content="Über 100 historische Aufnahmen zum Leben Adolf Schlatters und seiner Familie.">
+    <meta property="og:url" content="https://adolf-schlatter-stiftung.de/pages/bildergalerie.html">
+    <meta property="og:image" content="https://adolf-schlatter-stiftung.de/images/SchlatterHeader.png">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <link rel="stylesheet" href="../styles/colors.css">
+    <link rel="stylesheet" href="../components/appbar.css">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+
+        ::-webkit-scrollbar { width: 8px; height: 8px; }
+        ::-webkit-scrollbar-track { background: var(--color-scrollbar-track); }
+        ::-webkit-scrollbar-thumb { background: var(--color-scrollbar-thumb); border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: var(--color-scrollbar-thumb-hover); }
+
+        /* === Gallery Grid – shared card styles === */
+        .gallery-card {
+            background: #fff;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+            transition: transform 0.25s ease, box-shadow 0.25s ease;
+            cursor: pointer;
+            position: relative;
+            display: block;
+        }
+        .gallery-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 28px rgba(0, 0, 0, 0.15);
+        }
+        .gallery-card img {
+            display: block;
+            width: 100%;
+            background: #f3f4f6;
+        }
+        .gallery-card .phase-badge {
+            position: absolute;
+            top: 0.75rem;
+            left: 0.75rem;
+            background: rgba(255, 255, 255, 0.92);
+            backdrop-filter: blur(6px);
+            color: var(--color-primary);
+            font-size: 0.7rem;
+            font-weight: 600;
+            padding: 0.25rem 0.6rem;
+            border-radius: 999px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+            letter-spacing: 0.02em;
+            z-index: 2;
+        }
+
+        /* === View: Masonry (CSS columns, captions visible below image) === */
+        .gallery-grid.view-masonry {
+            column-count: 1;
+            column-gap: 1.25rem;
+        }
+        @media (min-width: 640px)  { .gallery-grid.view-masonry { column-count: 2; } }
+        @media (min-width: 1024px) { .gallery-grid.view-masonry { column-count: 3; } }
+        @media (min-width: 1536px) { .gallery-grid.view-masonry { column-count: 4; } }
+        .gallery-grid.view-masonry .gallery-card {
+            break-inside: avoid;
+            margin-bottom: 1.25rem;
+        }
+        .gallery-grid.view-masonry .gallery-card img {
+            height: auto;
+        }
+        .gallery-grid.view-masonry .gallery-card .caption {
+            padding: 0.75rem 1rem 1rem;
+            font-size: 0.85rem;
+            line-height: 1.4;
+            color: var(--color-text-secondary);
+        }
+
+        /* === View: Uniform rectangles (CSS grid, cover-fit, caption on hover) === */
+        .gallery-grid.view-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+            gap: 0.85rem;
+        }
+        .gallery-grid.view-grid .gallery-card {
+            aspect-ratio: 4 / 3;
+            overflow: hidden;
+            background: #f1f3f5;
+            isolation: isolate;
+        }
+        .gallery-grid.view-grid .gallery-card img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            border-radius: inherit;
+        }
+        .gallery-grid.view-grid .gallery-card .caption {
+            position: absolute;
+            left: 0; right: 0; bottom: 0;
+            padding: 2.25rem 0.9rem 0.85rem;
+            background: linear-gradient(to top, rgba(0,0,0,0.88) 0%, rgba(0,0,0,0.6) 55%, rgba(0,0,0,0) 100%);
+            color: #fff;
+            font-size: 0.78rem;
+            line-height: 1.35;
+            opacity: 0;
+            transform: translateY(8px);
+            transition: opacity 0.25s ease, transform 0.25s ease;
+            pointer-events: none;
+            display: -webkit-box;
+            -webkit-line-clamp: 4;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .gallery-grid.view-grid .gallery-card:hover .caption {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* fade-in on appearance (after filtering) */
+        .gallery-card.entering {
+            animation: card-in 0.35s ease both;
+        }
+        @keyframes card-in {
+            from { opacity: 0; transform: translateY(8px); }
+            to   { opacity: 1; transform: translateY(0); }
+        }
+
+        /* === View tabs === */
+        .view-tabs {
+            display: inline-flex;
+            background: #fff;
+            border: 1px solid var(--color-border, #e5e7eb);
+            border-radius: 999px;
+            padding: 4px;
+            gap: 2px;
+        }
+        .view-tab {
+            display: flex;
+            align-items: center;
+            gap: 0.45rem;
+            padding: 0.4rem 0.95rem;
+            border: none;
+            background: transparent;
+            border-radius: 999px;
+            cursor: pointer;
+            font-size: 0.85rem;
+            color: var(--color-text-secondary);
+            font-weight: 500;
+            transition: background 0.2s, color 0.2s;
+        }
+        .view-tab:hover { color: var(--color-primary); }
+        .view-tab.active {
+            background: var(--color-primary);
+            color: #fff;
+        }
+        .view-tab i { font-size: 0.8rem; }
+
+        /* === Filter pills === */
+        .filter-pill {
+            padding: 0.45rem 1rem;
+            font-size: 0.875rem;
+            font-weight: 500;
+            border-radius: 999px;
+            border: 1px solid var(--color-border, #e5e7eb);
+            color: var(--color-text-secondary);
+            background: #fff;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            white-space: nowrap;
+        }
+        .filter-pill:hover {
+            border-color: var(--color-primary);
+            color: var(--color-primary);
+        }
+        .filter-pill.active {
+            background: var(--color-primary);
+            color: #fff;
+            border-color: var(--color-primary);
+        }
+        .filter-pill .count {
+            margin-left: 0.35rem;
+            opacity: 0.7;
+            font-size: 0.75rem;
+        }
+
+        /* === Lightbox === */
+        .lightbox {
+            position: fixed;
+            inset: 0;
+            background: rgba(15, 23, 42, 0.94);
+            z-index: 1000;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            padding: 1rem;
+            opacity: 0;
+            transition: opacity 0.25s ease;
+        }
+        .lightbox.open {
+            display: flex;
+            opacity: 1;
+        }
+        .lightbox-inner {
+            position: relative;
+            max-width: 1200px;
+            width: 100%;
+            max-height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .lightbox-image-wrap {
+            position: relative;
+            flex: 1;
+            min-height: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+        }
+        .lightbox-image {
+            max-width: 100%;
+            max-height: calc(100vh - 200px);
+            object-fit: contain;
+            border-radius: 8px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+            background: #111;
+        }
+        .lightbox-caption {
+            color: #e5e7eb;
+            font-size: 0.95rem;
+            line-height: 1.55;
+            margin-top: 1rem;
+            text-align: center;
+            max-width: 900px;
+            padding: 0 1rem;
+        }
+        .lightbox-meta {
+            color: #94a3b8;
+            font-size: 0.8rem;
+            margin-top: 0.75rem;
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .lightbox-btn {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 50px;
+            height: 50px;
+            border-radius: 999px;
+            background: rgba(255, 255, 255, 0.12);
+            backdrop-filter: blur(8px);
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            font-size: 1.2rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background 0.2s ease, transform 0.15s ease;
+        }
+        .lightbox-btn:hover {
+            background: rgba(255, 255, 255, 0.25);
+        }
+        .lightbox-btn:active { transform: translateY(-50%) scale(0.95); }
+        .lightbox-btn.prev { left: -70px; }
+        .lightbox-btn.next { right: -70px; }
+        @media (max-width: 1340px) {
+            .lightbox-btn.prev { left: 10px; }
+            .lightbox-btn.next { right: 10px; }
+        }
+        .lightbox-close {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            width: 44px;
+            height: 44px;
+            border-radius: 999px;
+            background: rgba(255, 255, 255, 0.12);
+            backdrop-filter: blur(8px);
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            font-size: 1.1rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 2;
+            transition: background 0.2s ease;
+        }
+        .lightbox-close:hover { background: rgba(255, 255, 255, 0.25); }
+
+        /* No-results state */
+        #gallery-empty {
+            padding: 4rem 1rem;
+            text-align: center;
+            color: var(--color-text-secondary);
+        }
+
+        /* Search box */
+        .search-input {
+            width: 100%;
+            padding: 0.65rem 1rem 0.65rem 2.5rem;
+            border: 1px solid var(--color-border, #e5e7eb);
+            border-radius: 999px;
+            font-size: 0.9rem;
+            background: #fff;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+        .search-input:focus {
+            outline: none;
+            border-color: var(--color-primary);
+            box-shadow: 0 0 0 3px rgba(var(--color-primary-rgb, 30,58,138), 0.12);
+        }
+    </style>
+
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "var(--color-primary)",
+                        "secondary": "var(--color-secondary)",
+                        "accent": "var(--color-accent)",
+                        "text-primary": "var(--color-text-primary)",
+                        "text-secondary": "var(--color-text-secondary)",
+                        "bg-light": "var(--color-bg-light)",
+                        "bg-dark": "var(--color-bg-dark)"
+                    },
+                    fontFamily: {
+                        'headline': ['Merriweather', 'serif'],
+                        'body': ['Inter', 'sans-serif']
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-white font-body">
+
+<script src="../components/appbar-utils.js"></script>
+<script src="../components/footer-utils.js"></script>
+
+<div id="appbar-container"></div>
+
+<!-- Hero Banner -->
+<section style="background: var(--gradient-header-primary); min-height: 480px; display: flex; align-items: center;">
+    <div class="max-w-7xl mx-auto px-6 py-20 text-center w-full">
+        <div class="inline-block bg-secondary/20 backdrop-blur-sm px-6 py-3 rounded-full mb-6">
+            <div class="flex items-center space-x-3">
+                <i class="fas fa-images text-secondary text-xl"></i>
+                <span class="text-white font-semibold text-sm uppercase tracking-wide">Bildergalerie</span>
+            </div>
+        </div>
+        <h1 class="font-headline text-5xl md:text-6xl font-bold text-white mb-4">
+            Adolf Schlatter in Bildern
+        </h1>
+        <p class="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
+            Über 100 historische Aufnahmen aus Familie, Studium, Lehrjahren und Spätwerk – chronologisch nach Lebensphasen.
+        </p>
+    </div>
+</section>
+
+<!-- Controls: Phase-Filter + Search -->
+<section class="bg-white border-b border-gray-200 sticky top-0 z-30" style="backdrop-filter: blur(8px); background: rgba(255,255,255,0.95);">
+    <div class="max-w-7xl mx-auto px-6 py-4 space-y-4">
+        <div class="flex flex-wrap items-center gap-2" id="phase-filters">
+            <!-- Filter pills inserted by JS -->
+        </div>
+        <div class="flex flex-wrap items-center justify-between gap-4">
+            <div class="relative flex-1 max-w-md">
+                <i class="fas fa-search absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 text-sm"></i>
+                <input type="text" id="gallery-search" class="search-input" placeholder="Suche in Bildunterschriften…" />
+            </div>
+            <div class="view-tabs" role="tablist" aria-label="Ansicht wählen">
+                <button class="view-tab active" data-view="masonry" role="tab" aria-selected="true">
+                    <i class="fas fa-th-large"></i><span>Detailansicht</span>
+                </button>
+                <button class="view-tab" data-view="grid" role="tab" aria-selected="false">
+                    <i class="fas fa-th"></i><span>Galerie-Raster</span>
+                </button>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Gallery Grid -->
+<section class="bg-bg-light min-h-screen">
+    <div class="max-w-7xl mx-auto px-6 py-10">
+        <div id="gallery-count" class="text-sm text-text-secondary mb-4"></div>
+        <div id="gallery-grid" class="gallery-grid view-masonry"></div>
+        <div id="gallery-empty" style="display:none;">
+            <i class="fas fa-image text-5xl text-gray-300 mb-4"></i>
+            <p>Keine Bilder gefunden.</p>
+        </div>
+    </div>
+</section>
+
+<!-- Lightbox -->
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Bildansicht">
+    <button class="lightbox-close" id="lightbox-close" aria-label="Schließen">
+        <i class="fas fa-times"></i>
+    </button>
+    <div class="lightbox-inner">
+        <div class="lightbox-image-wrap">
+            <button class="lightbox-btn prev" id="lightbox-prev" aria-label="Vorheriges Bild">
+                <i class="fas fa-chevron-left"></i>
+            </button>
+            <img class="lightbox-image" id="lightbox-image" alt="" />
+            <button class="lightbox-btn next" id="lightbox-next" aria-label="Nächstes Bild">
+                <i class="fas fa-chevron-right"></i>
+            </button>
+        </div>
+        <div class="lightbox-caption" id="lightbox-caption"></div>
+        <div class="lightbox-meta" id="lightbox-meta"></div>
+    </div>
+</div>
+
+<!-- Footer -->
+<div id="footer-container"></div>
+
+<!-- Data + App scripts -->
+<script src="gallery-data.js"></script>
+<script>
+(function() {
+    const grid       = document.getElementById('gallery-grid');
+    const empty      = document.getElementById('gallery-empty');
+    const filtersEl  = document.getElementById('phase-filters');
+    const searchEl   = document.getElementById('gallery-search');
+    const countEl    = document.getElementById('gallery-count');
+    const lightbox   = document.getElementById('lightbox');
+    const lbImage    = document.getElementById('lightbox-image');
+    const lbCaption  = document.getElementById('lightbox-caption');
+    const lbMeta     = document.getElementById('lightbox-meta');
+    const lbClose    = document.getElementById('lightbox-close');
+    const lbPrev     = document.getElementById('lightbox-prev');
+    const lbNext     = document.getElementById('lightbox-next');
+
+    const IMG_BASE = '../images/schlatterBilder/';
+
+    let activePhase = 'all';
+    let searchQuery = '';
+    let currentView = 'masonry';
+    let currentList = [];
+    let currentIndex = 0;
+
+    const phaseLabel = (id) => {
+        const p = GALLERY_PHASES.find(p => p.id === id);
+        return p ? p.label : id;
+    };
+
+    // ---------- Filter pills ----------
+    function buildFilters() {
+        const totalAll = GALLERY_ITEMS.length;
+        const allPill = createPill('all', `Alle`, totalAll);
+        filtersEl.appendChild(allPill);
+
+        GALLERY_PHASES.forEach(p => {
+            const count = GALLERY_ITEMS.filter(i => i.phase === p.id).length;
+            if (count === 0) return;
+            const pill = createPill(p.id, p.label, count, p.range);
+            filtersEl.appendChild(pill);
+        });
+    }
+
+    function createPill(id, label, count, range) {
+        const btn = document.createElement('button');
+        btn.className = 'filter-pill' + (id === 'all' ? ' active' : '');
+        btn.dataset.phase = id;
+        btn.innerHTML = `${label}${range ? ` <span class="text-xs opacity-60">(${range})</span>` : ''}<span class="count">${count}</span>`;
+        btn.addEventListener('click', () => {
+            activePhase = id;
+            filtersEl.querySelectorAll('.filter-pill').forEach(p => p.classList.toggle('active', p.dataset.phase === id));
+            render();
+        });
+        return btn;
+    }
+
+    // ---------- Filtering ----------
+    function filteredItems() {
+        const q = searchQuery.trim().toLowerCase();
+        return GALLERY_ITEMS.filter(item => {
+            if (activePhase !== 'all' && item.phase !== activePhase) return false;
+            if (q && !item.description.toLowerCase().includes(q)) return false;
+            return true;
+        });
+    }
+
+    // ---------- Render grid ----------
+    function render() {
+        const items = filteredItems();
+        currentList = items;
+        grid.innerHTML = '';
+
+        if (items.length === 0) {
+            empty.style.display = 'block';
+            countEl.textContent = '0 Bilder';
+            return;
+        }
+        empty.style.display = 'none';
+        countEl.textContent = `${items.length} Bild${items.length === 1 ? '' : 'er'}`;
+
+        items.forEach((item, idx) => {
+            const caption = captionFor(item);
+            const card = document.createElement('div');
+            card.className = 'gallery-card entering';
+            card.style.animationDelay = `${Math.min(idx * 15, 600)}ms`;
+            card.innerHTML = `
+                <span class="phase-badge">${phaseLabel(item.phase)}</span>
+                <img loading="lazy" src="${IMG_BASE}${encodeURIComponent(item.file)}" alt="${escapeHtml(caption.slice(0, 80))}" />
+                <div class="caption">${escapeHtml(caption)}</div>
+            `;
+            card.addEventListener('click', () => openLightbox(idx));
+            grid.appendChild(card);
+        });
+    }
+
+    // In der Detailansicht (Masonry) wird die Reihenfolge durch das Spalten-Layout
+    // verändert; deshalb dort eigenständige Texte nutzen, falls vorhanden.
+    function captionFor(item) {
+        return (currentView === 'masonry' && item.detail) ? item.detail : item.description;
+    }
+
+    function escapeHtml(str) {
+        return str.replace(/[&<>"']/g, c => ({
+            '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+        }[c]));
+    }
+
+    // ---------- Lightbox ----------
+    function openLightbox(index) {
+        currentIndex = index;
+        showCurrent();
+        lightbox.classList.add('open');
+        document.body.style.overflow = 'hidden';
+    }
+    function closeLightbox() {
+        lightbox.classList.remove('open');
+        document.body.style.overflow = '';
+    }
+    function showCurrent() {
+        const item = currentList[currentIndex];
+        if (!item) return;
+        const caption = captionFor(item);
+        lbImage.src = IMG_BASE + encodeURIComponent(item.file);
+        lbImage.alt = caption.slice(0, 120);
+        lbCaption.textContent = caption;
+        const metaParts = [
+            `<i class="fas fa-tag"></i> ${phaseLabel(item.phase)}`,
+            `<i class="fas fa-hashtag"></i> ${item.key}`,
+            `<i class="fas fa-images"></i> ${currentIndex + 1} / ${currentList.length}`
+        ];
+        lbMeta.innerHTML = metaParts.join('');
+    }
+    function next() {
+        currentIndex = (currentIndex + 1) % currentList.length;
+        showCurrent();
+    }
+    function prev() {
+        currentIndex = (currentIndex - 1 + currentList.length) % currentList.length;
+        showCurrent();
+    }
+
+    lbClose.addEventListener('click', closeLightbox);
+    lbNext.addEventListener('click', next);
+    lbPrev.addEventListener('click', prev);
+    lightbox.addEventListener('click', (e) => { if (e.target === lightbox) closeLightbox(); });
+
+    document.addEventListener('keydown', (e) => {
+        if (!lightbox.classList.contains('open')) return;
+        if (e.key === 'Escape') closeLightbox();
+        else if (e.key === 'ArrowRight') next();
+        else if (e.key === 'ArrowLeft') prev();
+    });
+
+    // ---------- Search ----------
+    let searchTimer = null;
+    searchEl.addEventListener('input', (e) => {
+        clearTimeout(searchTimer);
+        searchTimer = setTimeout(() => {
+            searchQuery = e.target.value;
+            render();
+        }, 150);
+    });
+
+    // ---------- View tabs ----------
+    document.querySelectorAll('.view-tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+            const view = tab.dataset.view;
+            if (view === currentView) return;
+            currentView = view;
+            document.querySelectorAll('.view-tab').forEach(t => {
+                const active = t === tab;
+                t.classList.toggle('active', active);
+                t.setAttribute('aria-selected', active ? 'true' : 'false');
+            });
+            grid.className = `gallery-grid view-${currentView}`;
+            render();
+        });
+    });
+
+    // ---------- Init ----------
+    buildFilters();
+    render();
+
+    // ---------- Appbar & Footer ----------
+    document.addEventListener('DOMContentLoaded', () => {
+        setTimeout(() => {
+            if (window.appbarManager) window.appbarManager.insertAppbar('appbar-container');
+            if (window.footerManager) window.footerManager.insertFooter('footer-container', {
+                description: 'Historische Bildergalerie zu Adolf Schlatter und seiner Familie.'
+            });
+        }, 50);
+    });
+})();
+</script>
+
+</body>
+</html>

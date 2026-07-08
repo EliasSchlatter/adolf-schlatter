@@ -219,26 +219,13 @@
     </div>
 </section>
 
-<!-- Stammbaum Controls -->
+<!-- Stammbaum Legende -->
 <div class="bg-white border-b border-gray-200 px-6 py-4">
-    <div class="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-4">
-        <div class="inline-flex rounded-lg border border-gray-300 bg-white p-1" role="group">
-            <button id="btn-hauptlinie" class="px-6 py-2 text-sm font-medium rounded-md transition-colors text-white bg-primary">
-                Hauptlinie
-            </button>
-            <button id="btn-vollstaendig" class="px-6 py-2 text-sm font-medium rounded-md transition-colors text-gray-700 hover:bg-gray-100">
-                Vollständig
-            </button>
-        </div>
-        
+    <div class="max-w-7xl mx-auto flex flex-wrap items-center justify-end gap-4">
         <div class="flex items-center space-x-6 text-sm">
             <div class="flex items-center space-x-2">
                 <div class="w-4 h-0.5 bg-primary"></div>
                 <span class="text-gray-600">Eheverbindung</span>
-            </div>
-            <div class="flex items-center space-x-2">
-                <div class="w-4 h-0.5 bg-gray-400" style="border-top: 2px dashed #9ca3af;"></div>
-                <span class="text-gray-600">Geschieden</span>
             </div>
             <div class="flex items-center space-x-2">
                 <div class="w-4 h-0.5 bg-gray-400"></div>
@@ -262,226 +249,206 @@
 </div>
 
 <script>
-    // Vollständige Familie Schlatter - Alle Personen über 9 Generationen
+    // Familie Schlatter - ein einziger Stammbaum
+    // Ausgehend von Hektor Schlatter (1699-1742) bis zu den Urenkeln Adolf Schlatters
     const familyData = {
         graph: {
             nodes: [
-                // Generation 1 - Großeltern
-                { id: "P1", name: "Hektor Schlatter", birth_year: 1699, death_year: 1742, generation_depth: 1, occupation: "Pantfmeister, Unterbürgermeister St. Gallen", location: "", gender: "male" },
-                { id: "P2", name: "Anna Barbara Vonwiller", birth_year: null, death_year: 1751, generation_depth: 1, occupation: "", location: "", gender: "female" },
-                
-                // Generation 2 - Eltern
-                { id: "P3", name: "Johannes Schlatter", birth_year: 1729, death_year: 1813, generation_depth: 2, occupation: "Kaufmann, \"Hinter dem Turm\", St. Gallen", location: "", gender: "male" },
-                { id: "P4", name: "Anna Barbara Zollikofer", birth_year: null, death_year: 1810, generation_depth: 2, occupation: "", location: "", gender: "female" },
-                
-                // Generation 3 - Hektor mit zwei Frauen (Positionen getauscht)
-                { id: "P5", name: "Hektor Schlatter", birth_year: 1766, death_year: 1842, generation_depth: 3, occupation: "Kaufmann", location: "St. Gallen", gender: "male" },
-                { id: "P6", name: "Anna Bernet", birth_year: 1773, death_year: 1826, generation_depth: 3, occupation: "", location: "Enkelin d. Bürgermeisters Bernet", gender: "female" },
-                { id: "P7", name: "Elisabeth Corrodi", birth_year: null, death_year: 1792, generation_depth: 3, occupation: "", location: "", gender: "female" },
-                
-                // Generation 4 - Alle Kinder von Hektor (1766)
-                { id: "P31", name: "Anonyma", birth_year: null, death_year: null, generation_depth: 4, occupation: "", location: "Kind von Hektor 1766", gender: "female" },
-                { id: "P32", name: "Babette Schlatter", birth_year: 1795, death_year: 1840, generation_depth: 4, occupation: "", location: "", gender: "female" },
-                { id: "P33", name: "Friedrich Wilhelm Röhrig", birth_year: null, death_year: null, generation_depth: 4, occupation: "Fabrikant, Barmen", location: "", gender: "male" },
-                { id: "P39", name: "Kaspar Schlatter", birth_year: 1796, death_year: 1862, generation_depth: 4, occupation: "Pfarrer", location: "", gender: "male" },
-                { id: "P40", name: "Luise von Gemmingen", birth_year: null, death_year: null, generation_depth: 4, occupation: "", location: "", gender: "female" },
-                { id: "P41", name: "Kleofea Schlatter", birth_year: 1797, death_year: 1860, generation_depth: 4, occupation: "", location: "", gender: "female" },
-                { id: "P42", name: "Adolf Zahn", birth_year: null, death_year: null, generation_depth: 4, occupation: "Seminardirektor, Giebichenstein", location: "", gender: "male" },
-                { id: "P45", name: "Margarete Schlatter", birth_year: 1799, death_year: null, generation_depth: 4, occupation: "", location: "", gender: "female" },
-                { id: "P46", name: "Anna Schlatter", birth_year: 1800, death_year: 1853, generation_depth: 4, occupation: "", location: "", gender: "female" },
-                { id: "P47", name: "Franz Ludwig Zahn", birth_year: null, death_year: null, generation_depth: 4, occupation: "Seminardirektor", location: "", gender: "male" },
-                { id: "P48", name: "Helene Schlatter", birth_year: null, death_year: null, generation_depth: 4, occupation: "", location: "", gender: "female" },
-                { id: "P49", name: "Henriette Schlatter", birth_year: 1802, death_year: null, generation_depth: 4, occupation: "", location: "", gender: "female" },
-                { id: "P50", name: "David Schlatter", birth_year: null, death_year: null, generation_depth: 4, occupation: "", location: "", gender: "male" },
-                { id: "P51", name: "Christine Schlatter", birth_year: null, death_year: null, generation_depth: 4, occupation: "", location: "", gender: "female" },
-                { id: "P10", name: "Hektor Stephan Schlatter", birth_year: 1805, death_year: 1880, generation_depth: 4, occupation: "Apotheker, später im väterlichen Geschäft, St. Gallen", location: "", gender: "male" },
-                { id: "P11", name: "Sara Wilhelmine (\"Mina\") Steinmann", birth_year: 1819, death_year: 1894, generation_depth: 4, occupation: "", location: "", gender: "female" },
-                { id: "P52", name: "Jakob Schlatter", birth_year: 1808, death_year: 1879, generation_depth: 4, occupation: "", location: "Kansas/USA, später St. Gallen", gender: "male" },
-                { id: "P53", name: "Anna Zwingli", birth_year: null, death_year: null, generation_depth: 4, occupation: "", location: "", gender: "female" },
-                { id: "P57", name: "Gottlieb Schlatter", birth_year: 1809, death_year: null, generation_depth: 4, occupation: "Pfarrer", location: "", gender: "male" },
-                { id: "P58", name: "Doris Schulze", birth_year: null, death_year: null, generation_depth: 4, occupation: "", location: "", gender: "female" },
-                { id: "P59", name: "Christine Schlatter", birth_year: 1811, death_year: 1895, generation_depth: 4, occupation: "", location: "", gender: "female" },
-                { id: "P60", name: "Karl Friedrich Klein", birth_year: null, death_year: null, generation_depth: 4, occupation: "Fabrikant, Barmen", location: "", gender: "male" },
-                
-                // Generation 5 - Alle Kinder von Hektor Stephan (P10) + andere
-                { id: "P80", name: "Lydia Schlatter", birth_year: 1840, death_year: 1899, generation_depth: 5, occupation: "Lehrerin", location: "St. Gallen", gender: "female" },
-                { id: "P78", name: "Stephan Schlatter", birth_year: 1842, death_year: 1916, generation_depth: 5, occupation: "", location: "zuletzt in Wilhelmsdorf; taubstumm", gender: "male" },
-                { id: "P79", name: "Monika Schlatter", birth_year: 1846, death_year: 1865, generation_depth: 5, occupation: "Lehrerin", location: "", gender: "female" },
-                { id: "P69", name: "Theodor Schlatter", birth_year: 1847, death_year: 1918, generation_depth: 5, occupation: "Kaufmann, Gemeinde- und Erziehungsrat St. Gallen", location: "", gender: "male" },
-                { id: "P70", name: "Laura Schlatter", birth_year: null, death_year: null, generation_depth: 5, occupation: "", location: "", gender: "female" },
-                { id: "P73", name: "Wilhelmine Schlatter", birth_year: 1849, death_year: 1924, generation_depth: 5, occupation: "", location: "", gender: "female" },
-                { id: "P74", name: "Theophil Lutz", birth_year: 1852, death_year: 1917, generation_depth: 5, occupation: "Institutsvorstand", location: "", gender: "male" },
-                { id: "P81", name: "Christine Schlatter", birth_year: 1850, death_year: 1941, generation_depth: 5, occupation: "Lehrerin", location: "", gender: "female" },
-                { id: "P12", name: "Adolf Schlatter", birth_year: 1852, death_year: 1938, generation_depth: 5, occupation: "Theologieprofessor", location: "", gender: "male" },
-                { id: "P13", name: "Susanna Schoop", birth_year: 1856, death_year: 1907, generation_depth: 5, occupation: "", location: "", gender: "female" },
-                { id: "P75", name: "Dora Schlatter", birth_year: 1855, death_year: 1915, generation_depth: 5, occupation: "Lehrerin", location: "", gender: "female" },
-                { id: "P76", name: "Salomon Schlatter", birth_year: 1858, death_year: 1922, generation_depth: 5, occupation: "", location: "", gender: "male" },
-                { id: "P82", name: "Anonyma", birth_year: null, death_year: null, generation_depth: 5, occupation: "", location: "Kind von Hektor Stephan", gender: "female" },
-                
-                // Generation 6 - Alle Kinder von Adolf Schlatter (P12)
-                { id: "P14", name: "Theodor Adolf Schlatter", birth_year: 1885, death_year: 1971, generation_depth: 6, occupation: "zuletzt Prälat", location: "", gender: "male" },
-                { id: "P20", name: "Marie Gundert", birth_year: 1888, death_year: 1962, generation_depth: 6, occupation: "", location: "", gender: "female" },
-                { id: "P15", name: "Hedwig Schlatter", birth_year: 1887, death_year: 1946, generation_depth: 6, occupation: "", location: "", gender: "female" },
-                { id: "P16", name: "Paul Schlatter", birth_year: 1888, death_year: 1914, generation_depth: 6, occupation: "", location: "", gender: "male" },
-                { id: "P17", name: "Dora Schlatter", birth_year: 1890, death_year: 1969, generation_depth: 6, occupation: "", location: "", gender: "female" },
-                { id: "P18", name: "Ruth Schlatter", birth_year: 1893, death_year: 1962, generation_depth: 6, occupation: "", location: "", gender: "female" },
-                { id: "P19", name: "Friedrich Hinderer", birth_year: 1883, death_year: 1968, generation_depth: 6, occupation: "Pfarrer", location: "", gender: "male" },
-                { id: "P71", name: "Beatrice Lutz", birth_year: 1897, death_year: null, generation_depth: 6, occupation: "", location: "genannt \"Bice\"", gender: "female" },
-                { id: "P72", name: "Willi Lutz", birth_year: null, death_year: null, generation_depth: 6, occupation: "CVJM-Sekretär, Bern", location: "", gender: "male" },
-                
-                // Generation 7 - Kinder von Theodor Adolf (sortiert nach Geburtsjahr, Ehepartner nebeneinander)
-                { id: "P30", name: "Ruth Schlatter", birth_year: 1917, death_year: null, generation_depth: 7, occupation: "", location: "", gender: "female" },
-                { id: "P21", name: "Hanna Schlatter", birth_year: 1918, death_year: 1944, generation_depth: 7, occupation: "", location: "", gender: "female" },
-                { id: "P25", name: "Theodor Schlatter", birth_year: 1926, death_year: null, generation_depth: 7, occupation: "Dekan", location: "später", gender: "male" },
-                { id: "P26", name: "Ruth Hecht", birth_year: 1929, death_year: null, generation_depth: 7, occupation: "", location: "", gender: "female" },
-                { id: "P24", name: "Gerhard Schlatter", birth_year: 1922, death_year: 1943, generation_depth: 7, occupation: "", location: "", gender: "male" },
-                { id: "P22", name: "Dora Schlatter", birth_year: 1920, death_year: null, generation_depth: 7, occupation: "", location: "", gender: "female" },
-                { id: "P23", name: "Leonhard Goppelt", birth_year: null, death_year: null, generation_depth: 7, occupation: "", location: "", gender: "male" },
-                
-                // Generation 8 - Kinder von Theodor und Leonard
-                { id: "P92", name: "Natascha Kirchmann", birth_year: 1966, death_year: null, generation_depth: 8, occupation: "", location: "", gender: "female" },
-                { id: "P27", name: "Gerhard Schlatter", birth_year: 1955, death_year: null, generation_depth: 8, occupation: "", location: "", gender: "male" },
-                { id: "P83", name: "Maria Wohlleben", birth_year: 1962, death_year: null, generation_depth: 8, occupation: "", location: "", gender: "female" },
-                { id: "P28", name: "Martin Schlatter", birth_year: 1957, death_year: null, generation_depth: 8, occupation: "", location: "", gender: "male" },
-                { id: "P29", name: "Dorothea Schlatter", birth_year: 1959, death_year: null, generation_depth: 8, occupation: "", location: "", gender: "female" },
-                
-                // Generation 9 - Kinder von Gerhard und Maria
-                { id: "P84", name: "Gabriel Schlatter", birth_year: 1991, death_year: null, generation_depth: 9, occupation: "", location: "", gender: "male" },
-                { id: "P85", name: "Elias Schlatter", birth_year: 1994, death_year: null, generation_depth: 9, occupation: "", location: "", gender: "male" },
-                { id: "P86", name: "Johanna Schlatter", birth_year: 1997, death_year: null, generation_depth: 9, occupation: "", location: "", gender: "female" }
+                // Generation 1
+                { id: "P1", name: "Hektor Schlatter", birth: "1699", death: "1742", generation_depth: 1, occupation: "Zunftmeister, Unterbürgermeister St. Gallen", info: "", gender: "male" },
+                { id: "P2", name: "Anna Barbara Vonwiller", birth: "1700", death: "1751", generation_depth: 1, occupation: "", info: "", gender: "female" },
+
+                // Generation 2
+                { id: "P3", name: "Johannes Schlatter", birth: "1729", death: "1813", generation_depth: 2, occupation: "Kaufmann, Hinterm Turm, St. Gallen", info: "", gender: "male" },
+                { id: "P4", name: "Anna Barbara Zollikofer", birth: "1734", death: "1810", generation_depth: 2, occupation: "", info: "Tochter des Kaufmanns und Spitalschreibers David Anton Zollikofer", gender: "female" },
+
+                // Generation 3 - Hektor mit zwei Frauen
+                { id: "P6", name: "Elisabeth Corrodi", birth: "1767", death: "1793", generation_depth: 3, occupation: "", info: "1. Ehefrau (⚭ 1790)", gender: "female" },
+                { id: "P5", name: "Hektor Schlatter", birth: "1766", death: "1842", generation_depth: 3, occupation: "Kaufmann, Hinterm Turm, St. Gallen", info: "", gender: "male" },
+                { id: "P7", name: "Anna Bernet", birth: "1773", death: "1826", generation_depth: 3, occupation: "", info: "2. Ehefrau (⚭ 1794); Tochter des Ratsherrn Kaspar Bernet", gender: "female" },
+
+                // Generation 4 - Sohn aus 1. Ehe (Elisabeth Corrodi)
+                { id: "P8", name: "Johann Melchior Schlatter", birth: "1793", death: "1858", generation_depth: 4, occupation: "", info: "", gender: "male" },
+
+                // Generation 4 - Kinder aus 2. Ehe (Anna Bernet) - chronologisch sortiert
+                { id: "P9", name: "Anonym", birth: null, death: null, generation_depth: 4, occupation: "", info: "jung verstorben", gender: "female" },
+                { id: "P10", name: "Anna Barbara (\"Babette\") Schlatter", birth: "1795", death: "1840", generation_depth: 4, occupation: "", info: "", gender: "female" },
+                { id: "P11", name: "Kaspar Schlatter", birth: "1796", death: "1862", generation_depth: 4, occupation: "", info: "", gender: "male" },
+                { id: "P12", name: "Kleofea Schlatter", birth: "1797", death: "1860", generation_depth: 4, occupation: "", info: "", gender: "female" },
+                { id: "P13", name: "Margarete Schlatter", birth: "1799", death: "1846", generation_depth: 4, occupation: "", info: "", gender: "female" },
+                { id: "P14", name: "Anna Schlatter", birth: "1800", death: "1853", generation_depth: 4, occupation: "", info: "", gender: "female" },
+                { id: "P15", name: "Helene Schlatter", birth: null, death: null, generation_depth: 4, occupation: "", info: "jung verstorben", gender: "female" },
+                { id: "P16", name: "Henriette Schlatter", birth: "1802", death: "1885", generation_depth: 4, occupation: "", info: "", gender: "female" },
+                { id: "P17", name: "Christine Schlatter", birth: null, death: null, generation_depth: 4, occupation: "", info: "jung verstorben", gender: "female" },
+                { id: "P18", name: "Hektor Stephan Schlatter", birth: "13.11.1805", death: "05.07.1880", generation_depth: 4, occupation: "Apotheker, dann Kaufmann, Hinterm Turm, St. Gallen", info: "", gender: "male" },
+                { id: "P19", name: "Johann Jakob Schlatter", birth: "1808", death: "1879", generation_depth: 4, occupation: "", info: "", gender: "male" },
+                { id: "P20", name: "Gottlieb Schlatter", birth: "1809", death: "1887", generation_depth: 4, occupation: "", info: "", gender: "male" },
+                { id: "P21", name: "Marie Christine Schlatter", birth: "1811", death: "1895", generation_depth: 4, occupation: "", info: "", gender: "female" },
+
+                // Generation 4 - Ehefrau von Hektor Stephan
+                { id: "P22", name: "Sara Wilhelmine Steinmann", birth: "04.05.1819", death: "14.06.1894", generation_depth: 4, occupation: "", info: "⚭ 1839", gender: "female" },
+
+                // Generation 5 - Kinder von Hektor Stephan + Sara
+                { id: "P23", name: "Lydia Schlatter", birth: "1840", death: "1899", generation_depth: 5, occupation: "Lehrerin in St. Gallen", info: "", gender: "female" },
+                { id: "P24", name: "Stephan Schlatter", birth: "15.02.1842", death: "01.10.1916", generation_depth: 5, occupation: "", info: "taubstumm", gender: "male" },
+                { id: "P25", name: "Monika Schlatter", birth: "1846", death: "1865", generation_depth: 5, occupation: "Lehrerin", info: "", gender: "female" },
+                { id: "P26", name: "Theodor Schlatter", birth: "27.08.1847", death: "12.09.1918", generation_depth: 5, occupation: "Kaufmann, Hinterm Turm, St. Gallen", info: "Gemeinderat", gender: "male" },
+                { id: "P27", name: "Laura Angelika Schlatter", birth: "1865", death: "1900", generation_depth: 5, occupation: "", info: "Ur-Enkelin von Hektor Schlatter (1766) und Elisabeth Corrodi", gender: "female" },
+                { id: "P28", name: "Wilhelmine Schlatter", birth: "1849", death: "12.03.1924", generation_depth: 5, occupation: "Lehrerin in St. Gallen", info: "", gender: "female" },
+                { id: "P29", name: "Christine Schlatter", birth: "16.10.1850", death: "1941", generation_depth: 5, occupation: "Lehrerin", info: "", gender: "female" },
+                { id: "P30", name: "Adolf Schlatter", birth: "16.08.1852", death: "19.05.1938", generation_depth: 5, occupation: "Theologieprofessor", info: "", gender: "male" },
+                { id: "P31", name: "Susanna Schoop", birth: "23.08.1856", death: "09.07.1907", generation_depth: 5, occupation: "", info: "⚭ 15.01.1878", gender: "female" },
+                { id: "P32", name: "Dora Schlatter", birth: "10.09.1855", death: "25.04.1915", generation_depth: 5, occupation: "Schriftstellerin", info: "", gender: "female" },
+                { id: "P33", name: "Salomon Schlatter", birth: "04.06.1858", death: "01.03.1922", generation_depth: 5, occupation: "Architekt und Künstler", info: "", gender: "male" },
+
+                // Generation 6 - Tochter von Theodor + Laura
+                { id: "P34", name: "Beatrice (\"Bice\") Schlatter", birth: "14.02.1897", death: "1963", generation_depth: 6, occupation: "", info: "", gender: "female" },
+
+                // Generation 6 - Kinder von Adolf + Susanna
+                { id: "P35", name: "Theodor Adolf Schlatter", birth: "02.06.1885", death: "13.01.1971", generation_depth: 6, occupation: "zuletzt Prälat", info: "", gender: "male" },
+                { id: "P36", name: "Marie Gundert", birth: "09.10.1888", death: "11.08.1962", generation_depth: 6, occupation: "", info: "⚭ 03.08.1916", gender: "female" },
+                { id: "P37", name: "Hedwig Schlatter", birth: "06.02.1887", death: "29.01.1946", generation_depth: 6, occupation: "", info: "", gender: "female" },
+                { id: "P38", name: "Paul Stefan Schlatter", birth: "22.11.1888", death: "10.10.1914", generation_depth: 6, occupation: "", info: "im 1. WK gefallen", gender: "male" },
+                { id: "P39", name: "Dora Schlatter", birth: "22.08.1890", death: "10.10.1969", generation_depth: 6, occupation: "", info: "", gender: "female" },
+                { id: "P40", name: "Maria Ruth Schlatter", birth: "21.05.1893", death: "1962", generation_depth: 6, occupation: "", info: "", gender: "female" },
+                { id: "P41", name: "Friedrich Hinderer", birth: "1883", death: "1968", generation_depth: 6, occupation: "Pfarrer", info: "⚭ 29.05.1916", gender: "male" },
+
+                // Generation 7 - Kinder von Theodor Adolf + Marie
+                { id: "P42", name: "Hanna Schlatter", birth: "25.06.1918", death: "27.11.1944", generation_depth: 7, occupation: "Ärztin", info: "gefallen durch Fliegerangriff in Freiburg", gender: "female" },
+                { id: "P43", name: "Dora Schlatter", birth: "18.11.1920", death: "03.08.1997", generation_depth: 7, occupation: "", info: "", gender: "female" },
+                { id: "P44", name: "Leonhard Goppelt", birth: "1911", death: "1973", generation_depth: 7, occupation: "Theologieprofessor", info: "⚭ 03.09.1950", gender: "male" },
+                { id: "P45", name: "Gerhard Paul Schlatter", birth: "15.09.1922", death: "09.08.1943", generation_depth: 7, occupation: "", info: "im 2. WK gefallen", gender: "male" },
+                { id: "P46", name: "Theodor Schlatter", birth: "08.12.1926", death: "17.02.2008", generation_depth: 7, occupation: "Dekan", info: "", gender: "male" },
+                { id: "P47", name: "Ruth Hecht", birth: "1929", death: "2022", generation_depth: 7, occupation: "", info: "⚭ 20.11.1954", gender: "female" },
+
+                // Generation 7 - Kinder von Maria Ruth + Friedrich Hinderer
+                { id: "P48", name: "Ruth Hinderer", birth: "18.12.1917", death: "11.01.1996", generation_depth: 7, occupation: "", info: "", gender: "female" },
+                { id: "P49", name: "Friedrich Hinderer", birth: "09.02.1921", death: "18.09.1923", generation_depth: 7, occupation: "", info: "", gender: "male" },
+
+                // Generation 8 - Kinder von Dora + Leonhard
+                { id: "P50", name: "Margret Goppelt", birth: "17.07.1952", death: null, generation_depth: 8, occupation: "", info: "", gender: "female" },
+                { id: "P51", name: "Heidi Goppelt", birth: "23.03.1954", death: "16.07.1962", generation_depth: 8, occupation: "", info: "", gender: "female" },
+
+                // Generation 8 - Kinder von Theodor + Ruth Hecht
+                { id: "P52", name: "Gerhard Schlatter", birth: "13.09.1955", death: null, generation_depth: 8, occupation: "", info: "", gender: "male" },
+                { id: "P53", name: "Martin Schlatter", birth: "07.06.1957", death: "16.12.2006", generation_depth: 8, occupation: "", info: "", gender: "male" },
+                { id: "P54", name: "Dorothea Schlatter", birth: "25.04.1959", death: null, generation_depth: 8, occupation: "", info: "", gender: "female" }
             ],
             edges: [
                 // Ehen
                 { source: "P1", target: "P2", type: "MARRIED" },
                 { source: "P3", target: "P4", type: "MARRIED" },
-                { source: "P5", target: "P6", type: "MARRIED" },
-                { source: "P5", target: "P7", type: "MARRIED" },
-                { source: "P32", target: "P33", type: "MARRIED" },
-                { source: "P39", target: "P40", type: "MARRIED" },
-                { source: "P41", target: "P42", type: "MARRIED" },
-                { source: "P46", target: "P47", type: "MARRIED" },
-                { source: "P49", target: "P50", type: "MARRIED" },
-                { source: "P10", target: "P11", type: "MARRIED" },
-                { source: "P52", target: "P53", type: "MARRIED" },
-                { source: "P57", target: "P58", type: "MARRIED" },
-                { source: "P59", target: "P60", type: "MARRIED" },
-                { source: "P69", target: "P70", type: "MARRIED" },
-                { source: "P73", target: "P74", type: "MARRIED" },
-                { source: "P12", target: "P13", type: "MARRIED" },
-                { source: "P75", target: "P76", type: "MARRIED" },
-                { source: "P14", target: "P20", type: "MARRIED" },
-                { source: "P18", target: "P19", type: "MARRIED" },
-                { source: "P71", target: "P72", type: "MARRIED" },
-                { source: "P22", target: "P23", type: "MARRIED" },
-                { source: "P25", target: "P26", type: "MARRIED" },
-                { source: "P27", target: "P83", type: "MARRIED" },
-                { source: "P27", target: "P92", type: "DIVORCED" },
-                
+                { source: "P5", target: "P6", type: "MARRIED" }, // Hektor + Elisabeth Corrodi (1. Ehe)
+                { source: "P5", target: "P7", type: "MARRIED" }, // Hektor + Anna Bernet (2. Ehe)
+                { source: "P18", target: "P22", type: "MARRIED" }, // Hektor Stephan + Sara
+                { source: "P26", target: "P27", type: "MARRIED" }, // Theodor + Laura
+                { source: "P30", target: "P31", type: "MARRIED" }, // Adolf + Susanna
+                { source: "P32", target: "P33", type: "MARRIED" }, // Dora + Salomon
+                { source: "P35", target: "P36", type: "MARRIED" }, // Theodor Adolf + Marie Gundert
+                { source: "P40", target: "P41", type: "MARRIED" }, // Maria Ruth + Friedrich Hinderer
+                { source: "P43", target: "P44", type: "MARRIED" }, // Dora + Leonhard Goppelt
+                { source: "P46", target: "P47", type: "MARRIED" }, // Theodor + Ruth Hecht
+
                 // Eltern-Kind Beziehungen
+                // Gen 1 → Gen 2
                 { source: "P1", target: "P3", type: "PARENT_OF" },
                 { source: "P2", target: "P3", type: "PARENT_OF" },
+                // Gen 2 → Gen 3 (Hektor 1766)
                 { source: "P3", target: "P5", type: "PARENT_OF" },
                 { source: "P4", target: "P5", type: "PARENT_OF" },
-                { source: "P5", target: "P31", type: "PARENT_OF" },
-                { source: "P6", target: "P31", type: "PARENT_OF" },
-                { source: "P5", target: "P32", type: "PARENT_OF" },
-                { source: "P6", target: "P32", type: "PARENT_OF" },
-                { source: "P5", target: "P39", type: "PARENT_OF" },
-                { source: "P6", target: "P39", type: "PARENT_OF" },
-                { source: "P5", target: "P41", type: "PARENT_OF" },
-                { source: "P6", target: "P41", type: "PARENT_OF" },
-                { source: "P5", target: "P45", type: "PARENT_OF" },
-                { source: "P6", target: "P45", type: "PARENT_OF" },
-                { source: "P5", target: "P46", type: "PARENT_OF" },
-                { source: "P6", target: "P46", type: "PARENT_OF" },
-                { source: "P5", target: "P48", type: "PARENT_OF" },
-                { source: "P6", target: "P48", type: "PARENT_OF" },
-                { source: "P5", target: "P49", type: "PARENT_OF" },
-                { source: "P6", target: "P49", type: "PARENT_OF" },
-                { source: "P5", target: "P51", type: "PARENT_OF" },
-                { source: "P6", target: "P51", type: "PARENT_OF" },
+                // Gen 3 → Gen 4 - Johann Melchior (Sohn aus 1. Ehe)
+                { source: "P5", target: "P8", type: "PARENT_OF" },
+                { source: "P6", target: "P8", type: "PARENT_OF" },
+                // Gen 3 → Gen 4 - Kinder aus 2. Ehe mit Anna Bernet
+                { source: "P5", target: "P9", type: "PARENT_OF" },
+                { source: "P7", target: "P9", type: "PARENT_OF" },
                 { source: "P5", target: "P10", type: "PARENT_OF" },
-                { source: "P6", target: "P10", type: "PARENT_OF" },
-                { source: "P5", target: "P52", type: "PARENT_OF" },
-                { source: "P6", target: "P52", type: "PARENT_OF" },
-                { source: "P5", target: "P57", type: "PARENT_OF" },
-                { source: "P6", target: "P57", type: "PARENT_OF" },
-                { source: "P5", target: "P59", type: "PARENT_OF" },
-                { source: "P6", target: "P59", type: "PARENT_OF" },
-                { source: "P10", target: "P80", type: "PARENT_OF" },
-                { source: "P11", target: "P80", type: "PARENT_OF" },
-                { source: "P10", target: "P78", type: "PARENT_OF" },
-                { source: "P11", target: "P78", type: "PARENT_OF" },
-                { source: "P10", target: "P79", type: "PARENT_OF" },
-                { source: "P11", target: "P79", type: "PARENT_OF" },
-                { source: "P10", target: "P69", type: "PARENT_OF" },
-                { source: "P11", target: "P69", type: "PARENT_OF" },
-                { source: "P10", target: "P73", type: "PARENT_OF" },
-                { source: "P11", target: "P73", type: "PARENT_OF" },
-                { source: "P10", target: "P81", type: "PARENT_OF" },
-                { source: "P11", target: "P81", type: "PARENT_OF" },
-                { source: "P10", target: "P12", type: "PARENT_OF" },
-                { source: "P11", target: "P12", type: "PARENT_OF" },
-                { source: "P10", target: "P75", type: "PARENT_OF" },
-                { source: "P11", target: "P75", type: "PARENT_OF" },
-                { source: "P10", target: "P82", type: "PARENT_OF" },
-                { source: "P11", target: "P82", type: "PARENT_OF" },
-                { source: "P12", target: "P14", type: "PARENT_OF" },
-                { source: "P13", target: "P14", type: "PARENT_OF" },
-                { source: "P12", target: "P15", type: "PARENT_OF" },
-                { source: "P13", target: "P15", type: "PARENT_OF" },
-                { source: "P12", target: "P16", type: "PARENT_OF" },
-                { source: "P13", target: "P16", type: "PARENT_OF" },
-                { source: "P12", target: "P17", type: "PARENT_OF" },
-                { source: "P13", target: "P17", type: "PARENT_OF" },
-                { source: "P12", target: "P18", type: "PARENT_OF" },
-                { source: "P13", target: "P18", type: "PARENT_OF" },
-                { source: "P69", target: "P71", type: "PARENT_OF" },
-                { source: "P70", target: "P71", type: "PARENT_OF" },
-                { source: "P14", target: "P21", type: "PARENT_OF" },
-                { source: "P20", target: "P21", type: "PARENT_OF" },
-                { source: "P14", target: "P22", type: "PARENT_OF" },
-                { source: "P20", target: "P22", type: "PARENT_OF" },
-                { source: "P14", target: "P24", type: "PARENT_OF" },
-                { source: "P20", target: "P24", type: "PARENT_OF" },
-                { source: "P14", target: "P25", type: "PARENT_OF" },
-                { source: "P20", target: "P25", type: "PARENT_OF" },
-                { source: "P14", target: "P30", type: "PARENT_OF" },
-                { source: "P20", target: "P30", type: "PARENT_OF" },
-                { source: "P25", target: "P27", type: "PARENT_OF" },
-                { source: "P26", target: "P27", type: "PARENT_OF" },
-                { source: "P25", target: "P28", type: "PARENT_OF" },
-                { source: "P26", target: "P28", type: "PARENT_OF" },
-                { source: "P25", target: "P29", type: "PARENT_OF" },
-                { source: "P26", target: "P29", type: "PARENT_OF" },
-                { source: "P22", target: "P87", type: "PARENT_OF" },
-                { source: "P23", target: "P87", type: "PARENT_OF" },
-                { source: "P22", target: "P88", type: "PARENT_OF" },
-                { source: "P23", target: "P88", type: "PARENT_OF" },
-                { source: "P27", target: "P84", type: "PARENT_OF" },
-                { source: "P92", target: "P84", type: "PARENT_OF" },
-                { source: "P27", target: "P85", type: "PARENT_OF" },
-                { source: "P92", target: "P85", type: "PARENT_OF" },
-                { source: "P27", target: "P86", type: "PARENT_OF" },
-                { source: "P92", target: "P86", type: "PARENT_OF" }
+                { source: "P7", target: "P10", type: "PARENT_OF" },
+                { source: "P5", target: "P11", type: "PARENT_OF" },
+                { source: "P7", target: "P11", type: "PARENT_OF" },
+                { source: "P5", target: "P12", type: "PARENT_OF" },
+                { source: "P7", target: "P12", type: "PARENT_OF" },
+                { source: "P5", target: "P13", type: "PARENT_OF" },
+                { source: "P7", target: "P13", type: "PARENT_OF" },
+                { source: "P5", target: "P14", type: "PARENT_OF" },
+                { source: "P7", target: "P14", type: "PARENT_OF" },
+                { source: "P5", target: "P15", type: "PARENT_OF" },
+                { source: "P7", target: "P15", type: "PARENT_OF" },
+                { source: "P5", target: "P16", type: "PARENT_OF" },
+                { source: "P7", target: "P16", type: "PARENT_OF" },
+                { source: "P5", target: "P17", type: "PARENT_OF" },
+                { source: "P7", target: "P17", type: "PARENT_OF" },
+                { source: "P5", target: "P18", type: "PARENT_OF" },
+                { source: "P7", target: "P18", type: "PARENT_OF" },
+                { source: "P5", target: "P19", type: "PARENT_OF" },
+                { source: "P7", target: "P19", type: "PARENT_OF" },
+                { source: "P5", target: "P20", type: "PARENT_OF" },
+                { source: "P7", target: "P20", type: "PARENT_OF" },
+                { source: "P5", target: "P21", type: "PARENT_OF" },
+                { source: "P7", target: "P21", type: "PARENT_OF" },
+                // Gen 4 → Gen 5 - Kinder von Hektor Stephan + Sara
+                { source: "P18", target: "P23", type: "PARENT_OF" },
+                { source: "P22", target: "P23", type: "PARENT_OF" },
+                { source: "P18", target: "P24", type: "PARENT_OF" },
+                { source: "P22", target: "P24", type: "PARENT_OF" },
+                { source: "P18", target: "P25", type: "PARENT_OF" },
+                { source: "P22", target: "P25", type: "PARENT_OF" },
+                { source: "P18", target: "P26", type: "PARENT_OF" },
+                { source: "P22", target: "P26", type: "PARENT_OF" },
+                { source: "P18", target: "P28", type: "PARENT_OF" },
+                { source: "P22", target: "P28", type: "PARENT_OF" },
+                { source: "P18", target: "P29", type: "PARENT_OF" },
+                { source: "P22", target: "P29", type: "PARENT_OF" },
+                { source: "P18", target: "P30", type: "PARENT_OF" },
+                { source: "P22", target: "P30", type: "PARENT_OF" },
+                { source: "P18", target: "P32", type: "PARENT_OF" },
+                { source: "P22", target: "P32", type: "PARENT_OF" },
+                // Gen 5 → Gen 6 - Bice (Tochter von Theodor + Laura)
+                { source: "P26", target: "P34", type: "PARENT_OF" },
+                { source: "P27", target: "P34", type: "PARENT_OF" },
+                // Gen 5 → Gen 6 - Kinder von Adolf + Susanna
+                { source: "P30", target: "P35", type: "PARENT_OF" },
+                { source: "P31", target: "P35", type: "PARENT_OF" },
+                { source: "P30", target: "P37", type: "PARENT_OF" },
+                { source: "P31", target: "P37", type: "PARENT_OF" },
+                { source: "P30", target: "P38", type: "PARENT_OF" },
+                { source: "P31", target: "P38", type: "PARENT_OF" },
+                { source: "P30", target: "P39", type: "PARENT_OF" },
+                { source: "P31", target: "P39", type: "PARENT_OF" },
+                { source: "P30", target: "P40", type: "PARENT_OF" },
+                { source: "P31", target: "P40", type: "PARENT_OF" },
+                // Gen 6 → Gen 7 - Kinder von Theodor Adolf + Marie
+                { source: "P35", target: "P42", type: "PARENT_OF" },
+                { source: "P36", target: "P42", type: "PARENT_OF" },
+                { source: "P35", target: "P43", type: "PARENT_OF" },
+                { source: "P36", target: "P43", type: "PARENT_OF" },
+                { source: "P35", target: "P45", type: "PARENT_OF" },
+                { source: "P36", target: "P45", type: "PARENT_OF" },
+                { source: "P35", target: "P46", type: "PARENT_OF" },
+                { source: "P36", target: "P46", type: "PARENT_OF" },
+                // Gen 6 → Gen 7 - Kinder von Maria Ruth + Friedrich Hinderer
+                { source: "P40", target: "P48", type: "PARENT_OF" },
+                { source: "P41", target: "P48", type: "PARENT_OF" },
+                { source: "P40", target: "P49", type: "PARENT_OF" },
+                { source: "P41", target: "P49", type: "PARENT_OF" },
+                // Gen 7 → Gen 8 - Kinder von Dora + Leonhard Goppelt
+                { source: "P43", target: "P50", type: "PARENT_OF" },
+                { source: "P44", target: "P50", type: "PARENT_OF" },
+                { source: "P43", target: "P51", type: "PARENT_OF" },
+                { source: "P44", target: "P51", type: "PARENT_OF" },
+                // Gen 7 → Gen 8 - Kinder von Theodor + Ruth Hecht
+                { source: "P46", target: "P52", type: "PARENT_OF" },
+                { source: "P47", target: "P52", type: "PARENT_OF" },
+                { source: "P46", target: "P53", type: "PARENT_OF" },
+                { source: "P47", target: "P53", type: "PARENT_OF" },
+                { source: "P46", target: "P54", type: "PARENT_OF" },
+                { source: "P47", target: "P54", type: "PARENT_OF" }
             ]
         }
     };
-    
-    // Hauptlinien-IDs (von Hektor 1699 bis zu den jüngsten Nachkommen)
-    const hauptlinieIds = [
-        "P1", "P2",    // Generation 1
-        "P3", "P4",    // Generation 2
-        "P5", "P6", "P7",  // Generation 3
-        "P10", "P11",  // Generation 4
-        "P12", "P13",  // Generation 5
-        "P14", "P20",  // Generation 6
-        "P21", "P22", "P23", "P24", "P25", "P26", "P30",  // Generation 7
-        "P92", "P27", "P83", "P28", "P29", "P87", "P88",  // Generation 8
-        "P84", "P85", "P86"  // Generation 9
-    ];
-    
-    let showMainLineOnly = true; // Standard: Hauptlinie
+
+    // ID von Adolf Schlatter (für besondere Hervorhebung)
+    const ADOLF_ID = "P30";
     
     const svg = d3.select("#tree");
     const svgElement = document.getElementById("tree");
@@ -489,21 +456,8 @@
     
     // Funktion zum Rendern des Stammbaums
     function renderTree() {
-        // Filtere Nodes und Edges basierend auf der Ansicht
-        let visibleNodes, visibleEdges;
-        
-        if (showMainLineOnly) {
-            visibleNodes = familyData.graph.nodes.filter(n => hauptlinieIds.includes(n.id));
-            visibleEdges = familyData.graph.edges.filter(e => 
-                hauptlinieIds.includes(e.source) && hauptlinieIds.includes(e.target)
-            );
-        } else {
-            visibleNodes = familyData.graph.nodes;
-            visibleEdges = familyData.graph.edges;
-        }
-        
-        const nodes = visibleNodes;
-        const edges = visibleEdges;
+        const nodes = familyData.graph.nodes;
+        const edges = familyData.graph.edges;
         
         // Berechne benötigte Breite basierend auf der größten Generation
         const generationsTemp = d3.group(nodes, d => d.generation_depth);
@@ -545,28 +499,25 @@
     
     // Positioniere alle Personen - horizontal zentriert
     generations.forEach((persons, gen) => {
-            // Spezielle Behandlung für Generation 3 (Hektor mit zwei Frauen - Positionen getauscht)
+            // Spezielle Behandlung für Generation 3 (Hektor mit zwei Frauen)
+            // Reihenfolge: Elisabeth Corrodi (1. Ehe, links) - Hektor (Mitte) - Anna Bernet (2. Ehe, rechts)
             if (gen === 3 && persons.length === 3) {
-                // Hektor in der Mitte, Anna an Johannes' Position, Elisabeth rechts
-                const hektor = persons.find(p => p.gender === 'male');
-                const anna = persons.find(p => p.id === 'P6'); // Anna Bernet (jetzt links)
-                const elisabeth = persons.find(p => p.id === 'P7'); // Elisabeth Corrodi (jetzt rechts)
-                
-                if (hektor && anna && elisabeth) {
-                    // Berechne die Breite von Generation 3 und zentriere sie
+                const hektor = persons.find(p => p.id === 'P5');
+                const elisabeth = persons.find(p => p.id === 'P6');
+                const anna = persons.find(p => p.id === 'P7');
+
+                if (hektor && elisabeth && anna) {
                     const gen3Width = 3 * cardWidth + 2 * cardSpacing;
                     const gen3StartX = globalStartX + (maxWidth - gen3Width) / 2;
-                    
-                    anna.x = gen3StartX;
-                    anna.y = yScale(gen);
-                    
-                    // Hektor rechts von Anna (mit Abstand)
+
+                    elisabeth.x = gen3StartX;
+                    elisabeth.y = yScale(gen);
+
                     hektor.x = gen3StartX + (cardWidth + cardSpacing);
                     hektor.y = yScale(gen);
-                    
-                    // Elisabeth rechts von Hektor
-                    elisabeth.x = gen3StartX + 2 * (cardWidth + cardSpacing);
-                    elisabeth.y = yScale(gen);
+
+                    anna.x = gen3StartX + 2 * (cardWidth + cardSpacing);
+                    anna.y = yScale(gen);
                 }
         } else {
             // Normale Positionierung für andere Generationen
@@ -617,45 +568,9 @@
                     return hasParent1 && hasParent2;
                 });
                 
-                // Ordne die Kinder: ZUERST Ehepaare gruppieren (auch mit Partnern außerhalb)
+                // Ordne die Kinder: Ehepaare gruppieren (auch mit Partnern außerhalb)
                 const processedChildren = new Set();
-                
-                // Spezialbehandlung für Gerhard Schlatter (P27) - er hat zwei Ehefrauen
-                if (gen === 8) {
-                    const gerhard = children.find(c => c.id === 'P27');
-                    if (gerhard) {
-                        // Finde alle Ehefrauen von Gerhard (sowohl MARRIED als auch DIVORCED)
-                        const gerhardSpouses = [];
-                        edges.filter(e => (e.type === "MARRIED" || e.type === "DIVORCED") && e.source === 'P27').forEach(e => {
-                            const spouse = persons.find(p => p.id === e.target);
-                            if (spouse) gerhardSpouses.push(spouse);
-                        });
-                        edges.filter(e => (e.type === "MARRIED" || e.type === "DIVORCED") && e.target === 'P27').forEach(e => {
-                            const spouse = persons.find(p => p.id === e.source);
-                            if (spouse) gerhardSpouses.push(spouse);
-                        });
-                        
-                        // Sortiere Ehefrauen: Natascha (P92) zuerst, dann Maria (P83)
-                        gerhardSpouses.sort((a, b) => {
-                            if (a.id === 'P92') return -1; // Natascha zuerst
-                            if (b.id === 'P92') return 1;
-                            return 0;
-                        });
-                        
-                        // Füge Gerhard und seine Ehefrauen in der gewünschten Reihenfolge hinzu
-                        if (gerhardSpouses[0]) orderedPersons.push(gerhardSpouses[0]); // Natascha links
-                        orderedPersons.push(gerhard); // Gerhard in der Mitte
-                        if (gerhardSpouses[1]) orderedPersons.push(gerhardSpouses[1]); // Maria rechts
-                        
-                        processedChildren.add(gerhard.id);
-                        gerhardSpouses.forEach(spouse => {
-                            processedChildren.add(spouse.id);
-                            processed.add(spouse.id);
-                        });
-                        processed.add(gerhard.id);
-                    }
-                }
-                
+
                 children.forEach(child => {
                     if (processedChildren.has(child.id)) return;
                     
@@ -825,7 +740,7 @@
         .enter()
         .append("rect")
         .attr("class", d => {
-            if (d.id === 'P12') return 'person-card adolf';
+            if (d.id === ADOLF_ID) return 'person-card adolf';
             return `person-card ${d.gender}`;
         })
         .attr("x", d => d.x - 90)  // Vergrößert auf 180
@@ -882,16 +797,17 @@
     
     // Zeichne Lebensdaten mit Icons (Y-Position angepasst wenn Name zweizeilig)
     svg.selectAll("text.years")
-        .data(nodes)
+        .data(nodes.filter(d => d.birth || d.death))
         .enter()
         .append("text")
         .attr("class", "person-years")
         .attr("x", d => d.x)
-        .attr("y", d => nameTwoLines.has(d.id) ? d.y - 5 : d.y - 5)  // Viel mehr Abstand zum Namen
+        .attr("y", d => d.y - 5)
         .text(d => {
-            const birth = d.birth_year ? d.birth_year.toString() : '?';
-            const death = d.death_year ? d.death_year.toString() : '?';
-            return `✦ ${birth}  † ${death}`;
+            const parts = [];
+            if (d.birth) parts.push(`✦ ${d.birth}`);
+            if (d.death) parts.push(`† ${d.death}`);
+            return parts.join('   ');
         });
     
     // Zeichne Beruf (mit automatischem Zeilenumbruch, kein Trimming)
@@ -987,9 +903,9 @@
         }
     });
     
-    // Zeichne Ort/Adresse (mit automatischem Zeilenumbruch)
-    nodes.filter(d => d.location && d.location.length > 0).forEach(d => {
-        const location = d.location;
+    // Zeichne Zusatz-Info (mit automatischem Zeilenumbruch)
+    nodes.filter(d => d.info && d.info.length > 0).forEach(d => {
+        const location = d.info;
         const maxCharsPerLine = 35;
         const nameOffset = nameTwoLines.has(d.id) ? 8 : 0;
         
@@ -1082,62 +998,20 @@
     // Generation-Labels wurden entfernt für mehr Platz
     
     console.log("✅ Stammbaum gerendert!");
-    console.log("📊 Ansicht:", showMainLineOnly ? "Hauptlinie" : "Vollständig");
     console.log("👥 Sichtbare Personen:", nodes.length);
     } // Ende renderTree()
-    
-    // Event-Handler für Buttons
-    document.getElementById('btn-hauptlinie').addEventListener('click', function() {
-        if (!showMainLineOnly) {
-            showMainLineOnly = true;
-            // Button-Styling aktualisieren
-            this.classList.add('bg-primary', 'text-white');
-            this.classList.remove('text-gray-700', 'hover:bg-gray-100');
-            const vollBtn = document.getElementById('btn-vollstaendig');
-            vollBtn.classList.remove('bg-primary', 'text-white');
-            vollBtn.classList.add('text-gray-700', 'hover:bg-gray-100');
-            
-            // Fade out, neu rendern, fade in
-            svgElement.classList.add('fading');
-            setTimeout(() => {
-                svg.selectAll("*").remove();
-                renderTree();
-                svgElement.classList.remove('fading');
-            }, 300);
-        }
-    });
-    
-    document.getElementById('btn-vollstaendig').addEventListener('click', function() {
-        if (showMainLineOnly) {
-            showMainLineOnly = false;
-            // Button-Styling aktualisieren
-            this.classList.add('bg-primary', 'text-white');
-            this.classList.remove('text-gray-700', 'hover:bg-gray-100');
-            const hauptBtn = document.getElementById('btn-hauptlinie');
-            hauptBtn.classList.remove('bg-primary', 'text-white');
-            hauptBtn.classList.add('text-gray-700', 'hover:bg-gray-100');
-            
-            // Fade out, neu rendern, fade in
-            svgElement.classList.add('fading');
-            setTimeout(() => {
-                svg.selectAll("*").remove();
-                renderTree();
-                svgElement.classList.remove('fading');
-                
-                // Scrolle horizontal in die Mitte (nach fade in)
-                setTimeout(() => {
-                    const container = document.getElementById('tree-container');
-                    const svgWidth = svgElement.getBoundingClientRect().width;
-                    const containerWidth = container.clientWidth;
-                    const scrollPosition = (svgWidth - containerWidth) / 2;
-                    container.scrollLeft = scrollPosition;
-                }, 50);
-            }, 300);
-        }
-    });
-    
+
     // Initial render
     renderTree();
+
+    // Scrolle horizontal in die Mitte, damit der breite Baum zentriert sichtbar ist
+    setTimeout(() => {
+        const container = document.getElementById('tree-container');
+        const svgWidth = svgElement.getBoundingClientRect().width;
+        const containerWidth = container.clientWidth;
+        const scrollPosition = (svgWidth - containerWidth) / 2;
+        if (scrollPosition > 0) container.scrollLeft = scrollPosition;
+    }, 50);
     
     // Appbar und Footer laden
     document.addEventListener('DOMContentLoaded', function() {
@@ -1148,7 +1022,7 @@
             
             if (window.footerManager) {
                 window.footerManager.insertFooter('footer-container', {
-                    description: "Genealogischer Stammbaum der Familie Schlatter ab 1699 mit vollständiger Erfassung aller Nachkommen bis zur 9. Generation"
+                    description: "Genealogischer Stammbaum der Familie Schlatter ab 1699 mit Fokus auf Adolf Schlatter (1852–1938) und seinen Nachkommen bis zu den Urenkeln"
                 });
             }
         }, 50);
@@ -1160,7 +1034,7 @@
     <div class="max-w-7xl mx-auto px-6">
         <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
             <div class="bg-gradient-to-br from-secondary/10 to-orange-100 rounded-xl shadow-sm p-6 text-center border border-secondary/20">
-                <div class="text-4xl font-bold text-secondary mb-2">10</div>
+                <div class="text-4xl font-bold text-secondary mb-2">8</div>
                 <div class="text-sm font-medium text-text-secondary">Generationen</div>
             </div>
             <div class="bg-gradient-to-br from-blue-50 to-blue-100 rounded-xl shadow-sm p-6 text-center border border-blue-200">
@@ -1172,7 +1046,7 @@
                 <div class="text-sm font-medium text-text-secondary">Adolf Schlatter</div>
             </div>
             <div class="bg-gradient-to-br from-purple-50 to-purple-100 rounded-xl shadow-sm p-6 text-center border border-purple-200">
-                <div class="text-4xl font-bold text-purple-600 mb-2">65</div>
+                <div class="text-4xl font-bold text-purple-600 mb-2">54</div>
                 <div class="text-sm font-medium text-text-secondary">Personen erfasst</div>
             </div>
         </div>
