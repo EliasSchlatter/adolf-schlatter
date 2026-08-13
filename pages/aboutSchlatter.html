@@ -1018,33 +1018,35 @@ document.addEventListener('DOMContentLoaded', function() {
             this.pauseBetweenChapters = 1; // 1 Sekunde Pause zwischen Kapiteln
             this.isPausing = false; // Flag für aktuelle Pause
             
-            // Audio-Dateien in der richtigen Reihenfolge
-            this.audioFiles = [
-                '../audios/01_intro_leben.mp3',
-                '../audios/01_leben_1_combined.mp3',
-                '../audios/01_leben_2_combined.mp3',
-                '../audios/01_leben_3_combined.mp3',
-                '../audios/01_leben_4_combined.mp3',
-                '../audios/01_leben_5_combined.mp3',
-                '../audios/01_leben_6_combined.mp3',
-                '../audios/01_leben_7_combined.mp3',
-                '../audios/02_intro_werk.mp3',
-                '../audios/02_werk_1_combined.mp3',
-                '../audios/02_werk_2_combined.mp3',
-                '../audios/02_werk_3_combined.mp3',
-                '../audios/02_werk_4_combined.mp3',
-                '../audios/02_werk_5_combined.mp3',
-                '../audios/02_werk_6_combined.mp3',
-                '../audios/02_werk_7_combined.mp3',
-                '../audios/03_intro_wirkung.mp3',
-                '../audios/03_wirkung_1_combined.mp3'
+            // Kapitel-Dateinamen (sprachneutral); der Ordner richtet sich nach der Sprache
+            this.audioBaseNames = [
+                '01_intro_leben',
+                '01_leben_1_combined',
+                '01_leben_2_combined',
+                '01_leben_3_combined',
+                '01_leben_4_combined',
+                '01_leben_5_combined',
+                '01_leben_6_combined',
+                '01_leben_7_combined',
+                '02_intro_werk',
+                '02_werk_1_combined',
+                '02_werk_2_combined',
+                '02_werk_3_combined',
+                '02_werk_4_combined',
+                '02_werk_5_combined',
+                '02_werk_6_combined',
+                '02_werk_7_combined',
+                '03_intro_wirkung',
+                '03_wirkung_1_combined'
             ];
-            
+            this.audioFiles = this.buildAudioFiles();
+
             this.chapterNames = this.buildChapterNames();
 
-            // Kapitelnamen bei Sprachwechsel aktualisieren
+            // Kapitelnamen und Audiospur bei Sprachwechsel aktualisieren
             window.addEventListener('i18n:change', () => {
                 this.chapterNames = this.buildChapterNames();
+                this.switchAudioLanguage();
                 this.updateChapterMarkers();
                 this.updateDisplay();
             });
@@ -1052,6 +1054,43 @@ document.addEventListener('DOMContentLoaded', function() {
             this.init();
         }
         
+        /** Ordner je Sprache: englische Aufnahmen liegen in audios_en/ */
+        audioDir() {
+            return (window.I18N && window.I18N.lang === 'en') ? '../audios_en/' : '../audios/';
+        }
+
+        buildAudioFiles() {
+            const dir = this.audioDir();
+            return this.audioBaseNames.map((name) => dir + name + '.mp3');
+        }
+
+        /**
+         * Wechselt die Tonspur bei Sprachumschaltung: gleiche Kapitelposition,
+         * gleicher Abspielzustand. Fehlt eine englische Datei, greift der
+         * Fallback im 'error'-Handler auf die deutsche Aufnahme zurück.
+         */
+        switchAudioLanguage() {
+            const newFiles = this.buildAudioFiles();
+            if (newFiles[this.currentChapter] === this.audioFiles[this.currentChapter]) return;
+            this.audioFiles = newFiles;
+            const wasPlaying = this.isPlaying;
+            const position = this.audio.currentTime || 0;
+            this.loadAudio();
+            // Position beibehalten, sofern die neue Aufnahme lang genug ist
+            const restore = () => {
+                if (position > 0 && position < (this.audio.duration || 0)) {
+                    this.audio.currentTime = position;
+                }
+                if (wasPlaying) this.audio.play().catch(() => {});
+                this.audio.removeEventListener('loadedmetadata', restore);
+            };
+            this.audio.addEventListener('loadedmetadata', restore);
+            // Dauern neu ermitteln (englische Aufnahmen sind anders lang)
+            this.chapterDurations = [];
+            this.durationsLoaded = 0;
+            this.preloadAllDurations();
+        }
+
         buildChapterNames() {
             const t = (de, en) => (window.I18N ? window.I18N.t(de, en) : de);
             const leben = t('Leben', 'Life');
@@ -1089,9 +1128,26 @@ document.addEventListener('DOMContentLoaded', function() {
             this.audio.addEventListener('loadedmetadata', () => this.updateDuration());
             this.audio.addEventListener('timeupdate', () => this.updateProgress());
             this.audio.addEventListener('ended', () => this.nextChapter());
-            this.audio.addEventListener('error', (e) => console.error('Audio error:', e));
+            this.audio.addEventListener('error', () => this.handleAudioError());
         }
-        
+
+        /**
+         * Fehlt eine englische Aufnahme, wird für dieses Kapitel automatisch die
+         * deutsche Datei geladen (statt stummer Wiedergabe).
+         */
+        handleAudioError() {
+            const src = this.audio.getAttribute('src') || '';
+            if (src.includes('/audios_en/')) {
+                const fallback = src.replace('/audios_en/', '/audios/');
+                console.warn('Englische Aufnahme fehlt, nutze deutsche:', fallback);
+                this.audio.src = fallback;
+                this.audio.load();
+                if (this.isPlaying) this.audio.play().catch(() => {});
+                return;
+            }
+            console.error('Audio konnte nicht geladen werden:', src);
+        }
+
         loadAudio() {
             this.audio.src = this.audioFiles[this.currentChapter];
             this.audio.load();
@@ -1115,10 +1171,17 @@ document.addEventListener('DOMContentLoaded', function() {
                 };
                 
                 const handleError = () => {
+                    // Fehlende englische Aufnahme: Dauer aus der deutschen Datei lesen
+                    if (file.includes('/audios_en/') && !tempAudio.dataset.fellBack) {
+                        tempAudio.dataset.fellBack = '1';
+                        tempAudio.src = file.replace('/audios_en/', '/audios/');
+                        tempAudio.load();
+                        return;
+                    }
                     if (this.chapterDurations[index] === undefined) {
                         this.chapterDurations[index] = 0;
                         this.durationsLoaded++;
-                        
+
                         if (this.durationsLoaded === this.audioFiles.length) {
                             this.calculateTotalDuration();
                         }
