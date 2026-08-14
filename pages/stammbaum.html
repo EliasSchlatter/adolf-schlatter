@@ -664,61 +664,106 @@
         childrenByParents.get(child.id).push(edge.source);
     });
     
-    // Zeichne Verbindungen für jedes Kind
+    // Kinder nach ELTERNPAAR gruppieren (Familien-Einheit). Nur so lässt sich
+    // erkennen, welches Kind aus welcher Ehe stammt – zeichnete man je Kind
+    // eine eigene T-Verbindung, lägen alle waagerechten Stücke auf derselben
+    // Höhe und verschmölzen zu einem einzigen Balken über die ganze Generation.
+    const families = new Map();
+    const singleParentChildren = [];
+
     childrenByParents.forEach((parentIds, childId) => {
         const child = nodes.find(n => n.id === childId);
         const parents = parentIds.map(id => nodes.find(n => n.id === id)).filter(p => p);
-        
+        if (!child || parents.length === 0) return;
+
         if (parents.length === 1) {
-            // Ein Elternteil: runde Kurve
-            const parent = parents[0];
-            const controlX = (parent.x + child.x) / 2;
-            const controlY = parent.y + (child.y - parent.y) / 2;
-            
-            svg.append("path")
-                .attr("class", "parent-child-line")
-                .attr("d", `M ${parent.x} ${parent.y} Q ${controlX} ${controlY} ${child.x} ${child.y}`)
-                .attr("fill", "none");
-        } else if (parents.length === 2) {
-            // Zwei Elternteile: T-förmig mit runden Kurven
-            const parent1 = parents[0];
-            const parent2 = parents[1];
-            
-            // Mittelpunkt zwischen den Eltern
-            const parentsMidX = (parent1.x + parent2.x) / 2;
-            const parentsMidY = parent1.y; // Gleiche Y-Position wie Eltern
-            
-            // Ziel ist direkt das Kind
-            const targetX = child.x;
-            const targetY = child.y;
-            
-            // Horizontale Linie perfekt in der Mitte zwischen Eltern und Kind
-            const midY = (parentsMidY + targetY) / 2;
-            
-            // Vertikale Linie nach unten bis zur Mitte
-            svg.append("line")
-                .attr("class", "parent-child-line")
-                .attr("x1", parentsMidX)
-                .attr("y1", parentsMidY)
-                .attr("x2", parentsMidX)
-                .attr("y2", midY);
-            
-            // Horizontale Linie zum Kind (eckig)
-            svg.append("line")
-                .attr("class", "parent-child-line")
-                .attr("x1", parentsMidX)
-                .attr("y1", midY)
-                .attr("x2", targetX)
-                .attr("y2", midY);
-            
-            // Vertikale Linie zum Kind (eckig)
-            svg.append("line")
-                .attr("class", "parent-child-line")
-                .attr("x1", targetX)
-                .attr("y1", midY)
-                .attr("x2", targetX)
-                .attr("y2", targetY);
+            singleParentChildren.push({ child, parent: parents[0] });
+            return;
         }
+        const key = parents.map(p => p.id).sort().join('|');
+        if (!families.has(key)) families.set(key, { parents, children: [] });
+        families.get(key).children.push(child);
+    });
+
+    // Ein Elternteil: runde Kurve (wie bisher)
+    singleParentChildren.forEach(({ child, parent }) => {
+        const controlX = (parent.x + child.x) / 2;
+        const controlY = parent.y + (child.y - parent.y) / 2;
+
+        svg.append("path")
+            .attr("class", "parent-child-line")
+            .attr("d", `M ${parent.x} ${parent.y} Q ${controlX} ${controlY} ${child.x} ${child.y}`)
+            .attr("fill", "none");
+    });
+
+    // Je Elternpaar ein eigener Verteilbalken.
+    const LANE_OFFSET = 16; // Abstand zusätzlicher Ebenen (nach oben)
+
+    const bars = [];
+    families.forEach(({ parents, children }) => {
+        const midX = (parents[0].x + parents[1].x) / 2;
+        const xs = children.map(c => c.x).concat([midX]);
+        bars.push({
+            parents,
+            children,
+            midX,
+            parentY: parents[0].y,
+            childY: children[0].y,
+            x1: Math.min(...xs),
+            x2: Math.max(...xs),
+            baseY: (parents[0].y + children[0].y) / 2,
+            lane: 0
+        });
+    });
+
+    // Die kinderreichste Familie zuerst – sie behält die bisherige Höhe.
+    // Erst wenn sich zwei Balken derselben Zeile horizontal überlappen,
+    // weicht der nächste auf eine zweite Ebene darüber aus.
+    bars.sort((a, b) => (b.children.length - a.children.length) || (a.x1 - b.x1));
+
+    const placed = [];
+    bars.forEach(bar => {
+        let lane = 0;
+        while (placed.some(o =>
+            o.lane === lane &&
+            o.childY === bar.childY &&
+            bar.x1 <= o.x2 && o.x1 <= bar.x2)) {
+            lane++;
+        }
+        bar.lane = lane;
+        placed.push(bar);
+    });
+
+    bars.forEach(bar => {
+        const busY = bar.baseY - bar.lane * LANE_OFFSET;
+
+        // Senkrechte vom Mittelpunkt der Ehe hinunter zum Balken
+        svg.append("line")
+            .attr("class", "parent-child-line")
+            .attr("x1", bar.midX)
+            .attr("y1", bar.parentY)
+            .attr("x2", bar.midX)
+            .attr("y2", busY);
+
+        // Waagerechter Balken – nur über die eigenen Kinder
+        if (bar.x1 !== bar.x2) {
+            svg.append("line")
+                .attr("class", "parent-child-line")
+                .attr("x1", bar.x1)
+                .attr("y1", busY)
+                .attr("x2", bar.x2)
+                .attr("y2", busY);
+        }
+
+        // Senkrechte hinunter zu jedem einzelnen Kind
+        bar.children.forEach(child => {
+            svg.append("line")
+                .attr("class", "parent-child-line")
+                .attr("x1", child.x)
+                .attr("y1", busY)
+                .attr("x2", child.x)
+                .attr("y2", child.y);
+        });
     });
     
     // Zeichne Eheverbindungen - gerade Linien
