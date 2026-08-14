@@ -160,8 +160,8 @@ const GALLERY_ITEMS = [
     file: "05cSchlatterBILD.jpeg",
     description: "… die er am 15. Januar 1878 heiratet.",
     description_en: "… whom he marries on 15 January 1878.",
-    detail: "Susanna Schoop, die Adolf Schlatter am 15. Januar 1878 heiratet.",
-    detail_en: "Susanna Schoop, whom Adolf Schlatter marries on 15 January 1878.",
+    detail: "Susanna Schoop und Adolf Schlatter, die am 15. Januar 1878 heiraten.",
+    detail_en: "Susanna Schoop and Adolf Schlatter, who marry on 15 January 1878.",
     year: 1878,
     phase: "studium"
   },
@@ -396,7 +396,7 @@ const GALLERY_ITEMS = [
   {
     key: "22b",
     file: "22bSchlatterBILD.jpeg",
-    description: "Sommer 1912: Beim Wandern, v..l.n.r.: Dora, Hedwig, Ruth.",
+    description: "Sommer 1912: Beim Wandern, v.l.n.r.: Dora, Hedwig, Ruth.",
     description_en: "Summer 1912: Hiking, from left to right: Dora, Hedwig, Ruth.",
     year: 1912,
     phase: "tuebingen-anfang"
@@ -428,8 +428,8 @@ const GALLERY_ITEMS = [
   {
     key: "26",
     file: "26SchlatterBILD.jpeg",
-    description: "20.7.1918: Im Tübinger Garten: Taufe der ersten Tochter (Hanna) von Theodor und seiner Frau Marie (geb. Gundert)",
-    description_en: "20.7.1918: In the Tübingen garden: baptism of the first daughter (Hanna) of Theodor and his wife Marie (née Gundert)",
+    description: "20.7.1918: Im Tübinger Garten: Taufe der ersten Tochter (Hanna) von Theodor und seiner Frau Marie (geb. Gundert).",
+    description_en: "20.7.1918: In the Tübingen garden: baptism of the first daughter (Hanna) of Theodor and his wife Marie (née Gundert).",
     year: 1918,
     phase: "reife-jahre"
   },
@@ -604,8 +604,8 @@ const GALLERY_ITEMS = [
   {
     key: "41b",
     file: "41bSchlatterBILD.jpg",
-    description: "29.8.1928; Auf dem Rigi Rotstock: Dora Schlatter und Vater Adolf.",
-    description_en: "29.8.1928; On the Rigi Rotstock: Dora Schlatter and her father Adolf.",
+    description: "29.8.1928; auf dem Rigi Rotstock: Dora Schlatter und Vater Adolf.",
+    description_en: "29.8.1928; on the Rigi Rotstock: Dora Schlatter and her father Adolf.",
     year: 1928,
     phase: "spaete-jahre"
   },
@@ -868,8 +868,8 @@ const GALLERY_ITEMS = [
   {
     key: "64a",
     file: "64aSchlatterBILD.jpeg",
-    description: "16.8.1937: 85. Geburtstag; im Kreis der Studenten.",
-    description_en: "16.8.1937: 85th birthday; among his students.",
+    description: "16.8.1937: 85. Geburtstag; im Kreis der Studenten auf dem Balkon in der Olgastraße 2.",
+    description_en: "16.8.1937: 85th birthday; among his students on the balcony at Olgastraße 2.",
     year: 1937,
     phase: "spaete-jahre"
   },
