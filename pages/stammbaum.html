@@ -1036,7 +1036,10 @@
                 let line2 = '';
                 
                 for (let word of words) {
-                    if (line1.length + word.length + 1 <= maxCharsPerLine) {
+                    // !line2 ist entscheidend: sobald ein Wort in Zeile 2 steht,
+                    // müssen alle folgenden ebenfalls dorthin – sonst rutschen
+                    // kurze Wörter zurück in Zeile 1 und die Wortfolge zerfällt.
+                    if (line1.length + word.length + 1 <= maxCharsPerLine && !line2) {
                         line1 += (line1 ? ' ' : '') + word;
                     } else {
                         line2 += (line2 ? ' ' : '') + word;
